@@ -74,7 +74,7 @@ const ALL = PLAN.flatMap((s) => s.items.map((i) => ({ ...i, season: s.id })));
 const css = [
   ...ALL.map((i) => `.pb:has(#${i.id}:checked) [data-for="${i.id}"]{display:grid}`),
   ...PLAN.map((s) => `.pb:has([data-season="${s.id}"] input:checked) .pb__year [data-s="${s.id}"]{background:var(--green);color:#fff}.pb:has([data-season="${s.id}"] input:checked) .pb__group[data-s="${s.id}"]{display:block}`),
-  `.pb:has(#k-home:checked) [data-commercial] {opacity:.42;pointer-events:none}.pb:has(#k-home:checked) .pb__lock{display:block}`,
+  `.pb:has(#k-home:checked) [data-commercial] {pointer-events:none}.pb:has(#k-home:checked) [data-commercial] span{border-style:dashed;background:none;color:#a3aba4}.pb:has(#k-home:checked) .pb__lock{display:block}`,
   `.pb:has(.pb__seasons input:checked) .pb__empty{display:none}`,
 ].join('');
 const seasonOf = (m: number) => PLAN.find((s) => s.months.includes(m))!.id;

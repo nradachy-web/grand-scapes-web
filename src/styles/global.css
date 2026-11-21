@@ -302,6 +302,11 @@ h2 {
   display: none;
 }
 
+/* a light card inside an ink band reads like paper */
+.ink .light .eyebrow {
+  color: var(--green-ink);
+}
+
 .lede {
   font-size: clamp(1.0625rem, 0.45vw + 1rem, 1.25rem);
   line-height: 1.55;
