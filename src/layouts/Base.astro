@@ -41,7 +41,15 @@ interface Props {
   ogType?: 'website' | 'article';
 }
 
-const { title, description, path, schema = [], preload, quoteHref = '#quote', noindex = false, bare = false, lead = false, ogImage, ogType = 'website' } = Astro.props;
+const { title: rawTitle, description, path, schema = [], preload, quoteHref = '#quote', noindex = false, bare = false, lead = false, ogImage, ogType = 'website' } = Astro.props;
+
+/* Every search result title in one style: Title Case before the brand, so
+   "Leaf removal and fall cleanup in Flint, MI" and "Lawn Mowing in Goodrich, MI"
+   read as a set. Short joining words stay lower case; MI, HOA and the like stay. */
+const SMALL = new Set(['a', 'an', 'and', 'as', 'at', 'but', 'by', 'for', 'from', 'in', 'into', 'near', 'of', 'on', 'or', 'per', 'the', 'to', 'vs', 'with']);
+const titleCase = (s: string) =>
+  s.replace(/[A-Za-z][\w']*/g, (w, i) => (i > 0 && SMALL.has(w.toLowerCase()) ? w.toLowerCase() : w[0].toUpperCase() + w.slice(1)));
+const title = rawTitle.split(' | ').map((part, i, all) => (i < all.length - 1 || all.length === 1 ? titleCase(part) : part)).join(' | ');
 
 // A preview build (any base path) must never be indexed.
 const isPreview = import.meta.env.BASE_URL !== '/';

@@ -7,28 +7,28 @@
   },
   "hero": {
     "kicker": "Snow removal in Holly, MI",
-    "title": "Long drives and **gravel roads.**",
-    "lede": "Grand Scapes plows driveways in Holly with our own trucks, from short village drives off an alley to long township drives on a gravel road. Walks get cleared and salt goes where you want it. Rob walks the property and explains the options before winter.",
+    "title": "Your drive open, **village or township.**",
+    "lede": "Grand Scapes plows driveways in Holly with our own trucks, from short village drives off an alley to long township drives on a gravel road. Walks get cleared, and salt goes only where you want it.",
     "chips": ["Our own plow trucks", "Driveways and walks", "Salting", "Homes and businesses"],
     "photo": "plow-push"
   },
   "local": {
     "eyebrow": "Snow in Holly",
-    "title": "Out in the township, **the county plow** comes later.",
-    "intro": "Snow in Holly falls on two road systems. The village plows its own streets, alleys and dirt roads. Roads in the outer township belong to the Road Commission for Oakland County, which clears main roads first and subdivision streets last, and most of those township roads are gravel. Your driveway is the one piece of all that you control.",
+    "title": "Village streets and **county gravel roads.**",
+    "intro": "Holly has two road systems. The village plows its own streets, alleys and dirt roads. Roads in the outer township belong to the Road Commission for Oakland County, which clears main roads first and subdivision streets last, and most of those township roads are gravel.",
     "points": [
-      { "title": "Subdivision streets go last", "body": "The road commission's own brochure says that after a storm of six inches or more in under 24 hours, township subdivision streets may not be plowed for several days. A cleared driveway does not fix the street, but your car is out and ready the moment it opens." },
+      { "title": "Subdivision streets can wait days", "body": "The road commission's own brochure says that after a storm of six inches or more in under 24 hours, township subdivision streets may not be plowed for several days." },
       { "title": "Gravel gets sand, not salt", "body": "The road commission sands its gravel roads because salt does little on them, and it notes that at 10 degrees or colder salt does almost nothing at all. Tell Rob which parts of your drive are gravel and which are paved, so the plan for each makes sense." },
-      { "title": "The ridge at the end of the drive", "body": "County trucks cannot plow the ends of driveways or around mailboxes, the road commission says, and they often push snow into them. If the road plow passes after we have been there, that ridge can come back, so ask Rob how your package handles it." },
-      { "title": "Village cars stay off the street", "body": "The village snow ordinance, as last published, keeps cars off village streets from 3 to 7 AM between December 1 and March 30. That leaves more cars in driveways overnight, so tell us where they usually sit and the drive gets plowed around them." }
+      { "title": "Snow at the end of the drive", "body": "County trucks cannot plow the ends of driveways or around mailboxes, the road commission says, and they often push snow into them. If the road plow passes after we have been there, that ridge comes back, and how it gets handled is part of setting up your service." },
+      { "title": "Overnight parking in the village", "body": "The village snow ordinance, as last published, keeps cars off village streets from 3 to 7 AM between December 1 and March 30. That leaves more cars in driveways overnight, so tell us where they usually sit and the drive gets plowed around them." }
     ]
   },
   "logistics": {
     "title": "How winter works on a Holly driveway.",
     "body": [
-      "Rob walks the property before the season, ideally before the first snow. He looks at how long the drive is, what is gravel and what is paved, where snow can be piled without burying shrubs or sliding back toward the road, and where people walk. Then he explains our residential and commercial snow removal and salting packages and what each one covers.",
+      "Setup starts with a visit from Rob, ideally before the first snow. He looks at how long the drive is, what is gravel and what is paved, where snow can be piled without burying shrubs or sliding back toward the road, and where people walk. Then he explains our residential and commercial snow removal and salting packages and what each one covers.",
       "Michigan law says a person shall not deposit snow, ice or slush on any roadway, so drive snow goes to the sides of the drive or into the yard, never across the road. Salt goes on the walks and the spots where cars stop. MSU Extension lists white pines, yews, roses and rhododendrons among the plants salt hurts most, so beds along the drive get as little as possible.",
-      "One job for you before the first storm: check that your mailbox post is solid. The road commission asks for the same thing, because a loose post is the one a passing county plow knocks over."
+      "Before the first storm, check that your mailbox post is solid. The road commission asks owners to do the same, since a loose post is the one a county plow knocks over."
     ],
     "facts": [
       { "label": "Equipment", "value": "Our own plow trucks" },
@@ -39,9 +39,9 @@
   },
   "photo": "drive-cleared",
   "faq": [
-    { "q": "Do you plow driveways in Holly?", "a": "Yes. Grand Scapes plows residential driveways in the Village of Holly and in Holly Township with our own trucks, and we clear walks and put down [salt](/salting-and-sidewalks/) as well. Businesses can ask about our [commercial snow work](/commercial/). Rob walks the property first and explains the options." },
+    { "q": "Do you plow driveways in Holly?", "a": "Yes. Grand Scapes plows residential driveways in the Village of Holly and in Holly Township with our own trucks, and we clear walks and put down [salt](/salting-and-sidewalks/) as well. Businesses can ask about our [commercial snow work](/commercial/)." },
     { "q": "Why is my township street still not plowed?", "a": "Township streets belong to the Road Commission for Oakland County, which plows by traffic: freeways and main roads first, subdivision streets last. Its brochure says that after six inches or more in under 24 hours, subdivision streets may wait several days. Questions about the street itself go to the road commission." },
-    { "q": "Can I push snow from my driveway into the road?", "a": "No. Michigan's vehicle code, MCL 257.677a, says a person shall not deposit snow, ice or slush on any roadway or highway, and a violation is a civil infraction. We push driveway snow to the sides of the drive or the yard, not across the road." },
+    { "q": "Can I push snow from my driveway into the road?", "a": "No. Michigan's vehicle code says a person shall not deposit snow, ice or slush on any roadway or highway, and breaking that rule is a civil infraction. We push driveway snow to the sides of the drive or the yard, not across the road." },
     { "q": "Will salt hurt the plants along my driveway?", "a": "It can. MSU Extension says salt builds up in beds next to drives and walks, and that white pines, roses, rhododendrons and yews are especially sensitive. Tell Rob which beds matter, and salt can be kept to the walks and the spots where cars stop. Spring rain helps flush what gets through." }
   ],
   "reviews": ["rick-b", "stacy"]

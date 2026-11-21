@@ -7,31 +7,31 @@
   },
   "hero": {
     "kicker": "Snow removal in Linden, MI",
-    "title": "A drive you can **back out of.**",
+    "title": "Linden drives, **plowed edge to edge.**",
     "lede": "Grand Scapes plows Linden driveways with our own trucks and puts ice melt down on walks and steps. The city's crew clears city streets and the county clears the township roads; your drive and walks are the part we handle.",
     "chips": ["Our own trucks", "Driveways and walks", "City and township"],
     "photo": "plow-drive"
   },
   "local": {
     "eyebrow": "Snow in Linden",
-    "title": "A small DPW and **17 miles of streets.**",
-    "intro": "The City of Linden's public works department is a five person staff that looks after water, sewer, parks and city buildings as well as more than 17 miles of streets, including snow and ice removal and the city's dirt roads. Just past the city limits, Fenton Township roads belong to the Genesee County Road Commission, which reaches subdivision streets after everything else.",
+    "title": "Who plows Linden's streets and **the roads around them.**",
+    "intro": "Inside the city, the public works department handles snow and ice removal on city streets, including the city's dirt roads. Just past the city limits, Fenton Township roads belong to the Genesee County Road Commission, which reaches subdivision streets after everything else.",
     "points": [
       {
-        "title": "No street parking all winter",
+        "title": "No overnight street parking in winter",
         "body": "The city's fall newsletter says no on-street parking from November 1 to March 31, starting at 2:30 in the morning; check with City Hall for the exact hours. A clear street lets the plow work curb to curb, and a drive that is already open means the car has somewhere to go."
       },
       {
-        "title": "Dirt roads and gravel edges",
-        "body": "Some city streets are dirt, and the DPW grades them and keeps the dust down in season. Where a drive meets a gravel shoulder or a soft lawn edge, show Rob when he walks it, so the edges are marked before the ground freezes."
+        "title": "Dirt roads and soft edges",
+        "body": "Some city streets are dirt, and a drive that meets one or a gravel shoulder has soft edges. Show those to Rob on his visit, so the plow knows where the drive stops."
       },
       {
-        "title": "The county clears the township last",
-        "body": "On Fenton Township roads around the city, the county's winter policy puts subdivision streets and gravel local roads fourth, plowed and graded but left snow covered, with no overtime. Linden Road is one of the primary roads that comes first."
+        "title": "Township roads around the city",
+        "body": "On Fenton Township roads around the city, the county's winter policy puts subdivision streets and gravel local roads at the end of its list, plowed and graded but left snow covered, with no overtime. Linden Road is one of the primary roads that comes first."
       },
       {
         "title": "Salt and the river",
-        "body": "Linden sits on the Shiawassee, and the road commission notes that salt runs off into lakes and streams. MSU Extension adds that salt piles up in beds beside walks and drives. Ice melt goes on walks and steps where people step, not broadcast across the yard."
+        "body": "Linden sits on the Shiawassee, and the road commission notes that salt runs off into lakes and streams. MSU Extension adds that salt piles up in beds beside walks and drives. Ice melt goes on the walks and steps, not across the yard."
       }
     ]
   },
@@ -39,7 +39,7 @@
     "title": "How a Linden snow season gets set up.",
     "body": [
       "Before the first storm, Rob walks the property and looks at the drive, the walks and steps, where you park, and where the snow can go without landing in a flower bed or out in the street. Then he explains the residential package options.",
-      "The trucks are our own white pickups with stainless plows, and a walk behind spreader puts down ice melt on walks and steps. Snow is piled on your property. MCL 257.677a, part of the state vehicle code, says snow, ice or slush may not be deposited on any roadway, so none of it goes into the street."
+      "The trucks are our own white pickups with stainless plows, and a walk behind spreader puts down ice melt on walks and steps. Snow is piled on your property, because state law says snow, ice or slush may not be deposited on any roadway."
     ],
     "facts": [
       { "label": "City streets", "value": "Cleared by the city's DPW" },
@@ -52,7 +52,7 @@
   "faq": [
     {
       "q": "Do you plow driveways in Linden?",
-      "a": "Yes. Grand Scapes plows residential driveways in the City of Linden and on the Fenton Township roads around it with our own trucks, and we [salt walks and steps](/salting-and-sidewalks/) as well. Rob walks the property first and explains the options. Call [(810) 990-3040](tel:+18109903040) or [text Rob](sms:+18109903040)."
+      "a": "Yes. Grand Scapes plows residential driveways in the City of Linden and on the Fenton Township roads around it with our own trucks, and we [salt walks and steps](/salting-and-sidewalks/) as well. Call [(810) 990-3040](tel:+18109903040) or [text Rob](sms:+18109903040) for a free estimate."
     },
     {
       "q": "Can I park on the street in Linden during the winter?",

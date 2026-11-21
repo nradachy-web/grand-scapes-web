@@ -7,27 +7,27 @@
   },
   "hero": {
     "kicker": "Snow removal in Flint Township, MI",
-    "title": "Plowed drive, **salted walk.**",
-    "lede": "Grand Scapes plows Flint Township driveways with our own trucks, clears the walks and puts ice melt down where people walk. Rob walks the property with you before winter and explains the residential snow package options.",
+    "title": "Driveways plowed, **walks shoveled.**",
+    "lede": "Grand Scapes plows Flint Township driveways with our own trucks, clears the walks and puts ice melt down where people walk. On a township street the county plows the road, and we take care of the drive and the walks.",
     "chips": ["Our own plow trucks", "Walks cleared", "Ice melt down", "Free estimate"],
     "photo": "drive-cleared"
   },
   "local": {
     "eyebrow": "Winter in Flint Township",
-    "title": "County roads, and subdivisions **plowed last.**",
-    "intro": "The township does not plow its own roads. The Genesee County Road Commission does, across more than 1,600 miles of county roads, and its winter policy puts subdivision streets last, after expressways, main roads and other local roads. In a big storm the sub can stay snow covered for a while.",
+    "title": "County roads, with subdivisions **plowed last.**",
+    "intro": "In Flint Township, the Genesee County Road Commission plows the roads, not the township. Its winter policy puts subdivision streets last, after expressways, main roads and other local roads, so in a big storm a subdivision street can stay snow covered for a while.",
     "points": [
-      { "title": "Main roads first, then your street", "body": "The county asks people to allow about 24 hours for main roads and 48 for local roads after a normal storm, and it will not give times for a single street. That is a long time to be staring at a drift from the front window." },
-      { "title": "The windrow is part of the deal", "body": "County trucks plow half the road to one side, then the other, which pushes snow into driveways, and the Road Commission's own answer is that this is unavoidable. Ask Rob how your plan handles the end of the drive after the county passes." },
-      { "title": "Check the mailbox in the fall", "body": "The county notes mailboxes can get damaged by plowing and scraping in heavy snow, and it suggests inspecting the box and post before winter. A wobbly post is easier to fix in October than in a snowbank." },
+      { "title": "Main roads first, then your street", "body": "The county asks people to allow about 24 hours for main roads and 48 for local roads after a normal storm, and it will not give times for a single street." },
+      { "title": "Snow pushed into the drive", "body": "County trucks plow half the road to one side, then the other, which pushes snow into driveways, and the Road Commission calls this unavoidable. How your service handles that ridge is worth settling with Rob before winter." },
+      { "title": "Check the mailbox in the fall", "body": "The county notes mailboxes can get damaged by plowing and scraping in heavy snow, and it suggests inspecting the box and post before winter." },
       { "title": "Snow stays off the road", "body": "Michigan law says a person shall not deposit snow, ice or slush on any roadway. Driveway snow gets stacked on your lawn, back from the end of the drive, so you can see traffic when you pull out." },
-      { "title": "Cars off the road while it plows", "body": "The Road Commission says cars that block snow clearing can be dealt with under township rules, and that may mean towing. A cleared drive gives the cars somewhere to sit out the storm." }
+      { "title": "Cars off the road while it plows", "body": "The Road Commission says cars that block snow clearing can be dealt with under township rules, and that may mean towing. A cleared drive gives the cars a place to park during the storm." }
     ]
   },
   "logistics": {
-    "title": "How winter service runs on a township driveway.",
+    "title": "How snow removal works on a Flint Township drive.",
     "body": [
-      "Before the first snow, Rob walks the drive with you, looks at where the snow can go, the mailbox, the walk and any steps, and explains the residential snow and salting package options in person.",
+      "Rob comes out before the first snow to see the drive, the mailbox, the walk and any steps, and where the snow can go. He explains the residential snow and salting packages in person.",
       "In a storm our trucks plow the drive, walks are shoveled down to the concrete, and blue ice melt goes on the walk and the steps. MSU Extension notes salt can harm plants, so the salty piles stay off your beds where the drive allows.",
       "Sidewalk rules differ from one community to the next. If your street has a public walk, check with the township on what it expects, and tell Rob if you want it cleared too."
     ],
@@ -40,7 +40,7 @@
   },
   "photo": "salted-drive",
   "faq": [
-    { "q": "Do you plow driveways in Flint Township?", "a": "Yes. Grand Scapes plows driveways in Flint Township with our own trucks, clears walks and puts ice melt down. Rob sets it up with you in person ahead of the season, after a look at the drive, the walk and the mailbox." },
+    { "q": "Do you plow driveways in Flint Township?", "a": "Yes. Grand Scapes plows driveways in Flint Township with our own trucks, clears walks and puts ice melt down. The estimate is free, and service is set up before winter." },
     { "q": "Why does my street in Flint Township get plowed so late?", "a": "The Genesee County Road Commission, not the township, plows the roads, and its winter policy puts subdivision streets last, after expressways, main roads and other local roads. It asks people to allow about 48 hours for local roads after a normal storm." },
     { "q": "Who do I call if the county plow knocks down my mailbox?", "a": "The Genesee County Road Commission. Its FAQ says mailboxes can be damaged by plowing in heavy snow, and it explains how it handles damage caused by its own vehicles. It also suggests checking the box and post before winter." },
     { "q": "Can snow from my driveway go in the road?", "a": "No. Michigan's vehicle code says a person shall not deposit snow, ice or slush on any roadway or highway, and it also bars piles that block a driver's view at the road. We keep driveway snow on your property." },

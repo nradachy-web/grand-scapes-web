@@ -7,42 +7,42 @@
   },
   "hero": {
     "kicker": "Snow removal in Ortonville, MI",
-    "title": "Long drives, **plowed clean.**",
-    "lede": "Grand Scapes plows driveways in Ortonville and Brandon Township with our own trucks, from short village drives to long gravel lanes out to the road, and clears and salts the walks people actually use.",
+    "title": "Plowed from the garage **to the road.**",
+    "lede": "Grand Scapes plows driveways in Ortonville and Brandon Township with our own trucks, from short village drives to long gravel lanes out to the road, and clears and salts the walks people use.",
     "chips": ["Our own plow trucks", "Long and gravel drives", "Walks and salt"],
     "photo": "plow-drive"
   },
   "local": {
     "eyebrow": "Winter in Ortonville",
-    "title": "A township of **back roads and long drives.**",
-    "intro": "Brandon Township has 134 miles of road, and the Road Commission for Oakland County handles all of them except M-15. It plows by traffic, so main roads come first and subdivision streets last, and gravel roads get sand because salt does little on gravel. The stretch from your garage to that road is yours, or ours.",
+    "title": "Back roads, hills and **long drives.**",
+    "intro": "In Brandon Township, the Road Commission for Oakland County plows every road except M-15. It plows by traffic, so main roads come first and subdivision streets last, and gravel roads get sand because salt does little on gravel. The driveway from the garage to the road is the owner's to clear.",
     "points": [
-      { "title": "Long drives", "body": "On a lot of two to ten acres, the house can sit a long way back from the road. A long drive needs room on both sides for the snow all winter, so Rob works out where it can go before the first storm instead of after the third." },
-      { "title": "Gravel drives", "body": "The Road Commission uses sand on its gravel roads because salt does not do much there, and a gravel driveway is no different. The plow is there to move snow, not stone. Ask Rob what makes sense for traction on yours." },
-      { "title": "Hills", "body": "The Road Commission says hills and curves can push a road up its list, and the rolling ground around Ortonville has its share. On a sloped drive the grade and the spot where you stop before the road matter most, and that is where traction gets attention." },
-      { "title": "Mailboxes on the shoulder", "body": "Rural mailboxes sit right where a plow turns out. The Road Commission asks for posts set no deeper than 24 inches and never in concrete, so they break away instead of becoming a hazard. Give yours a shake before the first snow." }
+      { "title": "Long drives on big lots", "body": "On a lot of two to ten acres, the house can sit a long way back from the road. A long drive needs room on both sides for the snow all winter, so where it goes gets worked out before the first storm." },
+      { "title": "Gravel drives", "body": "The Road Commission sands its gravel roads because salt does little there, and the same holds on a gravel driveway. Ask Rob what makes sense for traction on yours." },
+      { "title": "Hills and grades", "body": "The Road Commission says hills and curves can push a road up its list, and the rolling ground around Ortonville has its share. On a sloped drive the grade and the spot where you stop before the road matter most, and that is where traction gets attention." },
+      { "title": "Mailboxes on the shoulder", "body": "Rural mailboxes sit right where a plow turns out. The Road Commission asks for posts set no deeper than 24 inches and never in concrete, so they break away instead of becoming a hazard. Check yours before the first snow." }
     ]
   },
   "logistics": {
     "title": "How winter works with us in Ortonville.",
     "body": [
-      "Rob walks the drive with you before the season: length, grade, surface, the turnaround, where the snow can be piled without blocking the view of the road, and what sits under the snow along the edges. Then he lays out the options and the price.",
+      "Before the season, Rob walks the drive with you and checks the length, grade and surface, the turnaround, where the snow can be piled without blocking the view of the road, and what sits under the snow along the edges. Then he lays out the options and the price.",
       "State law says snow, ice and slush cannot be deposited on a roadway, so the snow from your drive stays on your property, and piles at the end are kept out of the sight line. Walks and steps can be shoveled and treated too; see [salting and sidewalks](/salting-and-sidewalks/).",
       "For churches, offices and associations in Ortonville, ask about [commercial snow removal](/commercial/)."
     ],
     "facts": [
       { "label": "Equipment", "value": "Our own plow trucks" },
-      { "label": "Gravel drives", "value": "Plowed to move snow, not stone" },
+      { "label": "Gravel drives", "value": "Plowed so the stone stays put" },
       { "label": "Snow at the road", "value": "Kept off it, per state law" },
-      { "label": "Pricing", "value": "Rob walks it and explains the options" }
+      { "label": "Pricing", "value": "Set after Rob walks the drive" }
     ]
   },
   "photo": "drive-cleared",
   "faq": [
-    { "q": "Is there a snow removal service in Ortonville?", "a": "Yes. Grand Scapes provides snow removal in Ortonville and Brandon Township: driveways plowed with our own trucks, and walks and steps cleared and salted. Rob comes out before the season and gives you a free estimate." },
-    { "q": "Can you plow a gravel driveway?", "a": "Yes. Gravel takes a lighter touch, so the stone stays in the drive and out of the lawn come spring. Salt does little on gravel, as the Road Commission notes for its own gravel roads, so ask Rob about traction on yours." },
+    { "q": "Is there a snow removal service in Ortonville?", "a": "Yes. Grand Scapes provides snow removal in Ortonville and Brandon Township: driveways plowed with our own trucks, and walks and steps cleared and salted. Estimates are free and done before the season." },
+    { "q": "Can you plow a gravel driveway?", "a": "Yes. Gravel takes a lighter touch, so the stone stays in the drive instead of in the lawn. Salt does little on gravel, as the Road Commission notes for its own gravel roads, which is why it uses sand there." },
     { "q": "When does the Road Commission plow roads in Brandon Township?", "a": "Busy roads first, ranked by traffic volume and speed, and subdivision streets after everything else. When a storm lasts for days, the Road Commission says its trucks may have to stay on the main roads to keep them open. Its gravel roads get sand, not salt." },
-    { "q": "Where does the snow from my driveway go?", "a": "On your own property, off to the sides. Michigan's vehicle code bars depositing snow, ice or slush on any roadway, and snow piled on the shoulder where it blocks a driver's view runs afoul of the same law. On an Ortonville lot with room to spare, the snow goes where it will not be in the way in March." }
+    { "q": "Where does the snow from my driveway go?", "a": "On your own property, off to the sides. Michigan's vehicle code bars depositing snow, ice or slush on any roadway, and snow piled on the shoulder where it blocks a driver's view breaks the same law. On a big Ortonville lot, the piles go where they will not block the drive later in the winter." }
   ],
   "reviews": ["rick-b", "stacy"]
 }

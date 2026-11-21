@@ -7,19 +7,19 @@
   },
   "hero": {
     "kicker": "Lawn mowing in Fenton, MI",
-    "title": "A clean cut, **lake to curb.**",
+    "title": "Clean stripes from curb **to shoreline.**",
     "lede": "Grand Scapes mows Fenton lawns every week on a set day: mowed, trimmed, edged along each walk and curb, and blown off. Sandy rises, soft lakefront yards and big township lots each get a plan that fits the ground.",
     "chips": ["Weekly, on a set day", "Edged and blown off", "Lakefront lawns"],
     "photo": "tree-line-stripes"
   },
   "local": {
     "eyebrow": "Mowing in Fenton",
-    "title": "Two kinds of ground, **one mowing day.**",
-    "intro": "Lawns here do not all grow the same way. The soil survey maps sandy, well drained Boyer and Wawasee soils on the rises in and around the city, and wetter Conover loam and muck down by the lakes in the township. Sand runs dry first in a hot July. Muck stays soft for days after a rain. Mowing well means reading the ground, not just the calendar.",
+    "title": "Sandy rises and soft ground **by the lakes.**",
+    "intro": "Fenton has two kinds of lawn ground. The rises in and around the city are sandy and drain fast, while the low ground by the lakes in the township is wetter loam and muck. Sand dries out first in a hot July, and muck stays soft for days after a rain.",
     "points": [
       {
         "title": "Keep the deck up on sand",
-        "body": "MSU Extension's lawn tip sheet says to mow at least 3 inches high, because taller grass shades the soil and grows deeper roots. On a sandy lot that dries out fast, that extra height is often the difference between green and straw by August."
+        "body": "MSU Extension's lawn tip sheet says to mow at least 3 inches high, because taller grass shades the soil and grows deeper roots. On a sandy lot that dries out fast, that height helps keep the lawn green into August."
       },
       {
         "title": "Clippings stay out of the lake",
@@ -27,33 +27,33 @@
       },
       {
         "title": "A clean line at the shore",
-        "body": "If you keep a strip of taller native plants along the water, as MSU recommends to protect the shoreline, we mow a crisp edge to it and leave the strip alone. A clean line between lawn and buffer looks planned, not forgotten."
+        "body": "If you keep a strip of taller native plants along the water, as MSU recommends to protect the shoreline, we mow a crisp edge along it and leave the strip itself alone."
       },
       {
-        "title": "Soft ground after a rain",
-        "body": "On muck and wet loam near the lakes, a heavy mower can rut a lawn that looks fine from the drive. If a low corner is still soft on your day, we trim it by hand and catch it next week rather than leave tracks across it."
+        "title": "Low corners near the lakes",
+        "body": "On muck and wet soil near the lakes, a heavy mower can rut a lawn that looks fine from the drive. If a low corner is still soft on your day, we trim it by hand and catch it next week rather than leave tracks across it."
       }
     ]
   },
   "logistics": {
-    "title": "Your mowing day, and the full job every visit.",
+    "title": "What every Fenton mowing visit includes.",
     "body": [
       "Fenton lawns go on a fixed day of the week. Every visit is the whole job: mowed, trimmed around beds, trees and the mailbox, edged along the curb and the walks, and blown off so the drive is clean when you pull in.",
-      "Rob comes out for the estimate, looks at the size of the lawn, the slopes and the gates, and gives you a weekly price before the first cut. If the yard has a dog that must stay in, a locked gate or a path down to the lake, tell us once and the crew will know.",
+      "Rob comes out for the estimate, looks at the size of the lawn, the slopes and the gates, and gives you a weekly price before the first cut. If there is a dog, a locked gate or a path down to the lake, tell us once and the crew will know.",
       "Come fall, the mowing rolls into [leaf removal](/leaf-removal-fenton-mi/). In spring, a [spring cleanup](/spring-cleanup-fenton-mi/) clears winter debris and gets the yard ready for the first mow of the year."
     ],
     "facts": [
       { "label": "Schedule", "value": "Weekly, on a set day" },
       { "label": "Each visit", "value": "Mow, trim, edge, blow off" },
       { "label": "Lake lots", "value": "Clippings kept off the water" },
-      { "label": "Estimate", "value": "Free, Rob walks the lawn" }
+      { "label": "Estimate", "value": "Free, at your property" }
     ]
   },
   "photo": "walk-edge",
   "faq": [
     {
       "q": "Who mows lawns weekly in Fenton, MI?",
-      "a": "Grand Scapes does. We mow lawns in the City of Fenton and in the township every week on a set day: mowed, trimmed, edged and blown off. Rob gives a free estimate after he walks the yard. Call [(810) 990-3040](tel:+18109903040) or [text Rob](sms:+18109903040) to set one up."
+      "a": "Grand Scapes does. We mow lawns in the City of Fenton and in the township every week on a set day: mowed, trimmed, edged and blown off. The estimate is free. Call [(810) 990-3040](tel:+18109903040) or [text Rob](sms:+18109903040) to set one up."
     },
     {
       "q": "How often should my lawn be mowed in summer?",

@@ -7,20 +7,20 @@
   },
   "hero": {
     "kicker": "Snow removal in Swartz Creek, MI",
-    "title": "The walk out front has **a clock on it.**",
-    "lede": "Grand Scapes plows Swartz Creek driveways with our own trucks and clears the public sidewalk out front, which the city gives the occupant 48 hours to do. Salt goes down where people walk. Rob walks the property and explains the options before the snow flies.",
+    "title": "The drive and **the public walk.**",
+    "lede": "Grand Scapes plows Swartz Creek driveways with our own trucks and clears the public sidewalk out front, which the city gives the occupant 48 hours to do. Salt goes down where people walk.",
     "chips": ["Our own plow trucks", "Drives and sidewalks", "Salting", "Homes and businesses"],
     "photo": "salt-spreader"
   },
   "local": {
     "eyebrow": "Snow in Swartz Creek",
-    "title": "City rules decide **where the snow goes.**",
-    "intro": "Winter in Swartz Creek comes with a short list of city rules. The occupant clears the public sidewalk, cars stay off city streets from 2 to 6 AM, and driveway snow is not supposed to end up in the road. Every one of those changes how a drive and a walk get cleared.",
+    "title": "City rules on sidewalks, parking and **plowed snow.**",
+    "intro": "Swartz Creek has three city rules that shape snow removal. The occupant clears the public sidewalk, cars stay off city streets from 2 to 6 AM, and driveway snow is not supposed to end up in the road. Each one changes how a drive and a walk get cleared.",
     "points": [
-      { "title": "The 48 hour sidewalk rule", "body": "Section 15-21 of the city code puts the sidewalk in front of a home on the occupant, or on the owner if the house is empty, and allows 48 hours from the time the snow fell. Walks up to 60 inches wide are cleared edge to edge. If it is left, the city can clear it and add the cost to the property." },
+      { "title": "The 48 hour sidewalk rule", "body": "The city code puts the sidewalk in front of a home on the occupant, or on the owner if the house is empty, and allows 48 hours from the time the snow fell. Walks up to 60 inches wide are cleared edge to edge. If it is left, the city can clear it and add the cost to the property." },
       { "title": "Away for the winter", "body": "The city's newsletter tells residents who leave town for the winter to make arrangements for their walks ahead of time. A snow plan that covers the driveway and the public sidewalk while you are gone takes care of it." },
       { "title": "Cars in the drive at night", "body": "With street parking off limits from 2 to 6 AM, the second car is in the driveway when the snow comes. Tell us where it usually sits, and the drive gets plowed around it." },
-      { "title": "Keep it out of the road", "body": "The city's public services page says driveway snow is not to be plowed into the road, and state law, MCL 257.677a, says snow may not be deposited on any roadway. Snow goes to the sides of the drive, and the city also asks that hydrants and water meters stay clear." }
+      { "title": "Keep it out of the road", "body": "The city's public services page says driveway snow is not to be plowed into the road, and state law says snow may not be deposited on any roadway. Snow goes to the sides of the drive, and the city also asks that hydrants and water meters stay clear." }
     ]
   },
   "logistics": {
@@ -39,7 +39,7 @@
   },
   "photo": "walk-cleared",
   "faq": [
-    { "q": "Do you plow driveways in Swartz Creek?", "a": "Yes. Grand Scapes plows residential driveways in Swartz Creek with our own trucks, and clears and salts walks, including the public sidewalk out front. For lots and businesses, see our [commercial snow work](/commercial/). Rob walks the property first and explains the options." },
+    { "q": "Do you plow driveways in Swartz Creek?", "a": "Yes. Grand Scapes plows residential driveways in Swartz Creek with our own trucks, and clears and salts walks, including the public sidewalk out front. For lots and businesses, see our [commercial snow work](/commercial/). The estimate is free." },
     { "q": "Do I have to shovel the sidewalk in front of my house?", "a": "Yes, under the city's sidewalk ordinance. The occupant, or the owner of an empty home, keeps the walk in front clear, and snow and ice have to be gone no later than 48 hours after they fell. Otherwise the city may clear it and bill the property. A snow plan can cover the walk too." },
     { "q": "Can I park on the street overnight in Swartz Creek in winter?", "a": "Not between 2 and 6 AM. The city's newsletter says there is no parking on any city street in those hours, because keeping cars off the street lets the city plow, and violations get tickets. Plan on cars in the drive, and let us know where they park." },
     { "q": "Will salt damage my lawn and shrubs?", "a": "It can, mostly in beds right beside the walk and drive, where MSU Extension says salt builds up in the soil. Yews, roses, rhododendrons and white pines are among the most sensitive. Our [salting](/salting-and-sidewalks/) stays on the concrete where people walk and cars stop, and spring rain helps rinse out the rest." }

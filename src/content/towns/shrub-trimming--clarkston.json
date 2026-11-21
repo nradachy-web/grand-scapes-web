@@ -7,7 +7,7 @@
   },
   "hero": {
     "kicker": "Shrub and hedge trimming in Clarkston, MI",
-    "title": "Hedges back to **clean lines.**",
+    "title": "Hedges cut back **off the walk.**",
     "lede": "Grand Scapes trims shrubs and hedges in Clarkston and Independence Township: shaped back to clean lines, pulled off the walks and the siding, with every clipping raked out of the beds and hauled away.",
     "chips": ["Shrubs and hedges", "Clippings hauled off", "Free estimate"],
     "photo": "gazebo-hedges"
@@ -15,19 +15,19 @@
   "local": {
     "eyebrow": "Shrubs in Clarkston",
     "title": "Village hedges and **overgrown foundation beds.**",
-    "intro": "Trimming is the one yard job the historic district waves through. The Historic District Commission's own brochure lists trimming and pruning of trees, shrubs and plantings as work you can go ahead with, while removing shrubbery or plantings needs a word with the commission first. Out in the township, the question is usually just how far a hedge has gotten away from you.",
+    "intro": "In Clarkston's historic district, trimming needs no approval. The Historic District Commission's brochure lists trimming and pruning of trees, shrubs and plantings as work you can go ahead with, while removing shrubbery or plantings needs a word with the commission first. Out in the township, the question is usually how far a hedge has grown past its spot.",
     "points": [
       { "title": "Clear of the sidewalk", "body": "The Clarkston city code says trees over city streets must be kept trimmed so no branch hangs lower than eight feet above the sidewalk, and that is the owner's duty. Hedges along a village walk get cut back off the concrete so people can pass without brushing them." },
       { "title": "Trim by bloom time", "body": "Shear a lilac or forsythia in early spring and you cut off this year's flowers. MSU Extension says spring bloomers are pruned right after they flower, and summer bloomers in late winter or early spring. The trimming calendar follows that." },
-      { "title": "Oaks wait for winter", "body": "If a small oak is part of the job, MSU Extension says to leave it alone from April 15 to July 15, the high risk stretch for oak wilt. Cuts on oaks wait for the cold months, when the beetles that spread it are far less active." },
-      { "title": "When trimming is not enough", "body": "Some foundation shrubs are older than the siding. If one has outgrown its spot, [bush removal](/bush-removal/) may be the honest answer, and in the historic district that means asking the commission first." }
+      { "title": "Oak pruning waits for winter", "body": "If a small oak is part of the job, MSU Extension says to leave it alone from April 15 to July 15, the high risk stretch for oak wilt. Cuts on oaks wait for the cold months, when the beetles that spread it are far less active." },
+      { "title": "When a shrub should come out", "body": "If a foundation shrub has outgrown its spot, [bush removal](/bush-removal/) may be the better answer than another trim. In the historic district, that means asking the commission first." }
     ]
   },
   "logistics": {
-    "title": "How shrub trimming works here.",
+    "title": "What happens on a Clarkston trimming visit.",
     "body": [
       "Rob walks the beds with you, notes what blooms when and what has outgrown its spot, and quotes the trimming. We shape with hedge trimmers and hand pruners to clean lines, then rake the clippings out of the mulch and haul them away.",
-      "Trimming can stand alone or ride along with a [spring cleanup](/spring-cleanup-clarkston-mi/) or a fall visit. If the beds need more than a haircut, see [landscaping in Clarkston](/landscaping-clarkston-mi/)."
+      "Trimming can stand alone or ride along with a [spring cleanup](/spring-cleanup-clarkston-mi/) or a fall visit. If the beds need more than a trim, see [landscaping in Clarkston](/landscaping-clarkston-mi/)."
     ],
     "facts": [
       { "label": "Historic district", "value": "Trimming and pruning can go ahead" },
@@ -38,10 +38,10 @@
   },
   "photo": "neighborhood-stripes",
   "faq": [
-    { "q": "Do you trim bushes and hedges in Clarkston?", "a": "Yes. Grand Scapes trims shrubs and hedges in Clarkston and Independence Township, shapes them back to clean lines and hauls the clippings away. Rob comes out and gives you a free estimate." },
+    { "q": "Do you trim bushes and hedges in Clarkston?", "a": "Yes. Grand Scapes trims shrubs and hedges in Clarkston and Independence Township, shapes them back to clean lines and hauls the clippings away. The estimate is free." },
     { "q": "Do I need historic district approval to trim shrubs?", "a": "No, according to the commission's brochure, which puts trimming or pruning trees, shrubs and plantings on its go ahead list. Removing shrubbery or plantings is different, so check with the commission before anything comes out of a Clarkston historic district bed." },
     { "q": "When should I trim my hedges in Michigan?", "a": "It depends on when they bloom. MSU Extension says spring flowering shrubs like forsythia and lilac should be pruned right after they finish flowering, and summer bloomers in late winter or early spring. Rob will sort your shrubs by bloom time at the estimate." },
-    { "q": "Do you trim trees too?", "a": "Low limbs on small trees, ask Rob. Big trees are a job for a tree crew. In the city, the code wants branches over the sidewalk kept at least eight feet up, and Rob can tell you whether yours is a trimming job or a tree job." }
+    { "q": "Do you trim trees too?", "a": "Ask Rob about low limbs on small trees. Big trees are a job for a tree crew. In the city, the code wants branches over the sidewalk kept at least eight feet up, and Rob can tell you whether yours is a trimming job or a tree job." }
   ],
   "reviews": ["bob-s", "james-a"]
 }

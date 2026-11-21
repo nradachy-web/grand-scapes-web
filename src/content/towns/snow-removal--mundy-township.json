@@ -7,21 +7,20 @@
   },
   "hero": {
     "kicker": "Snow removal in Mundy Township, MI",
-    "title": "Long drives, **plowed wide.**",
-    "lede": "Grand Scapes plows Mundy Township driveways with our own trucks, from short subdivision drives to long ones off a county road, shovels the walks and puts ice melt where people step. Rob walks the property with you before winter and explains the options.",
+    "title": "Long drives, **plowed full width.**",
+    "lede": "Grand Scapes plows Mundy Township driveways with our own trucks, from short subdivision drives to long ones off a county road, shovels the walks and puts ice melt where people step.",
     "chips": ["Our own plow trucks", "Long drives", "Walks and ice melt", "Free estimate"],
     "photo": "plow-push"
   },
   "local": {
     "eyebrow": "Winter in Mundy Township",
-    "title": "County roads, **subdivisions last.**",
-    "intro": "The roads in Mundy Township belong to the Genesee County Road Commission, which plows by traffic: expressways first, then main roads, then local roads, and subdivision streets at the end. It says it cannot give a time for any one street. Your driveway is a separate matter, and on a big lot it is a long one.",
+    "title": "County roads and **long driveways.**",
+    "intro": "The roads in Mundy Township belong to the Genesee County Road Commission, which plows by traffic: expressways first, then main roads, then local roads, and subdivision streets at the end. It says it cannot give a time for any one street. Your driveway is separate, and on a big lot it is a long one.",
     "points": [
-      { "title": "Subdivision streets wait", "body": "With more than 1,600 miles of road to cover, the Road Commission reaches subdivision streets after everything else. A plowed driveway means you are ready to go the moment the street opens." },
-      { "title": "Long drives, open ground", "body": "On acre parcels the driveway can run a long way back from the road. We plow it full width, push the snow well past the edges, and leave room for the next storm's pile." },
+      { "title": "Long drives on acre lots", "body": "On acre parcels the driveway can run a long way back from the road. We plow it full width, push the snow well past the edges, and leave room for the next storm's pile." },
       { "title": "Mailboxes at the road edge", "body": "The Road Commission says plowing in heavy snow can damage mailboxes and asks owners to check the box and post before winter. It also counts mailboxes on big brick, concrete or steel posts among the hazards in the right of way." },
-      { "title": "Snow stays off the road", "body": "State law forbids putting snow, ice or slush on any roadway, county roads included. Where there is no curb it is tempting to push straight across. We do not, and the piles stay on your side." },
-      { "title": "Mark the edges early", "body": "On a long drive the edges vanish under the first snow. Stakes along both sides show the plow where the driveway ends and the lawn begins, and Rob can set them on the walkthrough." }
+      { "title": "No snow pushed across the road", "body": "State law forbids putting snow, ice or slush on any roadway, county roads included, even where there is no curb to stop a plow from pushing straight across. The piles stay on your side." },
+      { "title": "Mark the edges early", "body": "On a long drive the edges vanish under the first snow. Stakes along both sides show the plow where the driveway ends and the lawn begins, so they go in before the ground freezes." }
     ]
   },
   "logistics": {
@@ -40,10 +39,10 @@
   },
   "photo": "salted-drive",
   "faq": [
-    { "q": "Do you plow driveways in Mundy Township?", "a": "Yes. Grand Scapes plows residential driveways in Mundy Township with our own trucks, from subdivision drives to long ones off a county road. We shovel walks and put down ice melt too. Rob sets it up in person before winter and explains the package options." },
-    { "q": "When will the county plow my subdivision street?", "a": "Last. The Genesee County Road Commission plows expressways, then main roads, then local roads, and subdivision streets come after those. It says it cannot give a specific time for any one street, so a cleared driveway gets you out as soon as the street opens." },
+    { "q": "Do you plow driveways in Mundy Township?", "a": "Yes. Grand Scapes plows residential driveways in Mundy Township with our own trucks, from subdivision drives to long ones off a county road. We shovel walks and put down ice melt too, and the estimate is free." },
+    { "q": "When will the county plow my subdivision street?", "a": "Last. The Genesee County Road Commission plows expressways, then main roads, then local roads, and subdivision streets come after those. It says it cannot give a specific time for any one street." },
     { "q": "What if a county plow knocks down my mailbox?", "a": "The Genesee County Road Commission explains its mailbox policy for damage caused by its own trucks on its FAQ page, and it asks owners to check boxes and posts before winter. Boxes on heavy brick or steel posts are a hazard in the right of way." },
-    { "q": "Can snow be pushed across a county road?", "a": "No. Under MCL 257.677a, a person shall not deposit, or cause to be deposited, snow, ice or slush on any roadway or highway, and that covers the county roads in Mundy Township. We keep every bit of it on your side." }
+    { "q": "Can snow be pushed across a county road?", "a": "No. Under state law, a person shall not deposit, or cause to be deposited, snow, ice or slush on any roadway or highway, and that covers the county roads in Mundy Township. Snow from the drive stays on your side." }
   ],
   "reviews": ["rick-b", "stacy"]
 }

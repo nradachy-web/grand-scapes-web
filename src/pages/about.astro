@@ -38,16 +38,15 @@ const kit: { id: PhotoId; label: string }[] = [
   preload={hero.preload}
   schema={[breadcrumbs([{ name: 'Home', path: '/' }, { name: 'About', path }])]}
 >
-  <Hero image={hero} kicker="About Grand Scapes" title="Rob's crew, **Rob's number on the trailer.**" lede={`Grand Scapes LLC is a lawn care, landscaping and snow removal company run by ${BRAND.owner}, out of a shop on Embury Road in ${BRAND.city}.`} crumbs={[{ name: 'About', path }]} />
+  <Hero image={hero} kicker="About Grand Scapes" title="A local crew, **run by the owner.**" lede={`Grand Scapes LLC is a lawn care, landscaping and snow removal company run by ${BRAND.owner}, out of a shop on Embury Road in ${BRAND.city}.`} crumbs={[{ name: 'About', path }]} />
 
   <section class="band has-edge" aria-labelledby="rob-h">
     <div class="wrap two wide-left">
       <div class="stack" style="--gap:1.4rem">
-        <Head id="rob-h" layout="left" eyebrow="Rob Couchman, owner" title="Creating, restoring and **maintaining.**" />
+        <Head id="rob-h" layout="left" eyebrow="Rob Couchman, owner" title="When you call, **you get Rob.**" />
         <div class="prose">
-          <p>It was the first line on the old Grand Scapes site: our passion is creating, restoring and maintaining your outdoor spaces. In practice it means three kinds of work. Building a bed or a lawn from scratch. Bringing back one that got away from you. And keeping it sharp, week after week, season after season.</p>
-          <p>When you call Grand Scapes, you get Rob. He comes out, looks at the place with you, tells you what he would do and gives you a free estimate. Then the crew shows up with the right equipment: zero turn mowers for the stripes, track loaders for the digging, a leaf vacuum trailer in the fall and plow trucks in the winter.</p>
-          <p>Most of all, Grand Scapes is customer service based lawn and landscaping. The <a href={href('/reviews/')}>reviews</a> say it better than we can: on time, quick to answer, careful with the property.</p>
+          <p>Rob Couchman answers the phone and the texts himself. He comes out, looks at the place with you, tells you what he would do and gives you a free estimate. Then the crew shows up with the right equipment: zero turn mowers for the stripes, track loaders for the digging, a leaf vacuum trailer in the fall and plow trucks in the winter.</p>
+          <p>The work comes in three kinds: building a bed or a lawn from scratch, bringing back one that got away from its owner, and keeping it sharp week after week. Our <a href={href('/reviews/')}>reviews</a> keep mentioning the same things: on time, quick to answer, careful with the property. We treat that part as seriously as the stripes.</p>
         </div>
         {SOCIAL.length > 0 && <p class="follow small"><span class="muted">See the latest jobs on</span> {SOCIAL.map((s) => <a href={s.href} target="_blank" rel="noopener">{s.name}</a>)}</p>}
       </div>

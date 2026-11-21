@@ -6,7 +6,7 @@
   },
   "hero": {
     "kicker": "Bed edging and block walls in Grand Blanc, MI",
-    "title": "The line between **bed and lawn.**",
+    "title": "A clean line between **bed and lawn.**",
     "lede": "Grand Scapes pulls out tired brick borders and puts in something that holds: a low gray block wall, a row of boulders, or a clean natural edge cut into the lawn. Mulch stays in the bed, grass stays out, and the mower has a line to follow.",
     "chips": [
       "Brick borders out",
@@ -100,7 +100,7 @@
       "type": "intro",
       "plane": "white",
       "eyebrow": "The natural edge",
-      "title": "No border at all, **still no chips.**",
+      "title": "A natural edge **cut into the soil.**",
       "body": [
         "A natural edge is a clean, deep cut where the lawn stops and the bed begins. There is no brick, block or plastic, just a crisp line in the soil with the mulch sitting behind it.",
         "Bob S. had us pull his old brick edging and cut a natural edge instead. In his review he wrote that it \"still prevents chips from flowing into the lawn.\"",
@@ -113,7 +113,7 @@
       "type": "cards",
       "plane": "paper",
       "eyebrow": "Good to know",
-      "title": "Before the shovel **goes in.**",
+      "title": "What to know **before we dig.**",
       "columns": 2,
       "items": [
         {
@@ -121,7 +121,7 @@
           "body": "MISS DIG 811 says every digging project needs a ticket at least 3 business days ahead, regardless of size or depth. Whoever does the digging places it, so on our jobs that call is ours."
         },
         {
-          "title": "Private lines are on you to point out",
+          "title": "Point out private lines",
           "body": "MISS DIG does not mark private lines, like sprinkler lines, invisible dog fences, or power to a shed or detached garage. Tell us where yours run before a wall goes in."
         },
         {
@@ -129,7 +129,7 @@
           "body": "A bed around a tree keeps mowers and string trimmers off the trunk, MSU Extension notes. Inside the ring, keep the mulch pulled back from the bark."
         },
         {
-          "title": "Low walls, not tall ones",
+          "title": "Our walls are low",
           "body": "Our walls are low bed walls and boulder walls like the ones in our photos. If you need a tall wall holding back a hill or a driveway, ask Rob when he comes out."
         }
       ]
@@ -138,7 +138,7 @@
       "type": "reviews",
       "plane": "ink",
       "eyebrow": "On Google",
-      "title": "A new edge, **in their words.**",
+      "title": "Reviews from **bed and border jobs.**",
       "ids": [
         "kandice-w",
         "bob-s",
@@ -169,7 +169,7 @@
     },
     {
       "q": "Do I have to call MISS DIG before putting in edging?",
-      "a": "Someone has to. MISS DIG 811 says any digging project needs a ticket at least 3 business days ahead, regardless of size or depth, and the person or company doing the digging places it. MISS DIG does not mark private lines like sprinkler lines or an invisible dog fence, so tell us where those run."
+      "a": "Yes, and on our jobs that call is ours. MISS DIG 811 says any digging project needs a ticket at least 3 business days ahead, regardless of size or depth, and the person or company doing the digging places it. MISS DIG does not mark private lines like sprinkler lines or an invisible dog fence, so tell us where those run."
     },
     {
       "q": "How much does bed edging cost?",
@@ -178,7 +178,7 @@
   ],
   "quote": {
     "title": "Tell us about the border.",
-    "lede": "What is there now, and what would you like instead? Call or [text Rob](sms:+18109903040) a photo at (810) 990-3040, and he will come out to look and quote it."
+    "lede": "What is there now, and what you would like instead. Call or [text Rob](sms:+18109903040) a photo at (810) 990-3040, and he will come out to look and quote it."
   },
   "summary": {
     "title": "Edging and walls that keep beds in shape.",

@@ -7,8 +7,8 @@
   },
   "hero": {
     "kicker": "Landscaping in Ortonville, MI",
-    "title": "Rolling ground, **level beds.**",
-    "lede": "Grand Scapes rebuilds landscapes in Ortonville and Brandon Township: old shrubs and small trees out, beds reshaped, block walls or boulders where the ground slopes, then fabric and fresh mulch. Rob walks it first and quotes a price.",
+    "title": "Level, planted beds on **rolling ground.**",
+    "lede": "Grand Scapes rebuilds landscapes in Ortonville and Brandon Township: old shrubs and small trees out, beds reshaped, block walls or boulders where the ground slopes, then fabric and fresh mulch.",
     "chips": [
       "Beds rebuilt",
       "Boulders and block walls",
@@ -18,20 +18,20 @@
   },
   "local": {
     "eyebrow": "Landscaping in Ortonville",
-    "title": "Woods, wetlands and **a house on a hill.**",
-    "intro": "Brandon Township's master plan sums up why people move here: rolling hills, woodlands, wetlands and lakes. The township counts more than 2,300 acres of tree rows and woodland and close to 3,100 acres of wetland. Landscaping around Ortonville works with that ground, not against it.",
+    "title": "Slopes, older shrubs and **wetland edges.**",
+    "intro": "Brandon Township's plan names rolling hills, woods, wetlands and lakes as the reason people move here. Landscaping around Ortonville has to fit that ground: beds on banks, shrubs that have had decades to grow, and soil near water that needs covering fast.",
     "points": [
       {
-        "title": "Slopes",
+        "title": "Walls for sloped beds",
         "body": "Rolling ground means beds on banks. A boulder wall or a low block wall gives a sloped bed a level shelf, the way a curved boulder wall can hold a newly graded slope below a deck."
       },
       {
-        "title": "Homes from the 1980s",
-        "body": "The median home in Brandon Township was built in 1984, so plenty of foundation shrubs have had four decades to outgrow their spots. Digging them out by the roots, as with one reviewer's 25 year old bushes, gives the bed a real fresh start."
+        "title": "Shrubs from the 1980s",
+        "body": "A typical Brandon Township home dates to the mid 1980s, so many foundation shrubs have had about forty years to outgrow their spots. Digging them out by the roots, as with one reviewer's 25 year old bushes, lets the bed start clean."
       },
       {
         "title": "Near the creek and wetlands",
-        "body": "Kearsley Creek's main problem is sediment, and the township plan points to bare construction ground and cleared streamsides among the causes. A bed rebuilt near a ditch, creek or wetland edge gets covered in mulch promptly so the soil stays put."
+        "body": "The township plan names sediment as the main problem in Kearsley Creek, and bare ground is one of the causes. A bed rebuilt near a ditch, creek or wetland edge gets mulched right away so the soil stays in place."
       },
       {
         "title": "Invasive plants to watch",
@@ -68,7 +68,7 @@
   "faq": [
     {
       "q": "Do you do landscaping in Ortonville, MI?",
-      "a": "Yes. Grand Scapes does landscaping in Ortonville and Brandon Township: bed makeovers, shrub and small tree removal, block walls, boulders and natural edges, plants, fabric and mulch. Rob walks the yard and gives you a free estimate."
+      "a": "Yes. Grand Scapes does landscaping in Ortonville and Brandon Township: bed makeovers, shrub and small tree removal, block walls, boulders and natural edges, plants, fabric and mulch. The estimate is free."
     },
     {
       "q": "Can you build a bed on a slope?",
@@ -80,7 +80,7 @@
     },
     {
       "q": "When is a good time for landscaping in Ortonville?",
-      "a": "Beds can be rebuilt any time the ground can be worked, spring through fall. If an oak stands near the work, Brandon Township says not to prune oaks in the warmer months, and MSU Extension puts the riskiest stretch at April 15 to July 15, so any oak cuts wait for cold weather."
+      "a": "Any time the ground can be worked, spring through fall. If an oak stands near the work, Brandon Township says not to prune oaks in the warmer months, and MSU Extension puts the riskiest stretch at April 15 to July 15, so any oak cuts wait for cold weather."
     }
   ],
   "reviews": [

@@ -6,8 +6,8 @@
   },
   "hero": {
     "kicker": "Lawn care, landscaping and snow removal in Linden, MI",
-    "title": "A mill town on **soft ground.**",
-    "lede": "Grand Scapes mows, cleans up, rebuilds beds and plows in Linden, the small city that grew up around the mill on the Shiawassee River. Older lots near downtown, newer ones toward the edges, and low, wet ground in between.",
+    "title": "Wet lawns mowed **without ruts.**",
+    "lede": "Grand Scapes mows, cleans up, rebuilds beds and plows in Linden, the small city on the Shiawassee River. Lots near downtown are older, the ones toward the edges are newer, and plenty of them have low, wet ground.",
     "chips": [
       "City of Linden",
       "Fenton Township lots",
@@ -17,20 +17,19 @@
   },
   "about": {
     "eyebrow": "Yards in Linden",
-    "title": "Built around a mill pond, on ground that **holds water.**",
+    "title": "Linden ground stays wet in **the low spots.**",
     "body": [
-      "Linden began as a village in 1871 around the corner of Bridge and Broad, with buildings going back to 1840, and became a city in 1988. About 4,000 people live here. The old mill building stands on the bank of the Shiawassee River with the Mill Pond park across the water, and the city keeps a historic district downtown.",
-      "The land is low. This is country of marsh, swamp and old marl bottom lakes, and the USDA soil survey shows it: rolling, well drained Wawasee loam and sandy Boyer soils on the higher ground, some on slopes of 6 to 12 percent, and very poorly drained Carlisle and Linwood muck under about one sample point in six across the city.",
+      "Much of Linden is low ground. The higher ground rolls, drains well and is sandy in places, with some real slopes, while the low spots are muck that holds water long after a rain. One lot can have both.",
       "Step past the city limits and you are in Fenton Township, where the county plows the roads and the houses spread out."
     ],
     "points": [
       {
         "title": "Low spots that stay wet",
-        "body": "Muck holds water long after a rain. A lawn on it can look fine and still rut under a mower, so we read the ground on mowing day and work around a soft corner instead of tracking it up. Low spots are also where a bed planted with the wrong things gives up first."
+        "body": "A lawn on muck can look fine and still rut under a mower, so we read the ground on mowing day and work around a soft corner instead of tracking it up. Low spots are also where a bed with the wrong plants fails first."
       },
       {
         "title": "Slopes on the high ground",
-        "body": "The rolling Wawasee loam sheds water and dries out first, and bare soil on a slope washes away. A high cut keeps the grass thicker there, and a block or boulder border can hold a bed that keeps sliding toward the walk. That is [landscaping](/landscaping-linden-mi/) work."
+        "body": "The rolling high ground sheds water and dries out first, and bare soil on a slope washes away. A high cut keeps the grass thicker there, and a block or boulder border can hold a bed that keeps sliding toward the walk. That is [landscaping](/landscaping-linden-mi/) work."
       },
       {
         "title": "Yard waste runs into December",
@@ -38,20 +37,20 @@
       },
       {
         "title": "Cars off the street all winter",
-        "body": "The city's fall newsletter lists no on-street parking from November 1 to March 31, starting at 2:30 in the morning. Check with City Hall for the exact hours. Streets without parked cars are streets the DPW can plow curb to curb."
+        "body": "The city's fall newsletter lists no on-street parking from November 1 to March 31, starting at 2:30 in the morning. Check with City Hall for the exact hours. The ban lets the DPW plow the streets curb to curb."
       },
       {
         "title": "Ask before you burn",
-        "body": "A burn permit is one of the city's most requested forms. If you are thinking about burning a leaf pile, check the permit terms with City Hall first, or skip the smoke and let us haul the leaves off in a [fall cleanup](/leaf-removal-linden-mi/)."
+        "body": "A burn permit is one of the city's most requested forms. If you are thinking about burning a leaf pile, check the permit terms with City Hall first, or have us haul the leaves off in a [fall cleanup](/leaf-removal-linden-mi/)."
       }
     ],
     "photo": "block-bed-colonial"
   },
   "logistics": {
-    "title": "Booked on a set day, the same as our home town.",
+    "title": "How a Linden job runs.",
     "body": [
       "Linden is about 25 minutes from our shop on Embury Road, so yards here are booked on a set day each week instead of squeezed in between other stops. Rob drives out for the estimate, walks the yard with you, suggests what it needs and gives you a price.",
-      "In the city, the public works crew clears more than 17 miles of streets, some of them dirt. Out in Fenton Township the Genesee County Road Commission plows, with subdivision streets last. Either way, our part is your drive and walks, plowed by our own trucks and treated where people walk."
+      "In the city, the public works crew clears the streets, some of them dirt. Out in Fenton Township the Genesee County Road Commission plows, with subdivision streets last. Either way, our part is your drive and walks, plowed by our own trucks and treated where people walk."
     ],
     "facts": [
       {
@@ -83,11 +82,11 @@
     },
     {
       "q": "Who clears the streets in Linden?",
-      "a": "The city's Department of Public Works, a five person staff that also looks after water, sewer, parks and city buildings, maintains more than 17 miles of city streets, including snow and ice removal and grading the dirt roads. Roads outside the city in Fenton Township are plowed by the Genesee County Road Commission."
+      "a": "The city's Department of Public Works clears snow and ice from city streets and grades the dirt roads. Roads outside the city in Fenton Township are plowed by the Genesee County Road Commission."
     },
     {
       "q": "Do you take care of the wet, low lots around town?",
-      "a": "Yes. Much of the city is lowland, and the soil survey shows very poorly drained muck in the low spots. We mow those lawns when the ground will carry a mower, trim the soft edges by hand when it will not, and can rebuild a bed that keeps drowning with plants and a layout that suit wet ground."
+      "a": "Yes. Much of the city is lowland, with muck in the low spots that stays wet. We mow those lawns when the ground will carry a mower, trim the soft edges by hand when it will not, and can rebuild a waterlogged bed with plants and a layout that suit wet ground."
     }
   ],
   "reviews": [

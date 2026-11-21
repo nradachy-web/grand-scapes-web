@@ -7,20 +7,20 @@
   },
   "hero": {
     "kicker": "Fall cleanup and leaf removal in Flint, MI",
-    "title": "Leaves gone, **no bags needed.**",
+    "title": "Leaves cleared and **kept off the street.**",
     "lede": "Grand Scapes clears Flint yards in the fall: leaves blown out of the beds and off the lawn, vacuumed into our trailer and hauled away, beds cut back and the last cut done. Nothing gets bagged, and nothing goes in the street.",
     "chips": ["Leaves vacuumed and hauled", "No bags at the curb", "Beds cut back", "Free estimate"],
     "photo": "leaf-tree"
   },
   "local": {
     "eyebrow": "Leaves in Flint",
-    "title": "In Flint, leaves go in a bag **or in our trailer.**",
-    "intro": "The city's rule for yard leaves is simple: bag them and set them out on your waste day. Street Maintenance sweeps the leaves that land on the street by themselves, but leaves raked or blown into the street can bring a citation, because they clog storm drains and back up water. Our leaf vacuum skips both the bags and the street.",
+    "title": "The city takes leaves **in bags only.**",
+    "intro": "In Flint, yard leaves go in bags on your waste day. Street Maintenance sweeps leaves that land on the street by themselves, but leaves raked or blown into the street can bring a citation, because they clog storm drains and back up water. Our leaf vacuum skips both the bags and the street.",
     "points": [
       { "title": "The weekly bag limit", "body": "Priority Waste takes up to 20 bags or cans of yard waste a week, each 40 gallons or smaller and under 50 pounds. A yard with a few mature trees can fill that in a weekend and still have leaves on the lawn." },
-      { "title": "Nothing in the street", "body": "We blow leaves into rows on the lawn, then the vacuum pulls them from the pile straight into the dump trailer. The street and the storm drain out front stay clear." },
+      { "title": "The street stays clear", "body": "We blow leaves into rows on the lawn, then the vacuum pulls them from the pile straight into the dump trailer. The street and the storm drain out front stay clear." },
       { "title": "Leaves that fall after pickup ends", "body": "City compost pickup runs from April 1 through the week containing November 30. Some trees are still dropping after that, and a late cleanup means nothing sits on the lawn waiting for spring." },
-      { "title": "Mowing them in works, up to a point", "body": "The city suggests mulching leaves into the lawn, and MSU Extension research found no harm in it. A light layer chops up fine. A deep one takes pass after pass, and those yards are better cleared." }
+      { "title": "Mowing in a light layer", "body": "The city suggests mulching leaves into the lawn, and MSU Extension research found no harm in it. A light layer chops up fine. A deep one takes pass after pass, and those yards are better cleared." }
     ]
   },
   "logistics": {
@@ -28,7 +28,7 @@
     "body": [
       "Rob looks at the yard and the trees over it, then quotes the cleanup. Some yards need one big visit once most of the leaves are down; heavy ones do better with two. He will tell you which yours is.",
       "On the day, the crew blows leaves out of beds and corners and off the lawn into long rows, the truck loader leaf vacuum on the trailer pulls them in, and we haul them off. Perennials get cut back, the beds get a final clean, and the lawn gets a last cut if it needs one.",
-      "The city sweeps the leaves that fall naturally on its streets, and it asks people to move cars when crews work their block. Those are the city's. The ones on your lawn are ours."
+      "The city sweeps leaves that fall naturally on its streets and asks people to move their cars when crews work the block. Our job is the leaves on your lawn, beds and walks."
     ],
     "facts": [
       { "label": "City yard waste", "value": "Bagged only, through the week of Nov 30" },
@@ -39,7 +39,7 @@
   },
   "photo": "leaf-crew",
   "faq": [
-    { "q": "Do you do leaf removal in Flint?", "a": "Yes. Grand Scapes does fall cleanups and leaf removal in Flint: leaves vacuumed into our trailer and hauled off, beds cut back and cleaned, and the lawn left clean. Rob quotes it free after he looks at the yard." },
+    { "q": "Do you do leaf removal in Flint?", "a": "Yes. Grand Scapes does fall cleanups and leaf removal in Flint: leaves vacuumed into our trailer and hauled off, beds cut back and cleaned, and the lawn left clean. Rob quotes it free." },
     { "q": "Can I rake leaves into the street in Flint?", "a": "No. The city says leaves should never be raked or blown into the street, because they clog storm drains and cause street flooding, and people who do it may get a citation. Bag them for Priority Waste on your service day, or have them hauled away." },
     { "q": "When does yard waste pickup end in Flint?", "a": "The city's compost pickup runs from April 1 through the week containing November 30. Bags or cans must be 40 gallons or smaller and under 50 pounds, up to 20 a week. Check the city's sanitation page for the current season, since dates can change." },
     { "q": "When is the last mow of the year in Michigan?", "a": "Usually once the grass stops growing in late fall, after most leaves are down. We often fold the last cut into the fall cleanup, so the lawn goes into winter clear of leaves and at a normal height." },

@@ -37,7 +37,9 @@ export const nbTown = (s: string) => s.replace(TOWNS, (m) => m.replace(/ /g, '\u
 
 export function heading(text: string, accentClass = ''): string {
   let out = nbTown(escape(text)).replace(/([A-Za-z0-9]+(?:-[A-Za-z0-9]+)+)/g, '<span class="nw">$1</span>');
-  out = out.replace(/\*\*([^*]+)\*\*/g, accentClass ? `<span class="${accentClass}">$1</span>` : '$1');
+  // Punctuation right after the accent goes inside it: the accent is an inline block, so a
+  // comma left outside could wrap onto the next line by itself.
+  out = out.replace(/\*\*([^*]+)\*\*([,.;:!?]*)/g, accentClass ? `<span class="${accentClass}">$1$2</span>` : '$1$2');
   // Short sentences in a display line keep their beat: lines break between them where they can.
   const parts = out.split(/(?<=[.?!](?:<\/span>)?)\s+(?![^<]*<\/span>)/);
   return parts.length > 1 ? parts.map((p) => `<span class="sent">${p}</span>`).join(' ') : out;

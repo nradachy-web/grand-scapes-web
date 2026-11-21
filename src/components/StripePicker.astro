@@ -19,9 +19,9 @@ const { id = 'sp', sizes = '(min-width: 64rem) 60vw, 100vw' } = Astro.props;
 const OPTS = [
   { id: 'straight', file: 'lawn-straight', name: 'Straight stripes', short: 'Straight', note: 'The classic. Each pass runs the other way, so the grass leans toward you, then away, and the light does the rest.', alt: 'Illustration: a brick colonial with the front lawn mowed in straight light and dark stripes running toward the house' },
   { id: 'diagonal', file: 'lawn-diagonal', name: 'Diagonal', short: 'Diagonal', note: 'The same stripes at an angle. Good on a lawn that sits a little out of square with the house.', alt: 'Illustration: the same lawn mowed in diagonal stripes' },
-  { id: 'checker', file: 'lawn-checker', name: 'Checkerboard', short: 'Checker', note: 'Straight passes one way, then again at a right angle. More time on the mower, very ballpark.', alt: 'Illustration: the same lawn mowed in a checkerboard of light and dark squares' },
-  { id: 'diamond', file: 'lawn-diamond', name: 'Diamond', short: 'Diamond', note: 'Two diagonal passes crossing. The one people slow down for.', alt: 'Illustration: the same lawn mowed in a diamond pattern' },
-  { id: 'plain', file: 'lawn-plain', name: 'Clean, no stripes', short: 'Plain', note: 'Mowed even, trimmed and edged, and nothing else. Some lawns and some HOAs like it quiet.', alt: 'Illustration: the same lawn freshly mowed in one even green with no pattern' },
+  { id: 'checker', file: 'lawn-checker', name: 'Checkerboard', short: 'Checker', note: 'Straight passes one way, then again at a right angle. It takes longer to mow, and it shows.', alt: 'Illustration: the same lawn mowed in a checkerboard of light and dark squares' },
+  { id: 'diamond', file: 'lawn-diamond', name: 'Diamond', short: 'Diamond', note: 'Two diagonal passes that cross. The most formal of the five.', alt: 'Illustration: the same lawn mowed in a diamond pattern' },
+  { id: 'plain', file: 'lawn-plain', name: 'Clean, no stripes', short: 'Plain', note: 'Mowed even, trimmed and edged, with no pattern. Some owners and some HOAs prefer it.', alt: 'Illustration: the same lawn freshly mowed in one even green with no pattern' },
 ] as const;
 
 const files = import.meta.glob<{ default: ImageMetadata }>('../assets/panel/*.jpg', { eager: true });

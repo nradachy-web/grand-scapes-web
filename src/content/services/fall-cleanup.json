@@ -6,7 +6,7 @@
   },
   "hero": {
     "kicker": "Fall cleanup and leaf removal in Grand Blanc, MI",
-    "title": "Leaves up. **Lawn back.**",
+    "title": "Leaves gone **before the snow.**",
     "lede": "Grand Scapes blows the leaves off the lawn and out of the beds, vacuums them into our leaf trailer and hauls them away. Then the beds get cut back the way you want them and the drive and walks are blown clean. We do fall cleanups all over Grand Blanc and Genesee County.",
     "chips": [
       "Leaves blown out",
@@ -24,7 +24,7 @@
       "title": "Blow, vacuum, **haul.**",
       "body": [
         "Fall cleanup is leaf removal plus the end of season tidy. The crew blows the leaves off the lawn, out of the beds and away from the fences into long rows and piles. A truck loader leaf vacuum on the front of our dump trailer pulls them in, and the load leaves with us.",
-        "No bags lined up at the curb and no raking weekends. Once the leaves are gone, we cut back the beds you want cut back and blow off the drive, the walks and the patio.",
+        "You do not bag or rake anything. Once the leaves are gone, we cut back the beds you want cut back and blow off the drive, the walks and the patio.",
         "We do fall cleanups across Grand Blanc and Grand Blanc Township, and around Genesee County in towns like [Fenton](/leaf-removal-fenton-mi/), [Flint](/leaf-removal-flint-mi/), [Davison](/leaf-removal-davison-mi/) and [Holly](/leaf-removal-holly-mi/)."
       ],
       "checks": [
@@ -48,8 +48,8 @@
       "type": "cards",
       "plane": "white",
       "eyebrow": "From MSU Extension",
-      "title": "Mulch a few, **move a lot.**",
-      "intro": "Michigan State University Extension research is clear that a light layer of leaves can be mowed right into a lawn. The trouble is a thick layer left to sit through the winter.",
+      "title": "Mow them in or **haul them off.**",
+      "intro": "MSU Extension research shows that a light layer of leaves can be mowed right into a lawn. The trouble is a thick layer left to sit through the winter.",
       "columns": 2,
       "items": [
         {
@@ -64,12 +64,12 @@
         },
         {
           "tag": "Big trees",
-          "title": "When the drop wins",
-          "body": "Under big, old trees the leaves can come down faster than a mower keeps up with. MSU notes that after heavy wind, even mulching them in can take two passes in a week. That is the yard the leaf vacuum is for."
+          "title": "Too many to mow in",
+          "body": "Under big, old trees the leaves can come down faster than a mower keeps up with. MSU notes that after heavy wind, even mulching them in can take two passes in a week. Those yards are what the leaf vacuum is for."
         },
         {
           "tag": "The beds",
-          "title": "Your call",
+          "title": "Cleared or left alone",
           "body": "MSU suggests leaves can stay around shrubs and perennials over winter as insulation and shelter for insects, with some stems left standing for bees. Some people want the beds cleared to the soil instead. Tell Rob which."
         }
       ]
@@ -95,7 +95,7 @@
       "plane": "white",
       "eyebrow": "Real cleanups",
       "title": "Our own **fall photos.**",
-      "intro": "Leaves down, blown into rows, piled at the curb and pulled into the trailer. Every one is from our own jobs.",
+      "intro": "Leaves down, blown into rows, piled at the curb and pulled into the trailer.",
       "photos": [
         "leaves-before",
         "leaf-tree",
@@ -119,7 +119,7 @@
       "type": "plan",
       "plane": "paper",
       "eyebrow": "Plan your year",
-      "title": "Leaves now, **plow next.**",
+      "title": "Add winter plowing **to the estimate.**",
       "intro": "Fall cleanup sits between the last mow and the first snow. Lay out the whole year, from spring cleanup and weekly mowing to a plowed drive in winter, and Rob can quote it together."
     }
   ],
@@ -134,7 +134,7 @@
     },
     {
       "q": "Is it bad to leave leaves on the lawn over winter?",
-      "a": "A thick layer, yes. MSU Extension notes that leaves piled up under wet, heavy snow can mean disaster for the grass below. A light layer chopped fine by a mower is a different story: MSU says the pieces sift into the lawn and you will not notice them in spring."
+      "a": "A thick layer, yes. MSU Extension notes that leaves piled up under wet, heavy snow can do serious damage to the grass below. A light layer chopped up by a mower is not a problem: MSU says the pieces sift into the lawn and you will not notice them in spring."
     },
     {
       "q": "Should I cut my grass short before winter?",
@@ -154,12 +154,12 @@
     },
     {
       "q": "How much does leaf removal cost?",
-      "a": "It depends on the size of the yard, how many trees drop on it and how many beds need cutting back. Rob comes out, looks at it and quotes you a price. The estimate is free."
+      "a": "It depends on the size of the yard, how many trees drop on it and how many beds need cutting back. Each yard is quoted after a look, and the estimate is free."
     }
   ],
   "quote": {
     "title": "Tell us about your trees.",
-    "lede": "Where the yard is, how many big trees drop on it and whether the beds need cutting back. Rob will come out, take a look and give you a free estimate."
+    "lede": "Where the yard is, how many big trees drop on it and whether the beds need cutting back. The estimate is free."
   },
   "summary": {
     "title": "Fall cleanup and leaf removal, start to finish.",

@@ -8,28 +8,28 @@
   "hero": {
     "kicker": "Snow removal in Burton, MI",
     "title": "Plowed to the concrete, **walk included.**",
-    "lede": "Grand Scapes plows Burton driveways with our own trucks, shovels the walks down to the concrete and puts ice melt where people step. Rob walks the property with you before winter and lays out the residential snow and salting package options.",
+    "lede": "Grand Scapes plows Burton driveways with our own trucks, shovels the walks down to the concrete and puts ice melt where people step. That can include the public sidewalk out front, which the city leaves to the owner.",
     "chips": ["Our own plow trucks", "Sidewalk cleared", "Ice melt on walks", "Free estimate"],
     "photo": "plow-pair"
   },
   "local": {
     "eyebrow": "Winter in Burton",
-    "title": "Local streets wait. **Your drive should not.**",
-    "intro": "Burton's Road Division plows the public streets, and its snow plan is plain about the order: major roads first, local streets after. The plan aims for safe roads at safe speeds, not bare pavement. The driveway, the walk to the door and the sidewalk out front are the owner's to clear.",
+    "title": "What the city plows, and **what owners clear.**",
+    "intro": "In Burton, the city's Road Division plows the public streets, and local streets come after the major roads. Its plan aims for safe roads at safe speeds, not bare pavement. The driveway, the walk to the door and the sidewalk out front are the owner's to clear.",
     "points": [
-      { "title": "Two to three days for local streets", "body": "The city says it clears major streets in about a day and local streets in two to three after a normal snow. For a 4 to 8 inch storm, its plan estimates roughly 72 hours to finish every route in the city." },
-      { "title": "The sidewalk clock", "body": "The city's road page says snow and ice on the sidewalk next to your property has to be cleared by 24 hours after the storm stops, and it treats a miss as a municipal civil infraction. Complaints about uncleared walks go to DPW." },
-      { "title": "Off the shoulder in a storm", "body": "Burton asks people not to park on the shoulder during a storm, because a car there keeps the plow from reaching the edge of the street and could be towed. In a snow emergency the city may issue no parking advisories for neighborhood streets." },
-      { "title": "Snow stays on your side", "body": "Michigan's vehicle code bars depositing snow, ice or slush on any roadway. Our trucks push it back onto your own lawn, and we keep the piles low near the street so nobody backs out blind." },
-      { "title": "Gravel at the end of the drive", "body": "Burton still has a few gravel streets. Where a driveway meets one, we keep the blade off the road surface, so the gravel stays in the street and out of your lawn come spring." }
+      { "title": "Two to three days for local streets", "body": "After a normal snow, the city says it clears major streets in about a day and local streets in two to three. For a 4 to 8 inch storm, its plan estimates roughly 72 hours to finish every route in the city." },
+      { "title": "A 24 hour sidewalk rule", "body": "The city's road page says snow and ice on the sidewalk next to your property has to be cleared by 24 hours after the storm stops, and a miss is a municipal civil infraction. Complaints about uncleared walks go to DPW." },
+      { "title": "No parking on the shoulder", "body": "Burton asks people not to park on the shoulder during a storm, because a car there keeps the plow from the edge of the street and could be towed. In a snow emergency the city may issue no parking advisories for neighborhood streets." },
+      { "title": "Snow stays on your side", "body": "Michigan's vehicle code bars depositing snow, ice or slush on any roadway. Our trucks push it back onto your own lawn and keep the piles low near the street, so you can see traffic as you back out." },
+      { "title": "Gravel at the end of the drive", "body": "Burton still has a few gravel streets. Where a driveway meets one, we keep the blade off the road surface, so the gravel stays in the street instead of in your lawn." }
     ]
   },
   "logistics": {
     "title": "How a Burton snow season is set up.",
     "body": [
-      "Winter starts with a walk before the first snow. Rob looks at the drive, the walks and the steps, notes where snow can be stacked and what has to stay open, and explains the residential snow package options. The terms depend on the property, so he goes over them with you in person.",
+      "Service starts with a visit from Rob before the first snow. He looks at the drive, the walks and the steps, notes where snow can be stacked and what has to stay open, and explains the residential snow and salting packages in person, because the terms depend on the property.",
       "When it snows, our trucks plow the driveway, the crew shovels the walks to the concrete, and blue ice melt goes on the walk and the steps. MSU Extension notes that salt builds up in beds beside walks and drives, so salty snow gets piled away from the shrubs wherever the lot allows.",
-      "If your drive crosses a ditch or a culvert, show Rob where the edges are before the ground turns white. Stakes along a ditch keep a plow truck right where it belongs."
+      "If your drive crosses a ditch or a culvert, show Rob where the edges are on that visit. Stakes along the ditch keep the plow on the drive once snow hides the edge."
     ],
     "facts": [
       { "label": "Driveways", "value": "Plowed with our own trucks" },
@@ -40,11 +40,11 @@
   },
   "photo": "walk-cleared",
   "faq": [
-    { "q": "Do you plow driveways in Burton?", "a": "Yes. Grand Scapes plows residential driveways in Burton with our own trucks, shovels the walks and puts ice melt down where people walk. Rob sets up winter service in person before the first snow and explains the snow and salting package options." },
-    { "q": "How long do I have to clear my sidewalk in Burton?", "a": "The city's road page says the owner or occupant must clear snow and ice from the sidewalk next to the property by 24 hours after the storm stops, and keep it free of obstructions. A miss is a municipal civil infraction. Check with the city for the current wording." },
-    { "q": "When does Burton plow residential streets?", "a": "After the major roads. The city says it clears majors in about a day and locals in two to three after a normal snow, and its plan estimates about 72 hours to finish every route after a 4 to 8 inch storm. Bigger storms take longer." },
-    { "q": "Can I park on the street when it snows in Burton?", "a": "The city asks people not to park on the shoulder during a storm, since it blocks the plow from the edge of the street and the car could be towed. In a snow emergency it may issue no parking advisories, posted on the city website and sent to local news." },
-    { "q": "Is it legal to push snow into the road in Michigan?", "a": "No. Michigan's vehicle code, MCL 257.677a, forbids depositing snow, ice or slush on any roadway or highway, and a violation is a civil infraction. We keep the snow from your drive on your own property." }
+    { "q": "Do you plow driveways in Burton?", "a": "Yes. Grand Scapes plows residential driveways in Burton with our own trucks, shovels the walks and puts ice melt down where people walk. We can clear the public sidewalk out front as well, and the estimate is free." },
+    { "q": "How long do I have to clear my sidewalk in Burton?", "a": "You have 24 hours after the storm stops, according to the city's road page. The owner or occupant must clear snow and ice from the sidewalk next to the property and keep it free of obstructions, and a miss is a municipal civil infraction. Check with the city for the current wording." },
+    { "q": "When does Burton plow residential streets?", "a": "Usually two to three days after a normal snow, once the major roads are done. For a 4 to 8 inch storm, the city's plan estimates about 72 hours to finish every route, and bigger storms take longer." },
+    { "q": "Can I park on the street when it snows in Burton?", "a": "The city asks you not to. A car on the shoulder during a storm keeps the plow from the edge of the street, and it could be towed. In a snow emergency the city may issue no parking advisories, posted on its website and sent to local news." },
+    { "q": "Is it legal to push snow into the road in Michigan?", "a": "No. State law forbids depositing snow, ice or slush on any roadway or highway, and a violation is a civil infraction. Snow from your drive stays on your own property." }
   ],
   "reviews": ["rick-b", "stacy"]
 }

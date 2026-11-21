@@ -7,7 +7,7 @@
   "hero": {
     "kicker": "Snow removal and plowing in Grand Blanc, MI",
     "title": "A plowed driveway, **all winter long.**",
-    "lede": "Grand Scapes plows driveways in Grand Blanc and across Genesee County with our own trucks: white pickups with stainless plows. We take care of homes and businesses, and we can shovel the walks and salt them too. Rob walks the drive with you first, so you both know the plan.",
+    "lede": "Grand Scapes plows driveways in Grand Blanc and across Genesee County with our own trucks: white pickups with stainless plows. We take care of homes and businesses, and we can shovel the walks and salt them too.",
     "chips": [
       "Our own plow trucks",
       "Homes and businesses",
@@ -23,7 +23,7 @@
       "eyebrow": "How it works",
       "title": "Plowed, stacked and **kept open.**",
       "body": [
-        "Snow removal with us is simple. When it snows, our trucks plow your driveway and stack the snow off to the sides, on your property and out of the road. If you add walks or salting, the front walk and steps are shoveled to the concrete and ice melt goes down where you walk.",
+        "When it snows, our trucks plow your driveway and stack the snow off to the sides, on your property and out of the road. If you add walks or salting, the front walk and steps are shoveled to the concrete and ice melt goes down where you walk.",
         "Before the season, Rob comes out and walks the property with you. He looks at where the snow can go, where the cars park, what sits near the edge of the drive (a mailbox, a lamp post, a bed you care about) and whether you want the walks done. Then he explains the options and gives you a free estimate."
       ],
       "checks": [
@@ -51,29 +51,29 @@
       "type": "cards",
       "plane": "white",
       "eyebrow": "A Genesee County winter",
-      "title": "What a winter here **really brings.**",
+      "title": "How much snow **a winter brings.**",
       "intro": "The closest long official snow record to Grand Blanc is kept at Flint's Bishop Airport. These are the National Weather Service numbers.",
       "columns": 4,
       "items": [
         {
           "tag": "Season",
           "title": "About 52 inches",
-          "body": "The NWS normal for Flint is 52.1 inches of snow a season, based on 1991 to 2020. That is up from 47.4 inches in the 1981 to 2010 normal."
+          "body": "The NWS normal for Flint is 52.1 inches of snow a season, based on 1991 to 2020."
         },
         {
           "tag": "Peak",
-          "title": "January is the big month",
+          "title": "January is the snowiest",
           "body": "January averages 15.1 inches at Flint, February 13.0 and December 11.4. Those three months bring about three quarters of the season's snow."
         },
         {
           "tag": "Edges",
-          "title": "It starts early and ends late",
+          "title": "November through April",
           "body": "November averages 3.3 inches and March 6.6, with a little in October and 2.4 inches in April. Stakes go in before the ground freezes and stay until spring."
         },
         {
           "tag": "Record",
-          "title": "Some winters are a lot",
-          "body": "The snowiest season on record at Flint was 85.3 inches, in the winter of 2017 to 2018. The second was 83.9 inches, four winters before that."
+          "title": "The record is 85.3 inches",
+          "body": "The snowiest season on record at Flint was 85.3 inches, in the winter of 2017 to 2018. The second snowiest, 83.9 inches, came four winters earlier."
         }
       ]
     },
@@ -88,8 +88,8 @@
           "body": "Call or text [(810) 990-3040](tel:+18109903040). Tell him the address, roughly how long the drive is, and whether you want the walks and salt too."
         },
         {
-          "title": "He walks the property",
-          "body": "Rob looks at the drive, the parking, the mailbox and where the snow can be piled, then explains the options and gives you a free estimate."
+          "title": "Get the estimate",
+          "body": "Rob explains the options for your drive, with or without walks and salt, and gives you a free estimate."
         },
         {
           "title": "Mark the edges",
@@ -106,7 +106,7 @@
           "body": "When the snow is gone, the stakes come out and the yard is ready for a [spring cleanup](/spring-cleanup/) and the first mow."
         }
       ],
-      "footnote": "How a season is quoted and how the trucks run in a storm are part of the conversation with Rob. Every drive is different, so he quotes after he has seen yours."
+      "footnote": "Ask Rob how a season is quoted and how the trucks run in a storm when he comes out to see the drive."
     },
     {
       "type": "intro",
@@ -114,11 +114,11 @@
       "eyebrow": "Grand Blanc",
       "title": "Who plows what in **Grand Blanc Township.**",
       "body": [
-        "In Grand Blanc Township, the township's public works crews plow the residential streets, and the Genesee County Road Commission takes care of the major roads such as Saginaw, Dort Highway, Baldwin and Holly. Neither one clears a private driveway. That part is yours, or ours.",
+        "In Grand Blanc Township, the township's public works crews plow the residential streets, and the Genesee County Road Commission takes care of the major roads such as Saginaw, Dort Highway, Baldwin and Holly. Neither one clears a private driveway.",
         "The township asks residents not to park in the road during snow, to leave garbage cans in the driveway a couple of feet back from the road, and to wait for the street plow to finish before clearing the end of the drive, since it can fill it back in. The township's snow page has the rest. In the City of Grand Blanc, check the city's own rules."
       ],
       "checks": [
-        "Do not shovel or plow snow back into the road. The township says it is against the law, and Michigan's vehicle code (MCL 257.677a) says the same.",
+        "Do not shovel or plow snow back into the road. The township says it is against the law, and state law says the same.",
         "Keep the mailbox back from the edge. The township says one that hangs over the road will get hit.",
         "Street plows may come back days after a storm to widen the road, the township says, and that can refill the end of a cleared drive."
       ],
@@ -132,8 +132,8 @@
       "type": "gallery",
       "plane": "ink",
       "eyebrow": "Our trucks",
-      "title": "Plowed drives, **real winters.**",
-      "intro": "Every photo here is from our own snow work.",
+      "title": "Photos from **our snow work.**",
+      "intro": "Our own trucks on drives we plowed and salted.",
       "photos": [
         "plow-push",
         "plow-pair",
@@ -145,7 +145,7 @@
       "type": "plan",
       "plane": "paper",
       "eyebrow": "Plan your year",
-      "title": "Snow is one season. **Plan the rest.**",
+      "title": "Plowing, then **the other seasons.**",
       "intro": "Put winter plowing next to spring cleanup, weekly mowing and fall leaves, and see the whole year for your yard on one page."
     }
   ],
@@ -156,11 +156,11 @@
     },
     {
       "q": "How much does snow plowing cost?",
-      "a": "It depends on the drive: how long and wide it is, where the snow can go, and whether you add walks or salting. Rob comes out, walks the property and explains the options before he quotes, and the estimate is free. We do not publish prices, because no two driveways are the same."
+      "a": "It depends on the drive: how long and wide it is, where the snow can go, and whether you add walks or salting. Rob quotes each drive after seeing it, and the estimate is free. We do not publish prices, because no two driveways are the same."
     },
     {
       "q": "When does the plow come during a storm?",
-      "a": "That depends on the storm and on the options you choose with Rob, so ask him when he walks the property. He will explain how our trucks run during a snowfall before you sign up, so you know what to expect when the first one hits."
+      "a": "It depends on the storm and on the options you choose with Rob. He explains how our trucks run during a snowfall before you sign up, so ask him at the estimate."
     },
     {
       "q": "Do I need driveway stakes?",
@@ -168,7 +168,7 @@
     },
     {
       "q": "Can you push the snow into the street?",
-      "a": "No. Michigan law, MCL 257.677a, says a person shall not deposit snow, ice or slush on any roadway or highway, and a violation is a civil infraction. We stack the snow on your property, where it will not block your view of the road when you back out."
+      "a": "No. Michigan law says a person shall not deposit snow, ice or slush on any roadway or highway, and a violation is a civil infraction. We stack the snow on your property, where it will not block your view of the road when you back out."
     },
     {
       "q": "Who pays if a road plow knocks down my mailbox?",
@@ -193,7 +193,7 @@
   ],
   "quote": {
     "title": "Tell us about the driveway.",
-    "lede": "Where is it, how long is it, and do you want the walks done too? Call or text Rob, or send the form, and he will come out and walk it with you."
+    "lede": "Send the address, roughly how long the drive is and whether you want the walks done too. Call or text Rob, or use the form, and he will set up a time to see it."
   },
   "summary": {
     "title": "What snow removal with us includes.",

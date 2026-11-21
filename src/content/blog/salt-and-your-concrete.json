@@ -5,7 +5,7 @@
     "title": "Rock salt, your concrete, pets and plants | Grand Scapes",
     "description": "Rock salt melts ice to about 15 degrees and can worsen scaling. New concrete, pets and plants need care. What MSU Extension, the ASPCA and the FHWA say."
   },
-  "title": "Rock salt, concrete and **the dog's paws.**",
+  "title": "What rock salt does **to concrete.**",
   "lede": "Rock salt is the most common ice melt, and it works best near freezing. It also has costs: it can make surface scaling on concrete worse, it is hard on dogs' paws, and it builds up in the beds along a walk. Here is what the sources say, and how to get by with less of it.",
   "photo": "walk-cleared",
   "short": [
@@ -19,7 +19,7 @@
     {
       "h": "How rock salt works, and when it stops",
       "p": [
-        "Ice melt lowers the temperature at which water freezes, so a brine forms and loosens the ice from the pavement. University of Nebraska Extension explains that deicers melt down through the ice to the hard surface and then spread out underneath. That is why they are meant to make shoveling easier, not to melt a whole snowfall.",
+        "Ice melt lowers the temperature at which water freezes, so a brine forms and loosens the ice from the pavement. Deicers melt down through the ice to the hard surface and then spread out underneath. That is why they are meant to make shoveling easier, not to melt a whole snowfall.",
         "Rock salt slows sharply as it gets colder. The Minnesota Pollution Control Agency lists its lowest practical melting temperature as 15°F pavement, and MSU Extension says it is not effective below 15 degrees."
       ],
       "table": {
@@ -31,7 +31,7 @@
           ["15°F", "About 6 lb", "1 hour"],
           ["10°F and colder", "About 5 lb or less", "Too slow; dry salt may blow away"]
         ],
-        "note": "Figures for dry rock salt from the Minnesota Pollution Control Agency, as published in the University of Minnesota's SmartWinterSalt guide."
+        "note": "Figures for dry rock salt from the Minnesota Pollution Control Agency."
       }
     },
     {
@@ -52,19 +52,19 @@
     {
       "h": "What salt does to concrete",
       "p": [
-        "The damage is called scaling: the top surface flakes or peels away and leaves rough, pitted patches. University of Nebraska Extension explains that water soaks into the fine pores of the concrete, freezes, expands and pops small flakes loose. The Federal Highway Administration says chemical deicers amplify that freeze and thaw damage, partly because salty water keeps the concrete wetter.",
-        "Good concrete resists it. Nebraska Extension says outdoor concrete should be air entrained, with tiny bubbles that give freezing water room, should have proper cement content and should be cured correctly. It adds that sealers can keep concrete from absorbing water and salts. The Pennsylvania Aggregates and Concrete Association says sodium chloride or calcium chloride ice melts are generally considered acceptable on good quality, dense concrete."
+        "The damage is called scaling: the top surface flakes or peels away and leaves rough, pitted patches. Water soaks into the fine pores of the concrete, freezes, expands and pops small flakes loose. The Federal Highway Administration says chemical deicers amplify that freeze and thaw damage, partly because salty water keeps the concrete wetter.",
+        "Well made concrete resists it. Outdoor concrete should be air entrained, with tiny bubbles that give freezing water room, and it should have proper cement content and be cured correctly. Sealers can also keep concrete from absorbing water and salts. Concrete industry guidance says sodium chloride or calcium chloride ice melts are generally considered acceptable on well made, dense concrete."
       ]
     },
     {
       "h": "New concrete: skip the salt the first winter",
       "p": [
-        "Fresh concrete is the most likely to scale. MSU Extension says not to use deicers on new concrete that has not fully cured. The Pennsylvania concrete group goes further and says to avoid deicers during the critical first year after placement. Nebraska Extension adds that new concrete should air dry for at least 30 days before its first freeze, which is hard to manage for a slab poured late in the fall.",
+        "Fresh concrete is the most likely to scale. MSU Extension says not to use deicers on new concrete that has not fully cured. Concrete industry guidance goes further and says to avoid deicers during the first year after placement. New concrete should also air dry for at least 30 days before its first freeze, which is hard to manage for a slab poured late in the fall.",
         "If your drive or walk was poured this year, use sand for grip the first winter and shovel early, before snow gets packed down. Tell whoever treats your walks, including us."
       ],
       "list": [
-        "**Ammonium nitrate and ammonium sulfate.** Nebraska Extension says they damage concrete more than sodium or calcium chloride, and the Pennsylvania concrete group says never to use them as deicers.",
-        "**A bag that says safe.** The same group points out that a big safe on the front of a bag often comes with conditions in the fine print on the back. Read it."
+        "**Ammonium nitrate and ammonium sulfate.** They damage concrete more than sodium or calcium chloride, and concrete industry guidance says never to use them as deicers.",
+        "**A bag that says safe.** The same guidance points out that a big safe on the front of a bag often comes with conditions in the fine print on the back, so read the back."
       ]
     },
     {
@@ -91,7 +91,7 @@
       "h": "How to use less salt",
       "list": [
         "**Shovel first.** MSU says clearing as much snow as possible first lets any product work better, so less is needed.",
-        "**Measure it.** The University of Minnesota's guide says a 12 ounce coffee mug holds about a pound of salt, which is enough for about 250 square feet.",
+        "**Measure it.** Minnesota's winter salt guide says a 12 ounce coffee mug holds about a pound of salt, which is enough for about 250 square feet.",
         "**Do not double up.** The same guide says applying more salt than needed does not melt ice faster.",
         "**Watch the thermometer.** Below about 15°F, switch to sand or a product made for the cold.",
         "**Sweep up the leftovers.** MSU suggests sweeping up salt residue once the snow melts, to keep it out of local waterways."
@@ -108,10 +108,10 @@
       "list": [
         "Minnesota Pollution Control Agency, Minnesota Stormwater Manual, How salt works and overview of deicing chemicals",
         "University of Minnesota LTAP, SmartWinterSalt guide for homeowners",
-        "Michigan State University Extension, Terry Gibb, Winter ice and deicers (2015), and Bob Bricault, Salt damage on landscape plants (2011)",
+        "MSU Extension, Winter ice and deicers (2015) and Salt damage on landscape plants (2011)",
         "University of Nebraska Extension, G1121, Winter Deicing Agents for the Homeowner",
         "Federal Highway Administration, Tech Brief FHWA-HIF-17-008, Chemical Deicers and Concrete Pavement (2018)",
-        "Pennsylvania Aggregates and Concrete Association, Protecting Concrete From Damage Due to Deicers, citing Portland Cement Association research",
+        "Pennsylvania Aggregates and Concrete Association, Protecting Concrete From Damage Due to Deicers",
         "ASPCA, Is It Safe to Use De-Icers Around Your Dog? (2026) and Keeping Pets Safe during Winter (2018)"
       ]
     }

@@ -7,19 +7,19 @@
   },
   "hero": {
     "kicker": "Commercial snow removal in Flint, MI",
-    "title": "Lots open **before the doors.**",
-    "lede": "Grand Scapes plows and salts Flint parking lots, drives and walks for businesses, churches, offices and apartment owners, and keeps the grounds mowed and the beds kept in summer. Rob walks the property and explains the commercial package options.",
+    "title": "Lots plowed, **ramps and steps salted.**",
+    "lede": "Grand Scapes plows and salts Flint parking lots, drives and walks for businesses, churches, offices and apartment owners, and keeps the grounds mowed and the beds weeded and mulched in summer.",
     "chips": ["Lots plowed and salted", "Walks and entrances", "Grounds mowed in summer", "Free estimate"],
     "photo": "commercial-lot"
   },
   "local": {
     "eyebrow": "Commercial property in Flint",
-    "title": "Clinics, campuses, churches and **corner lots.**",
-    "intro": "The city has colleges, hospitals, downtown offices along Saginaw Street, churches and apartment buildings, all places people have to reach on a January morning. The snow rules here are the same for every one of them, and they shape how a lot gets cleared.",
+    "title": "Snow rules for **Flint businesses.**",
+    "intro": "Flint's colleges, hospitals, downtown offices along Saginaw Street, churches and apartment buildings all follow the same snow rules, and those rules shape how a lot gets cleared.",
     "points": [
       { "title": "Walks are the owner's job", "body": "The city has said clearing sidewalks is the property owner's job under its ordinance. For a business that means the public walk along the frontage, plus the walks, ramps and steps to every door." },
       { "title": "No piles in the street", "body": "Snow from lots and drives cannot go into the street. The city asks businesses not to push it there, and Michigan law bars depositing snow on a roadway or piling it where it blocks a driver's view. We plan where the piles go before the first storm." },
-      { "title": "Downtown runs on an early clock", "body": "The city's snow plan treats downtown as its own area and plows it overnight or in the early morning, before parked cars and traffic. A downtown entrance and walk need that same early start." },
+      { "title": "Downtown is plowed early", "body": "The city's snow plan treats downtown as its own area and plows it overnight or in the early morning, before parked cars and traffic. A downtown entrance and walk are best planned around the same schedule." },
       { "title": "Some big roads are the county's", "body": "Dort Highway, Corunna Road and parts of Court Street and Ballenger Highway are Genesee County Road Commission roads inside the city. If your entrance is on one, the county's plow, not the city's, sets when the ridge shows up across it." }
     ]
   },
@@ -39,7 +39,7 @@
   },
   "photo": "salt-spreader",
   "faq": [
-    { "q": "Do you do commercial snow removal in Flint?", "a": "Yes. Grand Scapes plows and salts parking lots, drives and walks for businesses, churches, offices and property managers in Flint, with our own trucks. Rob walks the property and explains the commercial snow and salting package options before winter." },
+    { "q": "Do you do commercial snow removal in Flint?", "a": "Yes. Grand Scapes plows and salts parking lots, drives and walks for businesses, churches, offices and property managers in Flint, with our own trucks. Estimates are free." },
     { "q": "Who has to clear the public sidewalk in front of a business in Flint?", "a": "The property owner. The city has said sidewalk clearing by owners is required by ordinance, and it asks businesses not to push snow into the street. Check with the city for the current rule. Clearing the frontage walk can be part of your service." },
     { "q": "Where does the snow from a parking lot go?", "a": "On the property. Michigan law bars depositing snow on a roadway and piling it so it blocks a driver's view at the road, so piles go to the back or the sides of the lot, away from entrances and walks." },
     { "q": "Do you mow and maintain commercial grounds in Flint too?", "a": "Yes. We mow, trim, edge and blow off commercial grounds weekly, keep the beds clean and mulched, and do spring and fall cleanups. See [commercial grounds and snow](/commercial/) for how a year-round account works." },

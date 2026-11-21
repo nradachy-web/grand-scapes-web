@@ -34,8 +34,8 @@ const [l1, l2] = await Promise.all([168, 336].map((w) => getImage({ src: logoSrc
       {
         GROUPS.map((g) => (
           <div>
-            <h2 class="ftr__h">{g.name}</h2>
-            <ul class="ftr__list">
+            <p class="ftr__h">{g.name}</p>
+            <ul class="ftr__list" aria-label={g.name}>
               {inGroup(g.id).map((s) => <li><a href={href(s.path)}>{s.name}</a></li>)}
             </ul>
           </div>
@@ -48,8 +48,8 @@ const [l1, l2] = await Promise.all([168, 336].map((w) => getImage({ src: logoSrc
     {
       AREAS.map((a) => (
         <div>
-          <h2 class="ftr__h">{a}</h2>
-          <ul class="ftr__inline">
+          <p class="ftr__h">{a}</p>
+          <ul class="ftr__inline" aria-label={a}>
             {inArea(a).map((c) => <li><a href={href(hubPath(c))}>{c.name}</a></li>)}
           </ul>
         </div>

@@ -6,8 +6,8 @@
   },
   "hero": {
     "kicker": "Bush and small tree removal in Grand Blanc, MI",
-    "title": "Out, **roots and all.**",
-    "lede": "Grand Scapes digs out overgrown bushes and small trees, roots and all, often with a compact track loader, and hauls them away. The bed is left open and ready to rebuild. Big trees are not our work, and we will tell you so plainly.",
+    "title": "Overgrown bushes out, **roots and all.**",
+    "lede": "Grand Scapes digs out overgrown bushes and small trees, roots and all, often with a compact track loader, and hauls them away. The bed is left open and ready to rebuild. Big trees are not our work.",
     "chips": [
       "Bushes dug out",
       "Small trees only",
@@ -39,7 +39,7 @@
       "plane": "white",
       "eyebrow": "Why the roots matter",
       "title": "Cut it at the ground and **it comes back.**",
-      "intro": "Plenty of shrubs sprout again from what is left underground. Michigan State University Extension is blunt about two common ones.",
+      "intro": "Plenty of shrubs sprout again from what is left underground. MSU Extension is blunt about two common ones.",
       "columns": 3,
       "items": [
         {
@@ -60,7 +60,7 @@
       "type": "steps",
       "plane": "paper",
       "eyebrow": "How a removal goes",
-      "title": "Look, mark, **dig, haul.**",
+      "title": "Four steps to **an open bed.**",
       "steps": [
         {
           "title": "Rob looks first",
@@ -72,7 +72,7 @@
           "note": "MISS DIG 811"
         },
         {
-          "title": "Out they come",
+          "title": "Dig them out",
           "body": "Bushes and small trees come out with their root balls, by hand or with a compact track loader, depending on their size and how easy they are to reach."
         },
         {
@@ -127,7 +127,7 @@
       "type": "intro",
       "plane": "paper",
       "eyebrow": "Small trees only",
-      "title": "Big trees are **not ours.**",
+      "title": "We do not take down **big trees.**",
       "body": [
         "We take out bushes, shrubs and small trees, the kind we can pull with the roots, like the cherry tree in Bob S.'s review. Big trees, and the stumps they leave, are not our work.",
         "For a big tree, call a tree company first. MSU Extension advises leaving tall trees and large branches to people with the skills and equipment for them, and anything near power lines to the utility. Once the tree is gone, we can rebuild the bed around where it stood."
@@ -164,11 +164,11 @@
     },
     {
       "q": "Should I remove or trim my overgrown shrubs?",
-      "a": "If the shrub still fits its spot and is green inside, a trim may bring it back. If it has outgrown the window, is bare inside or is mostly dead, removal is usually the better call. Junipers in particular do not regrow from bare inner branches, MSU Extension notes. Rob will give you his honest read."
+      "a": "If the shrub still fits its spot and is green inside, a trim may bring it back. If it has outgrown the window, is bare inside or is mostly dead, removal is usually the better call. Junipers in particular do not regrow from bare inner branches, MSU Extension notes."
     },
     {
       "q": "Do I need to call MISS DIG to remove bushes?",
-      "a": "Yes, someone does. MISS DIG 811 says any digging project needs a ticket at least 3 business days ahead, regardless of size or depth, and the person or company doing the digging places it. MISS DIG does not mark private lines like sprinkler lines, invisible dog fences or power to a shed, so point those out to us."
+      "a": "Yes. MISS DIG 811 says any digging project needs a ticket at least 3 business days ahead, regardless of size or depth, and the person or company doing the digging places it. MISS DIG does not mark private lines like sprinkler lines, invisible dog fences or power to a shed, so point those out to us."
     },
     {
       "q": "Can I get rid of my Japanese barberry or buckthorn?",
@@ -181,7 +181,7 @@
   ],
   "quote": {
     "title": "Tell us what has to go.",
-    "lede": "How many bushes or small trees, and roughly how big? Call or [text Rob](sms:+18109903040) a photo at (810) 990-3040, and he will come out and quote it."
+    "lede": "How many bushes or small trees, and roughly how big they are. Call or [text Rob](sms:+18109903040) a photo at (810) 990-3040, and he will come out and quote it."
   },
   "summary": {
     "title": "Bush removal, roots and all.",

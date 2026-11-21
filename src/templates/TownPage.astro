@@ -52,10 +52,10 @@ const elsewhere = townsFor(svc).filter((t) => t.id !== town.id);
 const label = cityLabel(town);
 /* The same tools the service page has, so a town page is never the plain version. */
 const TOY: Partial<Record<string, { kind: 'mow' | 'leaf' | 'snow'; title: string; intro: string }>> = {
-  'fall-cleanup': { kind: 'leaf', title: 'A fall cleanup, **minus the rake.**', intro: 'Drag across the lawn to clear it. Ours uses a leaf vacuum and a trailer, but this is the result.' },
-  'snow-removal': { kind: 'snow', title: 'Plow the drive **from the couch.**', intro: 'Drag across the driveway to open it up. Ours happens in a truck in the dark, but this is the result.' },
-  'commercial': { kind: 'snow', title: 'Open it up **before anyone arrives.**', intro: 'Drag across the drive to plow it. On a lot it is the same job, just bigger.' },
-  'spring-cleanup': { kind: 'mow', title: 'The first cut, **one drag away.**', intro: 'Drag across the lawn to mow it. This is what the first visits of the season are for.' },
+  'fall-cleanup': { kind: 'leaf', title: 'Drag to clear **the leaves.**', intro: 'An illustration, not one of our jobs. Drag across the lawn to clear it. On a real cleanup it is a leaf vacuum and a trailer.' },
+  'snow-removal': { kind: 'snow', title: 'Drag to plow **the driveway.**', intro: 'An illustration, not one of our jobs. Drag across the snow to clear the drive the way a plow does, one pass at a time.' },
+  'commercial': { kind: 'snow', title: 'Open **before anyone arrives.**', intro: 'An illustration, not one of our jobs. Drag across the drive to plow it. A lot is the same job on a bigger scale.' },
+  'spring-cleanup': { kind: 'mow', title: 'The first cut **of the season.**', intro: 'An illustration, not one of our jobs. Drag across the lawn to mow it. Spring cleanup ends with the first cut.' },
 };
 const toy = TOY[svc.id];
 const stripes = svc.id === 'lawn-mowing';

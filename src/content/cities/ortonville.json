@@ -7,7 +7,7 @@
   "hero": {
     "kicker": "Lawn care, landscaping and snow removal in Ortonville, MI",
     "title": "Village lots and **long drives.**",
-    "lede": "Grand Scapes mows, cleans up, landscapes and plows in Ortonville and the rest of Brandon Township, from small lots near the old mill to acreage on rolling back roads where the driveway is longer than some streets.",
+    "lede": "Grand Scapes mows, cleans up, landscapes and plows in Ortonville and the rest of Brandon Township, from small lots near the old mill to acreage with long drives on rolling back roads.",
     "chips": [
       "Weekly mowing",
       "Leaf removal",
@@ -17,20 +17,20 @@
   },
   "about": {
     "eyebrow": "Yards in Ortonville",
-    "title": "A one square mile village and **a township of acreage.**",
+    "title": "Small lots in the village, **acreage outside it.**",
     "body": [
-      "Ortonville grew up around Amos Orton's dam and gristmill on Kearsley Creek, and the village still calls itself the downtown of Brandon Township. It covers about one square mile. Around it, the township's 2022 master plan describes rolling hills, woodlands, wetlands and lakes, and that is what most yards out here look like.",
-      "Lot sizes run the whole range. The township counts more than 3,000 parcels under 8,000 square feet and more than 2,000 between one and two and a half acres, while parcels over ten acres cover the most ground. A village lot needs a careful mow and a clean edge; five acres needs a wide deck, a plan for the leaves and a long plowed drive.",
-      "We work in Ortonville and Brandon Township from our shop on Embury Road in Grand Blanc. Rob comes out, walks the property with you, village lot or acreage, and gives you a free estimate."
+      "The village of Ortonville sits on Kearsley Creek and calls itself the downtown of Brandon Township. Around it, the township is rolling hills, woodlands, wetlands and lakes, and that is what most yards out here look like.",
+      "Lot sizes run the whole range, from small village lots to acreage and parcels of ten acres or more. A village lot needs a careful mow and a clean edge; five acres needs a wide deck, a plan for the leaves and a long plowed drive.",
+      "We work in Ortonville and across Brandon Township from our shop on Embury Road in Grand Blanc."
     ],
     "points": [
       {
-        "title": "Kearsley Creek",
-        "body": "Kearsley Creek is a cold water trout stream with its headwaters in Brandon Township. The master plan names sediment as its main problem, from eroding banks, cleared streamsides, construction sites and roadside ditches, so clippings, leaves and loose soil belong on the lawn, not in the ditch."
+        "title": "Keep clippings out of Kearsley Creek",
+        "body": "Kearsley Creek is a cold water trout stream that starts in Brandon Township, and the township's master plan names sediment from eroding banks, bare ground and roadside ditches as its main problem. So clippings, leaves and loose soil belong on the lawn, not in the ditch."
       },
       {
-        "title": "Sand, till and muck",
-        "body": "The USDA soil survey maps the village largely as sandy, well drained outwash, with loamy till across much of the township and wet muck in its low spots. One lot can go from dry to soggy as it runs downhill."
+        "title": "Dry sand uphill, wet muck below",
+        "body": "Much of the village sits on sandy ground that drains fast, with heavier soil across much of the township and wet muck in its low spots. One lot can go from dry to soggy as it runs downhill."
       },
       {
         "title": "Burning by permit",
@@ -44,7 +44,7 @@
     "photo": "truck-trailer"
   },
   "logistics": {
-    "title": "Getting a job set up out here.",
+    "title": "Getting an Ortonville job set up.",
     "body": [
       "Out here the job is often about distance: long frontage to trim, a long drive to plow and a lot of ground between the house and the road. Rob walks it with you first, so the estimate fits the property instead of a guess.",
       "Call or text Rob at [(810) 990-3040](tel:+18109903040), or use the [estimate form](/get-an-estimate/). Tell him whether you are in the village or the township, and whether the drive is paved or gravel."
@@ -79,11 +79,11 @@
     },
     {
       "q": "Can I burn leaves in Ortonville?",
-      "a": "In Brandon Township, dry leaves can be burned with a yearly permit from the Brandon Fire Department, on calendar days for lots under 3 acres, and never within 50 feet of a building or in the road right of way. Inside the village, check with the village office first. Or skip the smoke and have us haul them."
+      "a": "In Brandon Township, dry leaves can be burned with a yearly permit from the Brandon Fire Department, on calendar days for lots under 3 acres, and never within 50 feet of a building or in the road right of way. Inside the village, check with the village office first. Or have us haul them away in a [leaf cleanup](/leaf-removal-ortonville-mi/)."
     },
     {
       "q": "Do you plow long driveways in Brandon Township?",
-      "a": "Yes. Rob walks a long drive before the season to see the grade, the turns and where the snow can go, then explains the options. We plow with our own trucks and can clear and salt the walks too."
+      "a": "Yes. Before the season, Rob looks at the grade, the turns and where the snow can go on a long drive, then explains the options. We plow with our own trucks and can clear and salt the walks too."
     }
   ],
   "reviews": [

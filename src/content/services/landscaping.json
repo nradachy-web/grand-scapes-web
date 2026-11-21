@@ -6,8 +6,8 @@
   },
   "hero": {
     "kicker": "Landscaping in Grand Blanc, MI and across Genesee County",
-    "title": "Old beds out. **New lines in.**",
-    "lede": "Grand Scapes tears out tired beds and builds them back: a new shape, a gray block wall or a cut natural edge, new plants, landscape fabric and fresh mulch. Rob comes out to look at the yard himself, suggests what it needs and quotes the job before anything gets dug.",
+    "title": "Old beds dug out and **built back.**",
+    "lede": "Grand Scapes tears out tired beds and builds them back: a new shape, a gray block wall or a cut natural edge, new plants, landscape fabric and fresh mulch, in Grand Blanc and across Genesee County.",
     "chips": [
       "Old beds dug out",
       "Block wall or natural edge",
@@ -21,10 +21,10 @@
       "type": "intro",
       "plane": "paper",
       "eyebrow": "The short version",
-      "title": "A bed rebuilt **from the roots up.**",
+      "title": "What a bed **rebuild includes.**",
       "body": [
         "Landscaping, for us, mostly means rebuilding the beds around a house. The old shrubs, weeds and borders come out, the bed gets a new shape, and it goes back together with a border that holds, plants that suit the spot, landscape fabric and fresh mulch.",
-        "Foundation shrubs get planted small and grow up fast. Michigan State University Extension says size control is the main reason people prune foundation plants, and that the better question is often whether the shrub was planted in the right place to begin with. When the answer is no, we start the bed over."
+        "Foundation shrubs get planted small and grow up fast. MSU Extension says size control is the main reason people prune foundation plants, and that the better question is often whether the shrub was planted in the right place to begin with. When the answer is no, we start the bed over."
       ],
       "checks": [
         "Old shrubs, small trees and borders dug out, roots and all",
@@ -55,7 +55,7 @@
       "type": "steps",
       "plane": "paper",
       "eyebrow": "How a landscaping job runs",
-      "title": "Walk it, dig it, **build it back.**",
+      "title": "From the estimate to **fresh mulch.**",
       "steps": [
         {
           "title": "Rob walks the yard",
@@ -67,7 +67,7 @@
           "note": "MISS DIG 811"
         },
         {
-          "title": "Out with the old",
+          "title": "Tear out",
           "body": "Old shrubs and small trees come out roots and all, often with a compact track loader, along with the old border, the weeds and the worn out mulch. It all goes out in our dump trailer."
         },
         {
@@ -113,10 +113,10 @@
       "type": "intro",
       "plane": "paper",
       "eyebrow": "Grand Blanc",
-      "title": "Home is **Grand Blanc.**",
+      "title": "Most of our beds are **in Grand Blanc.**",
       "body": [
         "Grand Scapes runs out of a shop on Embury Road in Grand Blanc, and the city and Grand Blanc Township are where you will see our yard sign in a finished bed most often. We take landscaping jobs across Genesee County too, from Fenton to Davison and Flint to Holly, and into north Oakland County.",
-        "If your beds have boxwood, there is news this year. In September 2026 the Michigan Department of Agriculture and Rural Development confirmed box tree moth in Genesee County and said it will add the county to its boxwood quarantine. Oakland County is already in it. Tell Rob if boxwood is part of your beds, so the plan accounts for it."
+        "If your beds have boxwood, plan for it this year. In September 2026 Michigan's agriculture department confirmed box tree moth in Genesee County and said it will add the county to its boxwood quarantine. Oakland County is already in it. Tell Rob if boxwood is part of your beds, so the plan accounts for it."
       ],
       "checks": [
         "Town pages for [Fenton](/landscaping-fenton-mi/), [Davison](/landscaping-davison-mi/), [Flint](/landscaping-flint-mi/) and [Clarkston](/landscaping-clarkston-mi/)",
@@ -131,7 +131,7 @@
       "type": "reviews",
       "plane": "ink",
       "eyebrow": "On Google",
-      "title": "What people wrote **after the dig.**",
+      "title": "From our **landscaping customers.**",
       "ids": [
         "reckless-cards",
         "mark-v",
@@ -142,8 +142,8 @@
       "type": "cards",
       "plane": "paper",
       "eyebrow": "Smaller jobs",
-      "title": "Only need **one part of it?**",
-      "intro": "A full rebuild is not always the answer. Each piece of the job can be done on its own.",
+      "title": "Each part can be **done on its own.**",
+      "intro": "Not every yard needs a full rebuild. These are the pieces people book by themselves.",
       "columns": 3,
       "items": [
         {
@@ -159,7 +159,7 @@
           "body": "Overgrown shrubs and small trees dug out and hauled away. See [bush and small tree removal](/bush-removal/)."
         },
         {
-          "title": "Keep it sharp",
+          "title": "Upkeep after",
           "body": "Once the beds are done, [landscape maintenance](/landscape-maintenance/) and [shrub trimming](/shrub-trimming/) keep them that way through the season."
         },
         {
@@ -176,7 +176,7 @@
     },
     {
       "q": "How much does landscaping cost?",
-      "a": "It depends on how much comes out, how big the beds are and what goes back in, which is why Rob prices it after he sees the yard. He will tell you what he would do and what it costs before any digging starts. The estimate is free."
+      "a": "It depends on how much comes out, how big the beds are and what goes back in, Rob prices it after seeing the yard, before any digging starts, and the estimate is free."
     },
     {
       "q": "How long does it take to redo a flower bed?",
@@ -188,7 +188,7 @@
     },
     {
       "q": "Do I need to call MISS DIG before landscaping?",
-      "a": "Someone does. MISS DIG 811 says every digging project needs a ticket at least 3 business days ahead, regardless of size or depth, and the person or company doing the digging places it. MISS DIG does not mark private lines like sprinkler lines, invisible dog fences or power to a shed, so tell us where yours run."
+      "a": "Yes, whoever does the digging calls. MISS DIG 811 says every digging project needs a ticket at least 3 business days ahead, regardless of size or depth, and the person or company doing the digging places it. MISS DIG does not mark private lines like sprinkler lines, invisible dog fences or power to a shed, so tell us where yours run."
     },
     {
       "q": "Can you put in new plants as part of the job?",
@@ -205,7 +205,7 @@
   ],
   "quote": {
     "title": "Tell us about the beds.",
-    "lede": "Which beds, and what is wrong with them? Call or [text Rob](sms:+18109903040) a photo at (810) 990-3040 if that is easier, and he will come out to look and quote it."
+    "lede": "Which beds, and what you would change. Call or [text Rob](sms:+18109903040) a photo at (810) 990-3040 if that is easier, and he will come out to look and quote it."
   },
   "summary": {
     "title": "A landscaping job, start to finish.",

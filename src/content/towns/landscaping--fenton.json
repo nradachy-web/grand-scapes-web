@@ -7,8 +7,8 @@
   },
   "hero": {
     "kicker": "Landscaping in Fenton, MI",
-    "title": "Old beds out, **new lines in.**",
-    "lede": "Grand Scapes rebuilds tired Fenton landscapes: overgrown shrubs and old brick borders out, new bed shapes cut, a block wall, boulders or a natural edge put in, then fabric and fresh mulch. Rob walks it with you first and quotes the job.",
+    "title": "Tired beds torn out and **built back.**",
+    "lede": "Grand Scapes rebuilds tired Fenton landscapes: overgrown shrubs and old brick borders out, new bed shapes cut, a block wall, boulders or a natural edge put in, then fabric and fresh mulch.",
     "chips": [
       "Tear out and rebuild",
       "Block, boulder or natural edge",
@@ -18,29 +18,29 @@
   },
   "local": {
     "eyebrow": "Landscaping in Fenton",
-    "title": "Water, sand and **a floodplain rule.**",
-    "intro": "A landscape here deals with water from two directions: the Shiawassee River through the city and the lakes across the township. Add soils that run from dry sand to wet muck within a few blocks, and the right plan for one yard can be the wrong one next door.",
+    "title": "River lots, lake lots and **mixed soil.**",
+    "intro": "A Fenton landscape deals with water from two directions: the Shiawassee River through the city and the lakes across the township. The soil runs from dry sand to wet muck within a few blocks, so the right plan for one yard can be the wrong one next door.",
     "points": [
       {
         "title": "River lots have a fill rule",
-        "body": "The city's zoning maps a flood hazard overlay along the 100 year floodplain. Inside it, filling or backfilling is prohibited unless the floodplain keeps its capacity and state rules are met. If your yard runs down to the river, a raised bed or a new slope gets checked with the city before any dirt arrives."
+        "body": "Along the river, the city limits filling in the floodplain: fill is not allowed unless the floodplain keeps its capacity and state rules are met. If your yard runs down to the river, a raised bed or a new slope gets checked with the city before any dirt arrives."
       },
       {
         "title": "Deep roots hold a shoreline",
         "body": "MSU Extension says lawn grass along the water has roots too shallow to stop wave erosion, and a buffer of native plants does the job better. The township posts its own information on docks, seawalls and beach sanding, so check with it before changing the bank."
       },
       {
-        "title": "Sand and muck want different plants",
-        "body": "The soil survey shows well drained Boyer loamy sand and Wawasee loam on the rises, and very poorly drained muck in the hollows and by the lakes. A shrub that thrives on one will sulk or drown on the other, so the plant list starts with what is under it."
+        "title": "Different plants for sand and muck",
+        "body": "The rises are mostly sandy ground that drains fast, and the hollows and lake edges are muck that stays wet. A shrub that does well in one will struggle in the other, so the plant list starts with what is under it."
       },
       {
         "title": "Salt and the right of way",
-        "body": "MSU says deicing salt builds up in beds next to drives and walks, so the strip by the road wants tougher plants. On township roads, the county requires a permit for anything placed in the public right of way and calls out rocks and timber borders as hazards."
+        "body": "MSU says deicing salt builds up in beds next to drives and walks, so the strip by the road needs tougher plants. On township roads, the county requires a permit for anything placed in the public right of way and calls out rocks and timber borders as hazards."
       }
     ]
   },
   "logistics": {
-    "title": "From the walk through to the finished bed.",
+    "title": "How a Fenton landscaping job runs.",
     "body": [
       "Rob comes out, walks the yard with you, suggests what it needs and gives you a price. Most rebuilds start with digging out: old shrubs and roots come up with a compact track loader where it fits, and old brick borders come out by hand.",
       "Then the new shape gets cut and the border goes in, whether that is gray block, a run of boulders or a cut natural edge. Shrub beds get fabric, everything gets fresh mulch, and the walks and drive get blown clean. MISS DIG 811 marks buried utility lines before any digging, though private lines like sprinklers are not marked, so tell us where yours run.",
@@ -73,7 +73,7 @@
     },
     {
       "q": "Can I bring in fill to raise a yard near the Shiawassee River?",
-      "a": "Ask the city first. The zoning ordinance prohibits filling, dumping or backfilling in the flood hazard area unless the floodplain's capacity is kept through matching excavation and state approvals are in place. A planting bed at the existing grade is usually the simpler route there."
+      "a": "Ask the city first. Its zoning does not allow filling, dumping or backfilling in the flood hazard area unless the floodplain's capacity is kept through matching excavation and state approvals are in place. A planting bed at the existing grade is usually the simpler route there."
     },
     {
       "q": "Can you landscape a lakefront yard in Fenton Township?",

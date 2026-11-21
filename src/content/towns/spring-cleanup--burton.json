@@ -7,18 +7,18 @@
   },
   "hero": {
     "kicker": "Spring cleanup in Burton, MI",
-    "title": "Winter out, **edges back.**",
-    "lede": "Grand Scapes resets Burton yards each spring: sticks and matted leaves out, beds raked and edged, last year's perennials cut back, the salty strip by the walk looked over, and the first cut timed to the ground. Ready for mulch when you are.",
+    "title": "A Burton yard, **cleared for spring.**",
+    "lede": "Grand Scapes resets Burton yards each spring: sticks and matted leaves out, beds raked and edged, last year's perennials cut back, the salty strip by the walk looked over, and the first cut timed to the ground, so the beds are ready for mulch.",
     "chips": ["Debris out", "Beds edged", "First cut timed right", "Free estimate"],
     "photo": "block-bed-side"
   },
   "local": {
     "eyebrow": "Spring in Burton",
-    "title": "Soft ground **and a salty edge.**",
-    "intro": "Spring in Burton brings two problems most years: a lawn on slow draining loam that stays soft after the thaw, and the strip along the walk and drive that took all winter's ice melt. A cleanup has to work around the first and take a hard look at the second.",
+    "title": "Soft lawns and **salt along the walk.**",
+    "intro": "Most Burton springs bring two problems: a lawn that stays soft after the thaw, and a strip along the walk and drive that took all winter's ice melt. We work around the first and point out the second.",
     "points": [
-      { "title": "Wait for the ground", "body": "MSU Extension warns that turning heavy mowers on saturated soil packs it and damages the turf. On Burton's Conover loam that can mean a few dry days before the first cut, so we rake the beds first while the lawn firms up." },
-      { "title": "Salt along the sidewalk", "body": "The city wants sidewalks cleared by 24 hours after every storm, and that usually means salt. MSU Extension says spring rain helps flush it from the soil, and watering helps in a dry spring. We point out the burned strip so you can decide what to do." },
+      { "title": "Wait for firm ground", "body": "MSU Extension warns that turning heavy mowers on saturated soil packs it and damages the turf. On Burton's slow draining ground that can mean a few dry days before the first cut, so we rake the beds first while the lawn firms up." },
+      { "title": "Salt damage by the walk", "body": "The city wants sidewalks cleared by 24 hours after every storm, and that usually means salt. MSU Extension says spring rain helps flush it from the soil, and watering helps in a dry spring. We point out the burned strip so you can decide what to do." },
       { "title": "Dead wood now, shaping later", "body": "MSU Extension says spring bloomers like lilac, forsythia and spirea set their buds the summer before, so we take out dead wood in spring and save the shaping for after they bloom. See [shrub trimming in Burton](/shrub-trimming-burton-mi/)." },
       { "title": "Ditch banks after the thaw", "body": "Where a Burton street drains to a ditch, winter leaves sticks, leaves and road grit along the bank. We clear what sits on your side, so the first mow of the year is a clean one." }
     ]
@@ -28,7 +28,7 @@
     "body": [
       "Rob sets the date with you once the snow is gone and the ground can take foot traffic. Beds and hard surfaces come first, and the lawn gets its first cut when it is firm enough to mow without rutting.",
       "The crew picks up sticks and debris, blows and rakes matted leaves out of the beds and corners, cuts back last year's perennials and ornamental grasses, recuts the bed edges and hauls everything away in our trailer. Walks and the drive get blown off at the end.",
-      "Most yards go straight from here into fresh [mulch](/mulch-installation-burton-mi/) and weekly [mowing](/lawn-mowing-burton-mi/), so the season starts clean and stays that way."
+      "Most yards go straight from here into fresh [mulch](/mulch-installation-burton-mi/) and weekly [mowing](/lawn-mowing-burton-mi/)."
     ],
     "facts": [
       { "label": "Timing", "value": "After the thaw, once the ground firms" },
@@ -40,7 +40,7 @@
   "photo": "walk-edge",
   "faq": [
     { "q": "Do you do spring cleanups in Burton?", "a": "Yes. Grand Scapes does spring cleanups in Burton: sticks and leaves out, beds raked and cut back, edges recut, debris hauled away and the first mow done when the ground is ready. Rob comes out and quotes it free." },
-    { "q": "When should spring cleanup happen in Michigan?", "a": "After the snow melts and your boots stop sinking into the lawn. Raking and edging beds can start sooner, but mowing soaked ground packs the soil, which MSU Extension warns against. On slow draining loam, that often means waiting for a few dry days." },
+    { "q": "When should spring cleanup happen in Michigan?", "a": "Once the snow is gone and you can walk the lawn without sinking in. Raking and edging beds can start sooner, but mowing soaked ground packs the soil, which MSU Extension warns against. On slow draining soil, that often means waiting for a few dry days." },
     { "q": "Should I prune my shrubs in spring?", "a": "Dead and broken branches, yes. Shaping depends on the plant. MSU Extension says lilac, forsythia, spirea, weigela and viburnum set next year's flowers the summer before, so cutting them back in early spring removes the blooms. Prune those right after they flower." },
     { "q": "What do I do about salt damage along the sidewalk?", "a": "Start with water. MSU Extension says spring rain helps flush salt out of the soil, and in a dry spring watering the area helps. We point out the damaged strip during the cleanup, and the beds nearest the walk can be replanted with tougher plants." }
   ],

@@ -7,20 +7,20 @@
   },
   "hero": {
     "kicker": "Mulch installation in Burton, MI",
-    "title": "Fresh mulch, **crisp edges.**",
+    "title": "Old mulch thinned, **fresh layer on top.**",
     "lede": "Grand Scapes brings Burton flower beds back: weeds pulled, edges recut, fabric laid where it helps, and fresh black, brown or red mulch spread at the right depth. Old brick borders can come out for gray block or a clean natural edge.",
     "chips": ["Weeded and edged", "Black, brown or red", "Fabric where it helps", "Free estimate"],
     "photo": "tree-bed-after"
   },
   "local": {
     "eyebrow": "Beds in Burton",
-    "title": "Years of mulch, **piled up.**",
-    "intro": "Beds around Burton's older homes tend to collect mulch the way garages collect paint cans. A fresh layer every spring on top of the last one buries the roots, climbs the trunks and spills over a border that sank years ago. A good mulch job sometimes starts by taking some out.",
+    "title": "Burton beds often have **too much mulch.**",
+    "intro": "Beds around Burton's older homes often carry years of mulch. A fresh layer every spring on top of the last one buries the roots, piles up against the trunks and spills over a border that sank long ago. A good mulch job sometimes starts by taking some out.",
     "points": [
-      { "title": "Two to three inches, not ten", "body": "MSU Extension says 2 to 3 inches of mulch gives the full benefit, and a bed that still has some from last year needs only about an inch on top. We check the depth before we load the trailer, so you pay for what the bed actually needs." },
-      { "title": "No mulch volcanoes", "body": "MSU Extension says never to pile mulch up at the base of a woody plant. We pull it back from trunks and shrub stems, feather it out across the bed and leave a clear ring at every base." },
-      { "title": "Borders that heaved", "body": "Brick and timber edging from decades ago tends to sink and tilt, and the mulch walks right over it into the lawn. We can lift it out and set gray block, or cut a natural edge that still keeps the chips in the bed." },
-      { "title": "Slow ground under the bed", "body": "Most Burton beds sit on loam that drains somewhat poorly. Fabric and mulch hold moisture in, so the bed itself has to slope away from the house before anything goes on top." }
+      { "title": "Check the depth first", "body": "MSU Extension says 2 to 3 inches of mulch gives the full benefit, and a bed that still has some from last year needs only about an inch on top. We check the depth before we load the trailer, so you pay for what the bed actually needs." },
+      { "title": "Clear of trunks and stems", "body": "MSU Extension says never to pile mulch up at the base of a woody plant. We pull it back from trunks and shrub stems, feather it out across the bed and leave a clear ring at every base." },
+      { "title": "Sunken brick and timber borders", "body": "Brick and timber edging from decades ago tends to sink and tilt, and the mulch spills over it into the lawn. We can lift it out and set gray block, or cut a natural edge that still keeps the chips in the bed." },
+      { "title": "Slow draining ground", "body": "Most Burton beds sit on slow draining soil. Fabric and mulch hold moisture in, so the bed itself has to slope away from the house before anything goes on top." }
     ]
   },
   "logistics": {
@@ -39,9 +39,9 @@
   },
   "photo": "mulch-crew",
   "faq": [
-    { "q": "Do you install mulch in Burton, MI?", "a": "Yes. Grand Scapes weeds, edges and mulches flower beds in Burton, with fabric where it helps and black, brown or red mulch on top. We can also replace old brick borders with block or a natural edge. Rob comes out to look and quotes it free." },
+    { "q": "Do you install mulch in Burton, MI?", "a": "Yes. Grand Scapes weeds, edges and mulches flower beds in Burton, with fabric where it helps and black, brown or red mulch on top. We can also replace old brick borders with block or a natural edge. The estimate is free." },
     { "q": "How deep should mulch be?", "a": "MSU Extension says 2 to 3 inches is enough for most beds, and if there is mulch left from last year, about an inch on top is plenty. Deeper is not better. Piling it against trunks and stems is the mistake to avoid." },
-    { "q": "Should I put landscape fabric under mulch?", "a": "In a bed of shrubs that will not change much, fabric under the mulch helps hold weeds back. In a bed of perennials you plan to divide and add to, it gets in the way. Rob will tell you which kind of bed you have." },
+    { "q": "Should I put landscape fabric under mulch?", "a": "Yes in a bed of shrubs that will not change much, because fabric under the mulch helps hold weeds back. In a bed of perennials you plan to divide and add to, it gets in the way. Rob will tell you which kind of bed you have." },
     { "q": "Which mulch color should I pick?", "a": "Black is the most common choice on our jobs and makes green plants and gray block stand out. Brown looks natural against brick and wood siding, and red suits some brick homes. Rob can talk it through with you standing at the bed." }
   ],
   "reviews": ["bob-s", "mark-v"]

@@ -7,26 +7,26 @@
   },
   "hero": {
     "kicker": "Lawn mowing in Clarkston, MI",
-    "title": "Sandy hills, **straight stripes.**",
-    "lede": "Grand Scapes mows Clarkston lawns every week: mowed, trimmed, edged along every walk and curb and blown off clean. Sandy knobs, soft lake edges and tight village yards each get cut the way they need.",
+    "title": "Weekly mowing for **hills and lake lots.**",
+    "lede": "Grand Scapes mows Clarkston lawns every week: mowed, trimmed, edged along every walk and curb and blown off clean. Sandy hilltops, soft lake edges and small village yards each get cut the way they need.",
     "chips": ["One set day a week", "Trimmed, edged, blown off", "Free estimate"],
     "photo": "curve-stripes-colonial"
   },
   "local": {
     "eyebrow": "Mowing in Clarkston",
-    "title": "Lawns that **dry out on top** and stay wet below.",
-    "intro": "Clarkston lawns sit on glacial ground. The USDA soil survey maps a lot of Independence Township as sandy, gravelly outwash, well drained and quick to dry, with muck in the hollows by the lakes and wetlands. One yard can have both, and a mower run the same way across all of it leaves ruts at the bottom and scalped spots at the top.",
+    "title": "Dry hills and wet hollows in **Clarkston yards.**",
+    "intro": "Much of Independence Township is sandy, gravelly ground that drains fast and dries quickly, with soft muck in the hollows by the lakes and wetlands. One Clarkston yard can have both. Mow it all the same way and you get ruts at the bottom and scalped spots at the top.",
     "points": [
-      { "title": "High spots brown first", "body": "Sandy soil holds less water than loam, MSU Extension says, so the knobs and south facing slopes go tan first in a dry July. MSU's rule is to mow around 3 inches or higher and never take more than a third of the blade at once. Taller grass shades its own soil, and that matters most up there." },
-      { "title": "Hills that need a trimmer", "body": "Some soil map units in the township run from 12 to 40 percent slope, and there is a ski hill at Pine Knob for a reason. Banks too steep for a mower deck get string trimmed instead, and if a bank is a weekly fight, Rob will say so and suggest a bed." },
-      { "title": "Lake lots", "body": "Independence Township asks lake owners to keep clippings out of the water and the street, since drains and ditches run to the lakes, and suggests a 15 foot strip of taller grass along the shore. We blow clippings back onto the lawn, and we can leave that strip long if you want it." },
+      { "title": "High spots brown first", "body": "Sandy soil holds less water than loam, MSU Extension says, so hilltops and south facing slopes brown first in a dry July. Mowing at 3 inches or higher, and never taking more than a third of the blade, keeps the soil shaded where it dries fastest." },
+      { "title": "Banks too steep to mow", "body": "Some ground in the township is steep. Banks too steep for a mower deck get string trimmed instead, and if one is hard to keep up every week, Rob will say so and suggest a planted bed." },
+      { "title": "Lake lots and shore strips", "body": "Independence Township asks lake owners to keep clippings out of the water and the street, since drains and ditches run to the lakes, and suggests a 15 foot strip of taller grass along the shore. We blow clippings back onto the lawn, and we can leave that strip long if you want it." },
       { "title": "Village yards along the walks", "body": "In the old village around Main Street, yards are small and nearly every one fronts a sidewalk. That makes the edge line the part people notice, so walks and curbs get a crisp cut and the clippings come off the concrete before the truck leaves." }
     ]
   },
   "logistics": {
     "title": "A set day each week, all season.",
     "body": [
-      "Your lawn gets a regular mowing day, so you know when to expect the truck and when the gate needs to be unlatched. If you have a dog, tell us. One customer's review singles out how careful the crew is about keeping the dogs in.",
+      "Your lawn gets a regular mowing day, so you know when to expect the truck and when to leave the gate unlatched. If you have a dog or a locked gate, tell us at the start and the crew will plan around it.",
       "Each visit is the whole job: mowed, trimmed around beds and trees, edged along the drive and the village walks, and blown off. Open lawns get stripes, straight, curved or crosscut, and Rob will suggest a pattern that suits the shape of the yard.",
       "Rob gives you the price at the estimate, before the first cut. Mowing pairs well with a [spring cleanup](/spring-cleanup-clarkston-mi/) and [fall leaf removal](/leaf-removal-clarkston-mi/), so the lawn starts and ends the year clean."
     ],
@@ -41,9 +41,9 @@
   "faq": [
     { "q": "Who mows lawns in Clarkston, MI?", "a": "Grand Scapes does. We mow lawns in Clarkston and the rest of Independence Township every week of the season, with trimming, edging and a blown off drive and walk on every visit. Call or [text Rob](sms:+18109903040) for a free estimate." },
     { "q": "How often should my lawn be mowed?", "a": "Weekly through the main growing season is the usual answer. MSU Extension's rule is to remove no more than a third of the blade per cut, and in a wet May a Clarkston lawn can outgrow that in less than a week. In a dry August, a sandy lawn slows down on its own." },
-    { "q": "Can you mow a steep yard in Clarkston?", "a": "Usually, yes. The hills here are real, and banks too steep for a mower get trimmed instead. If a slope is a fight every week, Rob may suggest turning it into a planted bed or holding it with a [block wall](/bed-edging-and-block-walls/)." },
-    { "q": "Do you leave the clippings on the lawn?", "a": "Clippings that land on the grass stay there; MSU Extension says they can go back to the lawn when you cut no more than a third at a time. Whatever lands on the drive, the walk or the road gets blown back in, because Independence Township points out that its street drains lead to the lakes." },
-    { "q": "When is the last mow of the year in Michigan?", "a": "When the grass stops growing, which in most years is late in the fall. The last cuts often double as light leaf cleanup, since a mower chops a thin layer of leaves into the turf. A heavy layer is another story, and that is what [leaf removal in Clarkston](/leaf-removal-clarkston-mi/) is for." }
+    { "q": "Can you mow a steep yard in Clarkston?", "a": "Usually, yes. Banks too steep for a mower get string trimmed instead. If a slope is hard to keep up every week, Rob may suggest turning it into a planted bed or holding it with a [block wall](/bed-edging-and-block-walls/)." },
+    { "q": "Do you leave the clippings on the lawn?", "a": "Yes, the ones that land on the grass; MSU Extension says clippings can go back to the lawn when you cut no more than a third at a time. Whatever lands on the drive, the walk or the road gets blown back in, because Independence Township points out that its street drains lead to the lakes." },
+    { "q": "When is the last mow of the year in Michigan?", "a": "When the grass stops growing, which in most years is late in the fall. The last cuts often double as light leaf cleanup, since a mower chops a thin layer of leaves into the turf. A heavy layer needs [leaf removal in Clarkston](/leaf-removal-clarkston-mi/) instead." }
   ],
   "reviews": ["stacy", "rick-b"]
 }

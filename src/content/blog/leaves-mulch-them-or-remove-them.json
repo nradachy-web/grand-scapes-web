@@ -6,7 +6,7 @@
     "description": "MSU Extension research says mowing a thin layer of leaves into the lawn helps it. Heavy, matted layers are another story. When to mulch them and when to haul."
   },
   "title": "Leaves: mulch the thin layer, **haul the heavy one.**",
-  "lede": "Michigan State University research says chopping leaves into the lawn with a mower is good for it, up to about 6 inches at a time depending on the mower. Past that, or when leaves sit wet and matted, they need to come off. Here is how to tell which kind of yard you have.",
+  "lede": "MSU Extension research says chopping leaves into the lawn with a mower is good for it, up to about 6 inches at a time depending on the mower. Past that, or when leaves sit wet and matted, they need to come off. Here is how to tell which kind of yard you have.",
   "photo": "leaves-before",
   "short": [
     "A thin layer of leaves can be mowed into the lawn. MSU Extension found lawns do better with a layer of mulched leaves.",
@@ -19,7 +19,7 @@
     {
       "h": "What MSU's research found",
       "p": [
-        "In the 1990s, Michigan's ban on yard waste pushed MSU turf specialists to study what happens when a whole season of chopped leaves stays on a lawn. As MSU Extension's Rebecca Finneran put it, they found lawns do better with a layer of mulched leaves.",
+        "MSU turf studies looked at what happens when a whole season of chopped leaves stays on a lawn, and found that lawns do better with a layer of mulched leaves.",
         "MSU's homeowner mowing bulletin says the studies mowed up to 6 inches of various tree leaves into lawns and detected no adverse effects. The chopped pieces sift down into the turf within a few weeks and are unnoticeable by spring."
       ],
       "list": [
@@ -31,18 +31,18 @@
     {
       "h": "How to mulch leaves with a mower",
       "list": [
-        "**Start early.** MSU Extension's Terry Gibb says to start mowing and shredding as soon as there is a thin layer on the lawn.",
-        "**Raise the deck.** Set the mower at its highest setting, Gibb and turf specialist Kevin Frank both say.",
-        "**Go over them twice.** Gibb suggests a second pass in the opposite direction, a criss cross, to chop the leaves finer.",
-        "**Dewy is fine, soaking is not.** Frank says moist from morning dew is fine, but do not mow leaves when they are really wet.",
-        "**Keep up with them.** Frank's limit is about three to four inches of leaves on the turf before you mow. In a heavy week, MSU says, that can mean mowing twice.",
+        "**Start early.** MSU Extension says to start mowing and shredding as soon as there is a thin layer on the lawn.",
+        "**Raise the deck.** Set the mower at its highest setting, MSU says.",
+        "**Go over them twice.** MSU suggests a second pass in the opposite direction, a criss cross, to chop the leaves finer.",
+        "**Mow them damp, not soaked.** MSU says moist from morning dew is fine, but do not mow leaves when they are really wet.",
+        "**Keep up with them.** MSU's limit is about three to four inches of leaves on the turf before you mow. In a heavy week, MSU says, that can mean mowing twice.",
         "**Expect some residue.** MSU says the leaf bits stay obvious for a few days, then sift down into the turf."
       ]
     },
     {
       "h": "When leaves should come off",
       "p": [
-        "Mulching has limits, and MSU names them. Leaves that pile up with wet, heavy snow can mean disaster for the turf below, which is why people started raking in the first place. And when a total leaf fall leaves more than you can mulch, Gibb suggests bagging them with the mower and using them in the beds instead."
+        "Mulching has limits, and MSU names them. Leaves that pile up with wet, heavy snow can mean disaster for the turf below. And when a total leaf fall leaves more than you can mulch, MSU suggests bagging them with the mower and using them in the beds instead."
       ],
       "list": [
         "**More leaves than the mower can chop.** MSU puts the limit at about 6 inches depending on the mower, and less for a push mower. Past that, some need to come off.",
@@ -69,8 +69,8 @@
     {
       "h": "Chopped leaves in the beds",
       "p": [
-        "Chopped leaves do not have to leave the property. MSU suggests collecting them with a bagging mower every other mowing and spreading them in the beds. Keep that layer thin: MSU's Bert Cregg recommends only one to two inches of uncomposted ground leaves, to reduce matting.",
-        "Whole leaves are a different story in a bed. Cregg warns that uncomposted leaves used as mulch form a thick, smelly mat that keeps moisture and oxygen from plant roots. Chop them first, or rake them out."
+        "Chopped leaves do not have to leave the property. MSU suggests collecting them with a bagging mower every other mowing and spreading them in the beds. Keep that layer thin: MSU Extension recommends only one to two inches of uncomposted ground leaves, to reduce matting.",
+        "Whole leaves are a different story in a bed. MSU warns that uncomposted leaves used as mulch form a thick, smelly mat that keeps moisture and oxygen from plant roots. Chop them first, or rake them out."
       ]
     },
     {
@@ -83,12 +83,12 @@
     {
       "h": "Sources",
       "list": [
-        "Michigan State University Extension, Rebecca Finneran, It's not too late to mulch fallen leaves into lawns (2014) and Mulch Leaves into Turf for a Smart Lawn (2016)",
-        "Michigan State University Extension, Terry Gibb, To bag or not to bag? (2018)",
-        "Michigan State University Extension, Rebecca Krans, Don't sweep your leaves to the curb (2016)",
-        "Michigan State University Extension, Kevin Frank, Fall turf tips (2009)",
-        "Michigan State University, G.T. Lyman and P.E. Rieke, Turf Tips for the Homeowner: Mowing Lawn Turf",
-        "Michigan State University Extension, Bert Cregg, Mulch: Just do it! (2011) and Mulching tips for the landscaper (2006)"
+        "MSU Extension, It's not too late to mulch fallen leaves into lawns (2014) and Mulch Leaves into Turf for a Smart Lawn (2016)",
+        "MSU Extension, To bag or not to bag? (2018)",
+        "MSU Extension, Don't sweep your leaves to the curb (2016)",
+        "MSU Extension, Fall turf tips (2009)",
+        "MSU, Turf Tips for the Homeowner: Mowing Lawn Turf",
+        "MSU Extension, Mulch: Just do it! (2011) and Mulching tips for the landscaper (2006)"
       ]
     }
   ]

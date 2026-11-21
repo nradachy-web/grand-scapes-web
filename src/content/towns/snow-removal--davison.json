@@ -8,41 +8,40 @@
   "hero": {
     "kicker": "Snow removal in Davison, MI",
     "title": "Open drives, **clear walks.**",
-    "lede": "Grand Scapes plows Davison driveways with our own trucks, clears walks to the concrete and puts salt down where people step. Rob walks the drive with you before the season and explains the residential snow removal and salting packages.",
+    "lede": "Grand Scapes plows Davison driveways with our own trucks, clears walks to the concrete and puts salt down where people step. Inside the city, the public sidewalk out front can be part of the job.",
     "chips": ["Our own plow trucks", "Walks and steps", "Salting", "Homes and businesses"],
     "photo": "plow-push"
   },
   "local": {
     "eyebrow": "Snow in Davison",
     "title": "City sidewalks and **county roads.**",
-    "intro": "Snow work in Davison splits along the city line. Inside the city, the public sidewalk out front is the owner's or occupant's job, and the city has firm words about where plowed snow may go. Out in Davison Township the drives get longer, and the road at the end belongs to the Genesee County Road Commission.",
+    "intro": "Snow work here splits along the city line. Inside the city, the public sidewalk out front is the owner's or occupant's job, and the city limits where plowed snow may go. Out in Davison Township the drives get longer, and the road at the end belongs to the Genesee County Road Commission.",
     "points": [
-      { "title": "The city sidewalk ordinance", "body": "City Ordinance 1024.10 requires owners or occupants to clear snow and ice from the public sidewalk beside their property in a reasonable time, which the city's notice says is usually 48 hours. Left too long, the city clears it and the cost goes on the property." },
-      { "title": "Nothing pushed across the street", "body": "The same ordinance bars piling snow on a sidewalk or a public street, and it bars plowing or moving snow across a public street. We stack it on your side of the walk and out of the sight lines at the end of the drive." },
-      { "title": "State law says the same", "body": "Michigan law, MCL 257.677a, says a person shall not deposit snow, ice or slush on any roadway or highway. It applies on a city street and a township road alike, so a drive gets cleared without filling the road." },
-      { "title": "Last on the county list", "body": "On the Road Commission's own priority list, subdivision streets and unpaved local roads come last, and crews do not work overtime on them. Your drive can be open well before the road in front of it." },
-      { "title": "Mailboxes by the road", "body": "The Road Commission asks owners to check mailboxes and posts every fall, since heavy snow thrown by a county plow can knock them down. A wobbly post is worth fixing before the ground freezes." }
+      { "title": "The city sidewalk rule", "body": "The city's sidewalk ordinance requires owners or occupants to clear snow and ice from the public sidewalk beside their property in a reasonable time, which the city's notice says is usually 48 hours. Left too long, the city clears it and the cost goes on the property." },
+      { "title": "No snow across the street", "body": "The same ordinance bars piling snow on a sidewalk or a public street and bars moving it across one, and state law keeps snow off township roads too. We stack it on your side of the walk and out of the sight lines at the end of the drive." },
+      { "title": "Township side streets come last", "body": "On the Road Commission's own priority list, subdivision streets and unpaved local roads come last, and crews do not work overtime on them. Your drive can be open well before the road in front of it." },
+      { "title": "Mailboxes by the road", "body": "The Road Commission asks owners to check mailboxes and posts every fall, since heavy snow thrown by a county plow can knock them down. A loose post is worth fixing before the ground freezes." }
     ]
   },
   "logistics": {
-    "title": "Set up before the first snow, so the first push is easy.",
+    "title": "Setting up a Davison drive before the first snow.",
     "body": [
-      "The walk through happens in the fall, before anything is on the ground. Rob looks at the drive, where the snow can be stacked, the walks and steps, and anything a plow needs to know about: a curb, a soft lawn edge, a sprinkler head by the apron. Then he explains the options and quotes a price.",
+      "Rob comes out in the fall, before anything is on the ground, and looks at the drive, where the snow can be stacked, the walks and steps, and anything a plow needs to know about: a curb, a soft lawn edge, a sprinkler head by the apron.",
       "In the city, tell us whether you want the public sidewalk done with the drive, since the ordinance puts it on you. Out in the township, long drives and turnarounds get plowed with the truck, and walks and steps get shoveled down to the concrete and salted where people walk."
     ],
     "facts": [
       { "label": "City sidewalk", "value": "Owner or occupant clears it" },
       { "label": "Time, per the city", "value": "Usually 48 hours after snow" },
-      { "label": "Snow in the road", "value": "Not allowed, MCL 257.677a" },
+      { "label": "Snow in the road", "value": "Not allowed, by state law" },
       { "label": "Trucks", "value": "Our own, with plows" }
     ]
   },
   "photo": "walk-cleared",
   "faq": [
     { "q": "Do you plow driveways in Davison, MI?", "a": "Yes. Grand Scapes plows residential driveways in the City of Davison and Davison Township with our own trucks, and we clear and salt walks and steps. We also plow and salt [commercial lots in Davison](/commercial-snow-removal-davison-mi/). The estimate is free." },
-    { "q": "How long do I have to clear my sidewalk in the City of Davison?", "a": "A reasonable time, and the city's notice says that usually means 48 hours after the snow falls or the ice forms. It comes from City Ordinance 1024.10. If the walk is not cleared, the city can do it and place the cost, plus a fee, on the property. Check the city's notice each winter in case it changes." },
-    { "q": "Can a plow push snow across the street in Davison?", "a": "No. The city's ordinance says snow shall not be plowed or moved across a public street, and Michigan law (MCL 257.677a) says snow may not be deposited on any roadway. Snow from a drive should end up on your own property, clear of the sidewalk and the view at the end of the drive." },
-    { "q": "How do your snow plowing packages work?", "a": "We offer residential and commercial snow removal and salting packages. Rob walks the drive with you, explains the options and quotes a price for your property. If you want the walks and steps salted too, say so at the walk through." },
+    { "q": "How long do I have to clear my sidewalk in the City of Davison?", "a": "Usually 48 hours. The city's ordinance asks for a reasonable time after the snow falls or the ice forms, and its notice says that usually means 48 hours. If the walk is not cleared, the city can do it and place the cost, plus a fee, on the property. Check the notice each winter in case it changes." },
+    { "q": "Can a plow push snow across the street in Davison?", "a": "No. The city's ordinance says snow shall not be plowed or moved across a public street, and state law says snow may not be deposited on any roadway. Snow from a drive should end up on your own property, clear of the sidewalk and the view at the end of the drive." },
+    { "q": "How do your snow plowing packages work?", "a": "They are set for each property. We offer residential and commercial snow removal and salting packages, and Rob explains the options and quotes yours after he has seen the drive. If you want the walks and steps salted too, tell him then." },
     { "q": "When does the county plow my road in Davison Township?", "a": "The Genesee County Road Commission plows by traffic volume: expressways and state roads first, then primary roads, then paved local roads, then unpaved local roads and subdivision streets. Crews do not work overtime on those last two, so a township side street can stay snowy after your drive is clear." }
   ],
   "reviews": ["rick-b", "stacy"]

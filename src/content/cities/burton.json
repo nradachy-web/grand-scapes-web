@@ -6,24 +6,24 @@
   },
   "hero": {
     "kicker": "Lawn care, landscaping and snow removal in Burton, MI",
-    "title": "Older yards, **kept sharp.**",
-    "lede": "Grand Scapes keeps Burton yards in shape all year: weekly mowing, spring and fall cleanups, beds and shrubs brought back into line, and driveways and walks cleared by our own trucks in winter. Rob comes out, looks it over with you and quotes it free.",
+    "title": "Older yards, **back in shape.**",
+    "lede": "Grand Scapes keeps Burton yards in shape all year: weekly mowing, spring and fall cleanups, beds and shrubs brought back into line, and driveways and walks cleared by our own trucks in winter. The estimate is free.",
     "chips": ["Weekly mowing", "Cleanups and beds", "Shrubs cut back", "Drives and walks plowed"],
     "photo": "truck-trailer"
   },
   "about": {
     "eyebrow": "Yards in Burton",
-    "title": "A city of 1950s yards on **slow ground.**",
+    "title": "Big old shrubs and ground that **drains slowly.**",
     "body": [
-      "This was a township until 1972, when residents voted to become a city, and it grew up beside Flint as farm fields turned into neighborhoods. Census figures put the typical home here at 1964, and more went up in the 1950s than in any other decade. Many of the lawns, trees and foundation shrubs have had sixty years to settle in, and plenty of those shrubs now reach well past the windows they were planted under.",
-      "The ground is slow. The USDA soil survey maps most of the city as Conover loam, which drains somewhat poorly, with wetter Sebewa and Brookston loams in the low spots. Toward the Flint line much of it is mapped as urban land, ground that was cut, filled or built over long ago. Lawns stay soft into spring, and a bed against the house has to send water away from it.",
-      "There is a lot of street frontage to keep up, too. The city's Road Division looks after more than 70 miles of major streets and more than 100 miles of local ones, a few still gravel and many draining to ditches instead of curbs. That decides where leaves can go, where snow gets piled and how a mower finishes the front edge of a yard."
+      "Most homes here went up in the 1950s and 60s. The lawns, trees and foundation shrubs have had sixty years to settle in, and plenty of those shrubs now reach well past the windows they were planted under.",
+      "Most of the city sits on heavy soil that drains slowly, and the low spots stay wetter still. Lawns stay soft into spring, and a bed against the house has to send water away from it.",
+      "Many local streets drain to ditches instead of curbs, and a few are still gravel. That decides where leaves can go, where snow gets piled and how a mower finishes the front edge of a yard."
     ],
     "points": [
-      { "title": "The city plows, locals wait", "body": "Burton's snow plan clears major roads, hills, curves and intersections first and local streets second. After a normal snow the city says local streets take two to three days, so a plowed driveway counts for more than people expect." },
-      { "title": "Sidewalks belong to the owner", "body": "The city's road page says the owner or occupant has to clear snow and ice from the sidewalk by 24 hours after a storm ends, and a miss is a municipal civil infraction. We can clear the public walk along with the drive." },
-      { "title": "Yard waste goes to EMTERRA", "body": "The city uses EMTERRA for curbside trash, recycling and yard waste. Whatever our crew cuts, rakes or digs goes in our own trailer, so your bags and cans still have room at the curb." },
-      { "title": "Burning takes a permit", "body": "The city requires a burn permit, and its code describes an open burning fire as one for brush, tree limbs or garden debris. Check the fire department's rules before lighting a leaf pile, or let a cleanup haul it off." }
+      { "title": "Local streets are plowed second", "body": "Burton's snow plan clears major roads, hills, curves and intersections first and local streets second. After a normal snow the city says local streets take two to three days, so a plowed driveway matters more than people expect." },
+      { "title": "Owners clear the public sidewalk", "body": "The city's road page says the owner or occupant has to clear snow and ice from the sidewalk by 24 hours after a storm ends, and a miss is a municipal civil infraction. We can clear the public walk along with the drive." },
+      { "title": "Curbside yard waste through EMTERRA", "body": "The city uses EMTERRA for curbside trash, recycling and yard waste. Whatever our crew cuts, rakes or digs goes in our own trailer, so your bags and cans still have room at the curb." },
+      { "title": "Burning takes a permit", "body": "The city requires a burn permit, and its code describes an open burning fire as one for brush, tree limbs or garden debris. Check the fire department's rules before lighting a leaf pile, or have a cleanup haul it off." }
     ],
     "photo": "ranch-stripes"
   },
@@ -42,11 +42,11 @@
     ]
   },
   "faq": [
-    { "q": "Do you do lawn care and snow removal in Burton, MI?", "a": "Yes. Grand Scapes mows lawns, does spring and fall cleanups, mulches and rebuilds beds, trims shrubs and plows driveways in Burton. We also plow and salt commercial lots and walks. Rob gives free estimates in person." },
+    { "q": "Do you do lawn care and snow removal in Burton, MI?", "a": "Yes. Grand Scapes mows lawns, does spring and fall cleanups, mulches and rebuilds beds, trims shrubs and plows driveways in Burton. We also plow and salt commercial lots and walks. Estimates are free." },
     { "q": "Who plows the streets in Burton?", "a": "The city's Road Division plows public streets, major roads first and local streets after. The city says locals take two to three days after a normal snow, and longer after a big one. Your driveway and walk are yours to clear, which is where our [snow removal](/snow-removal-burton-mi/) comes in." },
-    { "q": "How do I get rid of yard waste in Burton?", "a": "The city uses EMTERRA for curbside yard waste, and City Hall at 810-743-1500 can tell you your day and the current rules. Each household can also get one free dump permit a month for a pickup load. When we do a cleanup, we haul everything off ourselves." },
-    { "q": "Can I burn leaves in Burton?", "a": "Only with a permit, and leaves may not qualify. The fire department issues burn permits, the city code describes open burning as a way to get rid of brush, tree limbs or garden debris, and older city rules said no leaves or grass. Check with the fire department, or have a [fall cleanup](/leaf-removal-burton-mi/) take them away." },
-    { "q": "Why do lawns in Burton stay wet in spring?", "a": "Most of the city sits on loam that drains slowly, according to the USDA soil survey, and the low spots are wetter still. Heavy mowers on soaked ground can rut and pack it, so we time the first cuts to the ground. If one corner always holds water, ask Rob about [grading](/grading-and-new-lawns/)." }
+    { "q": "How do I get rid of yard waste in Burton?", "a": "Set it out for EMTERRA, the city's curbside yard waste hauler; City Hall at 810-743-1500 can tell you your day and the current rules. Each household can also get one free dump permit a month for a pickup load. When we do a cleanup, we haul everything off ourselves." },
+    { "q": "Can I burn leaves in Burton?", "a": "Only with a permit, and leaves may not qualify. The fire department issues burn permits, and the city code describes open burning for brush, tree limbs or garden debris. Check with the fire department first, or have a [fall cleanup](/leaf-removal-burton-mi/) take them away." },
+    { "q": "Why do lawns in Burton stay wet in spring?", "a": "Because most of the city sits on heavy soil that drains slowly, and the low spots are wetter still. Heavy mowers on soaked ground can rut and pack it, so we time the first cuts to the ground. If one corner always holds water, ask Rob about [grading](/grading-and-new-lawns/)." }
   ],
   "reviews": ["bob-s", "stacy", "kandice-w"],
   "neighbors": ["grand-blanc", "flint", "davison", "goodrich"]

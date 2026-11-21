@@ -7,7 +7,7 @@
   "hero": {
     "kicker": "Mulch and flower bed makeovers in Grand Blanc, MI",
     "title": "Weeded, edged and **mulched fresh.**",
-    "lede": "Grand Scapes pulls the weeds, cuts a clean edge, lays landscape fabric and finishes the bed in fresh mulch: black, brown or red. A fresh bed changes the whole front of a house, and Rob quotes it free after he has seen your beds.",
+    "lede": "Grand Scapes pulls the weeds, cuts a clean edge, lays landscape fabric and finishes the bed in fresh mulch: black, brown or red. We do bed makeovers in Grand Blanc and across Genesee County.",
     "chips": [
       "Weeds out",
       "Edges cut clean",
@@ -21,7 +21,7 @@
       "type": "intro",
       "plane": "paper",
       "eyebrow": "The short version",
-      "title": "A bed makeover, **in four moves.**",
+      "title": "A makeover keeps **the bed you have.**",
       "body": [
         "A flower bed makeover is the bed you have, done over properly. We pull the weeds and dead plants, cut the edge back to a clean line, lay landscape fabric where it suits the bed, and finish it in fresh mulch.",
         "It is a smaller job than full [landscaping](/landscaping/): the shape and the plants mostly stay. If the bushes are overgrown or the border is falling apart, Rob will say so, and the bed can be rebuilt instead."
@@ -38,7 +38,7 @@
       "type": "bed",
       "plane": "white",
       "eyebrow": "Try the bed",
-      "title": "Pick a color, **see it on a bed.**",
+      "title": "Preview the **mulch colors.**",
       "intro": "One of our real beds, finished in black mulch. Tap brown or red to preview them on the same bed. If you are thinking about stone instead of mulch, ask Rob when he comes out."
     },
     {
@@ -62,7 +62,7 @@
       "plane": "paper",
       "eyebrow": "How deep, how often",
       "title": "What MSU Extension says **about mulch.**",
-      "intro": "The numbers come from Michigan State University Extension, and they are simpler than the bags at the store make them sound.",
+      "intro": "The numbers are simpler than the bags at the store make them sound.",
       "columns": 2,
       "items": [
         {
@@ -77,7 +77,7 @@
         },
         {
           "tag": "Trees",
-          "title": "A doughnut, not a volcano",
+          "title": "A bare ring around trunks",
           "body": "Keep a bare ring of about 6 inches around a tree trunk. A cone of mulch against the bark is a dark, moist spot that MSU calls an invitation for root rot and insects."
         },
         {
@@ -91,8 +91,8 @@
       "type": "compare",
       "plane": "white",
       "eyebrow": "Landscape fabric",
-      "title": "Fabric under the mulch, **or not.**",
-      "intro": "Bob S. called it black mesh. Landscape fabric is a sound way to hold weeds down in a shrub bed, and MSU Extension warns it can turn into a problem in perennial beds. Rob will tell you which way he would go for each bed.",
+      "title": "When fabric under mulch **makes sense.**",
+      "intro": "Bob S. called it black mesh. Landscape fabric is a sound way to hold weeds down in a shrub bed, and MSU Extension warns it can turn into a problem in perennial beds.",
       "columns": [
         "Fabric under mulch",
         "Mulch alone"
@@ -132,7 +132,7 @@
       "type": "steps",
       "plane": "paper",
       "eyebrow": "How a bed makeover runs",
-      "title": "Look, clean, **edge, mulch.**",
+      "title": "Weeds out first, **mulch last.**",
       "intro": "Most of our bed work is in Grand Blanc and Grand Blanc Township, and the job runs the same way anywhere in Genesee County.",
       "steps": [
         {
@@ -157,7 +157,7 @@
       "type": "reviews",
       "plane": "ink",
       "eyebrow": "On Google",
-      "title": "Black mesh, new mulch, **in their words.**",
+      "title": "What customers wrote **about their beds.**",
       "ids": [
         "reckless-cards",
         "mark-v",
@@ -172,7 +172,7 @@
     },
     {
       "q": "How deep should mulch be?",
-      "a": "Two to three inches is enough for most beds, according to Michigan State University Extension, and more is not better. If the bed already has mulch from last year, about an inch freshens it. Keep it off tree trunks and off the crowns of perennials."
+      "a": "Two to three inches is enough for most beds, according to MSU Extension, and more is not better. If the bed already has mulch from last year, about an inch freshens it. Keep it off tree trunks and off the crowns of perennials."
     },
     {
       "q": "What color mulch should I get?",
@@ -196,12 +196,12 @@
     },
     {
       "q": "How much does it cost to mulch flower beds?",
-      "a": "It depends on how many beds you have, how big they are, how weedy they are and whether fabric goes down. Rob looks them over when he comes out and gives you a price. The estimate is free."
+      "a": "It depends on how many beds you have, how big they are, how weedy they are and whether fabric goes down. Each job is priced after a look at the beds, and the estimate is free."
     }
   ],
   "quote": {
     "title": "Tell us about your beds.",
-    "lede": "How many beds, and which color are you leaning toward? Call or [text Rob](sms:+18109903040) a photo at (810) 990-3040, and he will come out to look and quote it."
+    "lede": "How many beds, and which color you are leaning toward. Call or [text Rob](sms:+18109903040) a photo at (810) 990-3040, and he will come out to look and quote it."
   },
   "summary": {
     "title": "A bed makeover, done properly.",
@@ -224,6 +224,6 @@
         "detail": "Fresh mulch in black, brown or red, kept back from trunks and stems."
       }
     ],
-    "footnote": "Want the bushes or the border changed too? That is a [landscaping](/landscaping/) job, and Rob can quote both together."
+    "footnote": "If the bushes or the border need changing too, that is a [landscaping](/landscaping/) job, and Rob can quote both together."
   }
 }

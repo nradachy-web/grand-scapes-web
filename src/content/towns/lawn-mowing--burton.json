@@ -7,20 +7,20 @@
   },
   "hero": {
     "kicker": "Lawn mowing in Burton, MI",
-    "title": "Weekly cuts, **straight lines.**",
-    "lede": "Grand Scapes mows Burton lawns on a set day each week: cut, trimmed along the house and fences, edged at the walk and drive, and blown off before we leave. Clean stripes in the grass and no clippings left on the concrete.",
+    "title": "The lawn and the ditch, **mowed weekly.**",
+    "lede": "Grand Scapes mows Burton lawns on a set day each week: cut, trimmed along the house and fences, edged at the walk and drive, and blown off before we leave. You get clean stripes in the grass and a walk and drive clear of clippings.",
     "chips": ["Weekly on a set day", "Trimmed and edged", "Blown off clean", "Free estimate"],
     "photo": "young-tree-stripes"
   },
   "local": {
     "eyebrow": "Mowing in Burton",
-    "title": "Established lawns on **slow ground.**",
-    "intro": "Most lawns here were seeded around homes built in the 1950s and 60s, on loam the USDA rates somewhat poorly drained. The grass is settled and thick where it gets sun, the ground stays soft after a rain, and a lot of streets run a ditch where you might expect a curb. Each of those changes how a weekly cut should go.",
+    "title": "What Burton lawns need **from a weekly cut.**",
+    "intro": "Most lawns here were seeded around homes built in the 1950s and 60s, on heavy soil that drains slowly. The grass is thick where it gets sun, the ground stays soft after a rain, and many streets have an open ditch instead of a curb. Each of those changes how a weekly cut should go.",
     "points": [
-      { "title": "Soft ground after rain", "body": "Conover loam, the most common soil in Burton, holds water. MSU Extension warns that turning a mower on saturated ground can pack the soil and tear the turf, so on a wet week we widen the turns and leave the soggy corner for last." },
-      { "title": "Ditches instead of curbs", "body": "Plenty of Burton streets drain to an open ditch. We mow the bank where the slope and footing allow it, trim the rest by hand, and keep clippings out of the ditch line so the water still has somewhere to go." },
-      { "title": "Mow high, take a third", "body": "MSU Extension puts current home lawn heights between 2 and 3.75 inches and says never to cut more than a third of the blade at once. In a fast May that can mean a lawn wants more than a weekly visit, and we will tell you if yours does." },
-      { "title": "A yard that gets away from you", "body": "The city handles overgrown yards on a complaint basis, with a ten day notice before a ticket or a city cleanup billed to the owner. A standing weekly cut keeps that letter out of your mailbox, even in a month you are out of town." }
+      { "title": "Soft ground after rain", "body": "Much of this ground holds water after a rain. MSU Extension warns that turning a mower on saturated soil can pack it and tear the turf, so on a wet week we widen the turns and mow the soggy corner last." },
+      { "title": "Ditches instead of curbs", "body": "Plenty of Burton streets drain to an open ditch. We mow the bank where the slope and footing allow it, trim the rest by hand, and keep clippings out of the ditch line so it keeps draining." },
+      { "title": "Mow high, take a third", "body": "MSU Extension puts current home lawn heights between 2 and 3.75 inches and says never to cut more than a third of the blade at once. In a fast May, some lawns need more than one cut a week, and we will tell you if yours does." },
+      { "title": "Overgrown yard complaints", "body": "Burton handles overgrown yards by complaint: a ten day notice, then a ticket or a city cleanup billed to the owner. A standing weekly cut keeps the grass short even in a month you are out of town." }
     ]
   },
   "logistics": {
@@ -39,11 +39,11 @@
   },
   "photo": "curb-edge",
   "faq": [
-    { "q": "Do you mow lawns in Burton, MI?", "a": "Yes. Grand Scapes mows residential lawns in Burton every week on a set day. Each visit includes mowing, trimming, edging and blowing off the walks and drive. Rob comes out to see the lawn and quotes it for free." },
-    { "q": "How high should I mow my lawn in Michigan?", "a": "MSU Extension puts current home lawn standards between 2 and 3.75 inches, and says taller grass shades the soil and holds back crabgrass. The bigger rule is never to remove more than a third of the blade in one cut. We set the deck to the lawn and the season." },
+    { "q": "Do you mow lawns in Burton, MI?", "a": "Yes. Grand Scapes mows residential lawns in Burton every week on a set day. Each visit includes mowing, trimming, edging and blowing off the walks and drive. The estimate is free: call [(810) 990-3040](tel:+18109903040) or [text Rob](sms:+18109903040)." },
+    { "q": "How high should I mow my lawn in Michigan?", "a": "Most home lawns do well between 2 and 3.75 inches, according to MSU Extension, and taller grass shades the soil and holds back crabgrass. Just as important, never take more than a third of the blade in one cut. We set the deck to the lawn and the season." },
     { "q": "Can you mow the ditch in front of my house?", "a": "Usually, yes. Many Burton streets drain to an open ditch, and we mow the bank where the slope and footing allow, then trim what a mower should not reach. Clippings stay out of the ditch so it can carry water." },
     { "q": "Do you bag the clippings?", "a": "Most weeks, no. MSU Extension says clippings do not add to thatch and should go back on the lawn when no more than a third is cut at a time. When the grass gets ahead in a wet spring, or leaves start falling, we bag as the yard needs it." },
-    { "q": "What happens if my lawn gets too tall in Burton?", "a": "The city works overgrown yards on a complaint basis. A valid complaint brings a ten day notice, and if nothing changes the owner can be ticketed or billed for a city cleanup. A weekly cut keeps it from ever getting that far." }
+    { "q": "What happens if my lawn gets too tall in Burton?", "a": "After a valid complaint, the city sends a ten day notice, and if nothing changes the owner can be ticketed or billed for a city cleanup. A weekly cut keeps the lawn well short of that point." }
   ],
   "reviews": ["stacy", "rick-b"]
 }

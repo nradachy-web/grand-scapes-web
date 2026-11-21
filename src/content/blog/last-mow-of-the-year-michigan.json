@@ -5,11 +5,11 @@
     "title": "When is the last mow of the year in Michigan? | Grand Scapes",
     "description": "Keep mowing while the grass grows, then drop one notch, about half an inch, for the last cut. What MSU Extension says about timing, height and the leaves."
   },
-  "title": "The last mow of the year, **one notch down.**",
+  "title": "The last mow of the year **in Michigan.**",
   "lede": "In Michigan, the last mow comes after the leaves are handled and the grass has stopped growing, late in the fall. MSU Extension's advice is simple: keep mowing as long as the grass grows, then lower the mower one notch, about half an inch, for a final clean up cut.",
   "photo": "fall-mowing",
   "short": [
-    "Keep mowing as long as the grass is growing. There is no date on the calendar; the grass decides.",
+    "Keep mowing as long as the grass is growing. There is no set date on the calendar.",
     "MSU Extension says once leaf mulching is done and top growth has essentially stopped, it is OK to lower the height for the last cut.",
     "Drop it no more than one notch on the mower, typically half an inch, MSU says. Do not scalp it.",
     "The point is to clean up leftover leaf bits and keep the grass from going into winter too tall.",
@@ -19,14 +19,14 @@
     {
       "h": "When to make the last cut",
       "p": [
-        "There is no fixed date for the last mow in Michigan. The grass tells you. As long as it keeps growing, it keeps needing a cut, and a lawn left alone through a warm, wet fall can go into winter shaggy.",
-        "MSU Extension turf specialist Kevin Frank puts the timing this way: once you are past the leaf mulching period and the turf has essentially stopped its top growth, it is OK to lower the height and give it a final trim. In practice, that is after the last big leaf drop, when a week goes by and the lawn barely needs cutting."
+        "There is no fixed date for the last mow in Michigan. It depends on when the grass stops growing. As long as it keeps growing, it keeps needing a cut, and a lawn left alone through a warm, wet fall can go into winter shaggy.",
+        "MSU Extension puts the timing this way: once you are past the leaf mulching period and the turf has essentially stopped its top growth, it is OK to lower the height and give it a final trim. In practice, that is after the last big leaf drop, when a week goes by and the lawn barely needs cutting."
       ]
     },
     {
       "h": "How low to go",
       "p": [
-        "Not much lower. Frank's recommendation is to lower the mowing height no more than one notch on your mower, which is typically half an inch. If you mowed at 3.5 inches all summer, the last cut lands around 3. If you mowed at 3, it lands around 2.5.",
+        "Not much lower. MSU Extension recommends lowering the mowing height no more than one notch on your mower, which is typically half an inch. If you mowed at 3.5 inches all summer, the last cut lands around 3. If you mowed at 3, it lands around 2.5.",
         "Scalping the lawn down for winter is an old habit, and it is not what MSU recommends. Its homeowner mowing bulletin says mowing too short reduces the grass plant's ability to make food, and that lowering the height reduces the root system."
       ],
       "table": {
@@ -43,13 +43,13 @@
     {
       "h": "Why lower it at all",
       "p": [
-        "MSU gives two reasons for that last, slightly lower cut. It cleans up leftover leaf mulch and debris, and it keeps the turf from being too tall going into winter. Think of it as a trim before the holidays, not a buzz cut."
+        "MSU gives two reasons for that last, slightly lower cut. It cleans up leftover leaf mulch and debris, and it keeps the turf from being too tall going into winter."
       ]
     },
     {
       "h": "Leaves come first",
       "p": [
-        "Late fall mowing and leaves go together. MSU's mowing bulletin describes studies that mowed up to 6 inches of tree leaves into lawns with no adverse effects, and Frank's advice is to raise the mower for leaves and not let them pile up past three to four inches.",
+        "Late fall mowing and leaves go together. MSU's mowing bulletin describes studies that mowed up to 6 inches of tree leaves into lawns with no adverse effects, and its fall advice is to raise the mower for leaves and not let them pile up past three to four inches.",
         "Whole leaves left on the lawn are the real winter risk. MSU's Smart Gardening tip sheet warns that leaves piled up under wet, heavy snow can mean disaster for the grass below. So the order is leaves first, then the final cut. For the leaf side, see our note on whether to [mulch leaves or remove them](/journal/leaves-mulch-them-or-remove-them/)."
       ]
     },
@@ -67,15 +67,15 @@
       "h": "How our late season cuts go",
       "p": [
         "On our [weekly lawn mowing](/lawn-mowing/) route, the late cuts change with the weather. Some weeks are mostly grass and some are mostly leaves, and some of the last cuts are done with a bagger on the mower, which picks up chopped leaves along with the clippings. Heavy leaf drops go to our [fall cleanup and leaf removal](/fall-cleanup-and-leaf-removal/), where the leaf vacuum hauls them off.",
-        "Questions about your lawn's last cut of the year? [Text Rob](sms:+18109903040)."
+        "If you have a question about your lawn's last cut of the year, [text Rob](sms:+18109903040)."
       ]
     },
     {
       "h": "Sources",
       "list": [
-        "Michigan State University Extension, Kevin Frank, Fall turf tips (2009) and Autumn turf tips (2008)",
-        "Michigan State University Extension, G.T. Lyman and P.E. Rieke, Turf Tips for the Homeowner: Mowing Lawn Turf",
-        "Michigan State University Extension, Rebecca Finneran, Mulch Leaves into Turf for a Smart Lawn (2016)"
+        "MSU Extension, Fall turf tips (2009) and Autumn turf tips (2008)",
+        "MSU Extension, Turf Tips for the Homeowner: Mowing Lawn Turf (homeowner mowing bulletin)",
+        "MSU Extension, Mulch Leaves into Turf for a Smart Lawn (2016)"
       ]
     }
   ]

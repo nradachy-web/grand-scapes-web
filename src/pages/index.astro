@@ -89,13 +89,13 @@ const faq = [
       </ul>
       <div class="two wide-left card-band">
         <div class="stack" style="--gap:1.5rem">
-          <p class="eyebrow">The lawn people notice</p>
-          <h2 class="h2" id="card-h">A clean stripe is <span class="accent">the business card.</span></h2>
+          <p class="eyebrow">Weekly lawn care</p>
+          <h2 class="h2" id="card-h">Mowed, trimmed, edged <span class="accent">and striped.</span></h2>
           <figure class="pull">
-            <blockquote>“I've since referred Grand Scapes to other clients of mine and they to raved about the quality work they do.”</blockquote>
-            <figcaption class="small muted">{review('james-a')!.name}, Google review</figcaption>
+            <blockquote>“They are meticulous, they are on time each week and the couple of times that I needed to reach out to communicate, they are quick to respond.”</blockquote>
+            <figcaption class="small muted">{review('stacy')!.name}, Google review</figcaption>
           </figure>
-          <p class="lede">When the mower pulls away, the stripes are there for the whole street to see, and so is our yard sign. So we cut, trim and edge every lawn like the neighbors are watching. They usually are.</p>
+          <p class="lede">Every visit is the whole job: mowed, trimmed along the fences and beds, edged at the curb and the walks, and blown off clean. A lot of our new customers found us by looking at the lawn next door.</p>
           <div class="actions">
             <a class="arrow" href={href('/lawn-mowing/')}>Weekly lawn mowing</a>
             <a class="arrow" href={href('/about/')}>Meet Rob</a>
@@ -181,7 +181,7 @@ const faq = [
 
   <section class="band has-edge" aria-labelledby="how-h">
     <div class="wrap">
-      <Head id="how-h" eyebrow="How it works" title="What the reviews **keep mentioning.**" intro="On time each week, quick to answer, careful with the property. That is the part people write about after the lawn." />
+      <Head id="how-h" eyebrow="How it works" title="How it works, **from the first call.**" intro="On time, quick to answer and careful with the property: it is what our reviews mention most, so it is how we run every job." />
       <Steps steps={steps} />
     </div>
     <Edge to="ink" />
@@ -189,7 +189,7 @@ const faq = [
 
   <section class="band ink" aria-labelledby="yr-h">
     <div class="wrap">
-      <Head id="yr-h" eyebrow="A year with Grand Scapes" title="One yard, **four seasons.**" intro="Pick a season to see what we do to the same house that time of year. It opens on today." />
+      <Head id="yr-h" eyebrow="A year with Grand Scapes" title="One yard, **four seasons.**" intro="Pick a season to see what we do to the same house that time of year. It opens on the current season." />
       <SeasonDial id="sd-home" />
       <div class="yr-cta">
         <p class="h3">Want the whole year handled?</p>
@@ -205,7 +205,7 @@ const faq = [
     <Edge to="ink" top />
     <div class="wrap winter__in">
       <p class="eyebrow">When it snows</p>
-      <h2 class="h2" id="snow-h">Our own trucks, <span class="accent">blades on.</span></h2>
+      <h2 class="h2" id="snow-h">Snow removal with <span class="accent">our own trucks.</span></h2>
       <p class="lede">Driveways plowed, walks and steps cleared, ice melt where people walk. Homes, businesses and HOAs, with trucks we own and run ourselves.</p>
       <div class="actions">
         <a class="btn primary" href={href('/snow-removal/')}>Snow removal</a>
@@ -218,7 +218,7 @@ const faq = [
 
   <section class="band has-edge" aria-labelledby="rv-h">
     <div class="wrap">
-      <Head id="rv-h" eyebrow={`${RATING.value} stars, ${RATING.countLabel} Google reviews`} title="In the words of **the people who hired us.**" />
+      <Head id="rv-h" eyebrow={`${RATING.value} stars, ${RATING.countLabel} Google reviews`} title="What customers **wrote on Google.**" />
       <Reviews reviews={[review('reckless-cards')!, review('mark-v')!, review('rick-b')!]} />
     </div>
     <Edge to="ink" flip />
@@ -228,7 +228,7 @@ const faq = [
     <div class="wrap">
       <div class="map-grid">
         <div class="stack" style="--gap:1.25rem">
-          <Head id="areas-h" layout="left" eyebrow="Where we work" title="Grand Blanc and **every town around it.**" intro={`Our shop is on Embury Road in ${BRAND.city}. From there we cover Genesee County and the north edge of Oakland County.`} />
+          <Head id="areas-h" layout="left" eyebrow="Where we work" title="Grand Blanc and **the towns around it.**" intro={`Our shop is on Embury Road in ${BRAND.city}. From there we cover Genesee County and the north edge of Oakland County.`} />
           <div class="areas">
             {
               AREAS.map((a) => (

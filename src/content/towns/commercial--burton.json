@@ -8,20 +8,20 @@
   "hero": {
     "kicker": "Commercial snow removal in Burton, MI",
     "title": "Lots open, **walks salted.**",
-    "lede": "Grand Scapes plows and salts Burton parking lots, drives and walks for businesses, apartment communities, churches and offices, with our own trucks. In summer we keep the same grounds mowed, trimmed and edged. Rob walks the site with you first.",
+    "lede": "Grand Scapes plows and salts Burton parking lots, drives and walks for businesses, apartment communities, churches and offices, with our own trucks. In summer we keep the same grounds mowed, trimmed and edged.",
     "chips": ["Lots plowed", "Walks salted", "Grounds kept", "Free estimate"],
     "photo": "plow-fleet-2"
   },
   "local": {
     "eyebrow": "Commercial in Burton",
-    "title": "Busy roads, **owner's sidewalks.**",
-    "intro": "A business in Burton deals with the same snow rules as a homeowner, just more of them. The city plows its major streets first, but the lot, the drive and the public sidewalk along the frontage are the owner's job. The Census counts close to a thousand mobile homes here and over a thousand homes in buildings of five units or more, and every one of those residents needs a clear path to the car.",
+    "title": "Business lots follow **the same city rules.**",
+    "intro": "A business in Burton follows the same snow rules as a homeowner, on a bigger scale. The city plows its major streets first, but the lot, the drive and the public sidewalk along the frontage are the owner's job. At apartment and manufactured home communities, every resident needs a clear path from the door to the car.",
     "points": [
       { "title": "The sidewalk out front", "body": "The city's road page says owners and occupants have to clear the sidewalk next to their property by 24 hours after a storm stops, and complaints about businesses go straight to DPW. We put the public walk on the route with the lot." },
       { "title": "Snow cannot go in the road", "body": "Michigan law bars depositing snow, ice or slush on any roadway or highway. On a lot fronting a busy street, that means planning the piles before the first storm, away from the entrances and the sight lines at the drive." },
-      { "title": "Major roads see traffic first", "body": "Burton's snow plan gives major roads, hills, curves and intersections the first passes. Lots on those roads see customers and tenants early, so we start with the entrance and the walks to the door." },
+      { "title": "Major roads get plowed first", "body": "Burton's snow plan gives major roads, hills, curves and intersections the first passes. Lots on those roads see customers and tenants early, so we start with the entrance and the walks to the door." },
       { "title": "Salt where people walk", "body": "Ice melt goes on the walks, steps and entrances where people step. MSU Extension notes that salt builds up in beds beside walks and drives, so piles of salty snow go where they will not burn the landscaping." },
-      { "title": "Grounds the rest of the year", "body": "In the growing season the same property can get weekly mowing, trimming, edging and bed upkeep, so one call covers the grounds year round." }
+      { "title": "Mowing in the summer", "body": "In the growing season the same property can get weekly mowing, trimming, edging and bed upkeep, so one call covers the grounds year round." }
     ]
   },
   "logistics": {
@@ -40,10 +40,10 @@
   },
   "photo": "salt-spreader",
   "faq": [
-    { "q": "Do you plow commercial lots in Burton, MI?", "a": "Yes. Grand Scapes plows and salts commercial lots, drives and walks in Burton with our own trucks, for businesses, apartment and manufactured home communities, churches and offices. Rob walks the site first and explains the commercial snow and salting package options." },
+    { "q": "Do you plow commercial lots in Burton, MI?", "a": "Yes. Grand Scapes plows and salts commercial lots, drives and walks in Burton with our own trucks, for businesses, apartment and manufactured home communities, churches and offices. The estimate is free." },
     { "q": "Who has to clear the sidewalk in front of a business in Burton?", "a": "The owner or occupant. The city's road page says snow and ice on the sidewalk next to the premises must be removed by 24 hours after the storm stops, and a violation is a municipal civil infraction. The city takes complaints about businesses as well as homes." },
     { "q": "Can you also mow and keep up the grounds?", "a": "Yes. We mow, trim, edge and blow off commercial grounds weekly in season, and keep the beds and shrubs tidy, so one company handles the property all year. Rob can quote summer and winter together." },
-    { "q": "Where does the snow go on a commercial lot?", "a": "On the property, never into the road. MCL 257.677a makes depositing snow, ice or slush on a roadway a civil infraction. Rob picks the stacking spots on the walkthrough, away from entrances, drains and the sight lines at the drive." }
+    { "q": "Where does the snow go on a commercial lot?", "a": "On the property, never into the road. State law makes depositing snow, ice or slush on a roadway a civil infraction. The stacking spots get picked before winter, away from entrances, drains and the sight lines at the drive." }
   ],
   "reviews": ["rick-b", "stacy"]
 }

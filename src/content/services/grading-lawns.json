@@ -21,10 +21,10 @@
       "type": "intro",
       "plane": "paper",
       "eyebrow": "The short version",
-      "title": "Shape it, seed it, **cover it.**",
+      "title": "The ground shaped, then **seeded under straw.**",
       "body": [
         "Grading means shaping the ground before anything grows on it: cutting down high spots, filling low ones and giving the yard a steady fall away from the house so rain runs off instead of sitting. We do it with compact track loaders, so the whole yard gets shaped by machine instead of raked over by hand.",
-        "Then the new lawn goes in from seed, with a light layer of straw on top to hold moisture and keep the seed from washing away. It takes some patience. Michigan State University Extension notes that grass grown from seed starts out with a stronger root system, and on ground that was shaped right, it comes in even."
+        "Then the new lawn goes in from seed, with a light layer of straw on top to hold moisture and keep the seed from washing away. It takes some patience. MSU Extension notes that grass grown from seed starts out with a stronger root system, and on ground that was shaped right, it comes in even."
       ],
       "checks": [
         "Rough, rutted or bare ground shaped with track loaders",
@@ -70,7 +70,7 @@
       "type": "compare",
       "plane": "paper",
       "eyebrow": "When to seed",
-      "title": "In Michigan, new seed likes **late summer.**",
+      "title": "Michigan's seeding window is **late summer.**",
       "intro": "MSU Extension puts the ideal seeding window at August 15 to September 15. Spring can work, and so can a warm October, but each comes with a catch. Rob can tell you what fits your yard and your schedule.",
       "columns": [
         "Late summer",
@@ -119,7 +119,7 @@
       "title": "New builds, low spots and **old beds.**",
       "body": [
         "On a new home, MSU Extension's advice is to keep the topsoil in a pile off to the side during construction, then spread it evenly once the house is done. If you are building in Grand Blanc or Grand Blanc Township, ask your builder where the topsoil went before we start. New seed on bare subsoil has a hard time.",
-        "In an older yard, grading fixes the low spot that turns into a pond every spring, or the ground left rough after old shrubs and beds came out. We dig those out with the same machines, so [bush removal](/bush-removal/) and a new lawn can go on one estimate.",
+        "In an older yard, grading fixes the low spot that holds water every spring, or the ground left rough after old shrubs and beds came out. We dig those out with the same machines, so [bush removal](/bush-removal/) and a new lawn can go on one estimate.",
         "Some slopes are too steep to mow well. MSU notes that too much slope leads to erosion, hard mowing and scalping. Where a slope has to stay, a boulder or block wall can hold it; see [bed edging and block walls](/bed-edging-and-block-walls/)."
       ],
       "photo": "kubota-trailer",
@@ -129,7 +129,7 @@
       "type": "cards",
       "plane": "paper",
       "eyebrow": "Good to know",
-      "title": "Three things that make **new seed** take.",
+      "title": "Three things that help **new seed take.**",
       "columns": 3,
       "items": [
         {
@@ -161,7 +161,7 @@
   "faq": [
     {
       "q": "Do you grade yards and put in new lawns in Grand Blanc?",
-      "a": "Yes. Grand Scapes grades yards and seeds new lawns in Grand Blanc, Grand Blanc Township and around Genesee County. We shape the ground with compact track loaders, slope it away from the house, then seed it and cover it with straw. Rob comes out first and gives you a free estimate."
+      "a": "Yes. Grand Scapes grades yards and seeds new lawns in Grand Blanc, Grand Blanc Township and around Genesee County. We shape the ground with compact track loaders, slope it away from the house, then seed it and cover it with straw. The estimate is free."
     },
     {
       "q": "When should I seed my lawn in Michigan?",
@@ -185,7 +185,7 @@
     },
     {
       "q": "How much does yard grading cost?",
-      "a": "It depends on how much ground has to move, how big the yard is, how easily a machine can get in, and how much seed and straw it takes. Rob walks the yard, talks through what you want and quotes you a price. The estimate is free."
+      "a": "It depends on how much ground has to move, how big the yard is, how easily a machine can get in, and how much seed and straw it takes. Rob quotes it after seeing the ground, and the estimate is free."
     }
   ],
   "quote": {

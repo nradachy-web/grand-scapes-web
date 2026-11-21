@@ -8,7 +8,7 @@
   "hero": {
     "kicker": "Landscaping in Linden, MI",
     "title": "Beds that **hold the slope.**",
-    "lede": "Grand Scapes rebuilds Linden landscapes: overgrown bushes and old borders out, beds reshaped, a block wall, boulders or a natural edge put in, then fabric and fresh mulch. Rob walks it with you first, suggests what it needs and quotes it.",
+    "lede": "Grand Scapes rebuilds Linden landscapes: overgrown bushes and old borders out, beds reshaped, a block wall, boulders or a natural edge put in, then fabric and fresh mulch.",
     "chips": [
       "Tear out and rebuild",
       "Block and boulder walls",
@@ -19,15 +19,15 @@
   "local": {
     "eyebrow": "Landscaping in Linden",
     "title": "Old village lots, rolling ground, **wet low spots.**",
-    "intro": "Linden was a village from 1871 and became a city in 1988, and its yards show both. Older lots around downtown have foundation beds that have been there for decades. Newer ones sit on rolling Wawasee loam, sometimes on 6 to 12 percent slopes, and the low ground holds wet muck. A rebuild has to fit which of those you have.",
+    "intro": "Linden yards come in three kinds. Older lots around downtown have foundation beds that have been there for decades. Newer lots sit on rolling loam, some of it fairly steep, and the low ground holds wet muck. A rebuild has to fit which of those you have.",
     "points": [
       {
-        "title": "Slopes need a wall or a plan",
+        "title": "Holding a sloped bed",
         "body": "Mulch and soil on a slope keep sliding toward the walk until something holds them. A gray block wall can step down with the grade, and a run of large boulders can hold a steeper bank, with seed and straw on the bare ground above it."
       },
       {
-        "title": "Muck changes the plant list",
-        "body": "Carlisle and Linwood muck is rated very poorly drained, so a shrub that wants dry feet will not last in it. In a wet corner, the choice is plants that like wet roots or a bed built up so the roots sit higher."
+        "title": "Plants for the wet low spots",
+        "body": "The muck in Linden's low spots stays wet, so a shrub that needs dry roots will not last in it. In a wet corner, the choice is plants that like wet roots or a bed built up so the roots sit higher."
       },
       {
         "title": "Downtown has a historic district",

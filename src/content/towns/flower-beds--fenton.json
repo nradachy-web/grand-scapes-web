@@ -7,8 +7,8 @@
   },
   "hero": {
     "kicker": "Mulch installation and flower beds in Fenton, MI",
-    "title": "Fresh mulch, **crisp edges.**",
-    "lede": "Grand Scapes gets Fenton flower beds back in shape: weeded, edged clean along the lawn, laid with fabric where it helps, and finished in fresh black, brown or red mulch at a depth that does the plants some good.",
+    "title": "Beds weeded, edged and **freshly mulched.**",
+    "lede": "Grand Scapes gets Fenton flower beds back in shape: weeded, edged clean along the lawn, laid with fabric where it helps, and finished in fresh black, brown or red mulch at a depth that helps the plants.",
     "chips": [
       "Black, brown or red",
       "Edged clean",
@@ -19,28 +19,28 @@
   "local": {
     "eyebrow": "Beds in Fenton",
     "title": "Mulch that suits **the ground under it.**",
-    "intro": "A bed on a sandy rise in the city dries out by noon in July. A bed near the lake or the river can stay wet for days. Mulch helps both, if it goes down at the right depth and stays off the stems. Most of what goes wrong with mulch is too much of it, piled too high.",
+    "intro": "A bed on a sandy rise in Fenton dries out fast in July. A bed near the lake or the river can stay wet for days. Mulch helps both, if it goes down at the right depth and stays off the stems. Most of what goes wrong with mulch is too much of it, piled too high.",
     "points": [
       {
-        "title": "Two to three inches, not a mountain",
-        "body": "MSU Extension says 2 to 3 inches of mulch is enough to get the full benefit, and a bed that still has last year's needs only about an inch on top. Mulch piled up against a trunk, the volcano look, invites rot and insects."
+        "title": "Two to three inches is enough",
+        "body": "MSU Extension says 2 to 3 inches of mulch is enough to get the full benefit, and a bed that still has last year's needs only about an inch on top. Mulch piled up against a trunk invites rot and insects."
       },
       {
-        "title": "Sandy beds hold water better",
-        "body": "On the well drained Boyer and Wawasee soils, mulch keeps the ground cooler and slows drying; an MSU trial found 3 inches of wood chips cut midday soil temperature by 18 degrees. It cuts down on watering but does not replace it."
+        "title": "Mulch on sandy beds",
+        "body": "On Fenton's sandy, fast draining ground, mulch keeps the soil cooler and slows drying between rains. It cuts down on watering but does not replace it."
       },
       {
         "title": "Fabric under shrubs, not perennials",
         "body": "Fabric plus mulch holds weeds down well in shrub beds, according to MSU. In perennial beds, though, roots and weeds grow into it, it is hard to pull out later, and over the years it can slow water soaking in."
       },
       {
-        "title": "Boxwood is on the watch list",
-        "body": "Michigan's agriculture department confirmed box tree moth in Genesee County in September 2026, found near the edge of the existing quarantine that already covers Oakland and Livingston counties. If your beds have boxwood, we look for webbing and chewed leaves while we work and tell you what we see."
+        "title": "Box tree moth in Genesee County",
+        "body": "Michigan's agriculture department confirmed box tree moth in Genesee County in September 2026. If your beds have boxwood, we look for webbing and chewed leaves while we work and tell you what we see."
       }
     ]
   },
   "logistics": {
-    "title": "What a bed day looks like.",
+    "title": "How a Fenton mulch job runs.",
     "body": [
       "We pull the weeds, cut a clean edge between bed and lawn, and break up old mulch that has caked into a crust, since MSU notes crusted mulch can shed water instead of letting it in. Fabric goes down in shrub beds where you want it. Then fresh mulch goes on, kept back from trunks and off the crowns of perennials, and the walks and drive get blown off.",
       "Rob comes out first, looks at the beds, and gives you a price and a color choice: black, brown or red. If the borders themselves are failing, with old brick sinking into the lawn or timbers rotting, he will say so, and the fix is [new edging or a block wall](/bed-edging-and-block-walls/)."
@@ -76,11 +76,11 @@
     },
     {
       "q": "Is landscape fabric worth it under mulch?",
-      "a": "Under shrubs, usually yes. MSU says fabric plus mulch controls most weeds there in a tidy way. In perennial beds it can become a headache, because roots and weeds grow through it and it is hard to remove later, so we skip it in beds you plan to divide and replant."
+      "a": "Under shrubs, usually yes. MSU says fabric plus mulch controls most weeds there in a tidy way. In perennial beds it causes trouble, because roots and weeds grow through it and it is hard to remove later, so we skip it in beds you plan to divide and replant."
     },
     {
       "q": "What should I do if I see webbing on boxwood in Fenton?",
-      "a": "Look closer and report it. The state says box tree moth caterpillars are green and yellow with white, yellow and black stripes and black spots, and they leave loose webbing and chewed or skeletonized leaves. They feed only on boxwood. Report suspected moths to the Michigan Department of Agriculture and Rural Development before spraying or throwing the plants away."
+      "a": "Report it to the state before spraying or throwing the plants away. Box tree moth caterpillars are green and yellow with white, yellow and black stripes and black spots, and they leave loose webbing and chewed or skeletonized leaves on boxwood, the only plant they feed on. The Michigan Department of Agriculture and Rural Development takes the reports."
     }
   ],
   "reviews": [

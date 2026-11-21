@@ -8,7 +8,7 @@
   "hero": {
     "kicker": "Landscaping in Swartz Creek, MI",
     "title": "Old shrubs, **out by the roots.**",
-    "lede": "Grand Scapes rebuilds Swartz Creek front yards: overgrown foundation shrubs and small trees dug out with a track loader, beds reshaped with a block wall or a clean natural edge, then new plants and mulch. Rob walks it with you, suggests what to do and quotes the job.",
+    "lede": "Grand Scapes rebuilds Swartz Creek front yards: overgrown foundation shrubs and small trees dug out with a track loader, beds reshaped with a block wall or a clean natural edge, then new plants and mulch.",
     "chips": [
       "Old shrubs dug out",
       "Block walls and natural edges",
@@ -20,22 +20,22 @@
   "local": {
     "eyebrow": "Landscaping in Swartz Creek",
     "title": "Older homes, wet soil and **small fronts.**",
-    "intro": "Most of Swartz Creek's single family homes went up in the 1950s and 60s, and plenty of their front beds look it: shrubs grown into the windows, old brick borders sunk into the dirt, beds that have shrunk or sprawled over the decades. Underneath, the city's master plan describes a high water table and wet, poorly drained soil. A good bed here starts with both facts.",
+    "intro": "Most of Swartz Creek's single family homes went up in the 1950s and 60s, and many of their front beds show it: shrubs grown into the windows, old brick borders sunk into the dirt, beds that have shrunk or sprawled over the years. Underneath, the city's plan notes a high water table and wet, slow draining soil. A good bed here has to account for both.",
     "points": [
       {
-        "title": "Foundation shrubs past their prime",
-        "body": "A shrub planted generations ago has usually outgrown its spot. We dig them out with a compact track loader, roots and all, and the bed starts over. One of our reviews describes 25 year old bushes and a cherry tree coming out and a new bed going in. More on [bush removal](/bush-removal/)."
+        "title": "Shrubs grown into the windows",
+        "body": "A shrub planted decades ago has usually outgrown its spot. We dig them out with a compact track loader, roots and all, and the bed starts over. One of our reviews describes 25 year old bushes and a cherry tree coming out and a new bed going in. More on [bush removal](/bush-removal/)."
       },
       {
-        "title": "Beds that respect the water",
-        "body": "Where water sits after rain decides where a bed goes and what goes in it. Rob looks at the low spots before he suggests a shape, and plants that hate wet feet stay out of them."
+        "title": "Beds placed around wet spots",
+        "body": "Where water sits after rain decides where a bed goes and what goes in it. Rob looks at the low spots before he suggests a shape, and plants that need dry roots stay out of them."
       },
       {
         "title": "Small fronts near the sidewalk",
         "body": "Lots in neighborhoods like Park, Elms and Atkins Acres are mostly small, according to the city's plan, and the front bed sits a few steps from the public walk. A crisp border and plants that stay in scale make the whole front look kept."
       },
       {
-        "title": "Borders that hold the line",
+        "title": "Brick edging swapped for block",
         "body": "Old brick edging can sink and let mulch spill into the lawn. A gray block wall or a cut natural edge replaces it, keeps the mulch in and gives the mower a clean line to follow."
       }
     ]
@@ -70,7 +70,7 @@
   "faq": [
     {
       "q": "Do you do landscaping in Swartz Creek, MI?",
-      "a": "Yes. Grand Scapes does landscaping in Swartz Creek: tearing out overgrown beds, digging out bushes and small trees, new borders in gray block or a cut natural edge, and new plants and mulch. Rob walks the yard, suggests what it needs and quotes a price."
+      "a": "Yes. Grand Scapes does landscaping in Swartz Creek: tearing out overgrown beds, digging out bushes and small trees, new borders in gray block or a cut natural edge, and new plants and mulch. The estimate is free, and Rob suggests what the yard needs."
     },
     {
       "q": "Can you remove old bushes from the front of my house?",
@@ -78,7 +78,7 @@
     },
     {
       "q": "What can be done about a bed that stays wet?",
-      "a": "First, find out why. Much of Swartz Creek sits along the creek's floodplain, and the city's plan describes a high water table and poor drainage. Sometimes the answer is a new shape or grade so water moves away from the house; sometimes it is picking plants that handle wet ground. Rob would rather see it after a rain."
+      "a": "It depends on why it is wet. Much of Swartz Creek sits along the creek's floodplain, and the city's plan describes a high water table and poor drainage. Sometimes the answer is a new shape or grade so water moves away from the house; sometimes it is picking plants that handle wet ground. Rob would rather see it after a rain."
     },
     {
       "q": "Do you replace old brick edging?",

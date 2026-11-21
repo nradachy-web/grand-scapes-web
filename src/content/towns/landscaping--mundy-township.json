@@ -8,25 +8,25 @@
   "hero": {
     "kicker": "Landscaping in Mundy Township, MI",
     "title": "New build, **finished yard.**",
-    "lede": "Grand Scapes finishes and rebuilds Mundy Township landscapes: beds shaped around newer homes, tired plantings out at older ones, block, boulder or natural edges, fabric, mulch and plants that can take heavy, wet ground. Rob comes out first and suggests a plan.",
+    "lede": "Grand Scapes finishes and rebuilds Mundy Township landscapes: beds shaped around newer homes, tired plantings out at older ones, block, boulder or natural edges, fabric, mulch and plants that can take heavy, wet ground.",
     "chips": ["Beds shaped and built", "Old plantings out", "Block or boulder edges", "Free estimate"],
     "photo": "deere-grading"
   },
   "local": {
     "eyebrow": "Landscapes in Mundy Township",
-    "title": "Clay, open lots and **a road out front.**",
-    "intro": "About a quarter of the homes in Mundy Township went up in 2000 or later, while the 1970s were the single biggest decade for building here. Either way, a landscape here has to handle slow draining clay, a lot of open space and, at the front, the county's right of way.",
+    "title": "Heavy clay, open lots and **road edge rules.**",
+    "intro": "Mundy Township has plenty of newer homes, about a quarter of them built in 2000 or later, alongside many from the 1970s. Either way, a landscape on these lots has to handle slow draining clay, a lot of open space and the county's right of way along the road.",
     "points": [
-      { "title": "Clay that holds water", "body": "Del Rey silt loam, common across the township, is a clayey soil the USDA rates somewhat poorly drained. Beds get built up and pitched away from the house, and plants that rot in wet ground go on the high side." },
+      { "title": "Clay that holds water", "body": "Much of the township is clayey ground that drains slowly. Beds get built up and pitched away from the house, and plants that rot in wet ground go on the high side." },
       { "title": "Bare yards on new builds", "body": "A newer home often comes with a graded yard and not much else. We shape beds along the foundation and around young trees, bring in topsoil where it is needed, and seed the rest under straw." },
       { "title": "The right of way out front", "body": "The Genesee County Road Commission says a permit is required to install anything in the public right of way, and it lists rocks and solid timber garden borders there as hazards. Boulders and raised beds go on your side of the line." },
-      { "title": "Corner lots and sight lines", "body": "The township's zoning keeps a clear vision zone at corners: in a triangle reaching 50 feet along each road edge, nothing may block the view between 2 and 8 feet up. Tall shrubs and berms on a corner lot have to respect it." }
+      { "title": "Corner lots and sight lines", "body": "The township's zoning keeps a clear vision zone at corners: in a triangle reaching 50 feet along each road edge, nothing may block the view between 2 and 8 feet up. Tall shrubs and berms on a corner lot have to stay out of it." }
     ]
   },
   "logistics": {
     "title": "How a Mundy Township landscape job runs.",
     "body": [
-      "Rob meets you at the property, walks the beds and the open ground, and suggests what to build, what to pull and what to leave. You get a price before anything starts, and nothing extra happens without your okay.",
+      "Rob meets you at the property, walks the beds and the open ground, and suggests what to build, what to pull and what to leave. The price is set before work begins, and any change gets your okay first.",
       "Our compact track loaders do the heavy part: old shrubs and roots out, beds dug and shaped, soil moved. Then fabric, plants and mulch go in, and the edge is finished in gray block, boulders or a clean natural cut.",
       "Old plantings and debris leave in our dump trailer, since curbside yard waste here does not take large bushes or stumps. If a soggy lawn is part of the problem, see [grading and new lawns](/grading-and-new-lawns/), and for the yearly reset, [spring cleanup in Mundy Township](/spring-cleanup-mundy-township-mi/)."
     ],
@@ -39,10 +39,10 @@
   },
   "photo": "straw-seed",
   "faq": [
-    { "q": "Do you do landscaping in Mundy Township?", "a": "Yes. Grand Scapes designs and rebuilds landscapes in Mundy Township: beds shaped on new builds, old shrubs and small trees removed at older homes, block, boulder or natural edges, plants, fabric and mulch. Rob comes out first and gives a free estimate." },
+    { "q": "Do you do landscaping in Mundy Township?", "a": "Yes. Grand Scapes designs and rebuilds landscapes in Mundy Township: beds shaped on new builds, old shrubs and small trees removed at older homes, block, boulder or natural edges, plants, fabric and mulch. The estimate is free." },
     { "q": "Can you landscape a new construction yard?", "a": "Yes. We grade and shape bare ground with our track loaders, build the foundation beds, bring in topsoil where it is thin, and seed the lawn under straw. On the township's heavy clay, getting water to run away from the house comes first." },
     { "q": "Can I put boulders or a garden border by the road?", "a": "Check first. The Genesee County Road Commission says anything installed in the public right of way needs a permit, and it names rocks and solid timber borders as hazards near the road. We keep features on your side of the right of way line." },
-    { "q": "Do you haul away the old bushes?", "a": "Yes. Old shrubs, roots and debris leave in our dump trailer. Republic's curbside yard waste in Mundy Township does not take large bushes or stumps, and the township's landfill permit excludes yard waste, so hauling it ourselves keeps it simple." }
+    { "q": "Do you haul away the old bushes?", "a": "Yes. Old shrubs, roots and debris leave in our dump trailer. Republic's curbside yard waste in Mundy Township does not take large bushes or stumps, so we haul them ourselves." }
   ],
   "reviews": ["jason-p", "reckless-cards", "mark-v"]
 }

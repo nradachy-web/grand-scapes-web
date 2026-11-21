@@ -7,18 +7,18 @@
   },
   "hero": {
     "kicker": "Shrub and hedge trimming in Fenton, MI",
-    "title": "Hedges back **in line.**",
+    "title": "Clean hedges, **full at the base.**",
     "lede": "Grand Scapes trims Fenton shrubs and hedges back to clean shapes, at the right time of year for each plant, then rakes the clippings out of the beds and hauls them off. Bushes that are past saving can come out instead.",
     "chips": ["Shaped to the plant", "Clippings hauled off", "Old bushes removed"],
     "photo": "gazebo-hedges"
   },
   "local": {
     "eyebrow": "Shrubs in Fenton",
-    "title": "Timing matters more than **the shears.**",
-    "intro": "Most shrub trouble is a timing problem. Cut a lilac or a forsythia in early spring and you cut off its flowers. Shear a juniper hard and it may never fill back in. Around here there is one more thing to watch this year: the box tree moth, now confirmed in Genesee County.",
+    "title": "Trim timing and the **box tree moth.**",
+    "intro": "Most shrub trouble is a timing problem. Cut a lilac or a forsythia in early spring and you cut off its flowers. Shear a juniper hard and it may never fill back in. Around Fenton there is one more thing to watch this year: the box tree moth, now confirmed in Genesee County.",
     "points": [
       {
-        "title": "Spring bloomers wait until after they flower",
+        "title": "Spring bloomers after they flower",
         "body": "Lilac, forsythia, spirea, weigela and many viburnums set next spring's flower buds the summer before. MSU Extension says spring flowering shrubs are best pruned right after they finish blooming, so they go on the list for late spring."
       },
       {
@@ -36,7 +36,7 @@
     ]
   },
   "logistics": {
-    "title": "A trimming visit, start to finish.",
+    "title": "How a Fenton trimming visit goes.",
     "body": [
       "Rob walks the beds with you and points out what should be trimmed now, what should wait until after it blooms, and anything too far gone to save. You get a price for the visit before we start.",
       "Formal hedges get the shears and a straight line. Shrubs that look better loose get thinned and shaped instead of clipped into balls, since MSU notes deciduous shrubs generally do better thinned than sheared. Clippings are raked out of the mulch, the walks get blown off, and the debris leaves in our trailer.",
@@ -46,7 +46,7 @@
       { "label": "Lilac, forsythia", "value": "Right after they bloom" },
       { "label": "Most other shrubs", "value": "Late winter or early spring" },
       { "label": "Clippings", "value": "Raked out and hauled off" },
-      { "label": "Estimate", "value": "Free, Rob walks the beds" }
+      { "label": "Estimate", "value": "Free, priced before we start" }
     ]
   },
   "photo": "neighborhood-stripes",
@@ -57,7 +57,7 @@
     },
     {
       "q": "When should I trim my lilacs?",
-      "a": "Right after they finish blooming. MSU Extension says lilacs form next year's flower buds the summer before, so pruning them in early spring cuts off most of the flowers. Lilacs also bloom best with six or more hours of full sun."
+      "a": "Right after they finish blooming. MSU Extension says lilacs form next year's flower buds the summer before, so pruning them in early spring cuts off most of the flowers."
     },
     {
       "q": "Can an overgrown yew or juniper be cut back hard?",
@@ -65,7 +65,7 @@
     },
     {
       "q": "Is the box tree moth around Fenton?",
-      "a": "It has been confirmed in Genesee County. The state announced the find in September 2026, made through USDA trapping near the edge of the quarantine that already includes Oakland and Livingston counties next door. It feeds only on boxwood, so if you have some, watch for webbing and chewed leaves and report anything suspicious to the state."
+      "a": "Yes. The state confirmed it in Genesee County in September 2026. The moth feeds only on boxwood, so if you have some, watch for webbing and chewed leaves and report anything suspicious to the state."
     }
   ],
   "reviews": ["reckless-cards", "bob-s"]

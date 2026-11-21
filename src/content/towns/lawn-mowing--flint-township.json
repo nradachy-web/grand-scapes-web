@@ -14,17 +14,17 @@
   },
   "local": {
     "eyebrow": "Lawns in Flint Township",
-    "title": "Flat lawns on heavy loam **need a careful cut.**",
-    "intro": "Most lawns here sit in neighborhoods built from the 1950s through the 1970s, on flat ground the USDA maps mostly as Conover loam. That soil drains somewhat poorly, so lawns come in thick in spring and stay soft longer than people expect. The mowing has to work with that, not against it.",
+    "title": "Flat lawns on ground that **drains slowly.**",
+    "intro": "Most lawns in Flint Township sit in neighborhoods built from the 1950s through the 1970s, on flat, heavy soil that drains slowly. They come in thick in spring and stay soft longer than people expect, so the mowing is timed around wet ground.",
     "points": [
-      { "title": "Soft ground after the thaw", "body": "After snowmelt and spring rain, low spots in heavy loam hold water. A heavy mower on wet ground leaves ruts that harden into bumps you feel all summer, so on soft days those spots get trimmed instead of driven over." },
-      { "title": "Grass that creeps over concrete", "body": "On lawns that date to the 1960s, the grass along the drive and the walk has had decades to creep across the concrete. We cut it back to a straight line once, then keep it there every week." },
-      { "title": "Clippings have nowhere else to go", "body": "Grass clippings cannot be burned in the township, and Emterra does not take contractor material. Normal clippings go back into the lawn, which feeds it. Heavy ones after a rainy week go in our trailer." },
+      { "title": "Soft ground after the thaw", "body": "After snowmelt and spring rain, low spots in heavy soil hold water. A heavy mower on wet ground leaves ruts that harden into bumps you feel all summer, so on soft days those spots get trimmed instead of driven over." },
+      { "title": "Grass grown over the concrete", "body": "On older lawns, grass along the drive and the walk has often crept well onto the concrete. We cut it back to a straight line once, then keep it there every week." },
+      { "title": "Where the clippings go", "body": "Grass clippings cannot be burned in the township, and Emterra does not take contractor material. Normal clippings go back into the lawn, which feeds it. Heavy ones after a rainy week go in our trailer." },
       { "title": "Fast growth in May", "body": "MSU Extension notes spring growth can call for a cut every four or five days. Skip a week in May on a thick township lawn and the next cut takes off far more than a third of the blade, which stresses the grass." }
     ]
   },
   "logistics": {
-    "title": "How weekly mowing runs in Flint Township.",
+    "title": "How a Flint Township lawn gets mowed.",
     "body": [
       "Rob walks the lawn with you, notes the soft spots, the fences and the beds, and gives you a weekly price. Then the crew comes on a set weekday from spring into fall.",
       "Each visit: mowed, string trimmed along the house, fences and beds, edged along the drive, walk and curb, and blown clean. The pattern is your call: straight, curved, crosscut or checkerboard.",
@@ -39,11 +39,11 @@
   },
   "photo": "side-yard-stripes",
   "faq": [
-    { "q": "Do you mow lawns in Flint Township?", "a": "Yes. Grand Scapes mows lawns in Flint Township weekly from spring into fall: mowed, trimmed, edged and blown off on a set day. Rob gives a free estimate after he walks the yard, and we are about 20 minutes away in Grand Blanc." },
-    { "q": "Why does my lawn stay soggy in the spring?", "a": "In much of the township, the soil is the reason. The USDA soil survey maps most of the area as Conover loam, which drains somewhat poorly, with Brookston loam in the low spots, which drains poorly. Water sits longer in spring and after big rains, and wet ground ruts easily." },
-    { "q": "How high should I mow my lawn?", "a": "MSU Extension gives a general range of about 2.5 to 3.5 inches for Michigan lawns, and taking no more than a third of the blade per cut. Mowing on the high side in summer helps shade the soil and hold moisture." },
+    { "q": "Do you mow lawns in Flint Township?", "a": "Yes. Grand Scapes mows lawns in Flint Township weekly from spring into fall: mowed, trimmed, edged and blown off on a set day. The estimate is free, and our shop in Grand Blanc is about 20 minutes away." },
+    { "q": "Why does my lawn stay soggy in the spring?", "a": "Usually it is the soil. Most of Flint Township sits on heavy soil that drains slowly, and the low spots drain even worse. Water sits longer in spring and after big rains, and wet ground ruts easily, so we work around the softest spots." },
+    { "q": "How high should I mow my lawn?", "a": "About 2.5 to 3.5 inches is MSU Extension's general range for Michigan lawns, taking no more than a third of the blade per cut. Mowing on the high side in summer helps shade the soil and hold moisture." },
     { "q": "Do you bag the clippings?", "a": "Usually not. Normal clippings go back into the lawn, which is what they are for. When the grass gets ahead of us after a rainy week, we bag it and haul it, since burning clippings is not allowed here and the township hauler does not take contractor material." },
-    { "q": "Can you also take care of the shrubs and beds?", "a": "Edging is part of every visit. Shrubs are their own job: see [shrub trimming in Flint Township](/shrub-trimming-flint-township-mi/) for hedges and foundation shrubs, and [spring cleanups](/spring-cleanup-flint-township-mi/) for getting the yard ready for the first cut." }
+    { "q": "Can you also take care of the shrubs and beds?", "a": "Yes, as their own jobs. See [shrub trimming in Flint Township](/shrub-trimming-flint-township-mi/) for hedges and foundation shrubs, and [spring cleanups](/spring-cleanup-flint-township-mi/) for getting the yard ready for the first cut. Edging along the walks and drive is already part of every mowing visit." }
   ],
   "reviews": ["stacy", "rick-b"]
 }

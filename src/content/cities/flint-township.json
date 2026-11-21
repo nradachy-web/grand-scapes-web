@@ -7,7 +7,7 @@
   "hero": {
     "kicker": "Lawn care, landscaping and snow removal in Flint Township, MI",
     "title": "Flat lawns, heavy soil, **clean stripes.**",
-    "lede": "Grand Scapes looks after Flint Township yards all year: weekly mowing, spring and fall cleanups, bed rebuilds and shrub trimming, and driveways plowed by our own trucks in winter. Rob comes out, walks it with you and quotes it free.",
+    "lede": "Grand Scapes looks after Flint Township yards all year: weekly mowing, spring and fall cleanups, bed rebuilds and shrub trimming, and driveways plowed by our own trucks in winter, with a free estimate to start.",
     "chips": [
       "Weekly mowing",
       "Spring and fall cleanups",
@@ -18,16 +18,16 @@
   },
   "about": {
     "eyebrow": "Yards in Flint Township",
-    "title": "Built mostly in the 60s and 70s, on **ground that holds water.**",
+    "title": "Flint Township yards are older and **slow to drain.**",
     "body": [
-      "Flint Township wraps around the southwest side of the City of Flint in an L shape, but it is its own government, run from the township hall on South Dye Road. By Census figures the typical home here was built around 1970, and the 1960s were the biggest building decade. Most lawns and foundation plantings have had fifty years or more to settle in, and to grow past where anyone meant them to.",
-      "The ground is mostly flat, heavy loam. The USDA soil survey maps much of the township as Conover loam, which drains somewhat poorly, with Brookston loam in the low spots, which drains poorly. Lawns stay soft into spring, water sits after a hard rain, and beds have to send water away from the foundation.",
+      "Flint Township wraps around the southwest side of the City of Flint, but it is its own government, run from the township hall on South Dye Road. Most homes here went up in the 1960s and 70s, so the lawns and foundation plantings have had fifty years or more to settle in, and to grow past where anyone meant them to.",
+      "The ground is mostly flat, heavy soil that drains slowly, and the low spots drain worse. Lawns stay soft into spring, water sits after a hard rain, and beds have to send water away from the foundation.",
       "There is a big commercial side too. Retail lines Miller, Linden and Corunna Roads, offices sit along Beecher Road, and about a quarter of the homes are in apartment buildings of three or more units. We keep lots and grounds as well as houses."
     ],
     "points": [
       {
-        "title": "County roads, county plows",
-        "body": "Township roads belong to the Genesee County Road Commission, or to MDOT for state roads. The county plows subdivision streets last, so a cleared driveway counts for more here than people expect."
+        "title": "Subdivision streets are plowed last",
+        "body": "Township roads belong to the Genesee County Road Commission, or to MDOT for state roads. The county plows subdivision streets last, and clearing your own drive is a separate job that our [snow removal](/snow-removal-flint-township-mi/) covers."
       },
       {
         "title": "Yard waste goes out on Thursdays",
@@ -39,7 +39,7 @@
       },
       {
         "title": "Shrubs at the end of the drive",
-        "body": "The Road Commission says bushes, fences and other items near the right of way can block a driver's view at driveways and intersections. Keeping those shrubs low is a safety job as much as a looks job."
+        "body": "The Road Commission says bushes, fences and other items near the right of way can block a driver's view at driveways and intersections. Keeping those shrubs trimmed low helps you and your neighbors see the road."
       }
     ],
     "photo": "block-bed-side"

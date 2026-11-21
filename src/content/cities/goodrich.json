@@ -6,8 +6,8 @@
   },
   "hero": {
     "kicker": "Lawn care, landscaping and snow removal in Goodrich, MI",
-    "title": "A small village, **big yards around it.**",
-    "lede": "Grand Scapes takes care of Goodrich yards: weekly mowing, spring and fall cleanups, bed makeovers and snow plowing. Village lots near downtown and big lots on gravel roads out in Atlas Township both get a walk through with Rob and a free estimate.",
+    "title": "Big lots, mowed and **plowed out.**",
+    "lede": "Grand Scapes takes care of Goodrich yards: weekly mowing, spring and fall cleanups, bed makeovers and snow plowing. Village lots near downtown and big lots on gravel roads out in Atlas Township both start with a free estimate.",
     "chips": [
       "Weekly mowing",
       "Leaves vacuumed and hauled",
@@ -18,16 +18,16 @@
   },
   "about": {
     "eyebrow": "Yards in Goodrich",
-    "title": "The Mill Pond, rolling ground and **a lot of trees.**",
+    "title": "Big lots, rolling ground and **plenty of trees.**",
     "body": [
-      "Goodrich is a village of about 2,000 people inside Atlas Township, a little over two square miles around a small downtown, with M-15 running through and the Mill Pond on Kearsley Creek. The village's own master plan names the pond, the creek, rolling hillsides, wetlands and mature trees as what gives the place its character.",
-      "Most of the houses are younger than the village. Census figures in that plan count about two of every three homes as built after 1980, much of it on former farmland, and residential land grew from 127 acres in 1990 to about 510 by 2020. The outlying lots are larger; the streets near downtown are older and tighter.",
-      "Past the village line, Atlas Township is mostly big lots, farms and woods. Its master plan counts 44.4 miles of gravel road and woodland on about 22 percent of the township, and a home without sewer needs at least two acres. That adds up to long drives, tree lines and plenty of leaves."
+      "Goodrich is a small village inside Atlas Township, with M-15 running through and the Mill Pond on Kearsley Creek. The land rolls, and the village has a lot of mature trees.",
+      "About two of every three homes here went up after 1980, much of it on former farmland. The outlying lots are larger; the streets near downtown are older and tighter.",
+      "Past the village line, Atlas Township is mostly big lots, farms, woods and gravel roads, and a home without sewer needs at least two acres. That adds up to long drives, tree lines and plenty of leaves."
     ],
     "points": [
       {
         "title": "Low ground near the water",
-        "body": "Wetlands sit in the low areas around the Mill Pond and along the creeks, and the USDA maps muck soil in some low spots nearby. Lawns and beds there stay wet longer in spring, so heavy equipment waits for firm ground."
+        "body": "Wetlands sit in the low areas around the Mill Pond and along the creeks, with mucky soil in some low spots nearby. Lawns and beds there stay wet longer in spring, so heavy equipment waits for firm ground."
       },
       {
         "title": "Rolling lots",
@@ -84,7 +84,7 @@
     },
     {
       "q": "Do you plow driveways on gravel roads near Goodrich?",
-      "a": "Yes, with our own trucks. Rob walks the drive in the fall to find the edges, the culvert and the mailbox, then explains the residential snow removal and salting packages. Walks and steps can be shoveled and salted too."
+      "a": "Yes, with our own trucks. In the fall Rob looks over the drive to find the edges, the culvert and the mailbox, then explains the residential snow removal and salting packages. Walks and steps can be shoveled and salted too."
     }
   ],
   "reviews": [

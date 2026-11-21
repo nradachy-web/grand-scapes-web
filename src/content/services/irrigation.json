@@ -6,7 +6,7 @@
   },
   "hero": {
     "kicker": "Sprinkler repair and irrigation in Grand Blanc, MI",
-    "title": "Water on the lawn, **not the drive.**",
+    "title": "Sprinklers repaired and **set right.**",
     "lede": "Grand Scapes handles lawn sprinkler work in Grand Blanc and around Genesee County: repairs, new lines and zones where the lawn is not getting water, and service through the season. Call or text Rob and tell him what your system is doing.",
     "chips": [
       "Sprinkler repairs",
@@ -23,8 +23,7 @@
       "eyebrow": "What we do",
       "title": "Repairs, new zones, **upkeep.**",
       "body": [
-        "Our irrigation work comes in three kinds: fixing what is broken, adding coverage where the lawn needs it, and keeping a system running well through the season. A zone that will not come on, a head soaking the street, a corner of the lawn that is always brown: that is the call.",
-        "We keep it simple. Rob comes out, looks at the system with you, tells you plainly what he sees and quotes what it needs. The estimate is free."
+        "Our irrigation work comes in three kinds: fixing what is broken, adding coverage where the lawn needs it, and keeping a system running well through the season. A zone that will not come on, a head soaking the street, a corner of the lawn that is always brown: those are the calls we take."
       ],
       "checks": [
         "Broken heads and leaking lines repaired",
@@ -43,7 +42,7 @@
       "items": [
         {
           "title": "A zone that will not run",
-          "body": "One part of the lawn stays dry while the rest comes on. Worth a look before that side of the yard browns out in July."
+          "body": "One part of the lawn stays dry while the rest comes on. Have it looked at before that side of the yard browns out in July."
         },
         {
           "title": "Water on the concrete",
@@ -63,8 +62,8 @@
       "type": "cards",
       "plane": "paper",
       "eyebrow": "From MSU Extension",
-      "title": "How much water **a Michigan lawn** needs.",
-      "intro": "Michigan State University Extension's guidance, in short. A system that runs right gets the lawn close to these numbers.",
+      "title": "How much water a Michigan **lawn needs.**",
+      "intro": "MSU Extension's guidance, in short. A system that runs right gets the lawn close to these numbers.",
       "columns": 3,
       "items": [
         {
@@ -97,7 +96,7 @@
       "type": "steps",
       "plane": "white",
       "eyebrow": "How it goes",
-      "title": "Call, look, **fix.**",
+      "title": "Three steps to **a working system.**",
       "steps": [
         {
           "title": "Tell Rob what it is doing",
@@ -130,7 +129,7 @@
   "faq": [
     {
       "q": "Do you repair sprinkler systems in Grand Blanc?",
-      "a": "Yes. Grand Scapes does lawn sprinkler repairs in Grand Blanc and around Genesee County, along with new lines and zones and service through the season. Call or [text Rob](sms:+18109903040) and tell him what the system is doing. He will come out and give you a free estimate."
+      "a": "Yes. Grand Scapes does lawn sprinkler repairs in Grand Blanc and around Genesee County, along with new lines and zones and service through the season. Call or [text Rob](sms:+18109903040) and tell him what the system is doing. The estimate is free."
     },
     {
       "q": "How much should I water my lawn in Michigan?",
@@ -150,11 +149,11 @@
     },
     {
       "q": "Can you add a zone to my sprinkler system?",
-      "a": "Yes. New lines and zones are part of our irrigation work, for a corner that never gets water or a part of the yard the system never reached. Rob will look at the system, see what it can take and quote it."
+      "a": "Yes. New lines and zones are part of our irrigation work, for a corner that never gets water or a part of the yard the system never reached. Rob checks what the system can take before he quotes it."
     },
     {
       "q": "How much does sprinkler repair cost?",
-      "a": "It depends on what is wrong and how much of the system is involved. Rob comes out, looks at it and quotes you a price before any work starts. The estimate is free."
+      "a": "It depends on what is wrong and how much of the system is involved. Each job is quoted before any work starts, and the estimate is free."
     }
   ],
   "quote": {

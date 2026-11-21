@@ -14,26 +14,26 @@
   },
   "local": {
     "eyebrow": "Leaves in Goodrich",
-    "title": "Out in the township, leaves have **nowhere to go.**",
-    "intro": "Around Goodrich, the leaf problem is volume. Woods cover about 22 percent of Atlas Township, big lots back up to tree lines, and the village has mature trees along its older streets. Out in the township, curbside yard waste pickup only comes if you subscribed, so a fall of leaves needs a plan.",
+    "title": "Township leaf pickup is **by subscription only.**",
+    "intro": "Around Goodrich, the leaf problem is volume. Big township lots back up to tree lines, and the village has mature trees along its older streets. Out in Atlas Township, curbside yard waste pickup only comes if you subscribed, so a heavy fall of leaves needs somewhere to go.",
     "points": [
-      { "title": "Subscription only in Atlas", "body": "Atlas Township's page says Emterra picks up compost weekly from April to November by subscription only, with sign up opening March 1 for a limited time. Miss that window and bagged leaves have nowhere to go." },
+      { "title": "Subscription only in Atlas", "body": "Atlas Township's page says Emterra picks up compost weekly from April to November by subscription only, with sign up opening March 1 for a limited time. Without a subscription, bagged leaves have no pickup." },
       { "title": "Village pickup ends in November", "body": "The Village of Goodrich gets yard waste pickup on Tuesdays in season through Republic Services. Its 2026 calendar marks November 24 as the last yard waste day, and it shows none in December." },
-      { "title": "Burning has rules", "body": "The Atlas Township Fire Department's permit allows dry leaves in daylight, with piles no bigger than 6 feet across, wind no more than 10 mph and nothing within 50 feet of a building or along a road. Vacuuming and hauling them off skips the smoke and the permit." },
-      { "title": "Do not let them sit", "body": "MSU Extension warns that a mat of leaves left on a lawn over winter can smother the grass, slow spring green-up and invite snow mold. On a big wooded lot, that is a lot of lawn to lose." }
+      { "title": "Burning takes a permit", "body": "The Atlas Township Fire Department's permit allows dry leaves in daylight, with piles no bigger than 6 feet across, wind no more than 10 mph and nothing within 50 feet of a building or along a road. Hauling the leaves away skips the permit." },
+      { "title": "Leaves left all winter", "body": "MSU Extension warns that a mat of leaves left on a lawn over winter can smother the grass, slow spring green-up and invite snow mold. That is why the lawn gets cleared before the snow." }
     ]
   },
   "logistics": {
-    "title": "Big lots get a plan, not just a pass.",
+    "title": "How we clear a big Goodrich lot.",
     "body": [
       "Rob walks the lot with you and looks at the trees, the size of the lawn and how far the leaves have to travel to the trailer. Some Goodrich yards need one cleanup after the trees are bare; heavily wooded ones may need a second visit later in November.",
-      "On the day, we blow leaves out of the beds, off the lawn and back from the tree line, then run the truck mounted vacuum into our dump trailer. Spent perennials get cut back, the last mowing can go with it, and every leaf leaves with us."
+      "On the day, we blow leaves out of the beds, off the lawn and back from the tree line, then run the truck mounted vacuum into our dump trailer. Spent perennials get cut back, the last mowing can go with it, and everything we gather goes out in the trailer."
     ],
     "facts": [
       { "label": "Township leaf pickup", "value": "Subscription only" },
       { "label": "Village yard waste", "value": "Tuesdays, ends late November" },
       { "label": "Our way", "value": "Vacuumed and hauled away" },
-      { "label": "Estimate", "value": "Free, after Rob sees the trees" }
+      { "label": "Estimate", "value": "Free, in person" }
     ]
   },
   "photo": "leaf-trailer",

@@ -7,8 +7,8 @@
   },
   "hero": {
     "kicker": "Landscaping in Flint Township, MI",
-    "title": "Fifty year old beds, **rebuilt.**",
-    "lede": "Grand Scapes rebuilds the beds around Flint Township homes: worn out shrubs dug out, the bed shaped to shed water, a gray block wall or natural edge set, then plants, fabric and mulch. Rob walks it with you and quotes the whole job.",
+    "title": "Old foundation beds, **reshaped to drain.**",
+    "lede": "Grand Scapes rebuilds the beds around Flint Township homes: worn out shrubs dug out, the bed shaped to shed water, a gray block wall or natural edge set, then plants, fabric and mulch, all quoted as one job.",
     "chips": [
       "Old shrubs out",
       "Beds shaped to drain",
@@ -19,23 +19,23 @@
   },
   "local": {
     "eyebrow": "Landscaping in Flint Township",
-    "title": "Homes from the 60s and 70s, and beds **that show it.**",
-    "intro": "The 1960s were the township's biggest building decade, and the typical home here dates to about 1970, by Census figures. Foundation beds that old have usually outlived their shrubs, and on heavy, slow draining loam they often hold water against the house. A rebuild fixes both at once.",
+    "title": "Worn out shrubs and **wet foundation beds.**",
+    "intro": "Most Flint Township homes went up in the 1960s and 70s. Foundation beds that old have usually outlived their shrubs, and on heavy, slow draining soil they often hold water against the house. A rebuild fixes both at once.",
     "points": [
       {
-        "title": "Shrubs past their prime",
+        "title": "Overgrown foundation shrubs",
         "body": "Foundation shrubs from decades ago can cover the windows and crowd the front walk. We dig them out with a compact track loader, roots and all, and start the bed fresh instead of trimming around dead wood."
       },
       {
         "title": "Water against the foundation",
-        "body": "Conover loam, the soil the USDA maps across most of the township, drains somewhat poorly, and Brookston loam in the low spots drains poorly. A bed shaped to slope away from the house keeps water moving the right way."
+        "body": "Most of the ground here is heavy soil that drains slowly, and the low spots drain worse. A bed shaped to slope away from the house keeps water moving the right way."
       },
       {
         "title": "Mind the road edge",
         "body": "The Road Commission says anything installed in the county right of way needs a permit, and it names rocks, timber borders and heavy mailbox posts near the road as hazards. New beds stay on your side of that line."
       },
       {
-        "title": "The hauling is on us",
+        "title": "We haul the debris",
         "body": "Emterra's yard waste pickup does not take contractor generated material, and its brush bundles top out at 4 feet. Old shrubs, borders and soil from a rebuild leave in our dump trailer."
       }
     ]
@@ -70,11 +70,11 @@
   "faq": [
     {
       "q": "Do you do landscaping in Flint Township?",
-      "a": "Yes. Grand Scapes rebuilds beds in Flint Township: old shrubs and borders out, beds shaped to drain, block walls or a natural edge in, then new plants, fabric and mulch. Rob quotes it free after he walks the property."
+      "a": "Yes. Grand Scapes rebuilds beds in Flint Township: old shrubs and borders out, beds shaped to drain, block walls or a natural edge in, then new plants, fabric and mulch. The estimate is free."
     },
     {
       "q": "Can you fix a bed that holds water against the house?",
-      "a": "Usually, yes. Much of the township sits on loam that drains slowly, so we reshape the bed to slope away from the foundation before anything is planted. If the problem is the grade of the whole yard, see [grading and new lawns](/grading-and-new-lawns/)."
+      "a": "Usually, yes. Much of the township sits on soil that drains slowly, so we reshape the bed to slope away from the foundation before anything is planted. If the problem is the grade of the whole yard, see [grading and new lawns](/grading-and-new-lawns/)."
     },
     {
       "q": "Can I put boulders or a border along the road?",

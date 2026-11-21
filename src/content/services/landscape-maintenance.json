@@ -6,7 +6,7 @@
   },
   "hero": {
     "kicker": "Landscape maintenance in Grand Blanc, MI",
-    "title": "Keep the beds **finished.**",
+    "title": "Beds kept weeded **and edged.**",
     "lede": "Grand Scapes keeps beds looking the way they did the day they were done: weeds pulled, edges recut, shrubs trimmed and mulch touched up through the season. It sits naturally beside weekly lawn mowing, so the beds and the stripes stay sharp together.",
     "chips": [
       "Weeding",
@@ -21,9 +21,9 @@
       "type": "intro",
       "plane": "paper",
       "eyebrow": "The short version",
-      "title": "Beds drift. **We pull them back.**",
+      "title": "Upkeep between **the big jobs.**",
       "body": [
-        "Landscape maintenance is the upkeep between the big jobs. Weeds come back, grass creeps over the bed line, shrubs push past their shape, and mulch thins and fades. We come back through the season and put it right before it gets away from you.",
+        "Landscape maintenance is the upkeep between the big jobs. Weeds come back, grass creeps over the bed line, shrubs push past their shape, and mulch thins and fades. We come back through the season and fix it before it adds up.",
         "It fits alongside [weekly lawn mowing](/lawn-mowing/), so the edge of the bed matches the edge of the lawn. If a bed needs more than upkeep, like a new border or overgrown shrubs out, Rob will say so and quote that separately."
       ],
       "checks": [
@@ -49,7 +49,7 @@
         },
         {
           "tag": "Early summer",
-          "title": "Hold the line",
+          "title": "Recut and weed",
           "body": "Weeds and grass push into the beds, so edges get recut and weeds pulled. Leggy yew shoots can be trimmed back by hand in June, as MSU Extension suggests."
         },
         {
@@ -59,7 +59,7 @@
         },
         {
           "tag": "Fall",
-          "title": "Put the beds to bed",
+          "title": "Clear the beds",
           "body": "Beds get cleared of leaves and spent plants and the edges cut one last time. That work overlaps with our [fall cleanup](/fall-cleanup-and-leaf-removal/), and the two are easy to book together."
         }
       ]
@@ -68,7 +68,7 @@
       "type": "reviews",
       "plane": "ink",
       "eyebrow": "On Google",
-      "title": "On time, **every week.**",
+      "title": "What customers wrote **about the work.**",
       "ids": [
         "reckless-cards",
         "mark-v",
@@ -137,7 +137,7 @@
         },
         {
           "title": "Mulch against the bark",
-          "body": "Mulch piled against a trunk keeps the bark wet. MSU Extension says to keep a bare ring of about 6 inches around a tree, a doughnut rather than a volcano."
+          "body": "Mulch piled against a trunk keeps the bark wet. MSU Extension says to keep a bare ring of about 6 inches around a tree."
         },
         {
           "title": "Invasive seedlings",
@@ -149,9 +149,9 @@
       "type": "intro",
       "plane": "paper",
       "eyebrow": "Grand Blanc",
-      "title": "Upkeep close **to the shop.**",
+      "title": "Bed upkeep in and **around Grand Blanc.**",
       "body": [
-        "Our shop is on Embury Road in Grand Blanc, and Grand Blanc and Grand Blanc Township are home. We take on landscape maintenance across Genesee County and north Oakland County too, from Fenton to Davison and Flint to Holly.",
+        "Our shop is on Embury Road in Grand Blanc, and most of our bed upkeep is in Grand Blanc and Grand Blanc Township. We take on landscape maintenance across Genesee County and north Oakland County too, from Fenton to Davison and Flint to Holly.",
         "How often we come and what each visit covers depends on the yard. Rob walks the beds, suggests a plan for the season and quotes it, and the estimate is free. For businesses and HOAs, see [commercial grounds and snow](/commercial/)."
       ],
       "cta": {
@@ -175,7 +175,7 @@
     },
     {
       "q": "Can you maintain beds someone else put in?",
-      "a": "Yes. We can take over beds no matter who installed them. If they need more than upkeep, like a new border or overgrown shrubs taken out, Rob will say so and quote that separately."
+      "a": "Yes. We can take over beds no matter who installed them, and if they need a new border or a shrub taken out first, that is quoted separately."
     },
     {
       "q": "Can I get bed maintenance with my lawn mowing?",
@@ -191,12 +191,12 @@
     },
     {
       "q": "How much does landscape maintenance cost?",
-      "a": "It depends on how many beds you have, what is in them and how often they need attention. Rob walks the yard, suggests a plan and quotes it. The estimate is free."
+      "a": "It depends on how many beds you have, what is in them and how often they need attention. The season is quoted after a look at the beds, and the estimate is free."
     }
   ],
   "quote": {
     "title": "Tell us about the beds you want kept.",
-    "lede": "How many beds, and what keeps going wrong with them? Call or [text Rob](sms:+18109903040) at (810) 990-3040, and he will come out, look it over and quote the season."
+    "lede": "How many beds, and what keeps going wrong with them. Call or [text Rob](sms:+18109903040) at (810) 990-3040, and he will come out, look it over and quote the season."
   },
   "summary": {
     "title": "Bed upkeep through the season.",

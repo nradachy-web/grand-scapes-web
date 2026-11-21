@@ -7,20 +7,20 @@
   },
   "hero": {
     "kicker": "Fall cleanup and leaf removal in Flint Township, MI",
-    "title": "Leaves hauled off, **not burned.**",
+    "title": "A clean lawn **before the snow.**",
     "lede": "Grand Scapes clears Flint Township yards each fall: leaves blown out of beds and off the lawn, vacuumed into our trailer and hauled away, perennials cut back and the last cut done. No burning, and no stack of brown bags at the curb.",
     "chips": ["Vacuumed and hauled", "Beds cut back", "Last cut done", "Free estimate"],
     "photo": "leaf-windrow"
   },
   "local": {
     "eyebrow": "Leaves in Flint Township",
-    "title": "No burning, Thursday bags, **or our trailer.**",
-    "intro": "Fall leaves in the township have two ways out: Emterra's weekly compost pickup on Thursdays, which ends the last Friday in November, or a crew that hauls them away. The township fire department's burning guidelines rule out burning leaves, pine needles and grass clippings.",
+    "title": "Leaves go in brown bags **or our trailer.**",
+    "intro": "Leaves cannot be burned in Flint Township, so there are two ways to get rid of them: Emterra's weekly compost pickup on Thursdays, which ends the last Friday in November, or a crew that hauls them away. The township fire department's burning guidelines rule out leaves, pine needles and grass clippings.",
     "points": [
       { "title": "Brown bags or marked cans", "body": "Emterra takes yard waste in brown yard waste bags or 30 gallon cans marked with an X, each under 50 pounds, and nothing in plastic bags. A yard with a few big trees can mean a lot of bags." },
-      { "title": "A season that ends in November", "body": "Compost pickup runs from the first Thursday in April to the last Friday in November. Leaves that come down after that sit until spring unless someone hauls them." },
+      { "title": "Pickup ends in late November", "body": "Compost pickup runs from the first Thursday in April to the last Friday in November. Leaves that come down after that sit until spring unless someone hauls them." },
       { "title": "Contractor leaves do not go curbside", "body": "The hauler does not take contractor generated material, so the leaves our crew gathers go in our trailer, not out with your Thursday bags." },
-      { "title": "Soft ground in late fall", "body": "On the township's slow draining loam, November rain leaves lawns soft. Leaves left on soggy ground over winter mat down tight, and clearing them before the snow gives the grass a clean start in spring." }
+      { "title": "Soft ground in late fall", "body": "On the township's slow draining ground, November rain leaves lawns soft. Leaves left on soggy ground over winter mat down tight, and clearing them before the snow gives the grass a clean start in spring." }
     ]
   },
   "logistics": {
@@ -39,7 +39,7 @@
   },
   "photo": "leaf-loader",
   "faq": [
-    { "q": "Do you do leaf removal in Flint Township?", "a": "Yes. Grand Scapes does fall cleanups and leaf removal in Flint Township: leaves vacuumed into our trailer and hauled away, beds cut back and the lawn left clean. Rob looks at the yard and quotes it free." },
+    { "q": "Do you do leaf removal in Flint Township?", "a": "Yes. Grand Scapes does fall cleanups and leaf removal in Flint Township: leaves vacuumed into our trailer and hauled away, beds cut back and the lawn left clean. Rob quotes it free." },
     { "q": "Is leaf burning allowed in Flint Township?", "a": "No. The township fire department's open burning guidelines prohibit burning leaves, pine needles, grass clippings, stumps and tree cuttings thicker than three inches. Bag leaves for Emterra's Thursday compost pickup, or have them hauled away." },
     { "q": "When does yard waste pickup end in Flint Township?", "a": "Emterra's compost pickup runs weekly from the first Thursday in April until the last Friday in November, according to the township's brochure. Set brown bags or X marked cans out by 7 a.m. on pickup day, and check with the township for the current schedule." },
     { "q": "How do I set out leaves for the township pickup?", "a": "In brown yard waste bags or plastic 30 gallon cans clearly marked with an X, each under 50 pounds, and never in plastic bags. With a cleanup from us, there is nothing to bag at all." },

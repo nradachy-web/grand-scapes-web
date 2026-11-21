@@ -7,27 +7,27 @@
   },
   "hero": {
     "kicker": "Fall cleanup and leaf removal in Davison, MI",
-    "title": "Leaves gone, **not at the curb.**",
+    "title": "Leaves vacuumed up **right from the yard.**",
     "lede": "Grand Scapes clears Davison yards in the fall: leaves blown out of beds and off the lawn, vacuumed into our trailer and hauled away, beds cut back and the lawn left clean for winter. No raking to the curb and no waiting for a pickup week.",
     "chips": ["Leaf vacuum trailer", "Beds cut back", "Hauled away"],
     "photo": "leaf-loader"
   },
   "local": {
     "eyebrow": "Leaves in Davison",
-    "title": "The city picks up leaves, **on its schedule.**",
-    "intro": "Davison handles leaves two ways. In the city, the DPW runs a few sweeps each fall and asks residents to rake leaves to the curb line, leaves only. In Davison Township, leaves go out in paper bags on Tuesdays until late November. Both work. Neither one rakes the yard for you.",
+    "title": "The city picks up leaves **on set dates.**",
+    "intro": "Davison handles leaves two ways, and both start with you raking. In the city, the DPW runs a few sweeps each fall and asks residents to rake leaves to the curb line, leaves only. In Davison Township, leaves go out in paper bags on Tuesdays until late November.",
     "points": [
-      { "title": "City pickup windows", "body": "For 2026 the city planned three complete leaf pickups, the first on or before October 19, with one more in mid November only if needed. Signs go up the Friday before, and the city warns that rocks, boards and brush mixed in with the leaves damage its equipment." },
-      { "title": "East and west of M-15", "body": "Some rounds run on different weeks for each side of M-15. A big maple that lets go late can miss your side's window, and MSU Extension notes that leaves left matted on a lawn smother the grass under them." },
-      { "title": "Township bags add up", "body": "Davison Township takes yard waste in brown paper bags or marked cans, each under 50 pounds, every week from the first Tuesday in April to the last Tuesday in November. A wooded acre fills a lot of bags." },
-      { "title": "Leaves are not on the burn permit", "body": "The township's burn permit covers brush, tree trimmings, shrubbery and other wood. Leaves are not on that list, so check with the township before lighting a pile. Hauling them off avoids the question." }
+      { "title": "City pickup dates", "body": "For 2026 the city planned three complete leaf pickups, the first on or before October 19, with one more in mid November only if needed. Signs go up the Friday before, and the city warns that rocks, boards and brush mixed in with the leaves damage its equipment." },
+      { "title": "East and west of M-15", "body": "Some rounds run on different weeks for each side of M-15. A big maple that drops late can miss your side's window, and MSU Extension notes that leaves left matted on a lawn smother the grass under them." },
+      { "title": "Township paper bags", "body": "Davison Township takes yard waste in brown paper bags or marked cans, each under 50 pounds, every week from the first Tuesday in April to the last Tuesday in November. A wooded acre fills a lot of bags." },
+      { "title": "Leaves are not on the burn permit", "body": "The township's burn permit covers brush, tree trimmings, shrubbery and other wood. Leaves are not on that list, so check with the township before lighting a pile, or have them hauled away." }
     ]
   },
   "logistics": {
-    "title": "One visit, or a few as the trees let go.",
+    "title": "How many visits a Davison yard needs.",
     "body": [
-      "Trees in Davison do not all drop on one weekend. Some yards need a single big cleanup after the branches are bare; a heavy canopy may need a visit in late October and another in November. Rob looks at your trees and tells you which makes sense.",
-      "We blow leaves out of the beds and from under the shrubs, cut back spent perennials, run the leaf vacuum and haul everything off in our dump trailer. The last cut of the year can ride along with it, bagging what is left on the lawn."
+      "It depends on the trees. Some Davison yards need one big cleanup after the branches are bare, and a heavy canopy may need a visit in late October and another in November. Rob looks at your trees and tells you which makes sense.",
+      "We blow leaves out of the beds and from under the shrubs, cut back spent perennials, run the leaf vacuum and haul everything off in our dump trailer. The last cut of the year can happen on the same visit, bagging what is left on the lawn."
     ],
     "facts": [
       { "label": "City DPW pickup", "value": "Leaves only, at the curb, by schedule" },
