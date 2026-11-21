@@ -874,9 +874,14 @@ a.chip:hover {
 
 /* a caption that tells the truth about the picture */
 .note {
-  font-size: 0.75rem;
+  font-size: 0.8125rem;
   line-height: 1.4;
   color: var(--muted);
+}
+
+/* a phone number never breaks across two lines */
+a[href^='tel:'] {
+  white-space: nowrap;
 }
 
 .ink .note {

@@ -76,6 +76,7 @@ const css = [
   ...PLAN.map((s) => `.pb:has([data-season="${s.id}"] input:checked) .pb__year [data-s="${s.id}"]{background:var(--green);color:#fff}.pb:has([data-season="${s.id}"] input:checked) .pb__group[data-s="${s.id}"]{display:block}`),
   `.pb:has(#k-home:checked) [data-commercial] {pointer-events:none}.pb:has(#k-home:checked) [data-commercial] span{border-style:dashed;background:none;color:#a3aba4}.pb:has(#k-home:checked) .pb__lock{display:block}`,
   `.pb:has(.pb__seasons input:checked) .pb__empty{display:none}`,
+  `@media (max-width:63.99rem){.pb:has(.pb__seasons input:checked) .pb__peek{display:flex}}`,
 ].join('');
 const seasonOf = (m: number) => PLAN.find((s) => s.months.includes(m))!.id;
 ---
@@ -132,12 +133,16 @@ const seasonOf = (m: number) => PLAN.find((s) => s.months.includes(m))!.id;
           </div>
         </div>
 
-        <aside class="pb__plan light" aria-live="polite">
+        {/* phones: the plan sits below every season, so a pill rides along while you
+            pick, counts what is picked (a CSS counter) and jumps to the plan */}
+        <a class="pb__peek" href="#pb-plan" aria-label="See your plan">See your plan</a>
+
+        <aside class="pb__plan light" id="pb-plan" aria-live="polite">
           <p class="eyebrow">Your year with Grand Scapes</p>
           <ol class="pb__year" aria-hidden="true">
             {MONTHS.map((m, i) => <li data-s={seasonOf(i + 1)}>{m}</li>)}
           </ol>
-          <p class="pb__empty small muted">Pick a few things on the left and your plan shows up here.</p>
+          <p class="pb__empty small muted">Pick a few things and your plan shows up here.</p>
           <div class="pb__list">
             {
               PLAN.map((s) => (
@@ -256,6 +261,47 @@ const seasonOf = (m: number) => PLAN.find((s) => s.months.includes(m))!.id;
     gap: 2rem;
   }
 
+  .pb {
+    counter-reset: picked;
+  }
+
+  .pb__seasons input:checked {
+    counter-increment: picked;
+  }
+
+  .pb__peek {
+    display: none;
+    position: sticky;
+    z-index: 5;
+    bottom: calc(5.4rem + env(safe-area-inset-bottom));
+    justify-self: center;
+    align-items: center;
+    gap: 0.55rem;
+    min-height: 2.75rem;
+    margin-block: -0.75rem;
+    padding: 0.45rem 0.6rem 0.45rem 1.1rem;
+    border-radius: 999px;
+    background: var(--paper);
+    color: var(--ink);
+    font-weight: 680;
+    text-decoration: none;
+    box-shadow: 0 10px 28px rgb(0 0 0 / 0.45);
+  }
+
+  .pb__peek::after {
+    content: counter(picked);
+    display: grid;
+    place-items: center;
+    min-width: 1.75rem;
+    height: 1.75rem;
+    padding: 0 0.4rem;
+    border-radius: 999px;
+    background: var(--green);
+    color: #fff;
+    font-size: 0.875rem;
+    font-variant-numeric: tabular-nums;
+  }
+
   .pb__kind,
   .pb__season {
     margin: 0;
@@ -348,6 +394,7 @@ const seasonOf = (m: number) => PLAN.find((s) => s.months.includes(m))!.id;
   .pb__plan {
     display: grid;
     gap: 1.1rem;
+    scroll-margin-top: 1rem;
     padding: clamp(1.25rem, 3vw, 2rem);
     border-radius: var(--r);
     box-shadow: 0 30px 60px rgb(0 0 0 / 0.45);

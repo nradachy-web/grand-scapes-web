@@ -13,9 +13,9 @@ const POS: Record<string, [number, number]> = {
   'flint-township': [43.003, -83.775], 'mundy-township': [42.9417, -83.7322], 'swartz-creek': [42.9573, -83.8305],
   burton: [42.9995, -83.6163], davison: [43.0347, -83.518],
 };
-/* the few that stay labeled on a phone */
-const PHONE = ['grand-blanc', 'fenton', 'flint', 'davison', 'clarkston', 'holly', 'swartz-creek', 'goodrich'];
-const LEFT = ['clarkston'];
+/* where each name sits so none collide, even at phone size: right of the point
+   unless listed here */
+const PLACE: Record<string, 'left' | 'below'> = { clarkston: 'left', ortonville: 'left', linden: 'left', 'flint-township': 'below' };
 
 const W = 960, H = 900;
 const LAT0 = 43.05, LON0 = -83.86, SX = 2000, SY = SX * 1.364;
@@ -27,7 +27,9 @@ const us23 = path([[43.07, -83.795], [43.0, -83.772], [42.93, -83.755], [42.86, 
 const shop = xy(BRAND.geo.lat, BRAND.geo.lng);
 const towns = CITIES.filter((c) => POS[c.id]).map((c) => {
   const [x, y] = xy(POS[c.id][0], POS[c.id][1]);
-  return { c, x, y, phone: PHONE.includes(c.id), left: LEFT.includes(c.id) };
+  const at = PLACE[c.id];
+  const label = at === 'left' ? { x: x - 14, y: y + 6, anchor: 'end' } : at === 'below' ? { x, y: y + 44, anchor: 'middle' } : { x: x + 14, y: y + 6, anchor: 'start' };
+  return { c, x, y, label };
 });
 ---
 
@@ -53,7 +55,7 @@ const towns = CITIES.filter((c) => POS[c.id]).map((c) => {
           <circle class="am__hit" cx={t.x} cy={t.y} r="22" />
           <circle class="am__glow" cx={t.x} cy={t.y} r="20" fill="url(#am-g)" />
           <circle class="am__dot" cx={t.x} cy={t.y} r="5" />
-          <text class:list={['am__n', !t.phone && 'am__n--wide']} text-anchor={t.left ? 'end' : undefined} x={t.left ? t.x - 12 : t.x + 12} y={t.y + 5}>{t.c.name}</text>
+          <text class="am__n" text-anchor={t.label.anchor} x={t.label.x} y={t.label.y}>{t.c.name}</text>
         </a>
       ))
     }
@@ -133,12 +135,8 @@ const towns = CITIES.filter((c) => POS[c.id]).map((c) => {
 
   @media (max-width: 39.99rem) {
     .am__n {
-      font-size: 30px;
-      stroke-width: 6px;
-    }
-
-    .am__n--wide {
-      display: none;
+      font-size: 31px;
+      stroke-width: 7px;
     }
 
     .am__dot {

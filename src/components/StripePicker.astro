@@ -17,11 +17,11 @@ interface Props {
 const { id = 'sp', sizes = '(min-width: 64rem) 60vw, 100vw' } = Astro.props;
 
 const OPTS = [
-  { id: 'straight', file: 'lawn-straight', name: 'Straight stripes', note: 'The classic. Each pass runs the other way, so the grass leans toward you, then away, and the light does the rest.', alt: 'Illustration: a brick colonial with the front lawn mowed in straight light and dark stripes running toward the house' },
-  { id: 'diagonal', file: 'lawn-diagonal', name: 'Diagonal', note: 'The same stripes at an angle. Good on a lawn that sits a little out of square with the house.', alt: 'Illustration: the same lawn mowed in diagonal stripes' },
-  { id: 'checker', file: 'lawn-checker', name: 'Checkerboard', note: 'Straight passes one way, then again at a right angle. More time on the mower, very ballpark.', alt: 'Illustration: the same lawn mowed in a checkerboard of light and dark squares' },
-  { id: 'diamond', file: 'lawn-diamond', name: 'Diamond', note: 'Two diagonal passes crossing. The one people slow down for.', alt: 'Illustration: the same lawn mowed in a diamond pattern' },
-  { id: 'plain', file: 'lawn-plain', name: 'Clean, no stripes', note: 'Mowed even, trimmed and edged, and nothing else. Some lawns and some HOAs like it quiet.', alt: 'Illustration: the same lawn freshly mowed in one even green with no pattern' },
+  { id: 'straight', file: 'lawn-straight', name: 'Straight stripes', short: 'Straight', note: 'The classic. Each pass runs the other way, so the grass leans toward you, then away, and the light does the rest.', alt: 'Illustration: a brick colonial with the front lawn mowed in straight light and dark stripes running toward the house' },
+  { id: 'diagonal', file: 'lawn-diagonal', name: 'Diagonal', short: 'Diagonal', note: 'The same stripes at an angle. Good on a lawn that sits a little out of square with the house.', alt: 'Illustration: the same lawn mowed in diagonal stripes' },
+  { id: 'checker', file: 'lawn-checker', name: 'Checkerboard', short: 'Checker', note: 'Straight passes one way, then again at a right angle. More time on the mower, very ballpark.', alt: 'Illustration: the same lawn mowed in a checkerboard of light and dark squares' },
+  { id: 'diamond', file: 'lawn-diamond', name: 'Diamond', short: 'Diamond', note: 'Two diagonal passes crossing. The one people slow down for.', alt: 'Illustration: the same lawn mowed in a diamond pattern' },
+  { id: 'plain', file: 'lawn-plain', name: 'Clean, no stripes', short: 'Plain', note: 'Mowed even, trimmed and edged, and nothing else. Some lawns and some HOAs like it quiet.', alt: 'Illustration: the same lawn freshly mowed in one even green with no pattern' },
 ] as const;
 
 const files = import.meta.glob<{ default: ImageMetadata }>('../assets/panel/*.jpg', { eager: true });
@@ -63,12 +63,18 @@ const estimate = href('/get-an-estimate/');
             <span class:list={['sp__sw', `sp__sw--${o.id}`]} aria-hidden="true" />
             <span class="sp__txt">
               <span class="sp__name">{o.name}</span>
+              <span class="sp__short">{o.short}</span>
               <span class="sp__note">{o.note}</span>
             </span>
           </label>
         ))
       }
     </fieldset>
+    {/* below a wide screen the patterns sit in one row under the picture, and the
+        chosen one is described here instead of inside its tile */}
+    <div class="sp__say" aria-live="polite">
+      {OPTS.map((o) => <p data-n={o.id}><strong>{o.name}.</strong> {o.note}</p>)}
+    </div>
     <a class="btn primary sp__ask" href={`${estimate}?service=Lawn%20mowing`} data-ask>Ask Rob for this pattern</a>
     <p class="fine muted">What a lawn will hold depends on its shape, the trees and beds in the way, and the grass. Rob will tell you straight.</p>
   </div>
@@ -184,6 +190,29 @@ const estimate = href('/get-an-estimate/');
     outline-offset: 2px;
   }
 
+  .sp__short,
+  .sp__say {
+    display: none;
+  }
+
+  .sp__say p {
+    display: none;
+    margin: 0;
+    color: var(--on-ink-muted);
+  }
+
+  .sp__say strong {
+    color: var(--on-ink);
+  }
+
+  .sp:has(input[value='straight']:checked) .sp__say [data-n='straight'],
+  .sp:has(input[value='diagonal']:checked) .sp__say [data-n='diagonal'],
+  .sp:has(input[value='checker']:checked) .sp__say [data-n='checker'],
+  .sp:has(input[value='diamond']:checked) .sp__say [data-n='diamond'],
+  .sp:has(input[value='plain']:checked) .sp__say [data-n='plain'] {
+    display: block;
+  }
+
   /* a little square of lawn mowed the same way */
   .sp__sw {
     width: 3rem;
@@ -249,6 +278,51 @@ const estimate = href('/get-an-estimate/');
   .sp:has(input[value='diamond']:checked) [data-p='diamond'],
   .sp:has(input[value='plain']:checked) [data-p='plain'] {
     opacity: 1;
+  }
+
+  /* Phones and tablets: five tiles in a row right under the picture, so every tap
+     shows its lawn without scrolling. */
+  @media (max-width: 63.99rem) {
+    .sp {
+      gap: 0.75rem;
+    }
+
+    .sp__pick {
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 0.4rem;
+    }
+
+    .sp__opt {
+      grid-template-columns: 1fr;
+      justify-items: center;
+      gap: 0.4rem;
+      padding: 0.45rem 0.15rem 0.5rem;
+      text-align: center;
+    }
+
+    .sp__sw {
+      width: 100%;
+      max-width: 3.5rem;
+      height: auto;
+      aspect-ratio: 1;
+    }
+
+    .sp__name,
+    .sp__opt .sp__note {
+      display: none !important;
+    }
+
+    .sp__short {
+      display: block;
+      font-size: min(0.78rem, 3.6vw);
+      font-weight: 650;
+      line-height: 1.2;
+    }
+
+    .sp__say {
+      display: block;
+      min-height: 4.5em;
+    }
   }
 
   @media (forced-colors: active) {

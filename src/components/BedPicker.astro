@@ -15,9 +15,9 @@ interface Props {
 const { sizes = '(min-width: 64rem) 58vw, 100vw' } = Astro.props;
 
 const opts = [
-  { id: 'black', name: 'Black mulch', note: 'The bed as we finished it. Sharp against gray block and green grass.', img: black, sw: '#1d1c1a' },
-  { id: 'brown', name: 'Brown mulch', note: 'Warm and natural, and easy on an older brick or wood home.', img: brown, sw: '#5b3a22' },
-  { id: 'red', name: 'Red mulch', note: 'Bold. It holds its color beside brick and gray stone.', img: red, sw: '#7a2a1c' },
+  { id: 'black', name: 'Black mulch', short: 'Black', note: 'The bed as we finished it. Sharp against gray block and green grass.', img: black, sw: '#1d1c1a' },
+  { id: 'brown', name: 'Brown mulch', short: 'Brown', note: 'Warm and natural, and easy on an older brick or wood home.', img: brown, sw: '#5b3a22' },
+  { id: 'red', name: 'Red mulch', short: 'Red', note: 'Bold. It holds its color beside brick and gray stone.', img: red, sw: '#7a2a1c' },
 ];
 
 const frames = await Promise.all(
@@ -51,12 +51,17 @@ const frames = await Promise.all(
             <span class="bed__sw" style={`--sw:${o.sw}`} aria-hidden="true" />
             <span class="bed__txt">
               <span class="bed__name">{o.name}</span>
+              <span class="bed__short">{o.short}</span>
               <span class="bed__note">{o.note}</span>
             </span>
           </label>
         ))
       }
     </fieldset>
+    {/* below a wide screen the colors sit in one row under the picture */}
+    <div class="bed__say" aria-live="polite">
+      {opts.map((o) => <p data-n={o.id}><strong>{o.name}.</strong> {o.note}</p>)}
+    </div>
     <p class="note">One of our real beds, finished in black mulch. Brown and red are digital previews of the same photo, so treat the colors as a guide.</p>
   </div>
 </figure>
@@ -165,6 +170,73 @@ const frames = await Promise.all(
   .bed:has(input[value='brown']:checked) [data-m='brown'],
   .bed:has(input[value='red']:checked) [data-m='red'] {
     opacity: 1;
+  }
+
+  .bed__short,
+  .bed__say {
+    display: none;
+  }
+
+  .bed__say p {
+    display: none;
+    margin: 0;
+    color: var(--on-ink-muted);
+  }
+
+  .bed__say strong {
+    color: var(--on-ink);
+  }
+
+  .bed:has(input[value='black']:checked) .bed__say [data-n='black'],
+  .bed:has(input[value='brown']:checked) .bed__say [data-n='brown'],
+  .bed:has(input[value='red']:checked) .bed__say [data-n='red'] {
+    display: block;
+  }
+
+  /* Phones and tablets: three colors in a row right under the bed, so each tap shows
+     its mulch without scrolling. */
+  @media (max-width: 63.99rem) {
+    .bed {
+      gap: 0.75rem;
+    }
+
+    .bed__side {
+      gap: 0.75rem;
+    }
+
+    .bed__opts {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 0.45rem;
+    }
+
+    .bed__opt {
+      grid-template-columns: 1fr;
+      justify-items: center;
+      gap: 0.4rem;
+      padding: 0.45rem 0.45rem 0.5rem;
+    }
+
+    .bed__sw {
+      width: 100%;
+      height: 1.9rem;
+    }
+
+    .bed__name,
+    .bed__note {
+      display: none;
+    }
+
+    .bed__short {
+      display: block;
+      font-size: 0.875rem;
+      font-weight: 650;
+      line-height: 1.2;
+    }
+
+    .bed__say {
+      display: block;
+      min-height: 3em;
+    }
   }
 
   @media (forced-colors: active) {

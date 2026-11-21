@@ -1,7 +1,7 @@
 ---
 /* Drag across a neglected picture to bring back the finished one: mow a shaggy
    lawn into stripes, clear a yard of leaves, plow a buried driveway. The two pictures are one made from the other, so they line up
-   to the pixel. The script paints "before" onto a canvas over "after" and erases it
+   to the pixel (the plow pair is built by scripts/plow.py). The script paints "before" onto a canvas over "after" and erases it
    under the pointer. Without script the finished picture simply shows.
 
    The "before" picture is lazy, and nothing is drawn until it arrives. The button does
@@ -18,7 +18,7 @@ const { kind, sizes = '(min-width: 60rem) 66vw, 100vw' } = Astro.props;
 const KINDS = {
   mow: { alt: 'Illustration of a brick colonial with a front lawn freshly mowed in straight light and dark stripes', hint: 'Drag across the lawn to mow it', auto: 'Mow it for me', done: 'Cut, trimmed, edged and striped. Same lawn, one visit.', after: 'lawn-straight', before: 'mow-before' },
   leaf: { alt: 'Illustration of the same colonial in fall with the lawn cleared of leaves and the beds tidy', hint: 'Drag across the leaves', auto: 'Clear it for me', done: 'Leaves vacuumed up and hauled away. The lawn can breathe again.', after: 'season-fall', before: 'leaf-before' },
-  snow: { alt: 'Illustration of the same colonial after a snowfall with the driveway plowed clean down to the concrete', hint: 'Drag across the driveway', auto: 'Plow it for me', done: 'Plowed to the concrete, with the snow stacked off to the side.', after: 'season-winter', before: 'snow-before' },
+  snow: { alt: 'Illustration of a two-story house after a snowfall, its long driveway plowed clean to the concrete with the snow banked along both sides', hint: 'Drag across the driveway', auto: 'Plow it for me', done: 'Plowed edge to edge, with the snow banked along the sides.', after: 'plow-after', before: 'plow-before' },
 };
 const k = KINDS[kind];
 
@@ -67,6 +67,13 @@ const before = await pic(k.before);
     touch-action: pan-y;
     user-select: none;
     -webkit-user-select: none;
+  }
+
+  /* a taller picture on a phone is a bigger place to drag */
+  @media (max-width: 39.99rem) {
+    .rp__stage {
+      aspect-ratio: 4 / 3;
+    }
   }
 
   .rp__stage :global(img) {
