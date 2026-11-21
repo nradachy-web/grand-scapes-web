@@ -1,0 +1,108 @@
+{
+  "city": "grand-blanc",
+  "meta": {
+    "title": "Lawn care and snow removal in Grand Blanc, MI | Grand Scapes",
+    "description": "Grand Scapes mows, cleans up, rebuilds beds and plows drives in the City of Grand Blanc and Grand Blanc Township, from our shop on Embury Road."
+  },
+  "hero": {
+    "kicker": "Lawn care, landscaping and snow removal in Grand Blanc, MI",
+    "title": "Home turf, **kept sharp.**",
+    "lede": "Grand Scapes works out of a shop on Embury Road, so this is where most of our week happens: lawns mowed and striped, beds rebuilt, leaves hauled off in the fall and drives plowed in the winter, in the city and the township both.",
+    "chips": [
+      "Shop on Embury Road",
+      "City and township",
+      "Free estimates"
+    ],
+    "photo": "sign-bed"
+  },
+  "about": {
+    "eyebrow": "Home ground",
+    "title": "One name, **two governments**, and the same heavy ground.",
+    "body": [
+      "Grand Blanc is really two places. The city covers less than four square miles and is surrounded on every side by Grand Blanc Township, and each one runs its own trash, leaf and snow programs. Voters in both turned down merging them in 2006. So when you call, Rob will ask which side of the line you live on. It decides what happens to your leaves and who plows your street.",
+      "Under most of it sits the same heavy ground. The USDA soil survey maps most of the city as Celina and Conover loams and much of the township as Conover loam, soils it rates moderately well to somewhat poorly drained. In plain words, these lawns stay wet into spring, rut if you drive on them too early, and hold water in the low corner. Thread Creek runs south to north through the township toward the Flint River, and the ground along it is wetter still.",
+      "This is home for us. Our trucks are on these streets every week of the season, and a lot of our work comes from neighbors who saw our yard sign go up on a finished lawn next door."
+    ],
+    "points": [
+      {
+        "title": "City leaves go to the curb, not the street",
+        "body": "The city vacuums leaves from the curb by zone each November. It wants them raked to the curb and not into the street, with no brush or grass clippings mixed in, and anything left after the truck passes has to be bagged. We can time a [fall cleanup](/fall-cleanup-and-leaf-removal/) to your zone's week or simply haul the leaves off ourselves."
+      },
+      {
+        "title": "Township leaves go out in paper bags",
+        "body": "The township has no curbside leaf vacuum. Yard waste goes out with the trash in brown paper bags or 30 gallon cans marked with a large X, each under 50 pounds, from the first full week of April through the last full week of November. Burning leaves or grass clippings is not allowed in the township."
+      },
+      {
+        "title": "Who plows your street",
+        "body": "Township DPW trucks plow about 106 miles of subdivision streets, and the Genesee County Road Commission takes the major roads like Dort Highway, Saginaw, Baldwin and Holly. Cul-de-sacs get a smaller pickup afterward. Every one of those blades leaves a ridge at the end of the drive, which is where [snow removal](/snow-removal/) on a route earns its keep."
+      },
+      {
+        "title": "Soft lawns in April",
+        "body": "On slow draining loam a mower or a loaded trailer can leave ruts in a lawn that looks dry from the house. Before the first cut and the [spring cleanup](/spring-cleanup/), we check the ground and leave a soggy corner for the next visit rather than track it up."
+      },
+      {
+        "title": "A tree by the street needs a yes first",
+        "body": "In the city, planting a tree in the right of way takes permission from the Department of Public Works director, and the city keeps a list of approved species. If you want a new bed or tree out by the street, bring it up with Rob at the estimate and check with the city before anything goes in."
+      }
+    ],
+    "photo": "trailer-2023"
+  },
+  "logistics": {
+    "title": "Our shop is on Embury Road, so we are on these streets all week.",
+    "body": [
+      "Rob answers the phone and texts himself. He comes out, walks the yard with you, suggests what it needs and gives you a price, and the estimate is free. Weekly mowing runs on a set day, and when the season turns, the same crew handles the cleanups and the bed work.",
+      "In winter the plow trucks leave from the same shop, so city and township drives are a short run from the yard. Before the first storm Rob walks the drive, the walks and the spots where snow can be piled, and explains the residential and commercial package options. Snow stays on your side of the curb, because Michigan law (MCL 257.677a) says it cannot be deposited on a roadway."
+    ],
+    "facts": [
+      {
+        "label": "Shop",
+        "value": "8200 Embury Rd, Grand Blanc"
+      },
+      {
+        "label": "Estimate",
+        "value": "Free, Rob comes out"
+      },
+      {
+        "label": "City leaf pickup",
+        "value": "Curbside vacuum by zone in November"
+      },
+      {
+        "label": "Township streets",
+        "value": "Plowed by the township DPW"
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "Do you work in Grand Blanc Township as well as the city?",
+      "a": "Yes. Grand Scapes is based on Embury Road, and we work on both sides of the city line: weekly [lawn mowing](/lawn-mowing/), [spring](/spring-cleanup/) and [fall cleanups](/fall-cleanup-and-leaf-removal/), [mulch and bed makeovers](/mulch-and-flower-beds/), [landscaping](/landscaping/) and [snow removal](/snow-removal/). Call [(810) 990-3040](tel:+18109903040) or [text Rob](sms:+18109903040) to set up a free estimate."
+    },
+    {
+      "q": "When does the City of Grand Blanc pick up leaves?",
+      "a": "In November, one zone at a time. The city's DPW vacuums leaves raked to the curb by 7 AM on the Monday of your zone's week; in 2026 that meant the week of November 9 for Zone 2 and November 16 for Zone 1. After the truck has gone by, leftover leaves have to be bagged for Republic Services. The dates change each year, so check the city's leaf page."
+    },
+    {
+      "q": "Can I burn leaves in Grand Blanc Township?",
+      "a": "No. The township fire department allows logs, tree limbs, clean lumber and brush only, and burning leaves or grass clippings is prohibited. Leaves can go out with the township's yard waste in brown paper bags or marked cans, or we can vacuum them up and haul them away in a [fall cleanup](/fall-cleanup-and-leaf-removal/)."
+    },
+    {
+      "q": "Why does the plow keep filling the end of my driveway?",
+      "a": "Because the snow has nowhere else to go. The township says its trucks sometimes come back a day or two after a storm to widen the streets and may push snow into driveways again, and the county road commission calls it unavoidable on its roads. Ask Rob how the end of your drive is handled when he walks the property for [snow removal](/snow-removal/)."
+    },
+    {
+      "q": "Do you plow businesses and HOAs in Grand Blanc?",
+      "a": "Yes. We plow and salt lots, drives and walks for businesses, offices, churches and HOAs, and we can keep the same grounds mowed and the beds clean in summer. Rob walks the property and explains the [commercial](/commercial/) options before the season starts."
+    }
+  ],
+  "reviews": [
+    "bob-s",
+    "james-a",
+    "stephanie-s"
+  ],
+  "neighbors": [
+    "fenton",
+    "holly",
+    "goodrich",
+    "mundy-township"
+  ]
+}

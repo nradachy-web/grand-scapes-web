@@ -14,7 +14,7 @@ export const GET: APIRoute = async () => {
   const lines = [
     `# ${BRAND.name}`,
     '',
-    `> ${BRAND.name} (${BRAND.legalName}) is an owner-run lawn care, landscaping and snow removal company in ${BRAND.city}, Michigan, owned by ${BRAND.owner}. Shop: ${BRAND.street}, ${BRAND.city}, ${BRAND.state} ${BRAND.zip}. It mows and stripes lawns weekly, rebuilds and mulches beds, puts in block borders, trims and removes shrubs, does spring and fall cleanups with a leaf vacuum trailer, grades and seeds new lawns, and plows and salts driveways, walks and lots for homes, businesses and HOAs across Genesee County and north Oakland County. Licensed and insured. ${RATING.value} stars on Google as of ${RATING.asOf}. Free estimates. Phone and text ${BRAND.phone}.`,
+    `> ${BRAND.name} (${BRAND.legalName}) is an owner-run lawn care, landscaping and snow removal company in ${BRAND.city}, Michigan, owned by ${BRAND.owner}. Shop: ${BRAND.street}, ${BRAND.city}, ${BRAND.state} ${BRAND.zip}. It mows and stripes lawns weekly, rebuilds and mulches beds, puts in block borders, trims and removes shrubs, does spring and fall cleanups with a leaf vacuum trailer, grades and seeds new lawns, and plows and salts driveways, walks and lots for homes, businesses and HOAs across Genesee County and north Oakland County. Licensed and insured. ${RATING.value} stars from ${RATING.countLabel} Google reviews as of ${RATING.asOf}. Open every day, 8 AM to 8 PM. Free estimates. Phone and text ${BRAND.phone}.`,
     '',
     `Grand Scapes removes bushes and small trees only; large tree removal is not offered. Aeration and fertilizer programs are not listed services.`,
     '',

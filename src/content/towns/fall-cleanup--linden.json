@@ -1,0 +1,71 @@
+{
+  "service": "fall-cleanup",
+  "city": "linden",
+  "meta": {
+    "title": "Leaf removal and fall cleanup in Linden, MI | Grand Scapes",
+    "description": "Fall cleanup and leaf removal in Linden, MI: Grand Scapes blows leaves into rows, vacuums them into our trailer, hauls them off and cuts the beds back."
+  },
+  "hero": {
+    "kicker": "Fall cleanup and leaf removal in Linden, MI",
+    "title": "The last leaf, **in the trailer.**",
+    "lede": "Grand Scapes clears Linden yards in the fall: leaves blown out of beds and off the lawn, vacuumed into our trailer and hauled away, beds cut back, and the lawn left clean. No row of paper bags waiting at the curb.",
+    "chips": ["Leaves vacuumed", "Hauled away", "Beds cut back"],
+    "photo": "leaf-pile"
+  },
+  "local": {
+    "eyebrow": "Leaves in Linden",
+    "title": "Yard waste pickup ends in **early December.**",
+    "intro": "In the City of Linden, Priority Waste picks up yard waste on Wednesdays from April into early December; in 2026 the last pickup is December 2. Leaves have to go out in paper bags or clearly marked containers of up to 35 gallons, each under 50 pounds. A yard with a few big trees can fill a lot of those.",
+    "points": [
+      {
+        "title": "Every bag under 50 pounds",
+        "body": "Wet leaves get heavy fast, and the hauler's limit is 50 pounds per bag or container. A cleanup skips the bag count altogether: the leaves go into our trailer and away, and nothing waits at the curb for the next Wednesday."
+      },
+      {
+        "title": "Keep the ditches and drains clear",
+        "body": "The city's crew maintains more than 900 storm sewer inlets and the roadside ditches and culverts that carry water away. Leaves raked into the street or a ditch end up clogging them, so ours get blown back onto the yard and vacuumed from there."
+      },
+      {
+        "title": "Burning takes a permit",
+        "body": "The city lists a burn permit among its most requested forms. Before burning a leaf pile, check the permit terms with City Hall, or let the leaves ride out in the trailer with no smoke and no neighbor complaints."
+      },
+      {
+        "title": "Some leaves can stay",
+        "body": "MSU Extension says leaves raked around shrubs and perennials and left until spring insulate the less hardy plants and shelter beneficial insects. Tell Rob if you want some left in the beds; the lawn still gets cleared."
+      }
+    ]
+  },
+  "logistics": {
+    "title": "How a fall cleanup runs in Linden.",
+    "body": [
+      "We blow leaves out of the beds and off the lawn into rows, pull them to the edge, and run the truck mounted vacuum hose over the piles into the dump trailer. The hose reaches from the truck, so the trailer stays at the curb or on the drive and off a soft lawn. Beds get cut back, the drive and walks are blown off, and the leaves go with us.",
+      "Rob will tell you at the estimate whether your yard needs one visit or a second pass after the last trees drop. If the lawn still needs its final cut, it can happen on the same trip, set a little lower, which MSU Extension says helps prevent snow mold."
+    ],
+    "facts": [
+      { "label": "Leaves", "value": "Vacuumed into our trailer" },
+      { "label": "City yard waste", "value": "Paper bags, Wednesdays, into early December" },
+      { "label": "Bag limit", "value": "Under 50 pounds each" },
+      { "label": "Estimate", "value": "Free, Rob walks the yard" }
+    ]
+  },
+  "photo": "leaf-curb",
+  "faq": [
+    {
+      "q": "Do you do leaf removal in Linden?",
+      "a": "Yes. Grand Scapes does fall cleanups in the City of Linden and the Fenton Township lots around it: leaves vacuumed into our trailer and hauled off, beds cut back and the lawn left clean. Call [(810) 990-3040](tel:+18109903040) or [text Rob](sms:+18109903040) for a free estimate. See [fall cleanup and leaf removal](/fall-cleanup-and-leaf-removal/) for how the work goes."
+    },
+    {
+      "q": "When does yard waste pickup end in Linden?",
+      "a": "In early December. For 2026, the city's trash page and Priority Waste's calendar put the last weekly yard waste pickup on Wednesday, December 2, after a season that began April 1. Check the city's calendar each year, since the dates move."
+    },
+    {
+      "q": "Can I burn leaves in Linden?",
+      "a": "Only within the city's rules. A burn permit is on the city's list of most requested forms, so ask City Hall what it allows before you light anything. If you would rather skip it, we vacuum the leaves up and haul them away."
+    },
+    {
+      "q": "Is it OK to leave some leaves in the flower beds?",
+      "a": "Yes, in moderation. MSU Extension says leaves raked around woody plants and perennials and left until spring act as insulation for less hardy perennials and give beneficial insects a place to winter. The lawn itself should be cleared so the grass is not smothered."
+    }
+  ],
+  "reviews": ["rick-b", "stacy"]
+}

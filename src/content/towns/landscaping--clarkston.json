@@ -9,7 +9,11 @@
     "kicker": "Landscaping in Clarkston, MI",
     "title": "Old beds out. **New lines in.**",
     "lede": "Grand Scapes rebuilds tired Clarkston landscapes: overgrown shrubs dug out, beds reshaped, block walls or natural edges set, then fabric and fresh mulch. Rob walks the yard first, suggests what it needs and quotes a price.",
-    "chips": ["Beds torn out and rebuilt", "Block walls and natural edges", "Free estimate"],
+    "chips": [
+      "Beds torn out and rebuilt",
+      "Block walls and natural edges",
+      "Free estimate"
+    ],
     "photo": "block-bed-wide"
   },
   "local": {
@@ -17,10 +21,22 @@
     "title": "Three kinds of ground, **one township.**",
     "intro": "Landscaping around Clarkston has to fit three kinds of property. The old village has small historic lots with rules of their own. The township has subdivisions on sandy, well drained soil, plus rural residential land, which its 2023 land use survey shows is the largest single use of ground. And the low spots by the lakes sit on muck that stays wet.",
     "points": [
-      { "title": "The historic district", "body": "In the City of the Village of Clarkston's historic district, the commission wants to see landscape changes first: taking out shrubs or plantings, fences, walls and paving. Trimming can go ahead. Rob can help put the bed plan on paper for the application before anything gets dug." },
-      { "title": "Beds on a bank", "body": "Some of the township's soil map units run from 12 to 40 percent slope. A bed on a bank needs a border that holds the soil and mulch in place, and that is where a [block wall or boulder edge](/bed-edging-and-block-walls/) earns its keep." },
-      { "title": "Sandy soil dries fast", "body": "Sandy outwash drains quickly and holds little water, so plants on a Clarkston knob dry out sooner than the same plants in loam. A 2 to 3 inch layer of mulch, the depth MSU Extension recommends, helps hold moisture in, and plant choice matters more than usual." },
-      { "title": "Close to the water", "body": "On a lake lot, what washes off the yard ends up in the lake. Independence Township's own tips suggest less lawn and more planted area, plus a strip left unmowed along the shore, and a well built bed near the water does more good than another stretch of grass." }
+      {
+        "title": "The historic district",
+        "body": "In the City of the Village of Clarkston's historic district, the commission wants to see landscape changes first: taking out shrubs or plantings, fences, walls and paving. Trimming can go ahead. Rob can help put the bed plan on paper for the application before anything gets dug."
+      },
+      {
+        "title": "Beds on a bank",
+        "body": "Some of the township's soil map units run from 12 to 40 percent slope. A bed on a bank needs a border that holds the soil and mulch in place, and that is where a [block wall or boulder edge](/bed-edging-and-block-walls/) earns its keep."
+      },
+      {
+        "title": "Sandy soil dries fast",
+        "body": "Sandy outwash drains quickly and holds little water, so plants on a Clarkston knob dry out sooner than the same plants in loam. A 2 to 3 inch layer of mulch, the depth MSU Extension recommends, helps hold moisture in, and plant choice matters more than usual."
+      },
+      {
+        "title": "Close to the water",
+        "body": "On a lake lot, what washes off the yard ends up in the lake. Independence Township's own tips suggest less lawn and more planted area, plus a strip left unmowed along the shore, and a well built bed near the water does more good than another stretch of grass."
+      }
     ]
   },
   "logistics": {
@@ -31,18 +47,45 @@
       "If the yard needs upkeep after the rebuild, ask about [landscape maintenance](/landscape-maintenance/). For new mulch and color in beds that are in decent shape, see [mulch installation in Clarkston](/mulch-installation-clarkston-mi/)."
     ],
     "facts": [
-      { "label": "Estimate", "value": "Free, after Rob walks the yard" },
-      { "label": "Historic district", "value": "Ask the commission before removing plantings" },
-      { "label": "Mulch depth", "value": "2 to 3 inches, per MSU Extension" },
-      { "label": "Not included", "value": "Big tree removal" }
+      {
+        "label": "Estimate",
+        "value": "Free, after Rob walks the yard"
+      },
+      {
+        "label": "Historic district",
+        "value": "Ask the commission before removing plantings"
+      },
+      {
+        "label": "Mulch depth",
+        "value": "2 to 3 inches, per MSU Extension"
+      },
+      {
+        "label": "Not included",
+        "value": "Big tree removal"
+      }
     ]
   },
   "photo": "kubota-dig",
   "faq": [
-    { "q": "Do you do landscaping in Clarkston, MI?", "a": "Yes. Grand Scapes does landscaping in Clarkston and Independence Township: bed makeovers, shrub and small tree removal, new block or natural edges, plants, fabric and mulch. Rob comes out, suggests what the yard needs and gives you a free estimate." },
-    { "q": "Does the historic district cover plants and beds?", "a": "It can. The commission's brochure lists landscape among the exterior changes it reviews, and its project form has a box for landscape, fence, tree and park work. Pruning and trimming are on its go ahead list. If your house is on the district map, ask the city before a bed rebuild." },
-    { "q": "Can you take out old bushes and a small tree?", "a": "Yes, roots and all. One reviewer had 25 year old bushes and a cherry tree removed and the bed rebuilt in two days. Big tree removal is a job for a tree crew, and we will say so at the estimate. See [bush removal](/bush-removal/) for more." },
-    { "q": "Will a new bed hold up on a slope?", "a": "It will if the edge is built for it. On a Clarkston hillside, a low block wall or a line of boulders gives the bed a level shelf, so soil and mulch stay where they were put in a hard rain. Rob will tell you which edge suits the grade." }
+    {
+      "q": "Do you do landscaping in Clarkston, MI?",
+      "a": "Yes. Grand Scapes does landscaping in Clarkston and Independence Township: bed makeovers, shrub and small tree removal, new block or natural edges, plants, fabric and mulch. Rob comes out, suggests what the beds need, hill or lake lot, and gives you a free estimate."
+    },
+    {
+      "q": "Does the historic district cover plants and beds?",
+      "a": "It can. The commission's brochure lists landscape among the exterior changes it reviews, and its project form has a box for landscape, fence, tree and park work. Pruning and trimming are on its go ahead list. If your house is on the district map, ask the city before a bed rebuild."
+    },
+    {
+      "q": "Can you take out old bushes and a small tree?",
+      "a": "Yes, roots and all. One reviewer had 25 year old bushes and a cherry tree removed and the bed rebuilt in two days. Big tree removal is a job for a tree crew, and we will say so at the estimate. See [bush removal](/bush-removal/) for more."
+    },
+    {
+      "q": "Will a new bed hold up on a slope?",
+      "a": "It will if the edge is built for it. On a Clarkston hillside, a low block wall or a line of boulders gives the bed a level shelf, so soil and mulch stay where they were put in a hard rain. Rob will tell you which edge suits the grade."
+    }
   ],
-  "reviews": ["bob-s", "james-a"]
+  "reviews": [
+    "stephanie-s",
+    "james-a"
+  ]
 }

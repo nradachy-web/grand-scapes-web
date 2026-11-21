@@ -8,7 +8,12 @@
     "kicker": "Landscape maintenance in Grand Blanc, MI",
     "title": "Keep the beds **finished.**",
     "lede": "Grand Scapes keeps beds looking the way they did the day they were done: weeds pulled, edges recut, shrubs trimmed and mulch touched up through the season. It sits naturally beside weekly lawn mowing, so the beds and the stripes stay sharp together.",
-    "chips": ["Weeding", "Edges recut", "Shrubs trimmed", "Mulch touched up"],
+    "chips": [
+      "Weeding",
+      "Edges recut",
+      "Shrubs trimmed",
+      "Mulch touched up"
+    ],
     "photo": "block-bed-colonial"
   },
   "blocks": [
@@ -64,7 +69,11 @@
       "plane": "ink",
       "eyebrow": "On Google",
       "title": "On time, **every week.**",
-      "ids": ["rick-b", "stacy", "james-a"]
+      "ids": [
+        "reckless-cards",
+        "mark-v",
+        "rick-b"
+      ]
     },
     {
       "type": "compare",
@@ -72,14 +81,47 @@
       "eyebrow": "Makeover or upkeep",
       "title": "Once, or **all season.**",
       "intro": "A [bed makeover](/mulch-and-flower-beds/) gets the beds right. Maintenance keeps them that way.",
-      "columns": ["One time makeover", "Landscape maintenance"],
+      "columns": [
+        "One time makeover",
+        "Landscape maintenance"
+      ],
       "highlight": 1,
       "rows": [
-        { "label": "What it is", "values": ["A bed done over once", "The beds kept that way all season"] },
-        { "label": "Weeds", "values": ["Pulled on the day", "Pulled again as they come back"] },
-        { "label": "Edges", "values": ["Cut once", "Recut when the grass creeps in"] },
-        { "label": "Shrubs", "values": ["Trimmed if they need it", "Trimmed when each one is due"] },
-        { "label": "Good for", "values": ["A fresh start", "Sharp beds without thinking about them"] }
+        {
+          "label": "What it is",
+          "values": [
+            "A bed done over once",
+            "The beds kept that way all season"
+          ]
+        },
+        {
+          "label": "Weeds",
+          "values": [
+            "Pulled on the day",
+            "Pulled again as they come back"
+          ]
+        },
+        {
+          "label": "Edges",
+          "values": [
+            "Cut once",
+            "Recut when the grass creeps in"
+          ]
+        },
+        {
+          "label": "Shrubs",
+          "values": [
+            "Trimmed if they need it",
+            "Trimmed when each one is due"
+          ]
+        },
+        {
+          "label": "Good for",
+          "values": [
+            "A fresh start",
+            "Sharp beds without thinking about them"
+          ]
+        }
       ]
     },
     {
@@ -112,7 +154,10 @@
         "Our shop is on Embury Road in Grand Blanc, and Grand Blanc and Grand Blanc Township are home. We take on landscape maintenance across Genesee County and north Oakland County too, from Fenton to Davison and Flint to Holly.",
         "How often we come and what each visit covers depends on the yard. Rob walks the beds, suggests a plan for the season and quotes it, and the estimate is free. For businesses and HOAs, see [commercial grounds and snow](/commercial/)."
       ],
-      "cta": { "label": "Get a free estimate", "href": "/get-an-estimate/" }
+      "cta": {
+        "label": "Get a free estimate",
+        "href": "/get-an-estimate/"
+      }
     }
   ],
   "faq": [
@@ -157,11 +202,26 @@
     "title": "Bed upkeep through the season.",
     "intro": "Landscape maintenance keeps beds weeded, edged, trimmed and touched up through the season, so a finished yard stays finished. Rob quotes it after he walks the beds, and the estimate is free.",
     "items": [
-      { "name": "Weeding", "detail": "Beds and tree rings weeded through the season." },
-      { "name": "Edging", "detail": "Bed lines recut where the grass creeps in." },
-      { "name": "Trimming", "detail": "Shrubs and hedges trimmed when each one is due." },
-      { "name": "Mulch", "detail": "Thin spots raked and touched up, not piled on." },
-      { "name": "Clean out", "detail": "Dead plants and debris cleared from the beds." }
+      {
+        "name": "Weeding",
+        "detail": "Beds and tree rings weeded through the season."
+      },
+      {
+        "name": "Edging",
+        "detail": "Bed lines recut where the grass creeps in."
+      },
+      {
+        "name": "Trimming",
+        "detail": "Shrubs and hedges trimmed when each one is due."
+      },
+      {
+        "name": "Mulch",
+        "detail": "Thin spots raked and touched up, not piled on."
+      },
+      {
+        "name": "Clean out",
+        "detail": "Dead plants and debris cleared from the beds."
+      }
     ],
     "footnote": "Pairs well with [weekly lawn mowing](/lawn-mowing/), so the beds and the lawn stay sharp together."
   }

@@ -40,6 +40,8 @@ Source: https://cityofswartzcreekmi.gov/images/2022MasterPlanLowRes2.pdf
 
 ## Turf and plant facts used (MSU Extension, read via web.archive.org copies because canr.msu.edu blocks automated reading)
 - Mow at 3.5 inches; raise in fall too. https://www.canr.msu.edu/news/raise_your_mower_height_to_35_inches_to_help_grass_withstand_grub_damage
+- "A general rule of thumb is not to remove more than one-third of the total leaf surface when mowing your lawn. This may require mowing every four to five days during rapid growth in the spring." Bulletin E0013, Mowing Lawn Turf. https://www.canr.msu.edu/resources/mowing-lawn-turf
+- Cool season lawns have a spring growth surge that peaks in May or June (Bulletin E0009, same irrigation URL below).
 - "Compacted clay soils do not accept water readily and runoff can occur from sloping sites." Soils with more silt, clay or organic matter hold more water. https://www.canr.msu.edu/resources/irrigation-practices-to-preserve-water-quality
 - Leaf mat over winter smothers turf, slows green-up, may mean more snow mold. https://www.canr.msu.edu/news/turfgrass-fall-wrap-up-and-snow-mold
 - Mulch two to three inches, no volcano, six inch ring at the trunk. https://www.canr.msu.edu/news/mulch_just_do_it
@@ -47,6 +49,10 @@ Source: https://cityofswartzcreekmi.gov/images/2022MasterPlanLowRes2.pdf
 
 ## Keyword demand (_source/research/keyword-demand.json, pulled 2026-11-21)
 - lawn-mowing|Swartz Creek 40; landscaping 10; snow-removal 10; others 0. Phrases: "lawn care swartz creek mi", "lawn service swartz creek mi", "lawn maintenance swartz creek mi", "landscaping swartz creek mi", "snow removal swartz creek mi".
+
+## Pages written from these notes (2026-11-21)
+- src/content/cities/swartz-creek.json; src/content/towns/{lawn-mowing,snow-removal,landscaping,fall-cleanup,flower-beds}--swartz-creek.json.
+- Hero photos chosen so no neighbor (Flint, Flint Township, Mundy Township) uses the same hero on the same service.
 
 ## Left out (unconfirmed)
 - City burning rules, any city leaf vacuum program.

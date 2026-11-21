@@ -1,0 +1,89 @@
+{
+  "service": "lawn-mowing",
+  "published": "2026-11-21",
+  "meta": {
+    "title": "How lawn stripes work, and how to mow them | Grand Scapes",
+    "description": "Lawn stripes are grass blades bent toward or away from you, catching light. How alternating passes, mowing height and a roller make them, plus five patterns."
+  },
+  "title": "Lawn stripes are **a trick of the light.**",
+  "lede": "A striped lawn is not two kinds of grass or two mowing heights. It is the same grass bent two ways. Blades leaning away from you catch more light and look pale, and blades leaning toward you look dark. Here is how a stripe is made, and how to make it last.",
+  "photo": "checker-close",
+  "short": [
+    "Stripes come from light. Grass bent away from you reflects more light and looks lighter; grass bent toward you looks darker.",
+    "Mow in alternating passes, up one row and back down the next, and the stripes show.",
+    "A taller cut and a roller behind the mower make the stripe stronger, according to University of Minnesota turf research.",
+    "Walk to the other end of the lawn and the light and dark stripes trade places.",
+    "Change the direction from time to time. MSU Extension says varying the mowing direction can reduce wear patterns."
+  ],
+  "sections": [
+    {
+      "h": "Why a stripe looks light or dark",
+      "p": [
+        "Every blade of grass has a top side and a bottom side, and a lot of people assume the mower flips them over. It does not. Florence Sessoms of the University of Minnesota turfgrass program tested this with perennial ryegrass and Kentucky bluegrass leaves and found the color comes from the angle of the blade, not from which side is facing up.",
+        "When grass leans away from you, more of each blade faces the light and bounces it back to your eye, so the stripe looks light green. When grass leans toward you, less of the blade catches light, so the stripe looks dark. Same grass, same height, same afternoon."
+      ]
+    },
+    {
+      "h": "Why the stripes swap when you turn around",
+      "p": [
+        "Stand at the street and look up the lawn. The rows mowed toward you look dark, and the rows mowed away from you look light. Now walk up by the house and look back. They trade places. Nothing changed except where you are standing.",
+        "It is a good trick to show the kids, and a good way to settle the argument about whether the mower guy missed a row. He did not. You moved."
+      ]
+    },
+    {
+      "h": "How to mow a stripe",
+      "list": [
+        "**Pick a straight edge to follow.** The drive, the walk or the curb already gives you a straight line, so start your first pass along it.",
+        "**Mow up and back.** Go up the lawn on one pass and come back on the next, overlapping a little so no strip gets missed.",
+        "**Frame it.** Mow a pass or two around the outside edge, so the turns at each end disappear under a clean border.",
+        "**Keep it a little taller.** Taller grass has more blade to bend and more surface to catch light. MSU Extension's range for Michigan home lawns is 2 to 3.75 inches.",
+        "**Mow it dry, with a sharp blade.** MSU Extension says to mow when the turf is dry, which also avoids clumping, and that a dull blade tears grass instead of cutting it."
+      ]
+    },
+    {
+      "h": "What a roller does",
+      "p": [
+        "A roller is a weighted drum that rides behind the mower deck. It presses the freshly cut grass flatter in the direction you are driving, so the blades lean farther and the stripe reads stronger. The Minnesota article lists a roller after the mow as one of three ways to reinforce the pattern.",
+        "You do not strictly need one. Any mower pushes the grass in the direction of travel as it passes, which is what makes the stripe in the first place. On a dry, thick lawn even a plain mower leaves a stripe. A roller just turns the volume up."
+      ]
+    },
+    {
+      "h": "Which lawns stripe best",
+      "p": [
+        "Grass that bends easily stripes better. The University of Minnesota puts cool season grasses ahead of warm season grasses for that reason. Kentucky bluegrass and perennial ryegrass, the two grasses in its test, are both cool season grasses.",
+        "Thickness matters too. A thin lawn has fewer blades to bend, so the stripe is weaker and patchy. A thick lawn mowed at a good height every week carries the sharpest stripe."
+      ]
+    },
+    {
+      "h": "Five patterns, and how each one is mowed",
+      "table": {
+        "head": ["Pattern", "How it is mowed", "Good for"],
+        "rows": [
+          ["Straight", "Parallel passes, up and back, along one straight edge", "Any lawn, and the easiest to keep up"],
+          ["Diagonal", "The same passes, run at an angle to the house or street", "A change from straight, same amount of work"],
+          ["Curved", "Passes that follow a curved drive or bed line", "Lawns with a sweeping drive or curved beds"],
+          ["Checkerboard", "Straight stripes one way, then a second set at a right angle", "Big, flat, open lawns"],
+          ["Diamond", "Diagonal stripes one way, then a second set crossing them", "A front lawn that gets looked at"]
+        ],
+        "note": "Straight, curved, crosscut and checkerboard all show up in photos of lawns we mow. The crossing patterns mean mowing the lawn twice, once in each direction, so they take longer."
+      },
+      "after": [
+        "Want to see them on real lawns? Our [weekly lawn mowing](/lawn-mowing/) page shows stripes we have cut."
+      ]
+    },
+    {
+      "h": "Change it up now and then",
+      "p": [
+        "MSU Extension says varying the mowing direction from time to time can reduce wear patterns. A mower that follows the exact same track every week can wear lines into the lawn, so a good stripe gets rotated: straight one week, diagonal another, or the same stripe shifted over a bit.",
+        "Our weekly lawn service comes mowed, trimmed, edged and blown off, finished in clean stripes. If you have a favorite pattern, tell Rob, or [text him](sms:+18109903040) a photo of one you like."
+      ]
+    },
+    {
+      "h": "Where these facts come from",
+      "list": [
+        "University of Minnesota Turfgrass Science, Florence Sessoms, Light reflection and mowing patterns (2023)",
+        "Michigan State University Extension, G.T. Lyman and P.E. Rieke, Turf Tips for the Homeowner: Mowing Lawn Turf"
+      ]
+    }
+  ]
+}

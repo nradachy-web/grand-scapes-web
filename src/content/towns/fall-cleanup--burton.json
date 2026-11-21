@@ -1,0 +1,48 @@
+{
+  "service": "fall-cleanup",
+  "city": "burton",
+  "meta": {
+    "title": "Leaf removal and fall cleanup in Burton, MI | Grand Scapes",
+    "description": "Grand Scapes clears Burton, MI yards in fall: leaves blown, vacuumed into our trailer and hauled off, beds cut back, the lawn and the ditch line left clear."
+  },
+  "hero": {
+    "kicker": "Fall cleanup and leaf removal in Burton, MI",
+    "title": "The leaves, **hauled off.**",
+    "lede": "Grand Scapes clears Burton yards each fall: leaves blown out of the beds and off the lawn, vacuumed into our trailer and hauled away, perennials cut back and the last mow done. Nothing gets left at the curb waiting for a pickup.",
+    "chips": ["Leaves vacuumed and hauled", "Beds cut back", "Last mow of the year", "Free estimate"],
+    "photo": "leaf-pile"
+  },
+  "local": {
+    "eyebrow": "Fall in Burton",
+    "title": "Leaves on a lawn **that drains slow.**",
+    "intro": "Fall in Burton means leaves landing on a lawn that already holds water. MSU Extension says leaves left to pile up are hard on the grass beneath them, and on slow draining loam a wet mat through the winter is the worst of it. Leaves raked into a roadside ditch just end up in the way of the water.",
+    "points": [
+      { "title": "Mulch a light fall, remove a heavy one", "body": "MSU Extension says a mower can chop leaves back into the lawn while the layer stays under 3 to 4 inches. Past that, or in the beds and under a big tree, they need to come off, and that is what our vacuum trailer is for." },
+      { "title": "Where Burton's yard waste goes", "body": "The city uses EMTERRA for curbside yard waste. A full cleanup outgrows a stack of bags fast, so ours goes straight into our own trailer and leaves with us." },
+      { "title": "Think twice about burning", "body": "Burton requires a permit for any burning, and its code describes open burning for brush, tree limbs and garden debris. Older city rules said no leaves or grass at all. Hauling them off skips the question." },
+      { "title": "The last mow", "body": "Once the leaves are done and the grass stops growing, MSU Extension suggests lowering the mower no more than one notch, about half an inch, for the final cut. That is how we finish the season." }
+    ]
+  },
+  "logistics": {
+    "title": "How a Burton fall cleanup goes.",
+    "body": [
+      "Rob sets a date with you once the trees are mostly bare, and a yard with late droppers can get a second pass. The crew blows leaves out of the beds, off the lawn and away from the foundation into rows, then the truck mounted vacuum pulls them into our dump trailer.",
+      "Perennials get cut back, beds get raked clean, and the drive and walks are blown off before we go. Where the yard meets a ditch instead of a curb, we pull the leaves out of the ditch line on your side too, so the first thaw has a clear path.",
+      "Pair it with a [spring cleanup](/spring-cleanup-burton-mi/) and the beds come out of winter ready for [mulch](/mulch-installation-burton-mi/)."
+    ],
+    "facts": [
+      { "label": "Leaves", "value": "Vacuumed and hauled off" },
+      { "label": "Beds", "value": "Cut back and raked clean" },
+      { "label": "Ditch line", "value": "Cleared on your side" },
+      { "label": "Estimate", "value": "Free, in person" }
+    ]
+  },
+  "photo": "leaf-trailer",
+  "faq": [
+    { "q": "Do you do leaf removal in Burton?", "a": "Yes. Grand Scapes does fall cleanups and leaf removal in Burton. We blow the leaves out of beds and off the lawn, vacuum them into our trailer and haul them away, then cut back the beds and blow off the hard surfaces. Rob quotes it free." },
+    { "q": "Is it bad to leave leaves on the lawn all winter?", "a": "A thick layer, yes. MSU Extension says leaves allowed to pile up are hard on the turf underneath, while a light layer can be chopped back in with a mower. On slow draining Burton loam, a wet mat sitting through the winter is the worst case." },
+    { "q": "Does Burton pick up leaves at the curb?", "a": "The city's hauler, EMTERRA, collects yard waste at the curb, and City Hall can tell you your day and the current bag rules. For a whole yard of leaves, a cleanup is simpler, since we take everything away in our own trailer and your cart stays free." },
+    { "q": "When is the last mow of the year in Michigan?", "a": "When the grass stops growing, usually once the leaves are done. MSU Extension suggests dropping the mower no more than one notch, about half an inch, for that final cut. We fold it into the fall cleanup visit." }
+  ],
+  "reviews": ["rick-b", "stacy"]
+}

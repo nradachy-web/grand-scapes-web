@@ -8,7 +8,12 @@
     "kicker": "Lawn care, landscaping and snow removal in Clarkston, MI",
     "title": "Hills, lakes and **a historic village.**",
     "lede": "Grand Scapes mows, cleans up, rebuilds beds and plows driveways in Clarkston and the rest of Independence Township, from small lots off Main Street to lake homes and wooded acreage on the hills.",
-    "chips": ["Weekly mowing", "Beds and mulch", "Leaf removal", "Driveway plowing"],
+    "chips": [
+      "Weekly mowing",
+      "Beds and mulch",
+      "Leaf removal",
+      "Driveway plowing"
+    ],
     "photo": "side-yard-stripes"
   },
   "about": {
@@ -17,14 +22,29 @@
     "body": [
       "Clarkston means two places. The City of the Village of Clarkston is the old village around Main Street, Depot Road and the Mill Pond: 0.44 square miles of land, the smallest city by land area in Michigan. Independence Township wraps all the way around it, with subdivisions, rural lots and a chain of lakes along the Clinton River.",
       "The ground is the real story. The USDA soil survey maps much of the area as sandy, gravelly outwash that drains fast, with wet muck in the hollows near the lakes and wetlands, and some slopes steep enough to make you hold the handlebars tight. A lawn on a sandy knob goes tan in July while the bottom of the same yard stays soft into May.",
-      "We work in Clarkston and Independence Township from our shop on Embury Road in Grand Blanc. Rob comes out, walks the yard with you, tells you what he would do and gives you a free estimate."
+      "We work in Clarkston and Independence Township from our shop on Embury Road in Grand Blanc. Rob comes out, walks the yard with you, tells you what he would do on that piece of ground and gives you a free estimate."
     ],
     "points": [
-      { "title": "A historic district with its own rules", "body": "Much of the old village is a local historic district. The city's Historic District Commission asks to review landscape changes there, such as taking out shrubs or plantings, new fences and rebuilt walls, before any permit. Trimming and pruning can go ahead. Bed projects in the district get planned with that in mind." },
-      { "title": "Lake lots", "body": "Independence Township's lawn tips ask lake owners to keep clippings out of the street and the water, since drains and ditches run to the lakes, and to leave a strip of taller grass along the shore. We blow clippings back onto the lawn, never toward the lake." },
-      { "title": "Sand on the knobs, muck in the hollows", "body": "Sandy soil holds less water than loam, MSU Extension notes, so the high spots brown first in a dry spell. Their advice is to mow around 3 inches or higher and never take more than a third of the blade at once." },
-      { "title": "Leaves stay out of the street", "body": "The city code bans leaf burning inside city limits and makes it unlawful to let leaves pile up in, or wash into, a street, ditch, creek, lake or pond. Our leaf vacuum and trailer take them away instead." },
-      { "title": "The county plows the roads, not the drive", "body": "The Road Commission for Oakland County plows the township's public roads by traffic, so subdivision streets come last and private roads are up to the neighbors. Your driveway is a separate job, and that one can be ours." }
+      {
+        "title": "A historic district with its own rules",
+        "body": "Much of the old village is a local historic district. The city's Historic District Commission asks to review landscape changes there, such as taking out shrubs or plantings, new fences and rebuilt walls, before any permit. Trimming and pruning can go ahead. Bed projects in the district get planned with that in mind."
+      },
+      {
+        "title": "Lake lots",
+        "body": "Independence Township's lawn tips ask lake owners to keep clippings out of the street and the water, since drains and ditches run to the lakes, and to leave a strip of taller grass along the shore. We blow clippings back onto the lawn, never toward the lake."
+      },
+      {
+        "title": "Sand on the knobs, muck in the hollows",
+        "body": "Sandy soil holds less water than loam, MSU Extension notes, so the high spots brown first in a dry spell. Their advice is to mow around 3 inches or higher and never take more than a third of the blade at once."
+      },
+      {
+        "title": "Leaves stay out of the street",
+        "body": "The city code bans leaf burning inside city limits and makes it unlawful to let leaves pile up in, or wash into, a street, ditch, creek, lake or pond. Our leaf vacuum and trailer take them away instead."
+      },
+      {
+        "title": "The county plows the roads, not the drive",
+        "body": "The Road Commission for Oakland County plows the township's public roads by traffic, so subdivision streets come last and private roads are up to the neighbors. Your driveway is a separate job, and that one can be ours."
+      }
     ],
     "photo": "stone-house-bed"
   },
@@ -35,19 +55,54 @@
       "Call or text Rob at [(810) 990-3040](tel:+18109903040), or send the [estimate form](/get-an-estimate/). Tell him whether you live in the city or the township, and whether the house is inside the historic district, since that changes what a bed project needs."
     ],
     "facts": [
-      { "label": "Drive from our shop", "value": "About 30 minutes from Embury Road" },
-      { "label": "Estimate", "value": "Free, and Rob comes out to see it" },
-      { "label": "Historic district beds", "value": "Ask the commission before removing plantings" },
-      { "label": "Leaf burning in the city", "value": "Not allowed, without exception" }
+      {
+        "label": "Drive from our shop",
+        "value": "About 30 minutes from Embury Road"
+      },
+      {
+        "label": "Estimate",
+        "value": "Free, and Rob comes out to see it"
+      },
+      {
+        "label": "Historic district beds",
+        "value": "Ask the commission before removing plantings"
+      },
+      {
+        "label": "Leaf burning in the city",
+        "value": "Not allowed, without exception"
+      }
     ]
   },
   "faq": [
-    { "q": "Do you do lawn care in Clarkston, MI?", "a": "Yes. Grand Scapes does [weekly mowing](/lawn-mowing-clarkston-mi/), [landscaping](/landscaping-clarkston-mi/), [mulch and beds](/mulch-installation-clarkston-mi/), [shrub trimming](/shrub-trimming-clarkston-mi/), [spring cleanups](/spring-cleanup-clarkston-mi/), [leaf removal](/leaf-removal-clarkston-mi/) and [snow removal](/snow-removal-clarkston-mi/) in Clarkston and Independence Township. It starts with a free estimate from Rob." },
-    { "q": "Is Clarkston a city or a township?", "a": "Both names are in play. The City of the Village of Clarkston is the small historic city around Main Street, and Independence Township surrounds it; township offices themselves use a Clarkston mailing address. The two have separate rules for leaves, burning and sidewalks, so it helps to know which side of the line you are on." },
-    { "q": "Can I burn leaves in Clarkston?", "a": "Not inside the city, where the code bans leaf burning without exception. In Independence Township, dry leaves may be burned under the fire department's rules: burn days for parcels under 3 acres, nothing within 50 feet of a building and nothing along the road. Or skip the smoke and let us haul them." },
-    { "q": "Do I need permission to change the landscaping on a historic district house?", "a": "For bigger changes, yes. The Historic District Commission's brochure lists removing shrubbery or plantings, new fencing and rebuilt masonry walls as work to bring to the commission first, while trimming and pruning can go ahead. The city office has the application, and Rob can help you describe the plan." },
-    { "q": "Who clears the public sidewalk in front of a house in the city?", "a": "The city code puts the public walk along a property on the owner or occupant, to be cleared of snow and ice no later than 24 hours after it falls, and the DPW also clears city streets and sidewalks. Check with the city office about your block. Our [salting and sidewalk work](/salting-and-sidewalks/) can cover the walks along with the drive." }
+    {
+      "q": "Do you do lawn care in Clarkston, MI?",
+      "a": "Yes. Grand Scapes does [weekly mowing](/lawn-mowing-clarkston-mi/), [landscaping](/landscaping-clarkston-mi/), [mulch and beds](/mulch-installation-clarkston-mi/), [shrub trimming](/shrub-trimming-clarkston-mi/), [spring cleanups](/spring-cleanup-clarkston-mi/), [leaf removal](/leaf-removal-clarkston-mi/) and [snow removal](/snow-removal-clarkston-mi/) in Clarkston and Independence Township. It starts with a free estimate from Rob."
+    },
+    {
+      "q": "Is Clarkston a city or a township?",
+      "a": "Both names are in play. The City of the Village of Clarkston is the small historic city around Main Street, and Independence Township surrounds it; even the township fire department's headquarters has a Clarkston mailing address. The two have separate rules for leaves, burning and sidewalks, so it helps to know which side of the line you are on."
+    },
+    {
+      "q": "Can I burn leaves in Clarkston?",
+      "a": "Not inside the city, where the code bans leaf burning without exception. In Independence Township, dry leaves may be burned under the fire department's rules: burn days for parcels under 3 acres, nothing within 50 feet of a building and nothing along the road. Or skip the smoke and let us haul them."
+    },
+    {
+      "q": "Do I need permission to change the landscaping on a historic district house?",
+      "a": "For bigger changes, yes. The Historic District Commission's brochure lists removing shrubbery or plantings, new fencing and rebuilt masonry walls as work to bring to the commission first, while trimming and pruning can go ahead. The city office has the application, and Rob can help you describe the plan."
+    },
+    {
+      "q": "Who clears the public sidewalk in front of a house in the city?",
+      "a": "The city code puts the public walk along a property on the owner or occupant, to be cleared of snow and ice no later than 24 hours after it falls, and the DPW also clears city streets and sidewalks. Check with the city office about your block. Our [salting and sidewalk work](/salting-and-sidewalks/) can cover the walks along with the drive."
+    }
   ],
-  "reviews": ["james-a", "rick-b", "bob-s"],
-  "neighbors": ["ortonville", "holly", "goodrich"]
+  "reviews": [
+    "mark-v",
+    "rick-b",
+    "kandice-w"
+  ],
+  "neighbors": [
+    "ortonville",
+    "holly",
+    "goodrich"
+  ]
 }

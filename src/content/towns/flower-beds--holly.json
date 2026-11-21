@@ -1,0 +1,92 @@
+{
+  "service": "flower-beds",
+  "city": "holly",
+  "meta": {
+    "title": "Mulch Installation in Holly, MI | Grand Scapes",
+    "description": "Grand Scapes weeds, edges and mulches beds in Holly, MI: fabric where it helps, black, brown or red mulch at the right depth and a crisp edge on the lawn."
+  },
+  "hero": {
+    "kicker": "Mulch installation and flower beds in Holly, MI",
+    "title": "Two to three inches, **not a volcano.**",
+    "lede": "Grand Scapes gets Holly beds ready for the season: weeds pulled, a clean edge cut along the lawn, landscape fabric down where it helps, then fresh mulch in black, brown or red at a depth that protects the plants instead of smothering them.",
+    "chips": [
+      "Weeded and edged",
+      "Fabric where it helps",
+      "Black, brown or red",
+      "Natural or block edge"
+    ],
+    "photo": "rose-bed"
+  },
+  "local": {
+    "eyebrow": "Beds in Holly",
+    "title": "Mulch does **quiet work** on fast draining ground.",
+    "intro": "Mulch earns its keep in a Holly bed. On the sandy, fast draining ground across much of the township it slows the drying between rains, and everywhere it keeps weeds down and gives the bed a finished line. What matters is how deep it goes, where it stops and what goes under it.",
+    "points": [
+      {
+        "title": "The right depth",
+        "body": "MSU Extension says two to three inches of mulch is adequate and more is not better. Piled higher, especially against a trunk, it starts doing harm. Trees get a mulch free ring around the base, about six inches wide, the way MSU describes it."
+      },
+      {
+        "title": "An edge that holds on a slope",
+        "body": "Mulch on a hill wants to wander into the lawn after every storm. A cut natural edge or a block border gives it a lip to stop against, and on Holly's rolling lots that edge does real work."
+      },
+      {
+        "title": "Salt along the drive",
+        "body": "MSU Extension notes that salt builds up in beds beside drives and walks, and that roses, yews, rhododendrons and white pines take it hardest. Spring mulch time is when we see what winter did and pull out what did not make it."
+      },
+      {
+        "title": "Fabric where it helps",
+        "body": "Black landscape fabric under the mulch stops weeds from coming up through open beds. Around perennials that spread, it can get in the way, so it goes where it helps and stays out where it would not."
+      }
+    ]
+  },
+  "logistics": {
+    "title": "How a Holly bed gets mulched.",
+    "body": [
+      "First the bed gets cleaned out: weeds pulled, old leaves and dead growth removed, and the edge cut back to a clean line along the lawn. Then fabric where it makes sense, and fresh mulch spread even and pulled back from stems and trunks.",
+      "Black, brown and red are the usual colors. Black reads crisp against a light house, and brown looks at home beside woods and a lake shoreline. Bring it up when Rob comes out, and he will tell you what he would pick for your house.",
+      "Spring is the usual time, often right after a [spring cleanup](/spring-cleanup-holly-mi/). A fall top up works too, once the oaks have mostly let go of their leaves."
+    ],
+    "facts": [
+      {
+        "label": "Depth",
+        "value": "Two to three inches, per MSU"
+      },
+      {
+        "label": "Colors",
+        "value": "Black, brown or red"
+      },
+      {
+        "label": "Under it",
+        "value": "Landscape fabric where it helps"
+      },
+      {
+        "label": "Edge",
+        "value": "Cut natural edge or block border"
+      }
+    ]
+  },
+  "photo": "mulch-crew",
+  "faq": [
+    {
+      "q": "Do you install mulch in Holly, MI?",
+      "a": "Yes. Grand Scapes weeds, edges and mulches beds in the Village of Holly and in Holly Township, with landscape fabric where it helps and fresh black, brown or red mulch on top. Rob looks at the beds first and quotes the job."
+    },
+    {
+      "q": "How deep should mulch be?",
+      "a": "Two to three inches, according to MSU Extension, and more is not better. Keep it pulled back from tree trunks in a ring about six inches wide, so it never builds into a mound against the bark."
+    },
+    {
+      "q": "Which mulch color should I pick?",
+      "a": "Black gives a sharp line against a light house and a green lawn. Brown looks natural beside woods and fits a wooded lot. Red is the boldest of the three. Plenty of people pick whatever is already in the beds, so touch ups blend in."
+    },
+    {
+      "q": "Is fall or spring better for mulch?",
+      "a": "Spring is the usual time, after the beds are cleaned out and before weeds get going. Fall works too, and gives the beds a finished look going into winter. Around Holly, where oaks drop late, wait until the leaves are mostly down or they will just land on the new mulch."
+    }
+  ],
+  "reviews": [
+    "bob-s",
+    "kandice-w"
+  ]
+}

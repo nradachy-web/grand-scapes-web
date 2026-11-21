@@ -9,7 +9,11 @@
     "kicker": "Mulch installation in Goodrich, MI",
     "title": "Clean beds, **fresh mulch.**",
     "lede": "Grand Scapes mulches Goodrich flower beds the careful way: weeds out, edges cut, fabric where it helps and new mulch in black, brown or red at a sensible depth. Island beds, tree rings and long foundation beds all get the same attention.",
-    "chips": ["Weeds and edges", "Fabric and mulch", "Black, brown or red"],
+    "chips": [
+      "Weeds and edges",
+      "Fabric and mulch",
+      "Black, brown or red"
+    ],
     "photo": "sign-bed"
   },
   "local": {
@@ -17,10 +21,22 @@
     "title": "Bigger lots, **more beds** to keep.",
     "intro": "Goodrich beds tend to be big and spread out. Township lots of two acres or more have room for island beds around trees, beds along the drive and plantings out by the road, and the newer neighborhoods in the village have long foundation beds. Mulch is what makes all of them look finished.",
     "points": [
-      { "title": "The right depth", "body": "MSU Extension says 2 to 3 inches of mulch gives the full benefit in most beds. We keep to that as we spread, and on beds that already have mulch we top them up rather than burying the plants." },
-      { "title": "Rings around trees", "body": "Mulch piled against a trunk can rot the bark and give disease a way in. Tree rings on big lots get a wide, flat circle with the mulch pulled back from the trunk." },
-      { "title": "Edges on rolling ground", "body": "On a slope, loose mulch can wash toward the low side in a heavy rain. A cut edge or a block border on the downhill side keeps it in the bed and off the lawn." },
-      { "title": "Leaves out first", "body": "A bed buried in fall leaves mats down over winter. On wooded Goodrich lots we clear the leaves out before any fall mulching, or we do the mulch with the spring cleanup instead." }
+      {
+        "title": "The right depth",
+        "body": "MSU Extension says 2 to 3 inches of mulch gives the full benefit in most beds. We keep to that as we spread, and on beds that already have mulch we top them up rather than burying the plants."
+      },
+      {
+        "title": "Rings around trees",
+        "body": "Mulch piled against a trunk can rot the bark and give disease a way in. Tree rings on big lots get a wide, flat circle with the mulch pulled back from the trunk."
+      },
+      {
+        "title": "Edges on rolling ground",
+        "body": "On a slope, loose mulch can wash toward the low side in a heavy rain. A cut edge or a block border on the downhill side keeps it in the bed and off the lawn."
+      },
+      {
+        "title": "Leaves out first",
+        "body": "A bed buried in fall leaves mats down over winter. On wooded Goodrich lots we clear the leaves out before any fall mulching, or we do the mulch with the spring cleanup instead."
+      }
     ]
   },
   "logistics": {
@@ -30,18 +46,45 @@
       "Bigger lots mean more beds, so we price by what is actually there after seeing it, not by a guess over the phone. If the shrubs in a bed are overgrown or the border is failing, Rob may suggest a [landscaping job in Goodrich](/landscaping-goodrich-mi/) instead."
     ],
     "facts": [
-      { "label": "Depth", "value": "2 to 3 inches" },
-      { "label": "Colors", "value": "Black, brown or red" },
-      { "label": "Includes", "value": "Weeds, edges, fabric, mulch" },
-      { "label": "Estimate", "value": "Free, after Rob sees the beds" }
+      {
+        "label": "Depth",
+        "value": "2 to 3 inches"
+      },
+      {
+        "label": "Colors",
+        "value": "Black, brown or red"
+      },
+      {
+        "label": "Includes",
+        "value": "Weeds, edges, fabric, mulch"
+      },
+      {
+        "label": "Estimate",
+        "value": "Free, after Rob sees the beds"
+      }
     ]
   },
   "photo": "block-bed-side",
   "faq": [
-    { "q": "Do you install mulch in Goodrich, MI?", "a": "Yes. Grand Scapes weeds, edges and mulches beds in the Village of Goodrich and in Atlas Township. We lay landscape fabric where it helps and spread fresh mulch in black, brown or red. Rob gives a free estimate after seeing the beds." },
-    { "q": "Is landscape fabric worth it under mulch?", "a": "In a lot of beds, yes. It slows weeds coming up from below, and one of our Google reviews mentions the black mesh going in under new mulch. Rob will tell you where it helps and where it does not." },
-    { "q": "Should I mulch in spring or fall?", "a": "Either works. Spring mulch goes on after the cleanup, when the beds are clean and edged. Fall mulch goes on after the leaves are cleared, so a bed in Goodrich heads into winter tidy." },
-    { "q": "How deep should mulch be around trees?", "a": "Keep it to 2 to 3 inches, spread flat and pulled back from the trunk. MSU Extension warns against the mulch volcano, a mound piled against the bark, because it can cause decay." }
+    {
+      "q": "Do you install mulch in Goodrich, MI?",
+      "a": "Yes. Grand Scapes weeds, edges and mulches beds in the Village of Goodrich and in Atlas Township. Fabric goes down where it helps, and the fresh mulch comes in black, brown or red. Rob gives a free estimate after seeing the beds."
+    },
+    {
+      "q": "Is landscape fabric worth it under mulch?",
+      "a": "In a lot of beds, yes. It slows weeds coming up from below, and one of our Google reviews mentions the black mesh going in under new mulch. Rob will tell you where it helps and where it does not."
+    },
+    {
+      "q": "Should I mulch in spring or fall?",
+      "a": "Either works. Spring mulch goes on after the cleanup, when the beds are clean and edged. Fall mulch goes on after the leaves are cleared, so a bed in Goodrich heads into winter tidy."
+    },
+    {
+      "q": "How deep should mulch be around trees?",
+      "a": "Keep it to 2 to 3 inches, spread flat and pulled back from the trunk. MSU Extension warns against the mulch volcano, a mound piled against the bark, because it can cause decay."
+    }
   ],
-  "reviews": ["bob-s", "james-a"]
+  "reviews": [
+    "kandice-w",
+    "stephanie-s"
+  ]
 }

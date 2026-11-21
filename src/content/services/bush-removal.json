@@ -8,7 +8,12 @@
     "kicker": "Bush and small tree removal in Grand Blanc, MI",
     "title": "Out, **roots and all.**",
     "lede": "Grand Scapes digs out overgrown bushes and small trees, roots and all, often with a compact track loader, and hauls them away. The bed is left open and ready to rebuild. Big trees are not our work, and we will tell you so plainly.",
-    "chips": ["Bushes dug out", "Small trees only", "Roots out too", "Hauled away"],
+    "chips": [
+      "Bushes dug out",
+      "Small trees only",
+      "Roots out too",
+      "Hauled away"
+    ],
     "photo": "kubota-dig"
   },
   "blocks": [
@@ -83,12 +88,39 @@
       "eyebrow": "Trim or remove",
       "title": "Save it or **start over.**",
       "intro": "A rough guide. Rob will give you his honest read when he sees the shrub, and sometimes [a good trim](/shrub-trimming/) is all it needs.",
-      "columns": ["Trim it", "Take it out"],
+      "columns": [
+        "Trim it",
+        "Take it out"
+      ],
       "rows": [
-        { "label": "Size", "values": ["Still fits its spot after a cut", "Has outgrown the window or the walk"] },
-        { "label": "Inside", "values": ["Green growth inside the plant", "Bare and brown inside, like an old juniper"] },
-        { "label": "Health", "values": ["Mostly healthy, some dead wood", "Mostly dead, broken or sick"] },
-        { "label": "Kind", "values": ["Yews, privet, most flowering shrubs", "Bush honeysuckle, buckthorn and other invasives"] }
+        {
+          "label": "Size",
+          "values": [
+            "Still fits its spot after a cut",
+            "Has outgrown the window or the walk"
+          ]
+        },
+        {
+          "label": "Inside",
+          "values": [
+            "Green growth inside the plant",
+            "Bare and brown inside, like an old juniper"
+          ]
+        },
+        {
+          "label": "Health",
+          "values": [
+            "Mostly healthy, some dead wood",
+            "Mostly dead, broken or sick"
+          ]
+        },
+        {
+          "label": "Kind",
+          "values": [
+            "Yews, privet, most flowering shrubs",
+            "Bush honeysuckle, buckthorn and other invasives"
+          ]
+        }
       ]
     },
     {
@@ -106,7 +138,11 @@
       "plane": "ink",
       "eyebrow": "On Google",
       "title": "Old bushes and a cherry tree, **out.**",
-      "ids": ["bob-s", "james-a"]
+      "ids": [
+        "reckless-cards",
+        "kandice-w",
+        "bob-s"
+      ]
     }
   ],
   "faq": [
@@ -151,10 +187,22 @@
     "title": "Bush removal, roots and all.",
     "intro": "We dig out overgrown bushes, shrubs and small trees, roots and all, and haul everything away. Rob quotes each job after he sees it, and the estimate is free. Big trees are not our work.",
     "items": [
-      { "name": "Bushes and shrubs", "detail": "Overgrown, dead or unwanted shrubs dug out with their root balls." },
-      { "name": "Small trees", "detail": "Small ornamental trees, like a cherry tree, removed roots and all." },
-      { "name": "Haul away", "detail": "Branches, roots and debris loaded into our dump trailer and gone." },
-      { "name": "Ready for next", "detail": "An open bed, ready to rebuild, plant or mulch." }
+      {
+        "name": "Bushes and shrubs",
+        "detail": "Overgrown, dead or unwanted shrubs dug out with their root balls."
+      },
+      {
+        "name": "Small trees",
+        "detail": "Small ornamental trees, like a cherry tree, removed roots and all."
+      },
+      {
+        "name": "Haul away",
+        "detail": "Branches, roots and debris loaded into our dump trailer and gone."
+      },
+      {
+        "name": "Ready for next",
+        "detail": "An open bed, ready to rebuild, plant or mulch."
+      }
     ],
     "footnote": "Big trees and their stumps are not our work: call a tree company for those, and we can [rebuild the bed](/landscaping/) after."
   }

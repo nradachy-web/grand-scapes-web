@@ -1,0 +1,48 @@
+{
+  "service": "fall-cleanup",
+  "city": "mundy-township",
+  "meta": {
+    "title": "Leaf removal in Mundy Township, MI | Grand Scapes",
+    "description": "Grand Scapes clears Mundy Township yards each fall: leaves off big lawns and out of beds, vacuumed into our trailer and hauled off. No burning, no bag pile."
+  },
+  "hero": {
+    "kicker": "Fall cleanup and leaf removal in Mundy Township, MI",
+    "title": "A big yard, **raked clean.**",
+    "lede": "Grand Scapes clears Mundy Township yards in fall: leaves blown off the lawn and out of the beds, vacuumed into our trailer and hauled away, perennials cut back and the last mow done. No wall of paper bags at the road.",
+    "chips": ["Leaves vacuumed and hauled", "Beds cut back", "Big lots welcome", "Free estimate"],
+    "photo": "leaves-before"
+  },
+  "local": {
+    "eyebrow": "Fall in Mundy Township",
+    "title": "No burning, **no bag mountain.**",
+    "intro": "In Mundy Township a leaf pile has fewer ways out than people think. The fire department does not allow leaf rakings to be burned, curbside pickup wants Kraft paper bags, and the township's landfill permit does not take yard waste. On a big lot, that adds up to a lot of bags or one cleanup.",
+    "points": [
+      { "title": "Burning is off the table", "body": "The township's burn permit rules allow logs, limbs, stumps and brush only. Leaf rakings and ground cover are named outright as things that may not be burned." },
+      { "title": "Paper bags on Tuesdays", "body": "Republic collects yard waste on Tuesdays from April through November, in biodegradable Kraft paper bags or a marked 30 gallon can, and plastic bags are refused. An acre lot of leaves fills a lot of paper bags." },
+      { "title": "Mow in the light ones", "body": "MSU Extension says leaves can be mulched into the lawn with a mower set high while the layer is under 3 to 4 inches. On an open lawn with a few trees that can be part of the plan, and the beds and tree line still get cleared." },
+      { "title": "Wet ground under the leaves", "body": "Much of the township is slow draining silt loam, and a mat of wet leaves left all winter is hard on the grass beneath it. Getting them off before the snow gives the lawn a clean start in spring." }
+    ]
+  },
+  "logistics": {
+    "title": "How a Mundy Township fall cleanup goes.",
+    "body": [
+      "Rob sets a date once most of the trees are bare, and a second pass can follow if the yard has late droppers. On a big lot the crew works the leaves into long rows with blowers, then the truck mounted vacuum pulls them into our dump trailer.",
+      "Beds get cleared, perennials cut back, and the drive, walks and patio blown off. Then the lawn gets its last mow; MSU Extension suggests going no more than one notch lower, about half an inch, for that final cut.",
+      "All of it leaves with us, so nothing sits at the road waiting for Tuesday. Book a [spring cleanup](/spring-cleanup-mundy-township-mi/) too and the beds come out of winter ready for [mulch](/mulch-and-flower-beds/)."
+    ],
+    "facts": [
+      { "label": "Leaves", "value": "Vacuumed and hauled off" },
+      { "label": "Burning leaves", "value": "Not allowed in the township" },
+      { "label": "Curbside yard waste", "value": "Tuesdays, paper bags, April to November" },
+      { "label": "Estimate", "value": "Free, in person" }
+    ]
+  },
+  "photo": "fall-rider",
+  "faq": [
+    { "q": "Do you do leaf removal in Mundy Township?", "a": "Yes. Grand Scapes does fall cleanups and leaf removal in Mundy Township, from subdivision yards to acre lots. We blow leaves into rows, vacuum them into our trailer and haul them off, cut back the beds and blow off the hard surfaces. Rob quotes it free." },
+    { "q": "Is it legal to burn leaves in Mundy Township?", "a": "No. The fire department's burn permit rules allow only logs, limbs, stumps and brush, and they name leaf rakings and ground cover among the things that may not be burned. Hauling them off, or mulching a light fall into the lawn, is the way to go." },
+    { "q": "How does yard waste pickup work in Mundy Township?", "a": "Pickup is curbside on Tuesdays, by Republic Services. From April through November, yard waste has to be in biodegradable Kraft paper bags or a marked 30 gallon can, with no plastic bags, and branches bundled small. Tree trunks, stumps and large bushes are not taken." },
+    { "q": "Should I mulch leaves into the lawn or remove them?", "a": "A light layer can be mulched in. MSU Extension says to mow leaves at the highest deck setting when they are damp, before they pile past 3 to 4 inches. Heavier falls, beds and fence lines need them removed, which is what a fall cleanup is for." }
+  ],
+  "reviews": ["rick-b", "stacy"]
+}

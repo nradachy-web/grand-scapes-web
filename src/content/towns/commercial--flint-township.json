@@ -1,0 +1,48 @@
+{
+  "service": "commercial",
+  "city": "flint-township",
+  "meta": {
+    "title": "Commercial snow removal in Flint Township, MI | Grand Scapes",
+    "description": "Grand Scapes plows and salts lots, drives and walks for Flint Township businesses, offices and apartment properties, and keeps the grounds in summer."
+  },
+  "hero": {
+    "kicker": "Commercial snow removal in Flint Township, MI",
+    "title": "Busy corridors, **clear lots.**",
+    "lede": "Grand Scapes plows and salts parking lots, drives and walks for Flint Township businesses, offices, apartment communities and associations, and keeps the grounds mowed and the beds clean in summer. Rob walks the property and explains the options.",
+    "chips": ["Lots and drives plowed", "Walks and entrances salted", "Grounds kept in summer", "Free estimate"],
+    "photo": "plow-fleet-2"
+  },
+  "local": {
+    "eyebrow": "Commercial property in Flint Township",
+    "title": "Miller, Linden and Corunna, and **the lots behind them.**",
+    "intro": "The township carries a big share of the area's shopping and services. Its own economic development plan points to retail along the Miller, Linden and Corunna Road corridors, offices along Beecher Road and commercial and industrial uses along Bristol Road. Add apartment buildings and medical offices, and there is a lot of pavement to clear.",
+    "points": [
+      { "title": "The road out front is not the township's", "body": "Roads here belong to the Genesee County Road Commission, or to MDOT for state roads, and both clear main routes first. Their plows can leave a ridge across an entrance after the lot is done, so entrances get planned for." },
+      { "title": "Piles that do not block the exit", "body": "Michigan law bars piling snow on a roadway or its shoulder in a way that blocks a driver's view. On a corner lot or a busy entrance, where the piles go is a safety call, so it gets worked out before the first storm." },
+      { "title": "Apartments and associations", "body": "About a quarter of the township's homes are in buildings of three or more units, by Census figures. Those drives, lots and walks have to be open for people heading out early for work." },
+      { "title": "Grounds in summer", "body": "The same account can cover weekly mowing, edging, beds and cleanups, so a manager has one call for the property all year. Our clippings and debris leave with us, since the township hauler does not take contractor material." }
+    ]
+  },
+  "logistics": {
+    "title": "How a commercial account works in Flint Township.",
+    "body": [
+      "Rob walks the property with you or your manager before winter, marks the entrances, drive lanes, walks, ramps and the places snow can be stacked, and explains the commercial snow and salting package options.",
+      "In a storm our trucks plow the lot and the drive lanes, the walks and entrances get cleared, and ice melt goes where people walk and cars stop. Salt damages plants through spray and soil buildup, MSU Extension notes, so piles stay off the landscaped islands where the lot allows.",
+      "From spring to fall the grounds get mowed, trimmed, edged and blown off weekly, with beds, shrubs and cleanups as the property needs. We are licensed and insured, and Rob is your contact."
+    ],
+    "facts": [
+      { "label": "Roads out front", "value": "County or state, not the township" },
+      { "label": "Winter", "value": "Lots, drives, walks and salt" },
+      { "label": "Summer", "value": "Mowing, beds, shrubs, cleanups" },
+      { "label": "Estimate", "value": "Free walk-through with Rob" }
+    ]
+  },
+  "photo": "walk-cleared",
+  "faq": [
+    { "q": "Do you do commercial snow removal in Flint Township?", "a": "Yes. Grand Scapes plows and salts parking lots, drives and walks for businesses, offices, apartment properties and associations in Flint Township, with our own trucks. Rob walks the property before winter and explains the commercial package options." },
+    { "q": "Can you plow a retail lot on Miller Road or Linden Road?", "a": "Yes, those corridors are part of the area we work. Rob walks the lot first to plan the entrances, drive lanes and where the snow will be stacked, then quotes the property." },
+    { "q": "Where does the snow go on a commercial lot?", "a": "On the property, never in the road. Michigan law bars depositing snow on a roadway and piling it where it blocks a driver's view at the road, so piles go to the edges or the back of the lot, away from the exits and the walks." },
+    { "q": "Do you also mow and maintain commercial grounds in Flint Township?", "a": "Yes. We mow, trim, edge and blow off commercial grounds weekly, keep the beds and shrubs in shape and do spring and fall cleanups. See [commercial grounds and snow](/commercial/) for how a year-round account runs." }
+  ],
+  "reviews": ["rick-b", "james-a"]
+}

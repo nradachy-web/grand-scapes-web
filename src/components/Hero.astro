@@ -266,39 +266,51 @@ const primaryHref = primary.href.startsWith('#') ? primary.href : href(primary.h
 
   /* ----- home ----- */
 
-  .hero--home {
-    display: grid;
-    min-height: calc(100svh - var(--header));
-    min-height: min(calc(100svh - var(--header)), 62rem);
-  }
-
+  /* phones: the photo on top, square and centered on the mower, then the words
+     on ink below it, so the stripes are seen and not covered */
   .hero--home .hero__media {
-    position: absolute;
-    inset: 0;
-    height: auto;
-    min-height: 0;
+    height: min(56svh, 27rem);
+    min-height: 16rem;
   }
 
   .hero--home .hero__media img {
-    object-position: 50% 42%;
+    object-position: 50% 62%;
   }
 
   .hero--home .hero__media::after {
-    background:
-      linear-gradient(to top, var(--ink) 0%, rgb(11 13 12 / 0.94) 30%, rgb(11 13 12 / 0.74) 50%, rgb(11 13 12 / 0.28) 64%, rgb(11 13 12 / 0) 76%),
-      linear-gradient(to bottom, rgb(11 13 12 / 0.5) 0%, rgb(11 13 12 / 0) 16%);
+    background: linear-gradient(to bottom, rgb(11 13 12 / 0.35) 0%, rgb(11 13 12 / 0) 22%, rgb(11 13 12 / 0) 55%, rgb(11 13 12 / 0.7) 84%, var(--ink) 100%);
   }
 
   .hero--home .hero__inner {
-    align-content: end;
-    margin-top: 0;
-    padding-top: 8rem;
-    padding-bottom: clamp(5.5rem, 12vw, 8.5rem);
+    margin-top: -2.5rem;
+    padding-bottom: clamp(4.5rem, 12vw, 6rem);
   }
 
   .hero--home .hero__title {
     font-size: clamp(2.75rem, 13vw, 4rem);
     line-height: 0.98;
+  }
+
+  @media (min-width: 48rem) {
+    .hero--home {
+      display: grid;
+      min-height: calc(100svh - var(--header));
+      min-height: min(calc(100svh - var(--header)), 62rem);
+    }
+
+    .hero--home .hero__media {
+      position: absolute;
+      inset: 0;
+      height: auto;
+      min-height: 0;
+    }
+
+    .hero--home .hero__inner {
+      align-content: end;
+      margin-top: 0;
+      padding-top: 8rem;
+      padding-bottom: clamp(5.5rem, 12vw, 8.5rem);
+    }
   }
 
   .hero__veil,

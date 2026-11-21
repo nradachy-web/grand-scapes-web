@@ -21,12 +21,11 @@ export const BRAND = {
   origin: 'https://grandscapesllc.com',
 };
 
-/* Read from his Google listing on 2026-11-21. The signed-out view shows the
-   rating but not the count, so no count is printed until Rob confirms it. */
+/* Read from his Google listing with the Places API on 2026-11-21. */
 export const RATING = {
   value: '4.9',
-  count: 0,
-  countLabel: '',
+  count: 106,
+  countLabel: '106',
   asOf: '2026-11-21',
 };
 
@@ -42,8 +41,8 @@ export const SOCIAL = [
   { name: 'Instagram', href: LINKS.instagram },
 ].filter((s) => s.href);
 
-/* Hours from the Google listing (Saturday read as 8 AM to 8 PM). */
-export const HOURS = { open: '8 AM', note: 'Calls and texts from 8 AM' };
+/* Hours from the Google listing: every day, 8 AM to 8 PM. */
+export const HOURS = { open: '8 AM', close: '8 PM', note: 'Calls and texts every day, 8 AM to 8 PM' };
 
 export const FORM = {
   /* Web3Forms key. Empty until the form is created and a real test arrives: an

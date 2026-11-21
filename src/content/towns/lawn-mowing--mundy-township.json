@@ -1,0 +1,48 @@
+{
+  "service": "lawn-mowing",
+  "city": "mundy-township",
+  "meta": {
+    "title": "Lawn mowing in Mundy Township, MI | Grand Scapes",
+    "description": "Grand Scapes mows Mundy Township lawns weekly, from sewered subdivision lots to acre parcels: mowed, trimmed, edged and blown off, timed to the heavy ground."
+  },
+  "hero": {
+    "kicker": "Lawn mowing in Mundy Township, MI",
+    "title": "An acre a week, **in clean rows.**",
+    "lede": "Grand Scapes mows Mundy Township lawns on a set day every week, from a subdivision lot to a full acre along a county road: mowed, trimmed, edged at the walk and drive, and blown off before we leave.",
+    "chips": ["Weekly on a set day", "Small lots to acres", "Trimmed and edged", "Free estimate"],
+    "photo": "cul-de-sac-stripes"
+  },
+  "local": {
+    "eyebrow": "Mowing in Mundy Township",
+    "title": "Big lawns on **heavy ground.**",
+    "intro": "Lawns in Mundy Township come in two sizes: subdivision lots on sewer, and the acre or more the zoning asks for where there is no sewer. Both usually sit on heavy silt loam or loam that drains slowly. A good weekly cut here comes down to keeping up in May and staying off the soft spots.",
+    "points": [
+      { "title": "Acre lots, long passes", "body": "On a lot of an acre or more, a zero turn and a straight pattern cover the ground cleanly, and the stripes run long. We match the pattern to the yard: straight on open ground, curved around the drive and the cul-de-sac." },
+      { "title": "Keeping up with spring", "body": "MSU Extension says to remove no more than a third of the blade at a time, and that fast spring growth can call for a cut every four to five days. A big lawn that misses a week in May shows it for a month." },
+      { "title": "Wet ground, careful turns", "body": "Del Rey silt loam, mapped across much of the township, stays wet after rain. MSU Extension warns that turning a riding mower on saturated soil can pack it and tear the turf, so on a wet week we widen the turns and save the low corners for last." },
+      { "title": "Younger lawns, higher deck", "body": "About a quarter of the homes here went up in 2000 or later, and their lawns are still young. MSU Extension says a higher cut keeps grass more stress tolerant in summer heat and shades out crabgrass, so we run the deck high." }
+    ]
+  },
+  "logistics": {
+    "title": "How weekly mowing runs in Mundy Township.",
+    "body": [
+      "Rob comes out, walks the lawn with you and quotes the season. Once you say go, you get a set day and the crew comes on it every week, with zero turns, trimmers and blowers on the trailer.",
+      "Each visit covers the whole routine: mow, trim around the house, beds, trees, mailbox post and fences, edge the walks and drive, then blow the hard surfaces clean. Clippings go back on the lawn, which MSU Extension recommends because they break down quickly and return nutrients.",
+      "Pair the season with a [spring cleanup](/spring-cleanup-mundy-township-mi/) and [leaf removal](/leaf-removal-mundy-township-mi/), and the lawn is handled from the first cut to the last."
+    ],
+    "facts": [
+      { "label": "Schedule", "value": "Weekly, on a set day" },
+      { "label": "Lot sizes", "value": "Subdivision lots to acre parcels" },
+      { "label": "Each visit", "value": "Mow, trim, edge, blow off" },
+      { "label": "Estimate", "value": "Free, in person" }
+    ]
+  },
+  "photo": "tree-line-stripes",
+  "faq": [
+    { "q": "Do you mow lawns in Mundy Township?", "a": "Yes. Grand Scapes mows residential lawns in Mundy Township every week on a set day, from subdivision lots to acre parcels. Every visit is a full mow, trim and edge, with the walks and drive blown clean. Rob quotes it free in person." },
+    { "q": "Do you mow large lots and acreage?", "a": "Yes. We have kept a 7 1/2 acre lawn for a full season, so an acre lot is ordinary work for us, and acre lots are common in the township wherever homes are not on sewer. Bigger lots take more time, so Rob prices each one after seeing it." },
+    { "q": "How often should my lawn be mowed in Michigan?", "a": "Weekly covers most of the season. MSU Extension's rule is to cut no more than a third of the blade at once, which in fast spring growth can mean every four to five days. Summer slows down, and the deck stays high in the heat." },
+    { "q": "Can you mow when the ground is wet?", "a": "Sometimes, and carefully. Much of Mundy Township is slow draining silt loam, and MSU Extension warns that turning mowers on saturated soil packs it and damages turf. On a soaked day we change the turns, skip the low spots or move the visit." }
+  ],
+  "reviews": ["rick-b", "stacy"]
+}

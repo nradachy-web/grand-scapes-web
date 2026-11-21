@@ -172,7 +172,7 @@ const schema = [
             c.logistics.facts.map((f) => (
               <div>
                 <dt class="fine">{f.label}</dt>
-                <dd>{f.value}</dd>
+                <dd set:html={rich(f.value)} />
               </div>
             ))
           }

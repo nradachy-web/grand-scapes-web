@@ -1,0 +1,48 @@
+{
+  "service": "landscaping",
+  "city": "burton",
+  "meta": {
+    "title": "Landscaping in Burton, MI | Grand Scapes",
+    "description": "Grand Scapes rebuilds tired Burton, MI landscapes: old shrubs and borders out, beds reshaped on slow draining ground, new plants, fabric and mulch in."
+  },
+  "hero": {
+    "kicker": "Landscaping in Burton, MI",
+    "title": "Sixty years of growth, **started over.**",
+    "lede": "Grand Scapes tears out and rebuilds Burton landscapes that have outgrown the house: old shrubs and brick borders out, beds reshaped, new plants, fabric and mulch in, edges cut clean. Rob comes out first and tells you straight what is worth keeping.",
+    "chips": ["Old shrubs out", "Beds reshaped", "Block or natural edge", "Free estimate"],
+    "photo": "kubota-trailer"
+  },
+  "local": {
+    "eyebrow": "Landscapes in Burton",
+    "title": "Beds that **outgrew the house.**",
+    "intro": "A typical Burton home went up around 1964, and many of the shrubs in front of it went in soon after. Plants chosen to dress a brand new ranch can swallow the windows by now, and old brick or timber borders have heaved and sunk. A rebuild starts with deciding what deserves to stay.",
+    "points": [
+      { "title": "Old roots, close to the house", "body": "Shrubs that sat against a foundation for decades leave big root balls. We dig them out with a compact track loader where there is room and by hand where there is not, and the bed gets fresh soil before anything new goes in." },
+      { "title": "Water has to leave", "body": "The USDA soil survey maps most of Burton as Conover loam, which drains somewhat poorly. A rebuilt bed should pitch away from the house, with plants that hate wet feet on the high side. If a whole corner stays wet, ask Rob about [grading](/grading-and-new-lawns/)." },
+      { "title": "Fill near the Flint line", "body": "On the west side much of the ground is mapped as urban land, cut and filled when the neighborhoods went in. What sits under a bed there can be anyone's guess, so we check the soil before choosing plants." },
+      { "title": "Salt on the street side", "body": "MSU Extension lists yews, roses, rhododendrons and white pines among the plants hurt by salt that builds up beside walks and drives. A bed along a Burton sidewalk or driveway does better with tougher plants up front." }
+    ]
+  },
+  "logistics": {
+    "title": "How a Burton landscape job runs.",
+    "body": [
+      "Rob meets you at the house, walks the beds and tells you what he would pull, what he would keep and what the yard needs. You get a price before any work starts, and nothing extra happens without your okay.",
+      "Demolition comes first: old shrubs, roots, borders and tired rock or mulch come out and leave in our dump trailer. Then the beds get shaped, fabric goes down, new plants go in, and the edge is finished in gray block or a clean cut natural edge, with black, brown or red mulch on top.",
+      "How long it takes depends on the size of the yard and the weather, and Rob lays out the plan before the first shovel. To keep the new beds sharp afterward, [landscape maintenance](/landscape-maintenance/) and [mulch work in Burton](/mulch-installation-burton-mi/) pick up from there."
+    ],
+    "facts": [
+      { "label": "First step", "value": "Rob walks the yard with you" },
+      { "label": "Old plantings", "value": "Dug out and hauled away" },
+      { "label": "Edges", "value": "Gray block or natural edge" },
+      { "label": "Estimate", "value": "Free" }
+    ]
+  },
+  "photo": "block-bed-front",
+  "faq": [
+    { "q": "Do you do landscaping in Burton, MI?", "a": "Yes. Grand Scapes rebuilds landscapes in Burton: old shrubs and small trees out, beds reshaped, new plants, fabric and mulch in, and new block or natural edges. Rob comes out first, suggests what to do and gives you a free estimate." },
+    { "q": "Can you take out the overgrown bushes in front of my house?", "a": "Yes. We dig out old bushes, roots and all, and small trees like an old cherry, then haul everything away. Big tree removal is not something we do. See [bush removal](/bush-removal/) for how that part goes." },
+    { "q": "What should I plant next to a salted driveway?", "a": "Something tough. MSU Extension says salt damages plants through spray and through buildup in the soil next to walks and drives, and it names yews, roses, rhododendrons and white pines as sensitive. Rob can suggest hardier choices for the street side of the bed." },
+    { "q": "Why does water sit in my flower beds?", "a": "Much of Burton is Conover loam, which the USDA soil survey rates somewhat poorly drained, and the low spots are wetter still. A bed that slopes toward the house or sits below the lawn will hold water. Regrading the bed away from the foundation is where we start." }
+  ],
+  "reviews": ["jason-p", "kandice-w", "bob-s"]
+}

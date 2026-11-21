@@ -8,7 +8,12 @@
     "kicker": "Shrub and hedge trimming in Grand Blanc, MI",
     "title": "Hedges back **in line.**",
     "lede": "Grand Scapes trims shrubs and hedges back to clean shapes, cuts out the dead wood, then rakes the clippings out of the beds and hauls them away. Rob looks at what you have, tells you what each shrub needs and when, and quotes it free.",
-    "chips": ["Shrubs and hedges shaped", "Dead wood cut out", "Clippings hauled away", "Free estimate"],
+    "chips": [
+      "Shrubs and hedges shaped",
+      "Dead wood cut out",
+      "Clippings hauled away",
+      "Free estimate"
+    ],
     "photo": "gazebo-hedges"
   },
   "blocks": [
@@ -35,14 +40,53 @@
       "eyebrow": "When to trim",
       "title": "Trim to the plant, **not the calendar.**",
       "intro": "Timing from MSU Extension. Trimming a spring bloomer in early spring does not hurt the plant, MSU says, but it costs you that season's flowers.",
-      "columns": ["When to trim", "Why"],
+      "columns": [
+        "When to trim",
+        "Why"
+      ],
       "rows": [
-        { "label": "Lilac, forsythia, weigela", "values": ["Right after they finish flowering", "They set next spring's flower buds the summer before"] },
-        { "label": "Spring spirea, viburnum", "values": ["Right after they finish flowering", "An early spring cut takes off most of the buds"] },
-        { "label": "Rose of Sharon, Annabelle hydrangea","values": ["Late winter or early spring", "They flower on this year's new growth"] },
-        { "label": "Privet, alpine currant", "values": ["Late winter or early spring", "Grown for their leaves, not their flowers"] },
-        { "label": "Yews", "values": ["Hand trim the leggy shoots in June", "They take a hard cut, but fill in slowly from old wood"] },
-        { "label": "Junipers", "values": ["Thin by hand, skip the shears", "No new growth comes from bare inner branches"] }
+        {
+          "label": "Lilac, forsythia, weigela",
+          "values": [
+            "Right after they finish flowering",
+            "They set next spring's flower buds the summer before"
+          ]
+        },
+        {
+          "label": "Spring spirea, viburnum",
+          "values": [
+            "Right after they finish flowering",
+            "An early spring cut takes off most of the buds"
+          ]
+        },
+        {
+          "label": "Rose of Sharon, Annabelle hydrangea",
+          "values": [
+            "Late winter or early spring",
+            "They flower on this year's new growth"
+          ]
+        },
+        {
+          "label": "Privet, alpine currant",
+          "values": [
+            "Late winter or early spring",
+            "Grown for their leaves, not their flowers"
+          ]
+        },
+        {
+          "label": "Yews",
+          "values": [
+            "Hand trim the leggy shoots in June",
+            "They take a hard cut, but fill in slowly from old wood"
+          ]
+        },
+        {
+          "label": "Junipers",
+          "values": [
+            "Thin by hand, skip the shears",
+            "No new growth comes from bare inner branches"
+          ]
+        }
       ]
     },
     {
@@ -85,7 +129,11 @@
       "plane": "ink",
       "eyebrow": "On Google",
       "title": "Bed and shrub work, **in their words.**",
-      "ids": ["bob-s", "james-a"]
+      "ids": [
+        "reckless-cards",
+        "bob-s",
+        "james-a"
+      ]
     },
     {
       "type": "intro",
@@ -96,7 +144,10 @@
         "Our shop is on Embury Road in Grand Blanc, and Grand Blanc and Grand Blanc Township are home turf for trimming. We also trim shrubs across Genesee County and north Oakland County, with pages for [Fenton](/shrub-trimming-fenton-mi/), [Davison](/shrub-trimming-davison-mi/), [Burton](/shrub-trimming-burton-mi/), [Flint Township](/shrub-trimming-flint-township-mi/) and [Clarkston](/shrub-trimming-clarkston-mi/).",
         "Want the trimming handled through the season without having to ask? It is part of [landscape maintenance](/landscape-maintenance/), along with weeding, edging and mulch touch ups."
       ],
-      "cta": { "label": "Get a free estimate", "href": "/get-an-estimate/" }
+      "cta": {
+        "label": "Get a free estimate",
+        "href": "/get-an-estimate/"
+      }
     }
   ],
   "faq": [
@@ -141,10 +192,22 @@
     "title": "Shrub trimming, cleaned up after.",
     "intro": "We shape shrubs and hedges back to clean lines, cut out dead wood and leave the beds clean underneath. Rob quotes it after he sees what you have, and the estimate is free.",
     "items": [
-      { "name": "Shaping", "detail": "Shrubs and hedges trimmed back to a clean outline, wider at the base." },
-      { "name": "Dead wood", "detail": "Dead and broken branches cut out." },
-      { "name": "Timing", "detail": "Spring bloomers after they flower, most others in late winter or early spring." },
-      { "name": "Cleanup", "detail": "Clippings raked out of the beds and hauled away." }
+      {
+        "name": "Shaping",
+        "detail": "Shrubs and hedges trimmed back to a clean outline, wider at the base."
+      },
+      {
+        "name": "Dead wood",
+        "detail": "Dead and broken branches cut out."
+      },
+      {
+        "name": "Timing",
+        "detail": "Spring bloomers after they flower, most others in late winter or early spring."
+      },
+      {
+        "name": "Cleanup",
+        "detail": "Clippings raked out of the beds and hauled away."
+      }
     ],
     "footnote": "Tall trees and big limbs are not our work. Shrubs that have outgrown their spot can [come out instead](/bush-removal/)."
   }

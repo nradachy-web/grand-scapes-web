@@ -22,13 +22,13 @@ const tags = ['Professionalism', 'Punctuality', 'Quality', 'Responsiveness', 'Va
 ---
 
 <Base
-  title="Grand Scapes Reviews: 4.9 Stars on Google, Grand Blanc"
+  title="Grand Scapes Reviews: 4.9 Stars From 106 Google Reviews"
   description="Read what customers say about Grand Scapes in Grand Blanc: meticulous lawns, on time each week, quick to respond and careful with the property."
   path={path}
   preload={{ ...head.preload, media: '(min-width: 60rem)' }}
   schema={[breadcrumbs([{ name: 'Home', path: '/' }, { name: 'Reviews', path }])]}
 >
-  <PageHead image={head} eyebrow="Reviews" title={`${RATING.value} stars **on Google.**`} lede="Four of them, word for word, typos and all. The rest are on Google." crumbs={[{ name: 'Reviews', path }]}>
+  <PageHead image={head} eyebrow="Reviews" title={`${RATING.value} stars, **${RATING.countLabel} reviews.**`} lede={`${RATING.countLabel} reviews on Google. Nine of them are here, word for word, typos and all.`} crumbs={[{ name: 'Reviews', path }]}>
     <a class="rating" href={LINKS.google} target="_blank" rel="noopener"><Stars /><span>Read them all on Google</span></a>
   </PageHead>
 
@@ -47,7 +47,7 @@ const tags = ['Professionalism', 'Punctuality', 'Quality', 'Responsiveness', 'Va
 
   <section class="band white" aria-labelledby="topics-h">
     <div class="wrap">
-      <Head id="topics-h" eyebrow="What they liked" title="The same five words, **review after review.**" intro="Google lets a reviewer tick what they liked. On three of the four reviews below, they ticked all five." />
+      <Head id="topics-h" eyebrow="What they liked" title="The same five words, **review after review.**" intro="Google lets a reviewer tick what they liked. On the three older reviews his first website showed, they ticked all five." />
       <ul class="chips">{tags.map((t) => <li><span class="chip">{t}</span></li>)}</ul>
     </div>
   </section>

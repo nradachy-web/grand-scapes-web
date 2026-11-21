@@ -67,7 +67,7 @@ const ALL: Service[] = [
   { id: 'fall-cleanup', name: 'Fall cleanup and leaf removal', short: 'Leaf removal', noun: 'fall cleanup', path: '/fall-cleanup-and-leaf-removal/', townSlug: 'leaf-removal', townName: 'Fall cleanup and leaf removal', group: 'seasons', photo: 'leaf-vac', band: 'leaf-windrow', pick: true,
     teaser: 'Leaves vacuumed into our trailer and hauled away, beds cut back and the lawn left clean.' },
   { id: 'snow-removal', name: 'Snow removal and plowing', short: 'Snow plowing', noun: 'snow removal', path: '/snow-removal/', townSlug: 'snow-removal', townName: 'Snow removal', group: 'snow', photo: 'plow-deep', band: 'plow-fleet', pick: true,
-    teaser: 'Driveways plowed by our own trucks through the winter, on a seasonal plan or per push.' },
+    teaser: 'Driveways plowed by our own trucks all winter, with walks and ice melt added if you want them.' },
   { id: 'salting', name: 'Salting and sidewalks', short: 'Salting', noun: 'salting and sidewalk clearing', path: '/salting-and-sidewalks/', townSlug: 'salting', townName: 'Salting and ice control', group: 'snow', photo: 'salt-spreader', band: 'walk-cleared',
     teaser: 'Walks and steps cleared, and salt down where people walk and cars stop.' },
   { id: 'commercial', name: 'Commercial grounds and snow', short: 'Commercial', noun: 'commercial grounds and snow work', path: '/commercial/', townSlug: 'commercial-snow-removal', townName: 'Commercial snow removal', group: 'snow', photo: 'commercial-lot', band: 'plow-fleet-2', pick: true,

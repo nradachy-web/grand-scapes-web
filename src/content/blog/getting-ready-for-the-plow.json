@@ -1,0 +1,99 @@
+{
+  "service": "snow-removal",
+  "published": "2026-11-21",
+  "meta": {
+    "title": "Getting your driveway ready for the plow | Grand Scapes",
+    "description": "Stakes, mailboxes, cars and where the snow goes: getting a Genesee County driveway ready for the plow, and what Michigan law says about snow in the road."
+  },
+  "title": "Getting ready for **the plow.**",
+  "lede": "A plow driver works fast, often in the dark, on a driveway buried under snow. A few things done in the fall make that job easier and spare your lawn, your beds and your mailbox: stakes along the edges, a sturdy mailbox, cars and bins out of the way, and a plan for where the snow goes.",
+  "photo": "plow-drive",
+  "short": [
+    "Put driveway stakes in before the ground freezes, along both edges and at any corner the plow should miss.",
+    "Check the mailbox now. The road commission asks owners to inspect mailboxes and posts before each winter.",
+    "Move cars, bins and hoses out of the plow's path before a storm.",
+    "Michigan law, MCL 257.677a, says snow, ice or slush cannot be deposited on a roadway or highway.",
+    "Expect the street plow to fill the end of the drive. Grand Blanc Township says to wait until it has finished before you shovel."
+  ],
+  "sections": [
+    {
+      "h": "Driveway stakes: what, where and when",
+      "p": [
+        "Stakes are thin, tall markers that stand up above the snow and show the driver where the pavement ends. Without them, a drive under a foot of snow looks a lot like the lawn next to it, and a plow blade can catch turf, a bed edge or a sprinkler head."
+      ],
+      "list": [
+        "**Both sides of the drive**, spaced along the straight runs and closer together on curves.",
+        "**Corners and flares**, where the drive widens at the garage or meets the street.",
+        "**Anything low you care about**: a bed edge, a low wall, a lamp post, sprinkler heads near the pavement.",
+        "**Before the ground freezes.** Once the soil is frozen hard, stakes are tough to push in."
+      ],
+      "after": [
+        "If we plow your drive, Rob goes over stake placement when he walks the property."
+      ]
+    },
+    {
+      "h": "The mailbox",
+      "p": [
+        "A mailbox at the road takes a beating in winter, and usually not from your driveway plow. The Genesee County Road Commission says that during heavy snow, mailboxes can be damaged by road scraping and plowing. It encourages owners to inspect mailboxes and posts before each winter and replace deteriorated ones. It does reimburse a set amount, with a receipt, for a mailbox its own vehicles damage.",
+        "In Grand Blanc Township, which plows its own residential streets, the township asks that mailboxes not hang over the road and says damage is inevitable when one is installed too close. Report a hit mailbox to the township, which has a mailbox replacement policy.",
+        "One more from the road commission: it lists mailboxes on large brick, concrete or steel posts among the hazards in the public right of way, and says a permit is required to install anything in the right of way. A sturdy post is good. A brick fortress is not."
+      ]
+    },
+    {
+      "h": "Cars, bins and the night before",
+      "list": [
+        "**Cars in the garage or tight to one side.** A plow cannot clear under a parked car, so it has to work around it. Tell Rob where the cars usually sit.",
+        "**Bins in the drive, not the road.** Grand Blanc Township asks residents to leave garbage cans in the driveway, a couple of feet back from the road, on plow days.",
+        "**Nothing parked on the street.** The township asks people not to park in the road during snow, and warns that its plows will leave snow around a parked car and will not come back after it moves.",
+        "**Hoses, toys, extension cords and door mats.** Anything left on the drive disappears under the snow and turns up under a blade.",
+        "**A clear path for the truck.** Low branches over the drive and a basketball hoop at the edge are easier to deal with in the fall than in a storm."
+      ]
+    },
+    {
+      "h": "Where the snow goes, and where it cannot",
+      "p": [
+        "Michigan's vehicle code is plain about this. MCL 257.677a says a person shall not deposit, or cause to be deposited, snow, ice or slush on any roadway or highway. It also bars removing or depositing snow onto or across a roadway or its shoulder in a way that blocks a driver's view, which the law calls safety vision. A violation is a civil infraction with a fine.",
+        "So the snow from your drive stays on your property. Piles go where they will not block your view of the street when you back out, which matters most at the end of the drive and near the corner of a lot.",
+        "Grand Blanc Township's snow page asks residents not to shovel snow back into the road and says it is against the law. That includes the ridge at the end of the drive."
+      ]
+    },
+    {
+      "h": "That ridge at the end of the driveway",
+      "p": [
+        "Every Michigan homeowner knows this one. The street plow comes by after the drive is clear and leaves a heavy ridge across the end of it. Grand Blanc Township apologizes for it in writing, explains there is nowhere else to put the snow, and notes that it may come back days after a storm to widen the roads. Its advice is to wait for the plow truck to finish before you start shoveling.",
+        "Street plowing runs by priority, so that ridge can show up hours after the storm. The Genesee County Road Commission plows expressways first, then main streets, then local roads, with subdivision streets last, and says it cannot give a specific time for any one street. Ask Rob how the end of the drive is handled on your plan."
+      ]
+    },
+    {
+      "h": "A fall checklist for the drive",
+      "table": {
+        "head": ["Job", "When", "Why"],
+        "rows": [
+          ["Stakes along the drive", "Before the ground freezes", "So the edges show under snow"],
+          ["Shake the mailbox", "Before winter", "The road commission asks owners to check it"],
+          ["Clear hoses, mats and toys", "Before the first snow", "They hide under snow and catch the blade"],
+          ["Pick a spot for the cars", "Before the first storm", "So the plow can clear around them"],
+          ["Bins in the drive", "Any plow day", "Grand Blanc Township asks for it"],
+          ["Line up your plowing", "Fall", "Easier before the first storm than during it"]
+        ],
+        "note": "The road commission's FAQ really does have a heading called Shake Your Mailbox. If it wobbles in November, it will not make it to March."
+      }
+    },
+    {
+      "h": "How much snow to plan for",
+      "p": [
+        "Plenty. The closest official long record to Grand Blanc is at Flint's Bishop Airport, where the National Weather Service normal is 52.1 inches of snow a season, based on 1991 to 2020. January brings the most, 15.1 inches on average, then February with 13.0 and December with 11.4.",
+        "Our [snow removal](/snow-removal/) plows driveways with our own trucks, and we can add [walks and salting](/salting-and-sidewalks/). Call or text Rob at [(810) 990-3040](tel:+18109903040) to set up a walk around."
+      ]
+    },
+    {
+      "h": "Sources",
+      "list": [
+        "Michigan Legislature, MCL 257.677a, Obstruction of safety vision by removal or deposit of snow, ice, or slush prohibited",
+        "Genesee County Road Commission, frequently asked questions (plowing priority, mailboxes, right of way)",
+        "Grand Blanc Township Department of Public Works, Snow Removal",
+        "National Weather Service Detroit/Pontiac, 1991 to 2020 climate normals for Flint"
+      ]
+    }
+  ]
+}

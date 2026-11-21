@@ -1,0 +1,47 @@
+{
+  "service": "fall-cleanup",
+  "city": "ortonville",
+  "meta": {
+    "title": "Leaf removal in Ortonville, MI | Grand Scapes",
+    "description": "Fall cleanup and leaf removal in Ortonville and Brandon Township: leaves vacuumed into our trailer and hauled away, beds cut back, wooded lots cleared."
+  },
+  "hero": {
+    "kicker": "Fall cleanup and leaf removal in Ortonville, MI",
+    "title": "Woods drop leaves. **We haul them.**",
+    "lede": "Grand Scapes clears fall leaves in Ortonville and Brandon Township: blown off the lawn and out of the beds and tree lines, vacuumed into our trailer and hauled away, with the beds cut back and the lawn left clean.",
+    "chips": ["Leaves vacuumed and hauled", "Wooded lots", "Beds cut back"],
+    "photo": "leaves-before"
+  },
+  "local": {
+    "eyebrow": "Leaves in Ortonville",
+    "title": "Plenty of trees, **plenty of leaves.**",
+    "intro": "Brandon Township counts more than 2,300 acres of tree rows and woodland, plus forested wetland, and a lot of homes back right up to them. That means heavy leaf drops spread over several weeks, not all at once. Around Ortonville, a fall cleanup is often more than one pass.",
+    "points": [
+      { "title": "Burn by permit, or haul", "body": "Brandon Township allows burning dry leaves with a yearly permit from the Brandon Fire Department. Lots under 3 acres burn only on calendar days, fires stay 50 feet from buildings and out of the road right of way, and wet leaves are off the list. A trailer is less work." },
+      { "title": "Keep leaves out of the ditch", "body": "Most of the township drains to Kearsley Creek, a trout stream the master plan says suffers mainly from sediment carried in by roadside ditches and runoff. Leaves blown to the road edge end up there, so we take them away instead." },
+      { "title": "Do not smother the lawn", "body": "MSU Extension says a light layer of leaves can be mowed into the turf, but more than 3 to 4 inches is too much. Along a wooded edge that depth arrives fast, and grass left under a wet mat all winter can come up thin in spring." },
+      { "title": "Tree lines and slopes", "body": "Leaves pile up along tree lines, fences and the bottoms of slopes. We blow them out into rows, work them to the vacuum and leave a clean edge where the lawn meets the woods." }
+    ]
+  },
+  "logistics": {
+    "title": "How fall cleanup works around Ortonville.",
+    "body": [
+      "Rob looks at the trees and the size of the lot and suggests how many visits make sense. A typical visit: leaves blown out of the beds and off the lawn into rows, vacuumed into the trailer, beds cut back, and the drive and walks blown clean.",
+      "Big properties may get a mid fall visit and a final one after the last leaves drop. The last [mowing visits](/lawn-mowing-ortonville-mi/) can chop up what is left, and in spring a [cleanup](/spring-cleanup/) takes care of anything that blew in over the winter."
+    ],
+    "facts": [
+      { "label": "Burning", "value": "Permit from the Brandon Fire Department" },
+      { "label": "Wet leaves", "value": "Not on the burn list" },
+      { "label": "Where the leaves go", "value": "Our trailer, hauled away" },
+      { "label": "Estimate", "value": "Free, after Rob sees the trees" }
+    ]
+  },
+  "photo": "leaf-trailer",
+  "faq": [
+    { "q": "Do you do leaf removal in Ortonville?", "a": "Yes. Grand Scapes does fall cleanup and leaf removal in Ortonville and Brandon Township. Leaves come out of the beds, the tree lines and the lawn, go into our trailer by vacuum and leave with us, and the beds are cut back for winter. Rob gives you a free estimate first." },
+    { "q": "Do I need a permit to burn leaves in Brandon Township?", "a": "Yes. Open burning there is by permit only, issued by the Brandon Fire Department and renewed every January 1, and residential permits can be applied for online. Dry leaves, brush and cut dry grass are allowed; wet leaves are not." },
+    { "q": "How many leaf cleanups does a wooded lot need?", "a": "Often more than one. Leaves come down over several weeks, and MSU Extension says more than 3 to 4 inches sitting on the grass is too much. On a wooded Ortonville lot, a visit partway through keeps the lawn from being smothered before the final one." },
+    { "q": "Can leaves go in the road ditch?", "a": "They should not. Ditches along township roads feed creeks like Kearsley Creek, and the master plan lists roadside ditches among the sources of that creek's sediment problem. Leaves belong on the lawn as a light mulch, in a compost pile or in our trailer." }
+  ],
+  "reviews": ["rick-b", "stacy"]
+}

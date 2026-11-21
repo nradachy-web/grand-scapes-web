@@ -8,7 +8,12 @@
     "kicker": "Lawn care, landscaping and snow removal in Flint, MI",
     "title": "City yards, **kept sharp** all year.",
     "lede": "Grand Scapes mows and edges Flint lawns, rebuilds tired beds, hauls the fall leaves away and plows drives and walks in winter. Rob comes out, looks at the property with you and quotes a price, and the crew does what he said.",
-    "chips": ["Mowing, edging, beds", "Leaves hauled off", "Drives and walks plowed", "Free estimate"],
+    "chips": [
+      "Mowing, edging, beds",
+      "Leaves hauled off",
+      "Drives and walks plowed",
+      "Free estimate"
+    ],
     "photo": "trailer-2023"
   },
   "about": {
@@ -20,10 +25,22 @@
       "The city runs a good part of the season too. Priority Waste picks up bagged yard waste from April into late November, Street Maintenance sweeps the leaves that land on the street, and in winter the city plows major routes before local streets. Our work fits around all of that instead of tripping over it."
     ],
     "points": [
-      { "title": "The sidewalk out front is yours", "body": "Per city ordinance, sidewalk upkeep falls to the homeowner, and the city has said the same about clearing snow off the walk. Most lots here have a public walk and a curb, so we edge both in summer and can clear the walk along with the drive in winter." },
-      { "title": "Leaves stay out of the street", "body": "The city says yard leaves must be bagged for pickup, and raking or blowing them into the street can bring a citation because they clog storm drains. Our leaf vacuum pulls them straight into the trailer, so nothing sits waiting." },
-      { "title": "Neighborhood streets are plowed last", "body": "The city's snow plan clears major routes, then hills, curves, schools and hospitals, then other major roads, and local streets last. After a big storm the street plow can come through long after your driveway is done." },
-      { "title": "Street trees are the city's call", "body": "Dead or hazardous trees in the public right of way go to the city's Street Maintenance Division, and digging in the right of way needs a permit. We keep our work on your side of the walk unless the city has said yes." }
+      {
+        "title": "The sidewalk out front is yours",
+        "body": "Per city ordinance, sidewalk upkeep falls to the homeowner, and the city has said the same about clearing snow off the walk. Most lots here have a public walk and a curb, so we edge both in summer and can clear the walk along with the drive in winter."
+      },
+      {
+        "title": "Leaves stay out of the street",
+        "body": "The city says yard leaves must be bagged for pickup, and raking or blowing them into the street can bring a citation because they clog storm drains. Our leaf vacuum pulls them straight into the trailer, so nothing sits waiting."
+      },
+      {
+        "title": "Neighborhood streets are plowed last",
+        "body": "The city's snow plan clears major routes, then hills, curves, schools and hospitals, then other major roads, and local streets last. After a big storm the street plow can come through long after your driveway is done."
+      },
+      {
+        "title": "Street trees are the city's call",
+        "body": "Dead or hazardous trees in the public right of way go to the city's Street Maintenance Division, and digging in the right of way needs a permit. We keep our work on your side of the walk unless the city has said yes."
+      }
     ],
     "photo": "neighborhood-stripes"
   },
@@ -35,19 +52,55 @@
       "Whatever we cut, rake or dig goes home in our trailer. Your Priority Waste bags and your weekly bag limit stay yours."
     ],
     "facts": [
-      { "label": "Estimate", "value": "Free, Rob comes out" },
-      { "label": "City yard waste pickup", "value": "April 1 to the week of November 30" },
-      { "label": "City street plowing", "value": "Major routes first, local streets last" },
-      { "label": "To talk now", "value": "Call or text (810) 990-3040" }
+      {
+        "label": "Estimate",
+        "value": "Free, Rob comes out"
+      },
+      {
+        "label": "City yard waste pickup",
+        "value": "April 1 to the week of November 30"
+      },
+      {
+        "label": "City street plowing",
+        "value": "Major routes first, local streets last"
+      },
+      {
+        "label": "To talk now",
+        "value": "Call or text (810) 990-3040"
+      }
     ]
   },
   "faq": [
-    { "q": "Do you do lawn care in Flint, MI?", "a": "Yes. Grand Scapes does [weekly lawn mowing](/lawn-mowing-flint-mi/), plus [landscaping](/landscaping-flint-mi/), [mulch and flower bed work](/mulch-installation-flint-mi/), [fall leaf cleanups](/leaf-removal-flint-mi/), [snow removal](/snow-removal-flint-mi/) and [commercial grounds and snow](/commercial-snow-removal-flint-mi/). We are based in Grand Blanc, licensed and insured, and estimates are free." },
-    { "q": "Who has to clear the sidewalk in front of a house in Flint?", "a": "The property owner. The city has said that clearing sidewalks is required by ordinance, and it asks people not to push that snow into the street. The ordinance sets the details, so check with the city for the current rule. We can clear the walk along with the driveway." },
-    { "q": "Can I leave loose leaves at the curb in Flint?", "a": "No, they need to be bagged. The city's 2026 leaf notice says yard leaves go to the curb in bags on your waste day, and raking or blowing them into the street can bring a citation. A [fall cleanup](/leaf-removal-flint-mi/) skips the bags: we vacuum the leaves into our trailer and haul them away." },
-    { "q": "When does the city plow residential streets in Flint?", "a": "After the main roads. The city's snow plan puts major routes first, then dangerous hills, curves, schools and hospitals, then other major roads, and local streets last. After a heavy storm it can take a few days to finish every route, and the city asks people to keep cars off the street during snow emergencies." },
-    { "q": "Can you mow a rental house I own in Flint?", "a": "Yes. Nearly half the homes in the city are rented, by Census figures, and weekly mowing works the same whether you live there or not: mowed, trimmed, edged and blown off on a set day. Rob quotes it after a look, and you deal with him directly." }
+    {
+      "q": "Do you do lawn care in Flint, MI?",
+      "a": "Yes. Grand Scapes does [weekly lawn mowing](/lawn-mowing-flint-mi/), plus [landscaping](/landscaping-flint-mi/), [mulch and flower bed work](/mulch-installation-flint-mi/), [fall leaf cleanups](/leaf-removal-flint-mi/), [snow removal](/snow-removal-flint-mi/) and [commercial grounds and snow](/commercial-snow-removal-flint-mi/). We are based in Grand Blanc, licensed and insured, and estimates are free."
+    },
+    {
+      "q": "Who has to clear the sidewalk in front of a house in Flint?",
+      "a": "The property owner. The city has said that clearing sidewalks is required by ordinance, and it asks people not to push that snow into the street. The ordinance sets the details, so check with the city for the current rule. We can clear the walk along with the driveway."
+    },
+    {
+      "q": "Can I leave loose leaves at the curb in Flint?",
+      "a": "No, they need to be bagged. The city's 2026 leaf notice says yard leaves go to the curb in bags on your waste day, and raking or blowing them into the street can bring a citation. A [fall cleanup](/leaf-removal-flint-mi/) skips the bags: we vacuum the leaves into our trailer and haul them away."
+    },
+    {
+      "q": "When does the city plow residential streets in Flint?",
+      "a": "After the main roads. The city's snow plan puts major routes first, then dangerous hills, curves, schools and hospitals, then other major roads, and local streets last. After a heavy storm it can take a few days to finish every route, and the city asks people to keep cars off the street during snow emergencies."
+    },
+    {
+      "q": "Can you mow a rental house I own in Flint?",
+      "a": "Yes. Nearly half the homes in the city are rented, by Census figures, and weekly mowing works the same for an owner who lives across town: mowed, trimmed, edged and blown off on a set day. Rob quotes it after a look, and you deal with him directly."
+    }
   ],
-  "reviews": ["rick-b", "bob-s", "stacy"],
-  "neighbors": ["flint-township", "burton", "mundy-township", "grand-blanc"]
+  "reviews": [
+    "kandice-w",
+    "stacy",
+    "jason-p"
+  ],
+  "neighbors": [
+    "flint-township",
+    "burton",
+    "mundy-township",
+    "grand-blanc"
+  ]
 }

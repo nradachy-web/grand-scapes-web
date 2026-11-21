@@ -8,7 +8,12 @@
     "kicker": "Commercial snow removal and grounds care in Grand Blanc, MI",
     "title": "One call for **the lot and the lawn.**",
     "lede": "Grand Scapes plows and salts parking lots, drives and walks for businesses, HOAs, churches, offices and apartment and senior communities, then mows and keeps the same grounds when the snow is gone. Rob walks the property with you and quotes the parts you need.",
-    "chips": ["Lots plowed and salted", "Walks cleared", "Grounds mowed and kept", "Licensed and insured"],
+    "chips": [
+      "Lots plowed and salted",
+      "Walks cleared",
+      "Grounds mowed and kept",
+      "Licensed and insured"
+    ],
     "photo": "commercial-lot"
   },
   "blocks": [
@@ -30,7 +35,10 @@
         "Licensed and insured"
       ],
       "photo": "plow-fleet",
-      "cta": { "label": "Set up a walk around", "href": "/get-an-estimate/" }
+      "cta": {
+        "label": "Set up a walk around",
+        "href": "/get-an-estimate/"
+      }
     },
     {
       "type": "cards",
@@ -39,10 +47,22 @@
       "title": "Built around **the property you manage.**",
       "columns": 2,
       "items": [
-        { "title": "Businesses and offices", "body": "The lot, the entrance and the walk to the door are what customers and staff see first. Those get plowed and treated in winter, and the lawn out front gets mowed and edged in summer." },
-        { "title": "HOAs", "body": "Entrances, common areas and shared walks can be plowed in winter and mowed in summer on one plan. The board or the manager gets one contact for both seasons." },
-        { "title": "Churches", "body": "Lots, walks and steps need to be clear on the days people come. Tell Rob your service and event schedule when he walks the property, and he will talk through how that is handled." },
-        { "title": "Apartment and senior communities", "body": "Walks, steps and drop off areas matter most where residents walk with care. Rob looks at every entrance and talks through how the walks and the ice are handled." }
+        {
+          "title": "Businesses and offices",
+          "body": "The lot, the entrance and the walk to the door are what customers and staff see first. Those get plowed and treated in winter, and the lawn out front gets mowed and edged in summer."
+        },
+        {
+          "title": "HOAs",
+          "body": "Entrances, common areas and shared walks can be plowed in winter and mowed in summer on one plan. The board or the manager gets one contact for both seasons."
+        },
+        {
+          "title": "Churches",
+          "body": "Lots, walks and steps need to be clear on the days people come. Tell Rob your service and event schedule when he walks the property, and he will talk through how that is handled."
+        },
+        {
+          "title": "Apartment and senior communities",
+          "body": "Walks, steps and drop off areas matter most where residents walk with care. Rob looks at every entrance and talks through how the walks and the ice are handled."
+        }
       ]
     },
     {
@@ -51,10 +71,25 @@
       "eyebrow": "How we set it up",
       "title": "From the walk around to **the season.**",
       "steps": [
-        { "title": "Walk the property", "body": "Rob walks the lot with you or your board: entrances, parking rows, walks, steps, dumpster pads and the places snow can be piled." },
-        { "title": "Mark the edges", "body": "Curbs, islands and drive edges need marking before the ground freezes, so a plow can find them under snow. Rob goes over what needs a stake.", "note": "Before the freeze" },
-        { "title": "Snow season", "body": "Our trucks plow the lot and drives, walks and entrances are cleared, and ice melt goes down where people walk and cars stop.", "note": "Winter" },
-        { "title": "Grounds season", "body": "When the snow is gone, we do the [spring cleanup](/spring-cleanup/), then mow, trim, edge and blow off the grounds through the season, and take the leaves away in fall.", "note": "Spring to fall" }
+        {
+          "title": "Walk the property",
+          "body": "Rob walks the lot with you or your board: entrances, parking rows, walks, steps, dumpster pads and the places snow can be piled."
+        },
+        {
+          "title": "Mark the edges",
+          "body": "Curbs, islands and drive edges need marking before the ground freezes, so a plow can find them under snow. Rob goes over what needs a stake.",
+          "note": "Before the freeze"
+        },
+        {
+          "title": "Snow season",
+          "body": "Our trucks plow the lot and drives, walks and entrances are cleared, and ice melt goes down where people walk and cars stop.",
+          "note": "Winter"
+        },
+        {
+          "title": "Grounds season",
+          "body": "When the snow is gone, we do the [spring cleanup](/spring-cleanup/), then mow, trim, edge and blow off the grounds through the season, and take the leaves away in fall.",
+          "note": "Spring to fall"
+        }
       ],
       "footnote": "Rob explains how a commercial season is quoted when he walks the property. We do not publish prices or terms, because every lot is different."
     },
@@ -74,8 +109,11 @@
       "plane": "ink",
       "eyebrow": "On Google",
       "title": "What customers say about **the grounds side.**",
-      "intro": "These reviews are about lawn and landscape work. We do not have a snow review to show yet.",
-      "ids": ["rick-b", "stacy"]
+      "intro": "These reviews are about lawn and landscape work.",
+      "ids": [
+        "rick-b",
+        "stacy"
+      ]
     },
     {
       "type": "plan",
@@ -123,11 +161,26 @@
     "title": "What commercial grounds and snow include.",
     "intro": "Snow and ice handled through the winter and the grounds kept the rest of the year, by one company. Rob walks the property with you, explains the options and quotes the parts you need. The estimate is free.",
     "items": [
-      { "name": "Lots and drives", "detail": "Plowed by our own trucks, with the snow piled on the property and out of the road." },
-      { "name": "Walks and entrances", "detail": "Cleared and treated with ice melt where people walk and cars stop." },
-      { "name": "Grounds", "detail": "Mowed, trimmed, edged and blown off through the season." },
-      { "name": "Spring and fall", "detail": "Cleanups, leaves hauled off, and beds and shrubs kept up." },
-      { "name": "One contact", "detail": "Rob, by phone or text, for both seasons." }
+      {
+        "name": "Lots and drives",
+        "detail": "Plowed by our own trucks, with the snow piled on the property and out of the road."
+      },
+      {
+        "name": "Walks and entrances",
+        "detail": "Cleared and treated with ice melt where people walk and cars stop."
+      },
+      {
+        "name": "Grounds",
+        "detail": "Mowed, trimmed, edged and blown off through the season."
+      },
+      {
+        "name": "Spring and fall",
+        "detail": "Cleanups, leaves hauled off, and beds and shrubs kept up."
+      },
+      {
+        "name": "One contact",
+        "detail": "Rob, by phone or text, for both seasons."
+      }
     ],
     "footnote": "Licensed and insured. We do not publish prices or terms, because every lot is different."
   }

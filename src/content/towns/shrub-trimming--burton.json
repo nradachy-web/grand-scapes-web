@@ -1,0 +1,48 @@
+{
+  "service": "shrub-trimming",
+  "city": "burton",
+  "meta": {
+    "title": "Shrub and hedge trimming in Burton, MI | Grand Scapes",
+    "description": "Grand Scapes trims Burton, MI shrubs and hedges back to clean lines, at the right time for each plant, and hauls the clippings away. Overgrown bushes too."
+  },
+  "hero": {
+    "kicker": "Shrub and hedge trimming in Burton, MI",
+    "title": "Hedges back **in line.**",
+    "lede": "Grand Scapes shapes Burton shrubs and hedges back to clean lines, cut at the right time of year for each plant, with the clippings raked out and hauled away. Bushes that are past saving can come out instead.",
+    "chips": ["Shaped to clean lines", "Timed to the plant", "Clippings hauled", "Free estimate"],
+    "photo": "neighborhood-stripes"
+  },
+  "local": {
+    "eyebrow": "Shrubs in Burton",
+    "title": "Planted in the 60s, **trimmed this year.**",
+    "intro": "Burton's homes are mostly 1950s and 60s builds, and the foundation shrubs around many of them are nearly as old. Decades of shearing only the outside leave a hedge that is green on the surface and bare inside, and a shrub that was knee high when the house was new now covers the windows.",
+    "points": [
+      { "title": "Timing by the plant", "body": "MSU Extension says lilac, forsythia, spirea, weigela and viburnum bloom on buds set the summer before, so they get shaped right after they flower. Other shrubs follow a different calendar, and we sort that out on the walkthrough." },
+      { "title": "Thin it, do not just shear it", "body": "MSU Extension notes that taking out a few crowded stems each year opens the middle of a shrub to light and air and cuts down on mildew. On an old Burton hedge, a little thinning every year beats another hard shear." },
+      { "title": "Clear of the walk and the drive", "body": "Shrubs that crowd the sidewalk catch snow and make the city's 24 hour clearing rule harder to keep, and shrubs at the end of the drive block the view of the street. We keep both cut back." },
+      { "title": "When a bush is done", "body": "Some old shrubs are past trimming. We dig those out, roots and all, and the bed can start over with something sized for the spot. See [bush removal](/bush-removal/) for how that goes." }
+    ]
+  },
+  "logistics": {
+    "title": "How shrub trimming works in Burton.",
+    "body": [
+      "Rob walks the beds with you, names what is growing there and says when each one should be cut. Some yards need one visit a year and others two, depending on what is planted.",
+      "The crew shapes each shrub and hedge to a clean line with hand pruners and trimmers, thins crowded stems where it helps, rakes the clippings out of the beds and hauls them away. Walks and the drive get blown off before we leave.",
+      "Clippings go in our trailer, not at the curb, so your EMTERRA yard waste day stays yours. Trimming pairs well with a [spring cleanup](/spring-cleanup-burton-mi/) or a [fall cleanup](/leaf-removal-burton-mi/) visit."
+    ],
+    "facts": [
+      { "label": "Spring bloomers", "value": "Shaped right after bloom" },
+      { "label": "Dead wood", "value": "Out in early spring" },
+      { "label": "Clippings", "value": "Hauled off in our trailer" },
+      { "label": "Estimate", "value": "Free" }
+    ]
+  },
+  "photo": "rose-bed",
+  "faq": [
+    { "q": "Do you trim shrubs and hedges in Burton, MI?", "a": "Yes. Grand Scapes trims shrubs and hedges in Burton, shaping them back to clean lines at the right time for each plant and hauling the clippings away. Overgrown bushes can be dug out instead. Rob quotes it free." },
+    { "q": "When should I trim my hedges in Michigan?", "a": "It depends on the plant. MSU Extension says spring bloomers such as lilac, forsythia, spirea and weigela should be pruned right after they finish flowering, because they set next year's buds the summer before. Dead branches can come out in early spring on almost anything." },
+    { "q": "Can an overgrown shrub be cut back hard?", "a": "Some can and some cannot, and it depends on the plant. Rob will tell you which kind you have when he sees it. When a shrub is past saving, [bush removal](/bush-removal/) and a fresh planting is often the better call." },
+    { "q": "Do you take away the clippings?", "a": "Yes. Everything we cut gets raked out of the beds and hauled off in our trailer, so nothing waits at the curb for the city's yard waste pickup and the beds are left clean." }
+  ],
+  "reviews": ["reckless-cards", "bob-s"]
+}

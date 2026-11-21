@@ -67,6 +67,10 @@ Village of Holly and Holly Township, north Oakland County. All sources read 2026
 ## Keyword demand (from _source/research/keyword-demand.json, pulled 2026-11-21)
 - landscaping|Holly 20; lawn-mowing|Holly 10; snow-removal|Holly 10; everything else 0. Phrases: "landscaping holly mi", "lawn care holly mi", "snow removal holly mi".
 
+## Pages written from these notes (2026-11-21)
+- src/content/cities/holly.json; src/content/towns/{lawn-mowing,snow-removal,landscaping,fall-cleanup,flower-beds,spring-cleanup}--holly.json.
+
 ## Left out (unconfirmed)
 - The village sidewalk clearing deadline (code not readable).
+- Whether leaves may be burned in the outer township under a NOCFA permit (the township page only says all open burning needs a permit). Copy says only that a permit is needed.
 - Any HOA, subdivision or street name presented as a place we work.

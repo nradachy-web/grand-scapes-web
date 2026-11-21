@@ -8,7 +8,12 @@
     "kicker": "Mulch and flower bed makeovers in Grand Blanc, MI",
     "title": "Weeded, edged and **mulched fresh.**",
     "lede": "Grand Scapes pulls the weeds, cuts a clean edge, lays landscape fabric and finishes the bed in fresh mulch: black, brown or red. A fresh bed changes the whole front of a house, and Rob quotes it free after he has seen your beds.",
-    "chips": ["Weeds out", "Edges cut clean", "Fabric under mulch", "Black, brown or red"],
+    "chips": [
+      "Weeds out",
+      "Edges cut clean",
+      "Fabric under mulch",
+      "Black, brown or red"
+    ],
     "photo": "block-bed-corner"
   },
   "blocks": [
@@ -42,7 +47,10 @@
       "eyebrow": "Real jobs",
       "title": "Two beds, **before and after.**",
       "intro": "Drag the line across each photo. Both beds lost an old brick border for gray block and were finished in fresh black mulch.",
-      "pairs": ["ba-drive", "ba-front"],
+      "pairs": [
+        "ba-drive",
+        "ba-front"
+      ],
       "checks": [
         "Weedy, crowded beds cleared out",
         "Old brick borders replaced with block",
@@ -85,12 +93,39 @@
       "eyebrow": "Landscape fabric",
       "title": "Fabric under the mulch, **or not.**",
       "intro": "Bob S. called it black mesh. Landscape fabric is a sound way to hold weeds down in a shrub bed, and MSU Extension warns it can turn into a problem in perennial beds. Rob will tell you which way he would go for each bed.",
-      "columns": ["Fabric under mulch", "Mulch alone"],
+      "columns": [
+        "Fabric under mulch",
+        "Mulch alone"
+      ],
       "rows": [
-        { "label": "Weeds", "values": ["Holds most weeds down", "About 3 inches smothers many weed seeds"] },
-        { "label": "Suits", "values": ["Shrub beds that stay put", "Perennial beds that spread and change"] },
-        { "label": "Water", "values": ["Can slow water into the soil over the years", "Rain soaks in, as long as the mulch has not caked"] },
-        { "label": "Changing it later", "values": ["Roots grow into it, so it is hard to pull", "Easy to dig into and replant"] }
+        {
+          "label": "Weeds",
+          "values": [
+            "Holds most weeds down",
+            "About 3 inches smothers many weed seeds"
+          ]
+        },
+        {
+          "label": "Suits",
+          "values": [
+            "Shrub beds that stay put",
+            "Perennial beds that spread and change"
+          ]
+        },
+        {
+          "label": "Water",
+          "values": [
+            "Can slow water into the soil over the years",
+            "Rain soaks in, as long as the mulch has not caked"
+          ]
+        },
+        {
+          "label": "Changing it later",
+          "values": [
+            "Roots grow into it, so it is hard to pull",
+            "Easy to dig into and replant"
+          ]
+        }
       ]
     },
     {
@@ -123,7 +158,11 @@
       "plane": "ink",
       "eyebrow": "On Google",
       "title": "Black mesh, new mulch, **in their words.**",
-      "ids": ["bob-s", "james-a"]
+      "ids": [
+        "reckless-cards",
+        "mark-v",
+        "kandice-w"
+      ]
     }
   ],
   "faq": [
@@ -168,10 +207,22 @@
     "title": "A bed makeover, done properly.",
     "intro": "A mulch and flower bed makeover keeps the bed you have and does it over: weeds out, edge cut, fabric down, fresh mulch on top. Rob quotes it after he sees the beds, and the estimate is free.",
     "items": [
-      { "name": "Weeding", "detail": "Weeds, dead plants and old debris pulled out of the bed." },
-      { "name": "Edging", "detail": "A clean edge cut between the bed and the lawn, so the chips stay put." },
-      { "name": "Fabric", "detail": "Landscape fabric laid under the mulch where it suits the bed." },
-      { "name": "Mulch", "detail": "Fresh mulch in black, brown or red, kept back from trunks and stems." }
+      {
+        "name": "Weeding",
+        "detail": "Weeds, dead plants and old debris pulled out of the bed."
+      },
+      {
+        "name": "Edging",
+        "detail": "A clean edge cut between the bed and the lawn, so the chips stay put."
+      },
+      {
+        "name": "Fabric",
+        "detail": "Landscape fabric laid under the mulch where it suits the bed."
+      },
+      {
+        "name": "Mulch",
+        "detail": "Fresh mulch in black, brown or red, kept back from trunks and stems."
+      }
     ],
     "footnote": "Want the bushes or the border changed too? That is a [landscaping](/landscaping/) job, and Rob can quote both together."
   }

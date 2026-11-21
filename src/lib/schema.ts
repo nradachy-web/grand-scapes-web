@@ -31,6 +31,7 @@ export function business() {
     address: { '@type': 'PostalAddress', streetAddress: BRAND.street, addressLocality: BRAND.city, addressRegion: BRAND.state, postalCode: BRAND.zip, addressCountry: 'US' },
     geo: { '@type': 'GeoCoordinates', latitude: BRAND.geo.lat, longitude: BRAND.geo.lng },
     hasMap: LINKS.google,
+    openingHoursSpecification: [{ '@type': 'OpeningHoursSpecification', dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'], opens: '08:00', closes: '20:00' }],
     areaServed: CITIES.map((c) => ({ '@type': 'City', name: cityLabel(c) })),
     knowsAbout: MI_SERVICES.map((s) => s.name),
     hasOfferCatalog: {

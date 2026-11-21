@@ -1,0 +1,72 @@
+{
+  "service": "fall-cleanup",
+  "city": "fenton",
+  "meta": {
+    "title": "Leaf removal and fall cleanup in Fenton, MI | Grand Scapes",
+    "description": "Fall cleanup and leaf removal in Fenton, MI: Grand Scapes vacuums leaves into our trailer and hauls them off, cuts beds back and leaves the lawn clean."
+  },
+  "hero": {
+    "kicker": "Fall cleanup and leaf removal in Fenton, MI",
+    "title": "Leaves up, **hauled off.**",
+    "lede": "Grand Scapes clears Fenton yards each fall: leaves blown into rows, vacuumed into our trailer and hauled away, beds cut back, and the lawn left clean for winter. Nothing sits at the curb waiting for a pickup day.",
+    "chips": ["Truck loader leaf vacuum", "Hauled away", "Beds cut back"],
+    "photo": "leaf-crew"
+  },
+  "local": {
+    "eyebrow": "Leaves in Fenton",
+    "title": "Paper bags on Wednesdays, **or one cleanup.**",
+    "intro": "In the City of Fenton, yard waste goes out with the trash on Wednesdays from April through November, collected by Priority Waste. In the township, Republic Services handles trash, recycling and compost. Either way, a yard with mature trees means a lot of filling bags, and a lake lot adds a second question: where the leaves end up.",
+    "points": [
+      {
+        "title": "Leaves stay out of the water",
+        "body": "MSU Extension's guidance for clippings is never to send them toward lakes, rivers, streams or drains, and leaves get the same treatment from us. We blow them away from the shoreline and the storm drains, never into them, and the street stays clear."
+      },
+      {
+        "title": "The city's season ends with November",
+        "body": "Yard waste pickup in the city runs through November. Some trees keep dropping after that, so whatever falls late still goes into our trailer and away, not into a bag waiting for spring."
+      },
+      {
+        "title": "Branches ride out with the leaves",
+        "body": "The city's brush chipping program runs May through September only. Branches and cut back stems from a fall cleanup leave in the dump trailer with the leaves, so nothing is left stacked by the road until next season."
+      },
+      {
+        "title": "A light layer can be mowed in",
+        "body": "MSU studies mowed up to 6 inches of tree leaves into lawns and found no harm. A thin fall of leaves can be mulched in on a mowing visit; a heavy one under big trees gets vacuumed up so the grass is not smothered going into winter."
+      }
+    ]
+  },
+  "logistics": {
+    "title": "How a fall cleanup runs in Fenton.",
+    "body": [
+      "We blow the leaves out of the beds and off the lawn into long rows, then run the truck loader vacuum over them into the dump trailer. Beds get cut back, the drive and walks get blown off, and the leaves leave with us.",
+      "A big lot with a lot of trees may need more than one visit as the leaves keep coming down. Rob will tell you at the estimate whether one cleanup or two makes sense for your yard.",
+      "The last mow of the season can happen on the same trip, set a little lower once the grass has stopped growing, which MSU Extension says helps keep snow mold down. Fresh mulch for the beds waits for a [spring cleanup](/spring-cleanup-fenton-mi/)."
+    ],
+    "facts": [
+      { "label": "Leaves", "value": "Vacuumed and hauled away" },
+      { "label": "City yard waste", "value": "Wednesdays, April through November" },
+      { "label": "City brush chipping", "value": "Ends September 30" },
+      { "label": "Estimate", "value": "Free, Rob walks the yard" }
+    ]
+  },
+  "photo": "leaf-loader",
+  "faq": [
+    {
+      "q": "Do you do leaf removal in Fenton?",
+      "a": "Yes. Grand Scapes does fall cleanups and leaf removal in the city and the township: leaves blown out of beds and off the lawn, vacuumed into our trailer and hauled away, and beds cut back. Call [(810) 990-3040](tel:+18109903040) or [text Rob](sms:+18109903040) for a free estimate."
+    },
+    {
+      "q": "How does yard waste pickup work in the City of Fenton?",
+      "a": "Priority Waste collects yard waste with the trash on Wednesdays from April through November. Check the city's waste collection page for the current year's start date and any changes. If you would rather not fill bags at all, our [fall cleanup](/fall-cleanup-and-leaf-removal/) takes the leaves away in one trip."
+    },
+    {
+      "q": "Can I just mow the leaves into my lawn?",
+      "a": "Often, yes. MSU Extension studies mowed up to 6 inches of tree leaves into lawns with no ill effects, and a couple of passes with the mower breaks them into small pieces. Thick, wet piles are a different story and should come off the grass."
+    },
+    {
+      "q": "Is it OK to blow leaves into the lake or the street?",
+      "a": "No. MSU Extension says yard clippings should never be blown or dumped near a lake, a stream or a storm drain, and we hold leaves to the same rule. They get blown back onto the yard, vacuumed up from there and hauled away."
+    }
+  ],
+  "reviews": ["rick-b", "stacy"]
+}

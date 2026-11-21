@@ -8,7 +8,12 @@
     "kicker": "Lawn care, landscaping and snow removal in Flint Township, MI",
     "title": "Flat lawns, heavy soil, **clean stripes.**",
     "lede": "Grand Scapes looks after Flint Township yards all year: weekly mowing, spring and fall cleanups, bed rebuilds and shrub trimming, and driveways plowed by our own trucks in winter. Rob comes out, walks it with you and quotes it free.",
-    "chips": ["Weekly mowing", "Spring and fall cleanups", "Shrubs and beds", "Driveways plowed"],
+    "chips": [
+      "Weekly mowing",
+      "Spring and fall cleanups",
+      "Shrubs and beds",
+      "Driveways plowed"
+    ],
     "photo": "cul-de-sac-stripes"
   },
   "about": {
@@ -20,10 +25,22 @@
       "There is a big commercial side too. Retail lines Miller, Linden and Corunna Roads, offices sit along Beecher Road, and about a quarter of the homes are in apartment buildings of three or more units. We keep lots and grounds as well as houses."
     ],
     "points": [
-      { "title": "County roads, county plows", "body": "Township roads belong to the Genesee County Road Commission, or to MDOT for state roads. The county plows subdivision streets last, so a cleared driveway counts for more here than people expect." },
-      { "title": "Yard waste goes out on Thursdays", "body": "Emterra picks up compost weekly from April through November, on Thursday, in brown yard waste bags or marked cans. It does not take contractor generated material, so whatever our crew cuts or rakes, we haul away." },
-      { "title": "No burning leaves or clippings", "body": "The township fire department's open burning guidelines prohibit burning leaves, pine needles and grass clippings. A cleanup that hauls everything off is the simple way around that." },
-      { "title": "Shrubs at the end of the drive", "body": "The Road Commission says bushes, fences and other items near the right of way can block a driver's view at driveways and intersections. Keeping those shrubs low is a safety job as much as a looks job." }
+      {
+        "title": "County roads, county plows",
+        "body": "Township roads belong to the Genesee County Road Commission, or to MDOT for state roads. The county plows subdivision streets last, so a cleared driveway counts for more here than people expect."
+      },
+      {
+        "title": "Yard waste goes out on Thursdays",
+        "body": "Emterra picks up compost weekly from April through November, on Thursday, in brown yard waste bags or marked cans. It does not take contractor generated material, so whatever our crew cuts or rakes, we haul away."
+      },
+      {
+        "title": "No burning leaves or clippings",
+        "body": "The township fire department's open burning guidelines prohibit burning leaves, pine needles and grass clippings. A cleanup that hauls everything off is the simple way around that."
+      },
+      {
+        "title": "Shrubs at the end of the drive",
+        "body": "The Road Commission says bushes, fences and other items near the right of way can block a driver's view at driveways and intersections. Keeping those shrubs low is a safety job as much as a looks job."
+      }
     ],
     "photo": "block-bed-side"
   },
@@ -35,18 +52,51 @@
       "Everything we cut, rake or dig leaves in our trailer, so your Thursday pickup stays free for your own bags."
     ],
     "facts": [
-      { "label": "Who plows the roads", "value": "Genesee County Road Commission" },
-      { "label": "Compost pickup", "value": "Thursdays, April into late November" },
-      { "label": "Burning leaves", "value": "Not allowed in the township" },
-      { "label": "Estimate", "value": "Free, Rob comes out" }
+      {
+        "label": "Who plows the roads",
+        "value": "Genesee County Road Commission"
+      },
+      {
+        "label": "Compost pickup",
+        "value": "Thursdays, April into late November"
+      },
+      {
+        "label": "Burning leaves",
+        "value": "Not allowed in the township"
+      },
+      {
+        "label": "Estimate",
+        "value": "Free, Rob comes out"
+      }
     ]
   },
   "faq": [
-    { "q": "Do you work in Flint Township?", "a": "Yes. Grand Scapes does [lawn mowing](/lawn-mowing-flint-township-mi/), [spring cleanups](/spring-cleanup-flint-township-mi/), [fall leaf removal](/leaf-removal-flint-township-mi/), [landscaping](/landscaping-flint-township-mi/), [shrub trimming](/shrub-trimming-flint-township-mi/), [snow removal](/snow-removal-flint-township-mi/) and [commercial work](/commercial-snow-removal-flint-township-mi/) here. We are licensed and insured, and estimates are free." },
-    { "q": "Is Flint Township the same as the City of Flint?", "a": "No. Flint Township is a separate charter township that wraps around the southwest side of the city, with its own township hall, its own rules and its own trash hauler. Its roads are kept by the Genesee County Road Commission, while the city plows its own streets." },
-    { "q": "Who plows the roads in Flint Township?", "a": "The Genesee County Road Commission, except state roads, which MDOT maintains. The county does expressways and main roads first and subdivision streets last, and it says driveways getting plowed in by its trucks is unavoidable." },
-    { "q": "Can I burn leaves in Flint Township?", "a": "No. The township fire department's open burning guidelines prohibit burning leaves, pine needles and grass clippings. Leaves can go out for Emterra's weekly compost pickup in brown bags or marked cans, or we can vacuum them up and haul them away." }
+    {
+      "q": "Do you work in Flint Township?",
+      "a": "Yes. Grand Scapes does [lawn mowing](/lawn-mowing-flint-township-mi/), [spring cleanups](/spring-cleanup-flint-township-mi/), [fall leaf removal](/leaf-removal-flint-township-mi/), [landscaping](/landscaping-flint-township-mi/), [shrub trimming](/shrub-trimming-flint-township-mi/), [snow removal](/snow-removal-flint-township-mi/) and [commercial work](/commercial-snow-removal-flint-township-mi/) here. We are licensed and insured, and estimates are free."
+    },
+    {
+      "q": "Is Flint Township the same as the City of Flint?",
+      "a": "No. Flint Township is a separate charter township that wraps around the southwest side of the city, with its own township hall, its own rules and its own trash hauler. Its roads are kept by the Genesee County Road Commission, while the city plows its own streets."
+    },
+    {
+      "q": "Who plows the roads in Flint Township?",
+      "a": "The Genesee County Road Commission, except state roads, which MDOT maintains. The county does expressways and main roads first and subdivision streets last, and it says driveways getting plowed in by its trucks is unavoidable."
+    },
+    {
+      "q": "Can I burn leaves in Flint Township?",
+      "a": "No. The township fire department's open burning guidelines prohibit burning leaves, pine needles and grass clippings. Leaves can go out for Emterra's weekly compost pickup in brown bags or marked cans, or we can vacuum them up and haul them away."
+    }
   ],
-  "reviews": ["rick-b", "bob-s", "stacy"],
-  "neighbors": ["flint", "swartz-creek", "mundy-township", "grand-blanc"]
+  "reviews": [
+    "jason-p",
+    "bob-s",
+    "james-a"
+  ],
+  "neighbors": [
+    "flint",
+    "swartz-creek",
+    "mundy-township",
+    "grand-blanc"
+  ]
 }

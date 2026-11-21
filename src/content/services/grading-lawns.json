@@ -8,7 +8,12 @@
     "kicker": "Yard grading and new lawns in Grand Blanc, MI",
     "title": "Ground first, **then grass.**",
     "lede": "Grand Scapes shapes rough or bare ground with compact track loaders, gives it a steady fall away from the house, then seeds the new lawn and covers it in straw. New builds, low spots that hold water and yards torn up by old projects, in Grand Blanc and around Genesee County.",
-    "chips": ["Track loader grading", "Sloped away from the house", "Seed under straw", "Free estimate"],
+    "chips": [
+      "Track loader grading",
+      "Sloped away from the house",
+      "Seed under straw",
+      "Free estimate"
+    ],
     "photo": "deere-grading"
   },
   "blocks": [
@@ -67,12 +72,44 @@
       "eyebrow": "When to seed",
       "title": "In Michigan, new seed likes **late summer.**",
       "intro": "MSU Extension puts the ideal seeding window at August 15 to September 15. Spring can work, and so can a warm October, but each comes with a catch. Rob can tell you what fits your yard and your schedule.",
-      "columns": ["Late summer", "Spring", "October"],
+      "columns": [
+        "Late summer",
+        "Spring",
+        "October"
+      ],
       "rows": [
-        { "label": "Window", "values": ["August 15 to September 15", "Done by about June 15", "Early October, in a warm fall"] },
-        { "label": "Weather", "values": ["Warm days and cool nights", "Warming up toward summer heat", "Cold can come early"] },
-        { "label": "Weeds", "values": ["Crabgrass is winding down", "Crabgrass is just starting", "Time is the bigger worry"] },
-        { "label": "The catch", "values": ["Keeping the seed moist", "Needs steady water into June", "Seed may sprout too late to settle in"] }
+        {
+          "label": "Window",
+          "values": [
+            "August 15 to September 15",
+            "Done by about June 15",
+            "Early October, in a warm fall"
+          ]
+        },
+        {
+          "label": "Weather",
+          "values": [
+            "Warm days and cool nights",
+            "Warming up toward summer heat",
+            "Cold can come early"
+          ]
+        },
+        {
+          "label": "Weeds",
+          "values": [
+            "Crabgrass is winding down",
+            "Crabgrass is just starting",
+            "Time is the bigger worry"
+          ]
+        },
+        {
+          "label": "The catch",
+          "values": [
+            "Keeping the seed moist",
+            "Needs steady water into June",
+            "Seed may sprout too late to settle in"
+          ]
+        }
       ]
     },
     {
@@ -114,7 +151,11 @@
       "plane": "ink",
       "eyebrow": "On Google",
       "title": "From customers who had **the yard redone.**",
-      "ids": ["james-a", "bob-s"]
+      "ids": [
+        "reckless-cards",
+        "jason-p",
+        "james-a"
+      ]
     }
   ],
   "faq": [
@@ -155,10 +196,22 @@
     "title": "Grading and new lawns, start to finish.",
     "intro": "A new lawn from Grand Scapes is ground work first and seed second. Rob walks the yard and quotes the whole job, and the estimate is free.",
     "items": [
-      { "name": "Grading", "detail": "Ground shaped with compact track loaders and sloped away from the house." },
-      { "name": "Seedbed", "detail": "Rocks, roots and clods out, the surface raked smooth." },
-      { "name": "Seed", "detail": "Spread over the prepared ground and raked in lightly." },
-      { "name": "Straw", "detail": "One thin layer to hold moisture and keep the seed in place." }
+      {
+        "name": "Grading",
+        "detail": "Ground shaped with compact track loaders and sloped away from the house."
+      },
+      {
+        "name": "Seedbed",
+        "detail": "Rocks, roots and clods out, the surface raked smooth."
+      },
+      {
+        "name": "Seed",
+        "detail": "Spread over the prepared ground and raked in lightly."
+      },
+      {
+        "name": "Straw",
+        "detail": "One thin layer to hold moisture and keep the seed in place."
+      }
     ],
     "footnote": "We grow new lawns from seed. MSU Extension puts the ideal Michigan seeding window at August 15 to September 15."
   }

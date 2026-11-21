@@ -1,0 +1,88 @@
+{
+  "service": "spring-cleanup",
+  "city": "holly",
+  "meta": {
+    "title": "Spring Cleanup in Holly, MI | Grand Scapes",
+    "description": "Spring cleanup in Holly, MI by Grand Scapes: winter debris and late oak leaves out, beds cleaned and edged, perennials cut back and the first cut done."
+  },
+  "hero": {
+    "kicker": "Spring cleanup in Holly, MI",
+    "title": "The oaks left you **a few more.**",
+    "lede": "Grand Scapes gets Holly yards back in shape after winter: sticks and debris picked up, the late oak leaves raked out of the beds, edges recut, grit along the drive cleaned off the lawn edge and the first cut done, ready for mulch.",
+    "chips": [
+      "Debris and leaves out",
+      "Beds cleaned and edged",
+      "First cut done",
+      "Ready for mulch"
+    ],
+    "photo": "sign-bed"
+  },
+  "local": {
+    "eyebrow": "Spring in Holly",
+    "title": "Winter leaves **its own mess** out here.",
+    "intro": "Spring in Holly turns up what winter hid: oak leaves that hung on until March, branches down from the woods, sand and grit from a season of plowing along the lawn edge, and salt in the beds by the drive. A cleanup clears it out before the grass starts growing in earnest.",
+    "points": [
+      {
+        "title": "Late oak leaves",
+        "body": "MSU Extension explains that in oaks which hold their leaves, the layer that lets a leaf drop may not form until spring. So they come down in late winter, gather in beds and against the foundation, and need to come out before mulch goes down."
+      },
+      {
+        "title": "Grit along the lawn edge",
+        "body": "The road commission sands gravel roads because salt does little on them, and a winter of plowing can leave sand and stone along the lawn edge and the end of the drive. It gets raked off before the first mow, before a blade finds it."
+      },
+      {
+        "title": "Wait for the ground to dry",
+        "body": "MSU Extension's soil test is simple: squeeze a handful, and if it holds a ball when poked, it is too wet to work. Low yards near Holly's lakes and wetlands dry last, so they go later on the schedule than the sandy, high lots."
+      }
+    ]
+  },
+  "logistics": {
+    "title": "How a Holly spring cleanup goes.",
+    "body": [
+      "Rob books spring cleanups as the ground dries. Sandy ground drains first and the low lots by the water come later, so the order follows the soil more than the calendar.",
+      "On the day the crew picks up sticks and debris, rakes and blows the beds out, cuts back last year's perennials, recuts the bed edges and does the first mow. Everything goes in our trailer and leaves with us.",
+      "Most people follow it with fresh [mulch](/mulch-installation-holly-mi/) and then [weekly mowing](/lawn-mowing-holly-mi/) for the season. Shrubs that did not make it through winter, or a border that has sunk, go on a list for Rob to look at."
+    ],
+    "facts": [
+      {
+        "label": "Includes",
+        "value": "Debris, beds, edges and the first cut"
+      },
+      {
+        "label": "Timing",
+        "value": "When the soil crumbles, not before"
+      },
+      {
+        "label": "Debris",
+        "value": "Hauled off in our trailer"
+      },
+      {
+        "label": "Next step",
+        "value": "Mulch, then weekly mowing"
+      }
+    ]
+  },
+  "photo": "walk-edge",
+  "faq": [
+    {
+      "q": "Do you do spring cleanups in Holly?",
+      "a": "Yes. Grand Scapes does spring cleanups in the Village of Holly and in Holly Township: debris and leftover leaves out, beds cleaned out and edged, perennials cut back and the first cut done. Rob walks the yard and quotes it."
+    },
+    {
+      "q": "When should spring cleanup start in Michigan?",
+      "a": "When the soil has dried enough to walk on and work without packing it down. MSU Extension's squeeze test works: if a handful of soil holds together in a ball when you poke it, it is still too wet. That date moves every year, and low ground near water dries last."
+    },
+    {
+      "q": "Will you rake out the leaves my oaks dropped over winter?",
+      "a": "Yes. Oaks that hold their dead leaves through winter let them go in late winter and spring, and they pile up in the beds and along the foundation. A spring cleanup clears them out so the mulch goes down on clean soil."
+    },
+    {
+      "q": "Should mulch go down right after a spring cleanup?",
+      "a": "That is the usual order. Once the beds are cleared and edged, fresh mulch goes straight onto clean soil and stays neat longer. If you want both, Rob can quote them together."
+    }
+  ],
+  "reviews": [
+    "stacy",
+    "mark-v"
+  ]
+}

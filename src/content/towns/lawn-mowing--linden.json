@@ -1,0 +1,72 @@
+{
+  "service": "lawn-mowing",
+  "city": "linden",
+  "meta": {
+    "title": "Weekly lawn mowing in Linden, MI | Grand Scapes",
+    "description": "Weekly lawn mowing in Linden, MI by Grand Scapes: mowed, trimmed, edged and blown off on a set day, on rolling high ground and soft low lots alike."
+  },
+  "hero": {
+    "kicker": "Lawn mowing in Linden, MI",
+    "title": "Slopes, low spots, **straight stripes.**",
+    "lede": "Grand Scapes mows Linden lawns every week on a set day: mowed, trimmed, edged along walks and curbs, and blown off. The ground rolls on the high side of town and stays wet in the low spots, and the mowing plan allows for both.",
+    "chips": ["Weekly, on a set day", "Trimmed and edged", "Slopes and soft ground"],
+    "photo": "mower-stripes"
+  },
+  "local": {
+    "eyebrow": "Mowing in Linden",
+    "title": "High ground and low ground **in one small city.**",
+    "intro": "The city covers less than two and a half square miles, but the ground in it changes a lot. The USDA soil survey maps rolling, well drained Wawasee loam and sandy Boyer soils on the higher ground, some of it on slopes of 6 to 12 percent, and wet Carlisle and Linwood muck in the low spots near the river and the old marl lakes.",
+    "points": [
+      {
+        "title": "A slope dries out first",
+        "body": "A 6 to 12 percent slope sheds rain before it soaks in, so the grass on it thins in a dry summer. MSU Extension's tip sheet says to mow at least 3 inches high, and on a slope that extra leaf shades the soil and keeps the roots deeper."
+      },
+      {
+        "title": "Muck that stays soft",
+        "body": "The soil survey rates the muck very poorly drained, and it feels that way underfoot in May. A heavy mower on a soggy low spot leaves ruts that last all summer, so on a wet week the soft corner gets trimmed and the rest gets mowed."
+      },
+      {
+        "title": "Older lots, plenty of edges",
+        "body": "Linden has been a town since the 1800s, and the older lots near Bridge and Broad come with sidewalks, curbs and drives that all need a crisp edge. The city's sidewalk system even ties into the path at Linden County Park."
+      },
+      {
+        "title": "Clippings out of the drains",
+        "body": "The city's public works crew keeps up more than 900 storm sewer inlets plus the roadside ditches and culverts. MSU says to blow clippings off walks and drives back onto the lawn and never toward drains, and that is where ours go."
+      }
+    ]
+  },
+  "logistics": {
+    "title": "Mowing day in Linden.",
+    "body": [
+      "Linden is about 25 minutes from our shop on Embury Road, so Linden lawns are booked on a set day of the week rather than squeezed in between stops. Each visit covers the whole job: mow, trim around beds, trees and posts, edge the walks and curb, and blow it all off.",
+      "Rob comes out for the estimate, walks the lawn, notes the slopes and the soft spots, and prices it by the week. Lots outside the city limits in Fenton Township get the same weekly plan.",
+      "When fall comes, mowing turns into [leaf removal](/leaf-removal-linden-mi/). The last cut of the year goes a little lower once the grass stops growing, which MSU Extension says cuts down on snow mold and voles over the winter."
+    ],
+    "facts": [
+      { "label": "Schedule", "value": "Weekly, on a set day" },
+      { "label": "Each visit", "value": "Mow, trim, edge, blow off" },
+      { "label": "Also nearby", "value": "Fenton Township lots" },
+      { "label": "Estimate", "value": "Free, Rob walks the lawn" }
+    ]
+  },
+  "photo": "curb-edge",
+  "faq": [
+    {
+      "q": "Who mows lawns in Linden, MI?",
+      "a": "Grand Scapes mows lawns in the City of Linden and the Fenton Township lots around it, every week on a set day: mowed, trimmed, edged and blown off. Rob gives a free estimate after he walks the yard. Call [(810) 990-3040](tel:+18109903040) or [text Rob](sms:+18109903040)."
+    },
+    {
+      "q": "How high should a lawn be mowed in summer?",
+      "a": "High. MSU Extension's tip sheet says at least 3 inches, and its mowing bulletin puts current standards between 2 and 3.75 inches, noting that higher cut grass handles stress better. Mowing too short shrinks the root system, which hurts most on a dry slope."
+    },
+    {
+      "q": "Will mowing a wet lawn hurt it?",
+      "a": "It can. MSU Extension says to mow when the turf is dry for a clean cut without clumps. On the muck soils in the low parts of Linden, a wet spot can also rut under a mower, so we work around it until it firms up."
+    },
+    {
+      "q": "Do you mow bigger lots outside the city limits?",
+      "a": "Yes. We mow in Fenton Township around the city as well, and the same weekly visit applies: mow, trim, edge and blow off. If the lot runs back to a wet area or the river, show Rob where the lawn ends and the natural ground begins."
+    }
+  ],
+  "reviews": ["stacy", "rick-b"]
+}

@@ -38,7 +38,7 @@ const kit: { id: PhotoId; label: string }[] = [
   preload={hero.preload}
   schema={[breadcrumbs([{ name: 'Home', path: '/' }, { name: 'About', path }])]}
 >
-  <Hero image={hero} kicker="About Grand Scapes" title="Rob's crew, **Rob's name on the trailer.**" lede={`Grand Scapes LLC is a lawn care, landscaping and snow removal company run by ${BRAND.owner}, out of a shop on Embury Road in ${BRAND.city}.`} crumbs={[{ name: 'About', path }]} />
+  <Hero image={hero} kicker="About Grand Scapes" title="Rob's crew, **Rob's number on the trailer.**" lede={`Grand Scapes LLC is a lawn care, landscaping and snow removal company run by ${BRAND.owner}, out of a shop on Embury Road in ${BRAND.city}.`} crumbs={[{ name: 'About', path }]} />
 
   <section class="band has-edge" aria-labelledby="rob-h">
     <div class="wrap two wide-left">
@@ -66,7 +66,7 @@ const kit: { id: PhotoId; label: string }[] = [
         {beliefs.map((b) => <li class="card pad way"><h3 class="h3">{b.title}</h3><p class="small muted">{b.body}</p></li>)}
       </ul>
       <div class="kit">
-        <Head layout="left" small eyebrow="The equipment" title="Real equipment, **owned and run by us.**" />
+        <Head layout="left" small eyebrow="The equipment" title="Real equipment, **run by our crew.**" />
         <ul class="kit__row">
           {
             kit.map((k) => (

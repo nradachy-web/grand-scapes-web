@@ -8,7 +8,12 @@
     "kicker": "Fall cleanup and leaf removal in Grand Blanc, MI",
     "title": "Leaves up. **Lawn back.**",
     "lede": "Grand Scapes blows the leaves off the lawn and out of the beds, vacuums them into our leaf trailer and hauls them away. Then the beds get cut back the way you want them and the drive and walks are blown clean. We do fall cleanups all over Grand Blanc and Genesee County.",
-    "chips": ["Leaves blown out", "Vacuumed and hauled off", "Beds cut back", "Drive and walks clean"],
+    "chips": [
+      "Leaves blown out",
+      "Vacuumed and hauled off",
+      "Beds cut back",
+      "Drive and walks clean"
+    ],
     "photo": "leaf-vac"
   },
   "blocks": [
@@ -80,7 +85,10 @@
       ],
       "photo": "fall-rider",
       "flip": true,
-      "cta": { "label": "About weekly mowing", "href": "/lawn-mowing/" }
+      "cta": {
+        "label": "About weekly mowing",
+        "href": "/lawn-mowing/"
+      }
     },
     {
       "type": "gallery",
@@ -88,14 +96,24 @@
       "eyebrow": "Real cleanups",
       "title": "Our own **fall photos.**",
       "intro": "Leaves down, blown into rows, piled at the curb and pulled into the trailer. Every one is from our own jobs.",
-      "photos": ["leaves-before", "leaf-tree", "leaf-crew", "leaf-curb", "leaf-loader", "leaf-slope"]
+      "photos": [
+        "leaves-before",
+        "leaf-tree",
+        "leaf-crew",
+        "leaf-curb",
+        "leaf-loader",
+        "leaf-slope"
+      ]
     },
     {
       "type": "reviews",
       "plane": "ink",
       "eyebrow": "On Google",
       "title": "From customers we see **all year.**",
-      "ids": ["rick-b", "stacy"]
+      "ids": [
+        "rick-b",
+        "stacy"
+      ]
     },
     {
       "type": "plan",
@@ -147,10 +165,22 @@
     "title": "Fall cleanup and leaf removal, start to finish.",
     "intro": "A fall cleanup from Grand Scapes takes the leaves away with us, so nothing waits at the curb. Rob looks at the yard and the trees first, then quotes it. The estimate is free.",
     "items": [
-      { "name": "Leaves blown out", "detail": "Off the lawn, out of the beds and away from the fences." },
-      { "name": "Vacuumed and hauled", "detail": "Pulled into our leaf vacuum trailer and taken away." },
-      { "name": "Beds cut back", "detail": "As much or as little as you want." },
-      { "name": "Clean finish", "detail": "Drive, walks and patio blown off." }
+      {
+        "name": "Leaves blown out",
+        "detail": "Off the lawn, out of the beds and away from the fences."
+      },
+      {
+        "name": "Vacuumed and hauled",
+        "detail": "Pulled into our leaf vacuum trailer and taken away."
+      },
+      {
+        "name": "Beds cut back",
+        "detail": "As much or as little as you want."
+      },
+      {
+        "name": "Clean finish",
+        "detail": "Drive, walks and patio blown off."
+      }
     ],
     "footnote": "A bagged last cut of the year can be added where the lawn needs it."
   }

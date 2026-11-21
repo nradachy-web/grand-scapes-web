@@ -91,7 +91,7 @@ const seasonOf = (m: number) => PLAN.find((s) => s.months.includes(m))!.id;
 
   <style set:html={css}></style>
 
-  <section class="band ink has-edge" aria-labelledby="pb-h">
+  <section class="band ink" aria-labelledby="pb-h">
     <div class="wrap">
       <h2 class="sr" id="pb-h">The season plan builder</h2>
       <form class="pb" data-pb onsubmit="return false">
@@ -102,7 +102,7 @@ const seasonOf = (m: number) => PLAN.find((s) => s.months.includes(m))!.id;
               {
                 KINDS.map((k, i) => (
                   <label class="pb__chip">
-                    <input class="sr" type="radio" name="kind" id={`k-${k.id}`} value={k.label} checked={i === 1} />
+                    <input class="sr" type="radio" name="kind" id={`k-${k.id}`} value={k.label} checked={i === 0} />
                     <span>{k.label}</span>
                   </label>
                 ))
@@ -158,10 +158,9 @@ const seasonOf = (m: number) => PLAN.find((s) => s.months.includes(m))!.id;
         </aside>
       </form>
     </div>
-    <Edge to="paper" />
   </section>
 
-  <QuoteBand title="Send Rob the plan." lede="Your plan goes in the message below. Add the town and how to reach you, and Rob will set up a time to see the property." />
+  <QuoteBand from="ink" title="Send Rob the plan." lede="Your plan goes in the message below. Add the town and how to reach you, and Rob will set up a time to see the property." />
 </Base>
 
 <script is:inline>

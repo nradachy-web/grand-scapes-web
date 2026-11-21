@@ -1,0 +1,48 @@
+{
+  "service": "fall-cleanup",
+  "city": "holly",
+  "meta": {
+    "title": "Leaf Removal in Holly, MI | Grand Scapes",
+    "description": "Fall cleanup and leaf removal in Holly, MI by Grand Scapes: leaves blown, vacuumed into our trailer and hauled off, beds cut back. No bags and no burning."
+  },
+  "hero": {
+    "kicker": "Fall cleanup and leaf removal in Holly, MI",
+    "title": "Oak country **drops late.**",
+    "lede": "Grand Scapes clears Holly yards every fall: leaves blown out of the beds and off the lawn, vacuumed into our trailer and hauled away, beds cut back. In the village or out in the township, nothing waits at the curb in bags and nothing gets burned.",
+    "chips": ["Vacuumed and hauled", "Beds cut back", "No bags to fill", "A late visit for the oaks"],
+    "photo": "leaf-tree"
+  },
+  "local": {
+    "eyebrow": "Leaves in Holly",
+    "title": "No township leaf truck, and **no burning** in the village.",
+    "intro": "Where the leaves go is the real question in Holly. The outer township has no garbage service of its own, and its fall cleanup day turns leaves away. The village takes them in paper bags or marked containers through November 30, and does not allow them to be burned. A lot that backs up to oaks can fill a lot of bags.",
+    "points": [
+      { "title": "Oaks that hang on", "body": "MSU Extension notes that many oaks keep their dead leaves into winter, and the township's plan says its uplands grew up in oak. A yard can look done in early November and be covered again a few weeks later. A second, late visit catches what the oaks let go of last." },
+      { "title": "What a leaf mat does to a lawn", "body": "MSU turf specialists say a mat of leaves left on the turf over winter smothers it, slows spring green up and may bring more snow mold. Thin turf on sandy ground has the least to spare, and it shows in April." },
+      { "title": "Lake and wetland edges", "body": "Leaves blown into a lake or wetland rot in the water. On a shoreline lot they get blown up the lawn, away from the water, and leave in our trailer instead of sitting in a pile at the edge." },
+      { "title": "If you keep a few bags going", "body": "The village hauler wants yard waste in paper bags or clearly marked containers, 35 gallons at most and under 50 pounds, from April 1 to November 30. Whatever we vacuum up goes out in our dump trailer instead." }
+    ]
+  },
+  "logistics": {
+    "title": "A Holly fall cleanup, from first leaves to last.",
+    "body": [
+      "Most wooded Holly yards need the leaves handled more than once. The first visit clears the bulk once most trees have dropped, and a late one catches the oaks. Rob will tell you at the walk through whether your trees call for one pass or two.",
+      "On the day, the crew blows leaves out of the beds and off the lawn into rows, pulls them into the leaf vacuum on our dump trailer and hauls them away. Beds are cut back, the drive and walks are left clean, and on big lots the bagging mowers pick up what the blowers miss.",
+      "Fall is also the time to book [snow removal](/snow-removal-holly-mi/) before the first storm, and to point out any beds you want rebuilt next spring."
+    ],
+    "facts": [
+      { "label": "Leaves", "value": "Vacuumed into our trailer, hauled off" },
+      { "label": "Outer township pickup", "value": "None for leaves" },
+      { "label": "Burning in the village", "value": "Leaves and brush not allowed" },
+      { "label": "Estimate", "value": "Free" }
+    ]
+  },
+  "photo": "leaf-crew",
+  "faq": [
+    { "q": "Do you do leaf removal in Holly?", "a": "Yes. Grand Scapes does fall cleanups and leaf removal across Holly and Holly Township. Leaves are blown out of the beds and off the lawn, vacuumed into our trailer and hauled away, and the beds are cut back. Rob walks the yard first and gives you a price." },
+    { "q": "Does Holly Township pick up leaves?", "a": "No. The township does not provide garbage collection, and its fall cleanup day does not take leaves. Out there, leaves get composted or hauled off privately, and any open burning needs a permit from the North Oakland County Fire Authority first. A cleanup crew that vacuums them up and takes them away skips all of that." },
+    { "q": "Why are there still leaves on my oak trees in December?", "a": "Many oaks keep their dead leaves well into winter, a habit MSU Extension calls marcescence, and the leaves may not let go until spring. That is why a late fall visit helps in an oak heavy yard, and why a few stragglers get raked out during a [spring cleanup](/spring-cleanup-holly-mi/)." },
+    { "q": "Should I just mulch the leaves into the lawn?", "a": "A light layer, yes. MSU research found lawns do well with mulched leaves, and a mulching mower can handle a few inches in a pass. Under a heavy canopy, though, leaves pile up faster than any mower can chop them, and a mat left over winter smothers the grass. That is when they need to come off." }
+  ],
+  "reviews": ["rick-b", "stacy"]
+}

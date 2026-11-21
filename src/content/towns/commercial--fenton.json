@@ -1,0 +1,76 @@
+{
+  "service": "commercial",
+  "city": "fenton",
+  "meta": {
+    "title": "Commercial snow removal in Fenton, MI | Grand Scapes",
+    "description": "Commercial snow removal in Fenton, MI: Grand Scapes plows and salts lots, drives and walks for businesses, offices, churches and HOAs, and keeps the grounds."
+  },
+  "hero": {
+    "kicker": "Commercial snow removal in Fenton, MI",
+    "title": "A lot people **can park in.**",
+    "lede": "Grand Scapes plows and salts parking lots, drives and walks for Fenton businesses, offices, churches and HOAs, with our own trucks. In summer we can keep the same property mowed, edged and the beds clean.",
+    "chips": ["Lots, drives, walks", "Salting", "Grounds in summer"],
+    "photo": "commercial-lot"
+  },
+  "local": {
+    "eyebrow": "Commercial snow in Fenton",
+    "title": "A city parking rule with **a five day limit.**",
+    "intro": "The City of Fenton's zoning code says required off-street parking and loading areas must be kept free of accumulated snow that blocks their full use, except for no more than five days after a heavy snowfall. That is the legal floor. The real test is whether your first customer, tenant or volunteer can park and walk in without slipping.",
+    "points": [
+      {
+        "title": "Snow storage is part of the site",
+        "body": "Piles have to go somewhere that does not block a drive lane, the view at the exit or a catch basin. On a tight lot, where the snow goes after the third storm matters as much as the first push, so it gets planned at the walk through."
+      },
+      {
+        "title": "Salt where people walk",
+        "body": "Entrances, walks and steps get ice melt from a walk behind spreader. MSU Extension notes salt builds up in landscape beds next to walks and drives, and calcium based products are safer near plantings, so the islands and foundation beds get some thought too."
+      },
+      {
+        "title": "County roads out front",
+        "body": "On a township road, the county clears major routes first and local and subdivision streets later. Its blade can leave a ridge across your entrance, and that is part of what we clear on the way in or out."
+      },
+      {
+        "title": "Grounds the rest of the year",
+        "body": "The same property needs mowing, edging, cleanups and bed upkeep from April to November. One company on both ends of the year means one number to call and nobody guessing whose job the walk is."
+      }
+    ]
+  },
+  "logistics": {
+    "title": "Setting up a commercial property before the first storm.",
+    "body": [
+      "Rob walks the property with you: the lot, the drive lanes, the entrances, the walks, and where snow can be stacked without burying a catch basin, a landscape island or the sight line at the exit. Then he explains the commercial package options and what each one includes, so nothing is being worked out in the middle of the first storm.",
+      "Our trucks are our own white pickups with plows. If you manage a property and have been let down by a crew that did not show, the difference starts with who answers: Rob takes the calls and texts himself.",
+      "Snow from the lot stays on the property. State law, MCL 257.677a, prohibits depositing snow, ice or slush on any roadway, and that applies to a business lot the same as a home driveway."
+    ],
+    "facts": [
+      { "label": "City lot rule", "value": "Clear of snow, five day limit after heavy snow" },
+      { "label": "Services", "value": "Plowing, salting, walks and steps" },
+      { "label": "Summer", "value": "Mowing, edging and bed upkeep" },
+      { "label": "Contact", "value": "Rob, by call or text" }
+    ]
+  },
+  "photo": "salt-spreader",
+  "faq": [
+    {
+      "q": "Do you plow commercial parking lots in Fenton?",
+      "a": "Yes. Grand Scapes plows and salts commercial lots, drives and walks in the City of Fenton and the township around it, for businesses, offices, churches and HOAs. Rob walks the property and explains the options. See [commercial grounds and snow](/commercial/) for how we work with property managers."
+    },
+    {
+      "q": "How long can snow stay on a parking lot in the City of Fenton?",
+      "a": "The zoning ordinance, Section 19.07, says required off-street parking and loading areas must be kept free of accumulated snow that prevents their full use, except for temporary periods of no more than five days after heavy snowfall. The city has the final word on how it applies to your site."
+    },
+    {
+      "q": "Can our lot snow be pushed onto the road?",
+      "a": "No. Michigan's vehicle code bars anyone from depositing snow, ice or slush on a roadway or highway, and a commercial lot is no exception. Snow gets stacked on the property in spots picked out ahead of time."
+    },
+    {
+      "q": "Do you also take care of commercial grounds in Fenton?",
+      "a": "Yes. The same property can be on our [lawn mowing](/lawn-mowing-fenton-mi/) route from spring to fall, with [spring cleanup](/spring-cleanup-fenton-mi/), [leaf removal](/leaf-removal-fenton-mi/) and bed work as needed. Ask Rob about the whole year when he comes out."
+    },
+    {
+      "q": "Is rock salt safe next to our landscaping?",
+      "a": "Plain rock salt is the hardest on plants. MSU Extension says sodium builds up in beds next to walks and drives and can starve roots of nutrients, while calcium chloride and calcium magnesium acetate are safer around plants but cost more. Burlap screens can protect a bed that takes a lot of spray."
+    }
+  ],
+  "reviews": ["rick-b", "james-a"]
+}

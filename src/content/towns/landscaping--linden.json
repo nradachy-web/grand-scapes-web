@@ -1,0 +1,91 @@
+{
+  "service": "landscaping",
+  "city": "linden",
+  "meta": {
+    "title": "Landscaping in Linden, MI | Grand Scapes",
+    "description": "Landscaping in Linden, MI by Grand Scapes: tired beds torn out and rebuilt with block walls, boulders or a natural edge, on slopes, old lots and wet ground."
+  },
+  "hero": {
+    "kicker": "Landscaping in Linden, MI",
+    "title": "Beds that **hold the slope.**",
+    "lede": "Grand Scapes rebuilds Linden landscapes: overgrown bushes and old borders out, beds reshaped, a block wall, boulders or a natural edge put in, then fabric and fresh mulch. Rob walks it with you first, suggests what it needs and quotes it.",
+    "chips": [
+      "Tear out and rebuild",
+      "Block and boulder walls",
+      "Slopes and wet spots"
+    ],
+    "photo": "tree-bed-drive"
+  },
+  "local": {
+    "eyebrow": "Landscaping in Linden",
+    "title": "Old village lots, rolling ground, **wet low spots.**",
+    "intro": "Linden was a village from 1871 and became a city in 1988, and its yards show both. Older lots around downtown have foundation beds that have been there for decades. Newer ones sit on rolling Wawasee loam, sometimes on 6 to 12 percent slopes, and the low ground holds wet muck. A rebuild has to fit which of those you have.",
+    "points": [
+      {
+        "title": "Slopes need a wall or a plan",
+        "body": "Mulch and soil on a slope keep sliding toward the walk until something holds them. A gray block wall can step down with the grade, and a run of large boulders can hold a steeper bank, with seed and straw on the bare ground above it."
+      },
+      {
+        "title": "Muck changes the plant list",
+        "body": "Carlisle and Linwood muck is rated very poorly drained, so a shrub that wants dry feet will not last in it. In a wet corner, the choice is plants that like wet roots or a bed built up so the roots sit higher."
+      },
+      {
+        "title": "Downtown has a historic district",
+        "body": "The city has a historic district and a commission that oversees it. If you live downtown and the project changes walls or walks in front of the house, check with the city before work starts."
+      },
+      {
+        "title": "Keep solid borders out of the road edge",
+        "body": "On the Fenton Township roads around the city, the county requires a permit for anything placed in the public right of way and names rocks and timber borders as hazards. New beds and boulders stay on your side of that line."
+      }
+    ]
+  },
+  "logistics": {
+    "title": "How a Linden rebuild runs.",
+    "body": [
+      "Rob comes out, walks the yard, suggests what to do and gives you a price. On the day, old shrubs and roots come out with a compact track loader where there is room, old borders come up, and the bed gets its new shape.",
+      "Then the border goes in: block that steps with the grade, boulders on a steep bank, or a cut natural edge. Shrub beds get fabric, everything gets fresh mulch, and the walks and drive are blown clean. Before anyone digs, MISS DIG 811 marks the buried utilities; private lines like a sprinkler or a well line are yours to point out.",
+      "What comes out leaves with us. The city's curbside yard waste takes bundled branches and bagged material, but not root balls, dirt or rocks, which is most of what a tear-out turns up."
+    ],
+    "facts": [
+      {
+        "label": "Borders",
+        "value": "Block, boulders or natural edge"
+      },
+      {
+        "label": "Tear-out debris",
+        "value": "Hauled off in our trailer"
+      },
+      {
+        "label": "Before digging",
+        "value": "MISS DIG 811 marks utility lines"
+      },
+      {
+        "label": "Estimate",
+        "value": "Free, Rob walks the yard"
+      }
+    ]
+  },
+  "photo": "kubota-dig",
+  "faq": [
+    {
+      "q": "Do you do landscaping in Linden, MI?",
+      "a": "Yes. Grand Scapes tears out and rebuilds beds in the City of Linden and the Fenton Township lots around it: old bushes and borders out, new shapes, block or boulder walls, fabric and mulch. Call [(810) 990-3040](tel:+18109903040) or [text Rob](sms:+18109903040) for a free estimate."
+    },
+    {
+      "q": "How do you landscape a sloped yard?",
+      "a": "By holding the grade first. A block wall can step down a gentle slope and a boulder wall can hold a steeper one, and the bed behind it gets planted and mulched once it is level. Bare soil above gets seeded and covered with straw. See [bed edging and block walls](/bed-edging-and-block-walls/) for the border options."
+    },
+    {
+      "q": "Can old bushes and roots go out with Linden's yard waste?",
+      "a": "Branches can, bundled and tied in lengths of 4 feet or less and under 50 pounds. Priority Waste's brochure for the city lists root balls, dirt and rocks as unacceptable, so the roots, stumps of small shrubs and old soil from a tear-out go in our trailer instead."
+    },
+    {
+      "q": "What can be done about a soggy corner of the yard?",
+      "a": "First, find out why it is wet. Much of Linden is lowland with muck in the low spots, and some corners will always hold water. There, a bed with plants that tolerate wet roots, or a raised bed, usually beats fighting for grass. Rob will look at it with you."
+    }
+  ],
+  "reviews": [
+    "mark-v",
+    "bob-s"
+  ]
+}

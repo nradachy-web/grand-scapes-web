@@ -30,7 +30,7 @@
       "Through the winter, the drive gets plowed with our own trucks, and walks and steps are shoveled to the concrete. Salt goes where people walk and where cars stop. In the village, ask about the sidewalk along the street, and check with the village office on its rules."
     ],
     "facts": [
-      { "label": "Roads out here", "value": "County roads, gravel ones plowed last" },
+      { "label": "Roads out here", "value": "County roads, gravel near the end of the list" },
       { "label": "Township sidewalks", "value": "Kept clear of ice and snow" },
       { "label": "Snow in the road", "value": "Not allowed, MCL 257.677a" },
       { "label": "Trucks", "value": "Our own, with plows" }
@@ -42,7 +42,7 @@
     { "q": "When does the county plow gravel roads near Goodrich?", "a": "After the bigger roads. The Genesee County Road Commission plows by traffic volume, and unpaved local roads and subdivision streets come last, with no overtime on either. After a big storm, a gravel road can stay snow covered well after your drive is clear." },
     { "q": "Will the county plow knock over my mailbox?", "a": "Heavy snow off a county plow can. The Road Commission asks owners to check their mailbox and post every fall and replace anything weak. If its plow damages a mailbox, its crews replace it with a standard one once the roads are cleared." },
     { "q": "Do I have to clear the sidewalk in Atlas Township?", "a": "Yes, if one runs along your property. The township's sidewalk ordinance puts sidewalk upkeep on the property owner, including keeping it free of ice and snow, though an HOA can take that on. In the Village of Goodrich, ask the village office what applies on your street." },
-    { "q": "How do your snow packages work?", "a": "We offer residential and commercial snow removal and salting packages. Rob walks your drive, talks through what you want cleared and salted, and quotes your property. The details depend on the drive, so he explains them in person." }
+    { "q": "How do your snow packages work?", "a": "Grand Scapes has residential and commercial snow removal and salting packages. Rob walks your drive, talks through what you want cleared and salted, and quotes your property. The details depend on the drive, so he explains them in person." }
   ],
   "reviews": ["rick-b", "stacy"]
 }

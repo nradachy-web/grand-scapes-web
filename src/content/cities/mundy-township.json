@@ -1,0 +1,53 @@
+{
+  "city": "mundy-township",
+  "meta": {
+    "title": "Lawn care and snow removal in Mundy Township | Grand Scapes",
+    "description": "Grand Scapes mows, cleans up, rebuilds beds and plows driveways in Mundy Township, MI, on acre lots and newer subdivisions alike. Free estimates from Rob."
+  },
+  "hero": {
+    "kicker": "Lawn care, landscaping and snow removal in Mundy Township, MI",
+    "title": "Bigger lots, **longer stripes.**",
+    "lede": "Grand Scapes takes care of Mundy Township yards through the year: weekly mowing on lots big and small, spring and fall cleanups, bed rebuilds, and long driveways plowed by our own trucks in winter. Rob comes out, walks it with you and quotes it free.",
+    "chips": ["Weekly mowing", "Spring and fall cleanups", "Beds rebuilt", "Long drives plowed"],
+    "photo": "mower-stripes"
+  },
+  "about": {
+    "eyebrow": "Yards in Mundy Township",
+    "title": "Farm roads, newer homes, **heavy ground.**",
+    "body": [
+      "Mundy Township covers about 36 square miles west of Grand Blanc, between Flint and Fenton, and the township describes most of its land as residential and farm. Homes here run newer than in the older towns around Flint: the median one was built in 1979, and about a quarter went up in 2000 or later. Nearly nine in ten are lived in by their owners.",
+      "Lot sizes swing widely. Under the township zoning, a home without sewer in the residential agricultural districts needs at least an acre, while sewered lots can be as small as 14,000 or 20,000 square feet, and cluster subdivisions smaller still. One street can mean a quick weekly cut and the next a long afternoon on a zero turn.",
+      "The ground is heavy. The USDA soil survey maps much of the township as Del Rey silt loam and Conover loam, both somewhat poorly drained, with very wet Sloan soils on the flood plains. The east branch of Swartz Creek runs north through the township, fed by drains such as Brewer and Seaver."
+    ],
+    "points": [
+      { "title": "County roads, county plows", "body": "The Genesee County Road Commission looks after the roads here and plows by traffic: expressways, then main roads, then local roads, with subdivision streets last. It does not give times for any one street." },
+      { "title": "Yard waste goes out Tuesdays", "body": "Republic Services collects curbside on Tuesdays. From April through November, yard waste goes in Kraft paper bags or a marked 30 gallon can, no plastic, and large bushes, stumps and trunks are not taken." },
+      { "title": "Leaves may not be burned", "body": "The township fire department allows burning only logs, limbs, stumps and brush, with a permit. Leaf rakings and ground cover are on its list of things that may not be burned." },
+      { "title": "Big jobs leave in our trailer", "body": "The township's monthly landfill permit does not take yard waste, trees, limbs or bushes either. Whatever we cut, rake or dig out, we haul away ourselves." }
+    ],
+    "photo": "side-yard-stripes"
+  },
+  "logistics": {
+    "title": "How we work in Mundy Township.",
+    "body": [
+      "Call or text Rob at [(810) 990-3040](tel:+18109903040) or send the [estimate form](/get-an-estimate/). He comes out, walks the property with you, suggests what it needs and gives you a price at no charge.",
+      "The township sits just west of Grand Blanc Township, about 15 minutes from our shop on Embury Road. Mowing runs weekly on a set day, cleanups follow the weather and the ground, and winter service gets set up with Rob before the first snow.",
+      "Start with [lawn mowing](/lawn-mowing-mundy-township-mi/), [spring cleanup](/spring-cleanup-mundy-township-mi/), [leaf removal](/leaf-removal-mundy-township-mi/), [landscaping](/landscaping-mundy-township-mi/) or [snow removal](/snow-removal-mundy-township-mi/), or see every [service](/services/) we offer."
+    ],
+    "facts": [
+      { "label": "Who plows the roads", "value": "Genesee County Road Commission" },
+      { "label": "Trash and yard waste", "value": "Republic Services, Tuesdays" },
+      { "label": "Mailing addresses", "value": "Flint, Swartz Creek, Fenton, Grand Blanc or Holly" },
+      { "label": "Estimate", "value": "Free, from Rob in person" }
+    ]
+  },
+  "faq": [
+    { "q": "Do you do lawn care and snow removal in Mundy Township?", "a": "Yes. Grand Scapes mows, does spring and fall cleanups, rebuilds beds and plows driveways in Mundy Township, MI. Rob comes out to see the property and gives a free estimate in person." },
+    { "q": "My address says Swartz Creek or Flint. Am I in Mundy Township?", "a": "Possibly. Homes in the township carry Flint, Swartz Creek, Fenton, Grand Blanc or Holly mailing addresses, and the township hall itself uses a Swartz Creek address. Your tax bill or the township office will confirm it. We work in all of those areas either way." },
+    { "q": "Who plows the roads in Mundy Township?", "a": "The Genesee County Road Commission. It plows expressways first, then main roads, then local roads, and subdivision streets last, and it says it cannot give a time for any one street. Your driveway is up to you, which is where our [snow removal](/snow-removal-mundy-township-mi/) comes in." },
+    { "q": "Can I burn leaves in Mundy Township?", "a": "No. The township fire department's burn permit rules allow only logs, limbs, stumps and brush, and they list leaf rakings and ground cover among the things that may not be burned. A [fall cleanup](/leaf-removal-mundy-township-mi/) hauls the leaves off instead." },
+    { "q": "Why does my yard stay wet after a rain?", "a": "Most of the township sits on Del Rey silt loam or Conover loam, which the USDA soil survey rates somewhat poorly drained, and land near the creek and the drains is wetter still. If a low spot never dries out, ask Rob about [grading](/grading-and-new-lawns/)." }
+  ],
+  "reviews": ["rick-b", "jason-p", "mark-v"],
+  "neighbors": ["grand-blanc", "flint-township", "swartz-creek", "fenton"]
+}

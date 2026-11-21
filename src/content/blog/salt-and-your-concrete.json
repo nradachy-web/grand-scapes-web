@@ -1,0 +1,119 @@
+{
+  "service": "salting",
+  "published": "2026-11-21",
+  "meta": {
+    "title": "Rock salt, your concrete, pets and plants | Grand Scapes",
+    "description": "Rock salt melts ice to about 15 degrees and can worsen scaling. New concrete, pets and plants need care. What MSU Extension, the ASPCA and the FHWA say."
+  },
+  "title": "Rock salt, concrete and **the dog's paws.**",
+  "lede": "Rock salt is the most common ice melt, and it works best near freezing. It also has costs: it can make surface scaling on concrete worse, it is hard on dogs' paws, and it builds up in the beds along a walk. Here is what the sources say, and how to get by with less of it.",
+  "photo": "walk-cleared",
+  "short": [
+    "Rock salt works down to about 15°F pavement. Colder than that, it is too slow to help.",
+    "Shovel first. MSU Extension says to clear as much snow as possible before applying anything.",
+    "Concrete poured this year needs extra care. MSU says not to use deicers on concrete that has not fully cured.",
+    "Never use ammonium nitrate or ammonium sulfate as an ice melt on concrete.",
+    "Wipe your dog's paws after walks on treated pavement, and keep the bag out of reach, the ASPCA says."
+  ],
+  "sections": [
+    {
+      "h": "How rock salt works, and when it stops",
+      "p": [
+        "Ice melt lowers the temperature at which water freezes, so a brine forms and loosens the ice from the pavement. University of Nebraska Extension explains that deicers melt down through the ice to the hard surface and then spread out underneath. That is why they are meant to make shoveling easier, not to melt a whole snowfall.",
+        "Rock salt slows sharply as it gets colder. The Minnesota Pollution Control Agency lists its lowest practical melting temperature as 15°F pavement, and MSU Extension says it is not effective below 15 degrees."
+      ],
+      "table": {
+        "head": ["Pavement temp", "Ice melted by 1 lb of salt", "Time"],
+        "rows": [
+          ["30°F", "About 46 lb", "5 minutes"],
+          ["25°F", "About 14 lb", "10 minutes"],
+          ["20°F", "About 9 lb", "20 minutes"],
+          ["15°F", "About 6 lb", "1 hour"],
+          ["10°F and colder", "About 5 lb or less", "Too slow; dry salt may blow away"]
+        ],
+        "note": "Figures for dry rock salt from the Minnesota Pollution Control Agency, as published in the University of Minnesota's SmartWinterSalt guide."
+      }
+    },
+    {
+      "h": "Other ice melts, side by side",
+      "table": {
+        "head": ["Product", "Lowest practical temp", "Notes"],
+        "rows": [
+          ["Rock salt (sodium chloride)", "15°F", "Inexpensive; can kill vegetation, per MSU"],
+          ["Calcium chloride", "-20°F", "Gives off heat; costs more; slimy residue, per MSU"],
+          ["Magnesium chloride", "-10°F", "Risk of concrete paste damage, per the MPCA"],
+          ["Potassium chloride", "25°F", "Overuse can harm plants, per MSU"],
+          ["Calcium magnesium acetate", "20°F", "Little effect on plants or concrete, per MSU"],
+          ["Sand", "Does not melt", "Traction only; sweep it up in spring"]
+        ],
+        "note": "Temperatures are the Minnesota Pollution Control Agency's lowest practical melting temperatures. MSU Extension's own table lists calcium chloride to -25°F and potassium chloride to 12°F, so numbers vary by source and product."
+      }
+    },
+    {
+      "h": "What salt does to concrete",
+      "p": [
+        "The damage is called scaling: the top surface flakes or peels away and leaves rough, pitted patches. University of Nebraska Extension explains that water soaks into the fine pores of the concrete, freezes, expands and pops small flakes loose. The Federal Highway Administration says chemical deicers amplify that freeze and thaw damage, partly because salty water keeps the concrete wetter.",
+        "Good concrete resists it. Nebraska Extension says outdoor concrete should be air entrained, with tiny bubbles that give freezing water room, should have proper cement content and should be cured correctly. It adds that sealers can keep concrete from absorbing water and salts. The Pennsylvania Aggregates and Concrete Association says sodium chloride or calcium chloride ice melts are generally considered acceptable on good quality, dense concrete."
+      ]
+    },
+    {
+      "h": "New concrete: skip the salt the first winter",
+      "p": [
+        "Fresh concrete is the most likely to scale. MSU Extension says not to use deicers on new concrete that has not fully cured. The Pennsylvania concrete group goes further and says to avoid deicers during the critical first year after placement. Nebraska Extension adds that new concrete should air dry for at least 30 days before its first freeze, which is hard to manage for a slab poured late in the fall.",
+        "If your drive or walk was poured this year, use sand for grip the first winter and shovel early, before snow gets packed down. Tell whoever treats your walks, including us."
+      ],
+      "list": [
+        "**Ammonium nitrate and ammonium sulfate.** Nebraska Extension says they damage concrete more than sodium or calcium chloride, and the Pennsylvania concrete group says never to use them as deicers.",
+        "**A bag that says safe.** The same group points out that a big safe on the front of a bag often comes with conditions in the fine print on the back. Read it."
+      ]
+    },
+    {
+      "h": "Pets and ice melt",
+      "p": [
+        "The ASPCA says rock salt can be harsh on dogs' paws and cause irritation, and that swallowing it can push sodium to dangerous levels. Pet friendly ice melts usually contain urea or magnesium chloride, it says, but there are no specific requirements for labeling a product pet safe, so read the label either way."
+      ],
+      "list": [
+        "Wipe or rinse your dog's paws after a walk on treated pavement.",
+        "Consider booties for a dog with sore or cracked pads.",
+        "Do not let dogs eat salt or slushy snow from treated areas.",
+        "Keep the bag sealed and out of reach. The ASPCA notes some pets will eat it straight from the package.",
+        "If a pet eats ice melt or seems unwell, call your vet or the ASPCA Animal Poison Control Center at (888) 426-4435."
+      ]
+    },
+    {
+      "h": "Plants along the walk",
+      "p": [
+        "MSU Extension says salt damage shows up where road spray coats leaves and buds, and where salt builds up in beds next to walks and driveways. In the soil, sodium keeps roots from taking up nutrients, and chloride builds up in the leaves. White pines, roses, rhododendrons and yews are among the sensitive plants MSU names. They can turn weak, stunted and dried out, and die where salt use is heavy.",
+        "The fixes are simple. Keep salt on the pavement and out of the beds, use coarse sand near sensitive plants, and water those beds in spring if it is a dry one, since spring rain is what usually flushes the salt out. MSU adds that burlap on stakes can block spray along a road."
+      ]
+    },
+    {
+      "h": "How to use less salt",
+      "list": [
+        "**Shovel first.** MSU says clearing as much snow as possible first lets any product work better, so less is needed.",
+        "**Measure it.** The University of Minnesota's guide says a 12 ounce coffee mug holds about a pound of salt, which is enough for about 250 square feet.",
+        "**Do not double up.** The same guide says applying more salt than needed does not melt ice faster.",
+        "**Watch the thermometer.** Below about 15°F, switch to sand or a product made for the cold.",
+        "**Sweep up the leftovers.** MSU suggests sweeping up salt residue once the snow melts, to keep it out of local waterways."
+      ]
+    },
+    {
+      "h": "How we salt",
+      "p": [
+        "Our [salting and sidewalks](/salting-and-sidewalks/) service clears walks and steps first, then spreads ice melt with a walk behind spreader where people walk and cars stop. If your concrete is new, your dog uses the front walk or your beds run along the drive, tell Rob when he walks the property. He will talk through what goes down where. For the drive itself, see our note on [getting ready for the plow](/journal/getting-ready-for-the-plow/)."
+      ]
+    },
+    {
+      "h": "Sources",
+      "list": [
+        "Minnesota Pollution Control Agency, Minnesota Stormwater Manual, How salt works and overview of deicing chemicals",
+        "University of Minnesota LTAP, SmartWinterSalt guide for homeowners",
+        "Michigan State University Extension, Terry Gibb, Winter ice and deicers (2015), and Bob Bricault, Salt damage on landscape plants (2011)",
+        "University of Nebraska Extension, G1121, Winter Deicing Agents for the Homeowner",
+        "Federal Highway Administration, Tech Brief FHWA-HIF-17-008, Chemical Deicers and Concrete Pavement (2018)",
+        "Pennsylvania Aggregates and Concrete Association, Protecting Concrete From Damage Due to Deicers, citing Portland Cement Association research",
+        "ASPCA, Is It Safe to Use De-Icers Around Your Dog? (2026) and Keeping Pets Safe during Winter (2018)"
+      ]
+    }
+  ]
+}

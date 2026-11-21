@@ -10,7 +10,7 @@
     "title": "Your drive, **plowed and walkable.**",
     "lede": "Grand Scapes plows driveways in Clarkston and Independence Township with our own trucks, clears the walks and steps people use, and puts salt down where it actually helps, which near the lakes matters.",
     "chips": ["Our own plow trucks", "Driveways and walks", "Homes and businesses"],
-    "photo": "plow-push"
+    "photo": "plow-pair"
   },
   "local": {
     "eyebrow": "Winter in Clarkston",
@@ -39,9 +39,9 @@
   },
   "photo": "walk-cleared",
   "faq": [
-    { "q": "Do you plow driveways in Clarkston?", "a": "Yes. Grand Scapes plows residential driveways in Clarkston and Independence Township with our own trucks, and we clear and salt walks too. Rob comes out first, looks at the drive and gives you a free estimate." },
+    { "q": "Do you plow driveways in Clarkston?", "a": "Yes. Grand Scapes plows residential driveways in Clarkston and Independence Township with our own trucks, and we clear and salt walks too. Before the season, Rob comes out, looks at the slope and length of the drive and gives you a free estimate." },
     { "q": "When does the county plow subdivision streets in Independence Township?", "a": "After the main roads. The Road Commission for Oakland County sets its order by traffic volume and speed, so subdivision streets are done after everything else, and in a storm that goes on for days its trucks may have to stay on the main roads. A private road is not on the county's list at all; the homeowners along it are responsible." },
-    { "q": "Can snow from my driveway be pushed into the road?", "a": "No. Michigan's vehicle code says a person shall not deposit snow, ice or slush on any roadway or highway, and piles that block a driver's view at the road break the same section. Snow from a Clarkston drive belongs on the yard side, away from the sight line." },
+    { "q": "Can snow from my driveway be pushed into the road?", "a": "No. Michigan's vehicle code says a person shall not deposit snow, ice or slush on any roadway or highway, and snow left on the shoulder where it blocks a driver's view breaks the same section. Snow from a Clarkston drive belongs on the yard side, away from the sight line." },
     { "q": "Does salt still work when it is really cold?", "a": "Less and less. Independence Township's winter tips say most salts stop working well below 15 degrees, and the Road Commission says salt starts losing its effectiveness below 20. On the coldest mornings, sand for traction does more, and less salt ends up in the lakes." },
     { "q": "Will you clear the walk to my front door?", "a": "Yes, walks and steps can be part of the plan, shoveled to the concrete and treated where people walk. In the City of the Village of Clarkston, the public sidewalk along your lot matters too, because the code puts it on owners after a snowfall. Check with the city office about your block." }
   ],

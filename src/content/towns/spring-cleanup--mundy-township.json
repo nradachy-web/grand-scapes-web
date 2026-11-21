@@ -1,0 +1,48 @@
+{
+  "service": "spring-cleanup",
+  "city": "mundy-township",
+  "meta": {
+    "title": "Spring cleanup in Mundy Township, MI | Grand Scapes",
+    "description": "Grand Scapes does spring cleanups in Mundy Township: winter debris out, beds raked and edged, perennials cut back and the first cut timed to the heavy ground."
+  },
+  "hero": {
+    "kicker": "Spring cleanup in Mundy Township, MI",
+    "title": "Winter debris out, **beds ready.**",
+    "lede": "Grand Scapes gets Mundy Township yards ready each spring: sticks and matted leaves out, beds raked and edged, last year's perennials cut back, everything hauled away, and the first cut done once the heavy ground firms up.",
+    "chips": ["Debris hauled off", "Beds edged", "First cut timed right", "Free estimate"],
+    "photo": "mulch-colonial"
+  },
+  "local": {
+    "eyebrow": "Spring in Mundy Township",
+    "title": "Heavy ground **dries slow.**",
+    "intro": "Spring cleanups in Mundy Township work around wet ground. Del Rey silt loam and Conover loam both drain somewhat poorly, and the low land along Swartz Creek and its drains is wetter still. Beds can be cleaned early, but the lawn needs time before a mower belongs on it.",
+    "points": [
+      { "title": "Beds first, lawn second", "body": "MSU Extension warns that turning mowers on saturated soil packs it and damages turf. So on soft ground we start in the beds and on the hard surfaces, and the first cut waits for a few dry days." },
+      { "title": "Young beds, soft edges", "body": "Newer homes make up about a quarter of the township, and their beds are still finding their shape. Spring is the time to recut a soft edge, pull the first weeds and decide on mulch." },
+      { "title": "Spring bloomers wait", "body": "MSU Extension says lilac, forsythia, spirea and weigela set their flower buds the summer before. We take out dead and broken wood in spring and leave the shaping until after they bloom." },
+      { "title": "Debris leaves with us", "body": "Republic starts taking paper bags of yard waste on Tuesdays in April, but not large bushes, stumps or trunks. Everything from the cleanup goes in our trailer, so your bags are free for the rest of the season." }
+    ]
+  },
+  "logistics": {
+    "title": "How a Mundy Township spring cleanup runs.",
+    "body": [
+      "Rob picks the date with you when the snow has melted off and you can walk the yard without leaving prints. The crew starts in the beds and on the drive and walks, and the lawn gets its first cut when it is firm enough not to rut.",
+      "We pick up sticks and winter debris across the yard, rake and blow matted leaves out of beds and fence lines, cut back last year's perennials and grasses, recut bed edges with a spade, and haul it all away. The hard surfaces get blown off at the end.",
+      "From here, most yards roll into weekly [lawn mowing in Mundy Township](/lawn-mowing-mundy-township-mi/) and fresh [mulch](/mulch-and-flower-beds/)."
+    ],
+    "facts": [
+      { "label": "Timing", "value": "After the thaw, once it firms up" },
+      { "label": "Beds", "value": "Raked, cut back, edged" },
+      { "label": "Debris", "value": "Hauled off in our trailer" },
+      { "label": "Estimate", "value": "Free, in person" }
+    ]
+  },
+  "photo": "block-bed-wide",
+  "faq": [
+    { "q": "Do you do spring cleanups in Mundy Township?", "a": "Yes. Grand Scapes does spring cleanups in Mundy Township: winter debris and matted leaves out, beds raked, cut back and edged, everything hauled away, and the first mow done when the ground is ready. Rob comes out and quotes it free." },
+    { "q": "When should I do a spring cleanup in Michigan?", "a": "When the snow is gone and the ground holds your weight without squishing. Beds and hard surfaces can be cleaned first. MSU Extension warns against turning mowers on saturated soil, and on the township's heavy ground the first cut often waits for a dry stretch." },
+    { "q": "Do you haul away the debris?", "a": "Yes. Sticks, leaves, cut back perennials and anything else from the cleanup go in our trailer and leave with us. Your Republic yard waste bags stay free for the rest of the season." },
+    { "q": "Can you trim my shrubs during the spring cleanup?", "a": "We can take out dead and broken branches then. For spring bloomers like lilac, forsythia and spirea, MSU Extension says to wait until right after they flower to shape them, since they set their buds the summer before. Rob can schedule that second visit." }
+  ],
+  "reviews": ["stacy", "mark-v", "rick-b"]
+}

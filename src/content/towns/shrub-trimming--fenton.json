@@ -1,0 +1,72 @@
+{
+  "service": "shrub-trimming",
+  "city": "fenton",
+  "meta": {
+    "title": "Shrub and hedge trimming in Fenton, MI | Grand Scapes",
+    "description": "Shrub and hedge trimming in Fenton, MI: Grand Scapes shapes shrubs and hedges back to clean lines at the right time of year, then hauls the clippings away."
+  },
+  "hero": {
+    "kicker": "Shrub and hedge trimming in Fenton, MI",
+    "title": "Hedges back **in line.**",
+    "lede": "Grand Scapes trims Fenton shrubs and hedges back to clean shapes, at the right time of year for each plant, then rakes the clippings out of the beds and hauls them off. Bushes that are past saving can come out instead.",
+    "chips": ["Shaped to the plant", "Clippings hauled off", "Old bushes removed"],
+    "photo": "gazebo-hedges"
+  },
+  "local": {
+    "eyebrow": "Shrubs in Fenton",
+    "title": "Timing matters more than **the shears.**",
+    "intro": "Most shrub trouble is a timing problem. Cut a lilac or a forsythia in early spring and you cut off its flowers. Shear a juniper hard and it may never fill back in. Around here there is one more thing to watch this year: the box tree moth, now confirmed in Genesee County.",
+    "points": [
+      {
+        "title": "Spring bloomers wait until after they flower",
+        "body": "Lilac, forsythia, spirea, weigela and many viburnums set next spring's flower buds the summer before. MSU Extension says spring flowering shrubs are best pruned right after they finish blooming, so they go on the list for late spring."
+      },
+      {
+        "title": "Most others before new growth",
+        "body": "For many shrubs, MSU puts the ideal time in late winter or early spring before new growth starts, and calls early summer, just after the new growth, the least desirable time. Dead and broken branches can come out any time."
+      },
+      {
+        "title": "Narrow at the top",
+        "body": "A hedge trimmed wider at the top than the bottom shades out its own lower branches and goes bare at the base. MSU's advice is to keep the top narrower so light reaches all the way down, and that is how we shape them."
+      },
+      {
+        "title": "Boxwood and the box tree moth",
+        "body": "The state confirmed the moth in Genesee County in September 2026 and said the county would be added to the quarantine, which limits moving boxwood material. If you have boxwood, we check for webbing and chewed leaves as we trim and talk to you before any boxwood clippings leave the yard."
+      }
+    ]
+  },
+  "logistics": {
+    "title": "A trimming visit, start to finish.",
+    "body": [
+      "Rob walks the beds with you and points out what should be trimmed now, what should wait until after it blooms, and anything too far gone to save. You get a price for the visit before we start.",
+      "Formal hedges get the shears and a straight line. Shrubs that look better loose get thinned and shaped instead of clipped into balls, since MSU notes deciduous shrubs generally do better thinned than sheared. Clippings are raked out of the mulch, the walks get blown off, and the debris leaves in our trailer.",
+      "A bush that has outgrown its spot can come out roots and all as [bush removal](/bush-removal/), and the empty bed can be rebuilt as [landscaping](/landscaping-fenton-mi/)."
+    ],
+    "facts": [
+      { "label": "Lilac, forsythia", "value": "Right after they bloom" },
+      { "label": "Most other shrubs", "value": "Late winter or early spring" },
+      { "label": "Clippings", "value": "Raked out and hauled off" },
+      { "label": "Estimate", "value": "Free, Rob walks the beds" }
+    ]
+  },
+  "photo": "neighborhood-stripes",
+  "faq": [
+    {
+      "q": "Do you trim shrubs and hedges in Fenton?",
+      "a": "Yes. Grand Scapes trims shrubs and hedges in the City of Fenton and the township, timed to each plant, and hauls the clippings away. Old bushes past saving can come out, and we can follow up with fresh [mulch](/mulch-installation-fenton-mi/). Call [(810) 990-3040](tel:+18109903040) for a free estimate."
+    },
+    {
+      "q": "When should I trim my lilacs?",
+      "a": "Right after they finish blooming. MSU Extension says lilacs form next year's flower buds the summer before, so pruning them in early spring cuts off most of the flowers. Lilacs also bloom best with six or more hours of full sun."
+    },
+    {
+      "q": "Can an overgrown yew or juniper be cut back hard?",
+      "a": "A yew usually can. MSU says yews handle hard pruning, though trimming them more often keeps them from getting overgrown in the first place. Junipers are different: they do not sprout from bare interior branches, so a hard cut can leave a permanent hole, and sometimes removal is the better call."
+    },
+    {
+      "q": "Is the box tree moth around Fenton?",
+      "a": "It has been confirmed in Genesee County. The state announced the find in September 2026, made through USDA trapping near the edge of the quarantine that already includes Oakland and Livingston counties next door. It feeds only on boxwood, so if you have some, watch for webbing and chewed leaves and report anything suspicious to the state."
+    }
+  ],
+  "reviews": ["reckless-cards", "bob-s"]
+}

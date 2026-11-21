@@ -1,0 +1,48 @@
+{
+  "service": "lawn-mowing",
+  "city": "swartz-creek",
+  "meta": {
+    "title": "Lawn Mowing in Swartz Creek, MI | Grand Scapes",
+    "description": "Weekly lawn mowing in Swartz Creek, MI by Grand Scapes: mowed, trimmed, edged along curbs and sidewalks and blown off, timed around ground that stays wet."
+  },
+  "hero": {
+    "kicker": "Lawn mowing in Swartz Creek, MI",
+    "title": "Curb, sidewalk, drive, **edged clean.**",
+    "lede": "Grand Scapes mows Swartz Creek lawns weekly: mowed, trimmed, edged along the curb, the sidewalk and the drive, and blown off so the walk is clean when we pull away. On ground that holds water after rain, the timing matters as much as the mower.",
+    "chips": ["Weekly mowing", "Edged along curb and walk", "Blown off", "Clean stripes"],
+    "photo": "neighborhood-stripes"
+  },
+  "local": {
+    "eyebrow": "Mowing in Swartz Creek",
+    "title": "City lots with **a lot of edges.**",
+    "intro": "Mowing a Swartz Creek lawn is mostly edges. The city's plan says most local streets have sidewalks, on street parking and trees along the right of way, so a typical front yard has a walk across it, a strip by the street and a drive down the side. Add soil the same plan calls wet and poorly drained, and the job is as much about lines and timing as cutting grass.",
+    "points": [
+      { "title": "Two hard edges out front", "body": "With a public walk crossing most front yards, there are two straight lines to keep instead of one. Both get edged, and the clippings get blown back onto the lawn rather than into the street, since the city reminds everyone its storm drains run straight to the river." },
+      { "title": "Wet ground after rain", "body": "Near the creek and its floodplain the water table runs high, and lawns stay soft after a storm. Mowing soggy turf leaves ruts that outlast the rain, so a wet low corner can wait a few days and get picked up on the next pass." },
+      { "title": "Older lawns, bigger trees", "body": "Neighborhoods built in the 1950s and 60s have had a long time to grow trees, and grass under them thins out. MSU Extension recommends mowing Michigan lawns at about 3.5 inches, which builds deeper roots and crowds out weeds, and a thin lawn needs every bit of that." },
+      { "title": "The six inch rule", "body": "The city's grass ordinance sets a limit of six inches on average. One missed week in a wet June can push a lawn toward it. A weekly visit keeps you nowhere near the line, including the weeks you are out of town." }
+    ]
+  },
+  "logistics": {
+    "title": "What a mowing week looks like in Swartz Creek.",
+    "body": [
+      "The crew comes weekly through the season. Each visit the lawn is mowed, trimmed around trees, beds and fences, edged along the curb, walk and drive, and every hard surface is blown clean. On time each week and careful at the edges is the standard.",
+      "Smaller city lots mean the trailer usually waits at the curb while the mower works. If the street is packed with cars on your day, or there is a gate or a dog to know about, tell Rob at the first visit.",
+      "Toward fall the late cuts start picking up leaves, and when that is more than a mower can handle, a [leaf cleanup](/leaf-removal-swartz-creek-mi/) takes over."
+    ],
+    "facts": [
+      { "label": "How often", "value": "Weekly through the season" },
+      { "label": "Every visit", "value": "Mowed, trimmed, edged, blown off" },
+      { "label": "City grass limit", "value": "Six inches on average" },
+      { "label": "Estimate", "value": "Free, Rob looks at the lawn" }
+    ]
+  },
+  "photo": "walk-edge",
+  "faq": [
+    { "q": "Who mows lawns in Swartz Creek, MI?", "a": "Grand Scapes mows lawns every week in Swartz Creek, from small lots near downtown to bigger yards on the edges of the city. Each visit includes mowing, trimming, edging along the curb and sidewalk, and blowing off. Rob comes out first and gives you a price." },
+    { "q": "How often should my lawn be mowed?", "a": "Weekly through most of the season. MSU Extension's rule of thumb is to take no more than a third of the grass blade at a time, and during the spring growth surge in May and June a Michigan lawn can outgrow that in a week. Weekly mowing also keeps a Swartz Creek lawn well under the city's six inch limit." },
+    { "q": "Do you mow when the yard is wet?", "a": "Not when it would rut. Lawns near the creek and in low spots hold water after rain, and heavy equipment on soft turf leaves tracks that last for weeks. What is firm gets mowed, and the soft corner waits for the next visit rather than getting torn up." },
+    { "q": "What mowing height is right for a Michigan lawn?", "a": "MSU Extension recommends 3.5 inches, including in the fall. Taller grass grows a bigger root system, holds up better in dry spells and crowds out weeds. Tell Rob at the first visit if you want yours cut differently." }
+  ],
+  "reviews": ["stacy", "rick-b"]
+}

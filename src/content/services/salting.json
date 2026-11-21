@@ -8,7 +8,12 @@
     "kicker": "Salting and sidewalk clearing in Grand Blanc, MI",
     "title": "Walks cleared, **steps salted.**",
     "lede": "Grand Scapes shovels walks and steps down to the concrete and spreads ice melt where people walk and cars stop, at homes and businesses in Grand Blanc and across Genesee County. It pairs with our [driveway plowing](/snow-removal/), so the drive, the walk and the steps are handled together.",
-    "chips": ["Walks to the concrete", "Ice melt where it counts", "Homes and businesses", "Licensed and insured"],
+    "chips": [
+      "Walks to the concrete",
+      "Ice melt where it counts",
+      "Homes and businesses",
+      "Licensed and insured"
+    ],
     "photo": "salt-spreader"
   },
   "blocks": [
@@ -36,10 +41,22 @@
       "intro": "Most ice melt is rock salt, which is sodium chloride. It is inexpensive and it works, within limits.",
       "columns": 2,
       "items": [
-        { "title": "Good to about 15°F", "body": "The Minnesota Pollution Control Agency lists 15°F pavement as the lowest practical temperature for rock salt, and MSU Extension says it is not effective below 15 degrees. Colder than that, it works too slowly to help." },
-        { "title": "Fast near freezing", "body": "At 30°F, one pound of rock salt melts about 46 pounds of ice in 5 minutes, by the Minnesota agency's numbers. At 15°F the same pound melts about 6 pounds, and it takes an hour." },
-        { "title": "More is not faster", "body": "The University of Minnesota's winter salt guide says applying more salt than needed does not melt ice faster. The extra ends up on boots, floors and the edge of the lawn." },
-        { "title": "Sand for grip", "body": "When it is too cold for salt, sand gives traction without melting anything. MSU Extension lists sand and grit as anti slip options, with a sweep up in spring." }
+        {
+          "title": "Good to about 15°F",
+          "body": "The Minnesota Pollution Control Agency lists 15°F pavement as the lowest practical temperature for rock salt, and MSU Extension says it is not effective below 15 degrees. Colder than that, it works too slowly to help."
+        },
+        {
+          "title": "Fast near freezing",
+          "body": "At 30°F, one pound of rock salt melts about 46 pounds of ice in 5 minutes, by the Minnesota agency's numbers. At 15°F the same pound melts about 6 pounds, and it takes an hour."
+        },
+        {
+          "title": "More is not faster",
+          "body": "The University of Minnesota's winter salt guide says applying more salt than needed does not melt ice faster. The extra ends up on boots, floors and the edge of the lawn."
+        },
+        {
+          "title": "Sand for grip",
+          "body": "When it is too cold for salt, sand gives traction without melting anything. MSU Extension lists sand and grit as anti slip options, with a sweep up in spring."
+        }
       ]
     },
     {
@@ -48,13 +65,52 @@
       "eyebrow": "Choosing ice melt",
       "title": "Three ways to deal with **an icy walk.**",
       "intro": "From MSU Extension and the Minnesota Pollution Control Agency. Each one has a trade off, and none is right for every walk.",
-      "columns": ["Rock salt", "Calcium chloride", "Sand"],
+      "columns": [
+        "Rock salt",
+        "Calcium chloride",
+        "Sand"
+      ],
       "rows": [
-        { "label": "Lowest useful temp", "values": ["About 15°F", "About -20°F", "Any, but it does not melt"] },
-        { "label": "How it works", "values": ["Melts, but slows sharply in the cold", "Gives off heat and melts on contact", "Adds grip only"] },
-        { "label": "Plants", "values": ["Can kill vegetation, per MSU", "Not as damaging as salt, per MSU", "No salt to build up in beds"] },
-        { "label": "Concrete", "values": ["Can make scaling worse", "Can make scaling worse", "No chemical effect"] },
-        { "label": "Cost and cleanup", "values": ["Inexpensive; sweep leftovers in spring", "Costs more; can leave a slimy residue", "Has to be swept up in spring"] }
+        {
+          "label": "Lowest useful temp",
+          "values": [
+            "About 15°F",
+            "About -20°F",
+            "Any, but it does not melt"
+          ]
+        },
+        {
+          "label": "How it works",
+          "values": [
+            "Melts, but slows sharply in the cold",
+            "Gives off heat and melts on contact",
+            "Adds grip only"
+          ]
+        },
+        {
+          "label": "Plants",
+          "values": [
+            "Can kill vegetation, per MSU",
+            "Not as damaging as salt, per MSU",
+            "No salt to build up in beds"
+          ]
+        },
+        {
+          "label": "Concrete",
+          "values": [
+            "Can make scaling worse",
+            "Can make scaling worse",
+            "No chemical effect"
+          ]
+        },
+        {
+          "label": "Cost and cleanup",
+          "values": [
+            "Inexpensive; sweep leftovers in spring",
+            "Costs more; can leave a slimy residue",
+            "Has to be swept up in spring"
+          ]
+        }
       ]
     },
     {
@@ -64,9 +120,21 @@
       "title": "Three things **to tell Rob.**",
       "columns": 3,
       "items": [
-        { "tag": "New concrete", "title": "Poured this year", "body": "Fresh concrete is the most at risk. MSU Extension says not to use deicers on concrete that has not fully cured, and Pennsylvania's concrete industry group says to avoid them through the first year. If your drive or walk is new, we can talk about sand." },
-        { "tag": "Pets", "title": "A dog that uses the walk", "body": "The ASPCA says rock salt can be harsh on dogs' paws, and that there is no specific requirement for a product to be labeled pet safe. Wipe paws when the dog comes in, and tell Rob where the dog goes out." },
-        { "tag": "Plants", "title": "Beds along the walk", "body": "MSU Extension says salt builds up in beds beside walks and driveways, and names white pines, roses, rhododendrons and yews as sensitive. We aim the spreader at the pavement, not the beds." }
+        {
+          "tag": "New concrete",
+          "title": "Poured this year",
+          "body": "Fresh concrete is the most at risk. MSU Extension says not to use deicers on concrete that has not fully cured, and Pennsylvania's concrete industry group says to avoid them through the first year. If your drive or walk is new, we can talk about sand."
+        },
+        {
+          "tag": "Pets",
+          "title": "A dog that uses the walk",
+          "body": "The ASPCA says rock salt can be harsh on dogs' paws, and that there is no specific requirement for a product to be labeled pet safe. Wipe paws when the dog comes in, and tell Rob where the dog goes out."
+        },
+        {
+          "tag": "Plants",
+          "title": "Beds along the walk",
+          "body": "MSU Extension says salt builds up in beds beside walks and driveways, and names white pines, roses, rhododendrons and yews as sensitive. We aim the spreader at the pavement, not the beds."
+        }
       ]
     },
     {
@@ -79,7 +147,10 @@
         "One rule covers everyone in Michigan. The state vehicle code, MCL 257.677a, says a person shall not deposit snow, ice or slush on any roadway or highway, and Grand Blanc Township asks residents not to shovel snow back into the road. Snow from the walks stays on your side of the curb."
       ],
       "photo": "drive-cleared",
-      "cta": { "label": "Salt and your concrete", "href": "/journal/salt-and-your-concrete/" }
+      "cta": {
+        "label": "Salt and your concrete",
+        "href": "/journal/salt-and-your-concrete/"
+      }
     }
   ],
   "faq": [
@@ -124,10 +195,22 @@
     "title": "What salting and sidewalks include.",
     "intro": "Walks and steps cleared to the concrete, then ice melt spread where people walk and cars stop. It pairs with driveway plowing, and Rob quotes it after he has walked the property. The estimate is free.",
     "items": [
-      { "name": "Walks and steps", "detail": "Shoveled down to the concrete before anything is spread." },
-      { "name": "Ice melt", "detail": "Spread from a walk behind spreader on walks, steps and the drive." },
-      { "name": "Where it goes", "detail": "Doorways, steps, garage aprons and the end of the drive." },
-      { "name": "Talked through first", "detail": "New concrete, pets and the beds along the walk, before the season starts." }
+      {
+        "name": "Walks and steps",
+        "detail": "Shoveled down to the concrete before anything is spread."
+      },
+      {
+        "name": "Ice melt",
+        "detail": "Spread from a walk behind spreader on walks, steps and the drive."
+      },
+      {
+        "name": "Where it goes",
+        "detail": "Doorways, steps, garage aprons and the end of the drive."
+      },
+      {
+        "name": "Talked through first",
+        "detail": "New concrete, pets and the beds along the walk, before the season starts."
+      }
     ],
     "footnote": "Licensed and insured. We do not publish prices, because every property is different."
   }

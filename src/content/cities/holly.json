@@ -8,7 +8,12 @@
     "kicker": "Landscaping, lawn care and snow removal in Holly, MI",
     "title": "Village lots and **up north acreage.**",
     "lede": "Grand Scapes mows, cleans up, rebuilds beds and plows driveways in Holly, from the older village streets around downtown to the lake lots and wooded acreage out in the township. Rob comes out, walks the yard with you and quotes it.",
-    "chips": ["Weekly mowing", "Leaves vacuumed and hauled", "Beds and block walls", "Driveway plowing"],
+    "chips": [
+      "Weekly mowing",
+      "Leaves vacuumed and hauled",
+      "Beds and block walls",
+      "Driveway plowing"
+    ],
     "photo": "tree-line-stripes"
   },
   "about": {
@@ -20,11 +25,26 @@
       "The ground underneath is glacial too: loamy till on much of the higher ground, sandy outwash across a good share of the township, and mucky soil in the low spots and bogs. A lawn on the sandy stretches browns out first in a dry July, and a bed dug near a wetland edge stays wet into June. We plan the work around which of those your yard has."
     ],
     "points": [
-      { "title": "Gravel roads and a late county plow", "body": "Most outer township roads are gravel, and the road commission puts sand on them because salt does little on gravel. Subdivision streets get plowed after the main roads. When the road is slow to open, a driveway that is already clear is the part you can count on." },
-      { "title": "Older, tighter village lots", "body": "Inside the village, homes sit closer together, with pockets planned at up to seven houses an acre and walks, curbs and alleys around them. That is trimmer and edger work, and the clippings have to end up on the lawn, not on the neighbor's drive." },
-      { "title": "Oaks that drop late", "body": "The township's plan says its uplands grew up in oak, and MSU Extension notes many oaks hold their dead leaves into winter. Leaves keep coming down after a yard looks finished, so a late fall visit earns its keep on a wooded lot." },
-      { "title": "Young yards on rolling ground", "body": "Nearly 40% of township homes went up between 2000 and 2010. Many of those yards are still young: graded slopes, builder foundation shrubs that have outgrown the windows, and beds that were never really finished." },
-      { "title": "No township truck for leaves", "body": "The township runs no garbage collection, and its fall cleanup day turns away leaves. In the village they go out in paper bags or marked containers through November 30, and the village does not allow leaves or brush to be burned." }
+      {
+        "title": "Gravel roads and a late county plow",
+        "body": "Most outer township roads are gravel, and the road commission puts sand on them because salt does little on gravel. Subdivision streets get plowed after the main roads. When the road is slow to open, a driveway that is already clear is the part you can count on."
+      },
+      {
+        "title": "Older, tighter village lots",
+        "body": "Inside the village, homes sit closer together, with pockets planned at up to seven houses an acre and walks, curbs and alleys around them. That is trimmer and edger work, and the clippings have to end up on the lawn, not on the neighbor's drive."
+      },
+      {
+        "title": "Oaks that drop late",
+        "body": "The township's plan says its uplands grew up in oak, and MSU Extension notes many oaks hold their dead leaves into winter. Leaves keep coming down after a yard looks finished, so a late fall visit earns its keep on a wooded lot."
+      },
+      {
+        "title": "Young yards on rolling ground",
+        "body": "Nearly 40% of township homes went up between 2000 and 2010. Many of those yards are still young: graded slopes, builder foundation shrubs that have outgrown the windows, and beds that were never really finished."
+      },
+      {
+        "title": "No township truck for leaves",
+        "body": "The township runs no garbage collection, and its fall cleanup day turns away leaves. In the village they go out in paper bags or marked containers through November 30, and the village does not allow leaves or brush to be burned."
+      }
     ],
     "photo": "leaf-slope"
   },
@@ -36,19 +56,55 @@
       "We work in Holly from our shop on Embury Road in Grand Blanc, about 20 minutes north. Call [(810) 990-3040](tel:+18109903040), [text Rob](sms:+18109903040) or send the [estimate form](/get-an-estimate/)."
     ],
     "facts": [
-      { "label": "Estimate", "value": "Free, after Rob walks the yard" },
-      { "label": "Outer township roads", "value": "Mostly gravel, plowed by the county" },
-      { "label": "Village leaf pickup", "value": "Paper bags or marked containers, April 1 to November 30" },
-      { "label": "Coverage", "value": "Licensed and insured" }
+      {
+        "label": "Estimate",
+        "value": "Free, after Rob walks the yard"
+      },
+      {
+        "label": "Outer township roads",
+        "value": "Mostly gravel, plowed by the county"
+      },
+      {
+        "label": "Village leaf pickup",
+        "value": "Paper bags or marked containers, April 1 to November 30"
+      },
+      {
+        "label": "Coverage",
+        "value": "Licensed and insured"
+      }
     ]
   },
   "faq": [
-    { "q": "Do you do lawn care and landscaping in Holly, MI?", "a": "Yes. Grand Scapes works in the Village of Holly and across Holly Township from our shop in Grand Blanc. We do [weekly lawn mowing](/lawn-mowing-holly-mi/), [spring cleanups](/spring-cleanup-holly-mi/), [fall leaf removal](/leaf-removal-holly-mi/), [mulch and bed work](/mulch-installation-holly-mi/), [landscaping](/landscaping-holly-mi/) and [snow removal](/snow-removal-holly-mi/). Overgrown bushes and small trees, yes; big trees, no." },
-    { "q": "Who plows the road in front of my house?", "a": "It depends on which side of the village line you live on. Inside the village, its public works department plows the streets, alleys and dirt roads. Out in the township, the Road Commission for Oakland County plows, and it works main roads first and subdivision streets last. Either way, the end of your driveway is yours, and that is the part we clear." },
-    { "q": "Can I burn leaves in Holly?", "a": "Not in the village. The fire department's burn permit rules list leaves and brush among the things that cannot be burned. In the outer township, all open burning needs a permit from the North Oakland County Fire Authority under the township ordinance. Rules change, so check with them first, or have a [fall cleanup](/leaf-removal-holly-mi/) haul the leaves away." },
-    { "q": "Is the soil sandy around Holly?", "a": "In places. The township's master plan describes glacial sand and gravel, with loamy soils under the village and most of the built up areas, sandy outwash soils across a good share of the township, and muck near the lakes and wetlands. MSU Extension notes that sandy soil holds less water than loam, so those lawns brown out sooner in a dry spell." },
-    { "q": "When is overnight parking banned on village streets in winter?", "a": "The village snow ordinance, as last published, bans parking on village streets from 3 to 7 AM between December 1 and March 30, so the plows can get through. Check with the village office for the current wording. It also means more cars in driveways overnight, so tell us where yours usually sit." }
+    {
+      "q": "Do you do lawn care and landscaping in Holly, MI?",
+      "a": "Yes. Grand Scapes works in the Village of Holly and across Holly Township from our shop in Grand Blanc. We do [weekly lawn mowing](/lawn-mowing-holly-mi/), [spring cleanups](/spring-cleanup-holly-mi/), [fall leaf removal](/leaf-removal-holly-mi/), [mulch and bed work](/mulch-installation-holly-mi/), [landscaping](/landscaping-holly-mi/) and [snow removal](/snow-removal-holly-mi/). Overgrown bushes and small trees, yes; big trees, no."
+    },
+    {
+      "q": "Who plows the road in front of my house?",
+      "a": "It depends on which side of the village line you live on. Inside the village, its public works department plows the streets, alleys and dirt roads. Out in the township, the Road Commission for Oakland County plows, and it works main roads first and subdivision streets last. Either way, the end of your driveway is yours, and that is the part we clear."
+    },
+    {
+      "q": "Can I burn leaves in Holly?",
+      "a": "Not in the village. The fire department's burn permit rules list leaves and brush among the things that cannot be burned. In the outer township, all open burning needs a permit from the North Oakland County Fire Authority under the township ordinance. Rules change, so check with them first, or have a [fall cleanup](/leaf-removal-holly-mi/) haul the leaves away."
+    },
+    {
+      "q": "Is the soil sandy around Holly?",
+      "a": "In places. The township's master plan describes glacial sand and gravel, with loamy soils under the village and most of the built up areas, sandy outwash soils across a good share of the township, and muck near the lakes and wetlands. MSU Extension notes that sandy soil holds less water than loam, so those lawns brown out sooner in a dry spell."
+    },
+    {
+      "q": "When is overnight parking banned on village streets in winter?",
+      "a": "The village snow ordinance, as last published, bans parking on village streets from 3 to 7 AM between December 1 and March 30, so the plows can get through. Check with the village office for the current wording. It also means more cars in driveways overnight, so tell us where yours usually sit."
+    }
   ],
-  "reviews": ["rick-b", "bob-s", "james-a"],
-  "neighbors": ["fenton", "grand-blanc", "clarkston", "linden"]
+  "reviews": [
+    "stacy",
+    "jason-p",
+    "bob-s"
+  ],
+  "neighbors": [
+    "fenton",
+    "grand-blanc",
+    "clarkston",
+    "linden"
+  ]
 }

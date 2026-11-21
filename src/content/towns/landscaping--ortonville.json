@@ -1,0 +1,90 @@
+{
+  "service": "landscaping",
+  "city": "ortonville",
+  "meta": {
+    "title": "Landscaping in Ortonville, MI | Grand Scapes",
+    "description": "Landscaping in Ortonville and Brandon Township: overgrown beds dug out and rebuilt, block or boulder edges on slopes, then fabric and fresh mulch."
+  },
+  "hero": {
+    "kicker": "Landscaping in Ortonville, MI",
+    "title": "Rolling ground, **level beds.**",
+    "lede": "Grand Scapes rebuilds landscapes in Ortonville and Brandon Township: old shrubs and small trees out, beds reshaped, block walls or boulders where the ground slopes, then fabric and fresh mulch. Rob walks it first and quotes a price.",
+    "chips": [
+      "Beds rebuilt",
+      "Boulders and block walls",
+      "Free estimate"
+    ],
+    "photo": "tree-bed-drive"
+  },
+  "local": {
+    "eyebrow": "Landscaping in Ortonville",
+    "title": "Woods, wetlands and **a house on a hill.**",
+    "intro": "Brandon Township's master plan sums up why people move here: rolling hills, woodlands, wetlands and lakes. The township counts more than 2,300 acres of tree rows and woodland and close to 3,100 acres of wetland. Landscaping around Ortonville works with that ground, not against it.",
+    "points": [
+      {
+        "title": "Slopes",
+        "body": "Rolling ground means beds on banks. A boulder wall or a low block wall gives a sloped bed a level shelf, the way a curved boulder wall can hold a newly graded slope below a deck."
+      },
+      {
+        "title": "Homes from the 1980s",
+        "body": "The median home in Brandon Township was built in 1984, so plenty of foundation shrubs have had four decades to outgrow their spots. Digging them out by the roots, as with one reviewer's 25 year old bushes, gives the bed a real fresh start."
+      },
+      {
+        "title": "Near the creek and wetlands",
+        "body": "Kearsley Creek's main problem is sediment, and the township plan points to bare construction ground and cleared streamsides among the causes. A bed rebuilt near a ditch, creek or wetland edge gets covered in mulch promptly so the soil stays put."
+      },
+      {
+        "title": "Invasive plants to watch",
+        "body": "Brandon Township says phragmites are common here and Asian bittersweet turns up too. If either has crept into a bed or a tree line, point it out at the walk through; the township has guidance on dealing with both."
+      }
+    ]
+  },
+  "logistics": {
+    "title": "How an Ortonville landscaping job runs.",
+    "body": [
+      "Rob comes out, walks the yard and the slopes, suggests what to keep and what to replace, then quotes it. On bigger properties a compact track loader does the digging, so old shrubs come out roots and all and the trailer hauls them off.",
+      "Once the beds are shaped and edged, fabric goes down where it helps, then 2 to 3 inches of mulch kept back from trunks and stems. For upkeep afterward, ask about [landscape maintenance](/landscape-maintenance/); for bare or rough ground, see [grading and new lawns](/grading-and-new-lawns/)."
+    ],
+    "facts": [
+      {
+        "label": "Estimate",
+        "value": "Free, after a walk through"
+      },
+      {
+        "label": "Edges on slopes",
+        "value": "Block walls or boulders"
+      },
+      {
+        "label": "Old shrubs",
+        "value": "Dug out by the roots and hauled"
+      },
+      {
+        "label": "Not included",
+        "value": "Big tree removal"
+      }
+    ]
+  },
+  "photo": "boulder-wall",
+  "faq": [
+    {
+      "q": "Do you do landscaping in Ortonville, MI?",
+      "a": "Yes. Grand Scapes does landscaping in Ortonville and Brandon Township: bed makeovers, shrub and small tree removal, block walls, boulders and natural edges, plants, fabric and mulch. Rob walks the yard and gives you a free estimate."
+    },
+    {
+      "q": "Can you build a bed on a slope?",
+      "a": "Yes. On a rolling Ortonville lot, a boulder wall or block wall gives the bed a level shelf so soil and mulch stay where they were put. Rob will suggest which edge suits the grade and the look of the house."
+    },
+    {
+      "q": "Can you remove overgrown bushes?",
+      "a": "Yes, roots and all, and small trees too. One reviewer had 25 year old bushes and a cherry tree taken out, the bed rebuilt with black mesh and mulch, and a natural edge cut, all in two days. Big trees go to a tree crew. See [bush removal](/bush-removal/)."
+    },
+    {
+      "q": "When is a good time for landscaping in Ortonville?",
+      "a": "Beds can be rebuilt any time the ground can be worked, spring through fall. If an oak stands near the work, Brandon Township says not to prune oaks in the warmer months, and MSU Extension puts the riskiest stretch at April 15 to July 15, so any oak cuts wait for cold weather."
+    }
+  ],
+  "reviews": [
+    "jason-p",
+    "stephanie-s"
+  ]
+}

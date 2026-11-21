@@ -1,0 +1,71 @@
+{
+  "service": "snow-removal",
+  "city": "linden",
+  "meta": {
+    "title": "Snow removal and plowing in Linden, MI | Grand Scapes",
+    "description": "Snow plowing and salting in Linden, MI by Grand Scapes: driveways and walks cleared with our own trucks, on city streets and Fenton Township roads alike."
+  },
+  "hero": {
+    "kicker": "Snow removal in Linden, MI",
+    "title": "A drive you can **back out of.**",
+    "lede": "Grand Scapes plows Linden driveways with our own trucks and puts ice melt down on walks and steps. The city's crew clears city streets and the county clears the township roads; your drive and walks are the part we handle.",
+    "chips": ["Our own trucks", "Driveways and walks", "City and township"],
+    "photo": "plow-drive"
+  },
+  "local": {
+    "eyebrow": "Snow in Linden",
+    "title": "A small DPW and **17 miles of streets.**",
+    "intro": "The City of Linden's public works department is a five person staff that looks after water, sewer, parks and city buildings as well as more than 17 miles of streets, including snow and ice removal and the city's dirt roads. Just past the city limits, Fenton Township roads belong to the Genesee County Road Commission, which reaches subdivision streets after everything else.",
+    "points": [
+      {
+        "title": "No street parking all winter",
+        "body": "The city's fall newsletter says no on-street parking from November 1 to March 31, starting at 2:30 in the morning; check with City Hall for the exact hours. A clear street lets the plow work curb to curb, and a drive that is already open means the car has somewhere to go."
+      },
+      {
+        "title": "Dirt roads and gravel edges",
+        "body": "Some city streets are dirt, and the DPW grades them and keeps the dust down in season. Where a drive meets a gravel shoulder or a soft lawn edge, show Rob when he walks it, so the edges are marked before the ground freezes."
+      },
+      {
+        "title": "The county clears the township last",
+        "body": "On Fenton Township roads around the city, the county's winter policy puts subdivision streets and gravel local roads fourth, plowed and graded but left snow covered, with no overtime. Linden Road is one of the primary roads that comes first."
+      },
+      {
+        "title": "Salt and the river",
+        "body": "Linden sits on the Shiawassee, and the road commission notes that salt runs off into lakes and streams. MSU Extension adds that salt piles up in beds beside walks and drives. Ice melt goes on walks and steps where people step, not broadcast across the yard."
+      }
+    ]
+  },
+  "logistics": {
+    "title": "How a Linden snow season gets set up.",
+    "body": [
+      "Before the first storm, Rob walks the property and looks at the drive, the walks and steps, where you park, and where the snow can go without landing in a flower bed or out in the street. Then he explains the residential package options.",
+      "The trucks are our own white pickups with stainless plows, and a walk behind spreader puts down ice melt on walks and steps. Snow is piled on your property. MCL 257.677a, part of the state vehicle code, says snow, ice or slush may not be deposited on any roadway, so none of it goes into the street."
+    ],
+    "facts": [
+      { "label": "City streets", "value": "Cleared by the city's DPW" },
+      { "label": "Township roads", "value": "Genesee County Road Commission" },
+      { "label": "Winter street parking", "value": "None Nov 1 to Mar 31, check hours" },
+      { "label": "Estimate", "value": "Free, Rob walks the drive" }
+    ]
+  },
+  "photo": "walk-cleared",
+  "faq": [
+    {
+      "q": "Do you plow driveways in Linden?",
+      "a": "Yes. Grand Scapes plows residential driveways in the City of Linden and on the Fenton Township roads around it with our own trucks, and we [salt walks and steps](/salting-and-sidewalks/) as well. Rob walks the property first and explains the options. Call [(810) 990-3040](tel:+18109903040) or [text Rob](sms:+18109903040)."
+    },
+    {
+      "q": "Can I park on the street in Linden during the winter?",
+      "a": "Not overnight. The city's fall 2026 newsletter lists no on-street parking from November 1 through March 31, beginning at 2:30 in the morning. Confirm the exact hours with City Hall before the first snow."
+    },
+    {
+      "q": "Who plows the roads just outside the city?",
+      "a": "The Genesee County Road Commission plows the Fenton Township roads around Linden. US-23 and primary roads like Linden Road come first, then local roads, then subdivision streets, and the road commission asks people to allow 48 hours for local roads after a storm."
+    },
+    {
+      "q": "Will a plow damage my mailbox or lawn edge?",
+      "a": "It can happen with any plow, ours or the road crew's. The road commission encourages owners to check their mailbox and post before winter and replace a worn one. Marking the drive edges before the ground freezes keeps a blade off the grass and the curb."
+    }
+  ],
+  "reviews": ["rick-b", "stacy"]
+}

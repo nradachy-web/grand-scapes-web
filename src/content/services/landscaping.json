@@ -8,7 +8,12 @@
     "kicker": "Landscaping in Grand Blanc, MI and across Genesee County",
     "title": "Old beds out. **New lines in.**",
     "lede": "Grand Scapes tears out tired beds and builds them back: a new shape, a gray block wall or a cut natural edge, new plants, landscape fabric and fresh mulch. Rob comes out to look at the yard himself, suggests what it needs and quotes the job before anything gets dug.",
-    "chips": ["Old beds dug out", "Block wall or natural edge", "Plants, fabric and mulch", "Free estimate"],
+    "chips": [
+      "Old beds dug out",
+      "Block wall or natural edge",
+      "Plants, fabric and mulch",
+      "Free estimate"
+    ],
     "photo": "stone-house-bed"
   },
   "blocks": [
@@ -35,7 +40,10 @@
       "eyebrow": "Real jobs",
       "title": "Two tired beds, **rebuilt.**",
       "intro": "Two of our own jobs. Drag the line across each photo to compare the bed we found with the bed we left.",
-      "pairs": ["ba-drive", "ba-front"],
+      "pairs": [
+        "ba-drive",
+        "ba-front"
+      ],
       "checks": [
         "Old brick borders pulled out",
         "Gray block walls set in their place",
@@ -114,14 +122,21 @@
         "Town pages for [Fenton](/landscaping-fenton-mi/), [Davison](/landscaping-davison-mi/), [Flint](/landscaping-flint-mi/) and [Clarkston](/landscaping-clarkston-mi/)",
         "Every town we work in is on the [service areas](/service-areas/) page"
       ],
-      "cta": { "label": "More on Grand Blanc", "href": "/service-areas/grand-blanc-mi/" }
+      "cta": {
+        "label": "More on Grand Blanc",
+        "href": "/service-areas/grand-blanc-mi/"
+      }
     },
     {
       "type": "reviews",
       "plane": "ink",
       "eyebrow": "On Google",
       "title": "What people wrote **after the dig.**",
-      "ids": ["bob-s", "james-a"]
+      "ids": [
+        "reckless-cards",
+        "mark-v",
+        "kandice-w"
+      ]
     },
     {
       "type": "cards",
@@ -196,11 +211,26 @@
     "title": "A landscaping job, start to finish.",
     "intro": "Most landscaping jobs are a bed rebuild: what is there comes out, and the bed goes back together with a new shape, border, plants and mulch. Rob quotes each job after he walks the yard, and the estimate is free.",
     "items": [
-      { "name": "Tear out", "detail": "Old shrubs, small trees, borders, weeds and tired mulch dug out and hauled away." },
-      { "name": "New shape", "detail": "A new bed line, curved or straight, cut to fit the house and the lawn." },
-      { "name": "Border", "detail": "A low gray block wall, boulders, or a cut natural edge that keeps the chips in." },
-      { "name": "Plants", "detail": "New plants picked for the spot and for the size they will grow to." },
-      { "name": "Fabric and mulch", "detail": "Landscape fabric where it suits the bed, then fresh black, brown or red mulch." }
+      {
+        "name": "Tear out",
+        "detail": "Old shrubs, small trees, borders, weeds and tired mulch dug out and hauled away."
+      },
+      {
+        "name": "New shape",
+        "detail": "A new bed line, curved or straight, cut to fit the house and the lawn."
+      },
+      {
+        "name": "Border",
+        "detail": "A low gray block wall, boulders, or a cut natural edge that keeps the chips in."
+      },
+      {
+        "name": "Plants",
+        "detail": "New plants picked for the spot and for the size they will grow to."
+      },
+      {
+        "name": "Fabric and mulch",
+        "detail": "Landscape fabric where it suits the bed, then fresh black, brown or red mulch."
+      }
     ],
     "footnote": "Big trees are not our work. Patios and paver work are not on our list either, so ask Rob when he comes out if you need them."
   }

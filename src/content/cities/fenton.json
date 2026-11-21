@@ -1,0 +1,107 @@
+{
+  "city": "fenton",
+  "meta": {
+    "title": "Lawn care and snow removal in Fenton, MI | Grand Scapes",
+    "description": "Grand Scapes mows lawns, rebuilds beds, clears leaves and plows drives in Fenton, MI, from the river downtown to the lakes out in the township."
+  },
+  "hero": {
+    "kicker": "Lawn care, landscaping and snow removal in Fenton, MI",
+    "title": "River town, lake town, **one crew.**",
+    "lede": "Grand Scapes keeps Fenton yards mowed, edged and cleaned up, and the drives open in winter. The city grew up on the Shiawassee River and the township holds the lakes, and the yards in each ask for different things.",
+    "chips": [
+      "City and township",
+      "Lakefront lawns",
+      "Mowing, beds, snow"
+    ],
+    "photo": "cul-de-sac-stripes"
+  },
+  "about": {
+    "eyebrow": "Yards around here",
+    "title": "A downtown on the river and a township that is **about an eighth water.**",
+    "body": [
+      "There are two governments on the map. The city grew up along the Shiawassee River, with a dam downtown and over 60 miles of streets that its own public works crew maintains and plows. The charter township wraps around it and holds the lakes: the census counts about 13 percent of the township as water, and Lake Fenton, once called Long Lake, fills its northeast corner. The city even reaches into three counties, though nearly everyone lives on the Genesee side.",
+      "The ground changes block by block. The USDA soil survey maps the city as a patchwork of well drained Wawasee loam, sandy Boyer loamy sand, wetter Conover and Wasepi soils and pockets of muck, and the land around the lakes holds more muck still. So one lawn can scorch on a sandy rise in July while the yard two doors down is still soft by the water in May."
+    ],
+    "points": [
+      {
+        "title": "Lake lawns need a strip of something taller",
+        "body": "MSU Extension says lawn grasses have shallow roots that cannot hold a shoreline against waves, and suggests a buffer of native plants between the turf and the water. We mow a clean line to that buffer and keep clippings on the lawn, never on the drive, the road or the lake."
+      },
+      {
+        "title": "Sand dries out, muck stays wet",
+        "body": "On the sandy, well drained soils the grass runs out of water first in a dry summer, so a high cut matters. On muck and Conover loam the trouble is the opposite: soft turf that ruts. Your [lawn mowing](/lawn-mowing-fenton-mi/) plan should know which one you have."
+      },
+      {
+        "title": "City yard waste and brush",
+        "body": "In the city, Priority Waste picks up yard waste on Wednesdays from April through November. Separately, the DPW runs a brush chipping program from May 1 to September 30, one pickup per house per year, booked by calling City Hall before Friday noon."
+      },
+      {
+        "title": "The county plows the township",
+        "body": "The Genesee County Road Commission plows every public road and many private roads in the township. One county crew also covers Argentine, Gaines and Mundy townships, over 500 miles of road, and subdivision streets come after US-23, the primary roads and the local roads."
+      },
+      {
+        "title": "Salt finds the water",
+        "body": "The road commission itself notes that road salt runs off into lakes and streams, and MSU Extension says salt builds up in beds next to drives and walks. On a lake lot we keep ice melt to the walks and steps where people actually step."
+      }
+    ],
+    "photo": "block-bed-side"
+  },
+  "logistics": {
+    "title": "A set day for your yard, every week of the season.",
+    "body": [
+      "Fenton is about 20 minutes south of our shop on Embury Road, so yards here go on a set day of the week rather than whenever a truck happens to be close. Rob comes down for the estimate, walks the property with you, suggests what it needs and gives you a price before anything is scheduled.",
+      "On a lake lot, mention the access when you call: a narrow side yard, a steep path to the water, a gate, or a dog that needs to stay in. Tell us once and the crew will know."
+    ],
+    "facts": [
+      {
+        "label": "Township roads",
+        "value": "Plowed by the county road commission"
+      },
+      {
+        "label": "City yard waste",
+        "value": "Wednesdays, April through November"
+      },
+      {
+        "label": "City brush chipping",
+        "value": "May 1 to September 30, call City Hall"
+      },
+      {
+        "label": "Estimate",
+        "value": "Free, with Rob on site"
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "Do you mow lawns in Fenton?",
+      "a": "Yes. Grand Scapes mows lawns in the city and the township every week: mowed, trimmed, edged and blown off. We also do [spring cleanup](/spring-cleanup-fenton-mi/), [leaf removal](/leaf-removal-fenton-mi/), [mulch installation](/mulch-installation-fenton-mi/), [shrub trimming](/shrub-trimming-fenton-mi/), [landscaping](/landscaping-fenton-mi/) and [snow removal](/snow-removal-fenton-mi/) here, plus [commercial snow removal](/commercial-snow-removal-fenton-mi/) for lots."
+    },
+    {
+      "q": "Who plows the roads in Fenton Township?",
+      "a": "The Genesee County Road Commission plows all public roads and many private roads in the township. Its order is US-23 first, then primary roads like Fenton, Linden and Owen Roads, then local roads, then subdivision streets, then private roads under contract. The city plows its own streets."
+    },
+    {
+      "q": "Does the City of Fenton pick up brush?",
+      "a": "Yes, once a year per house. The DPW's brush chipping program runs May 1 through September 30; call City Hall before Friday noon and stack the brush by the road with the cut ends facing the street for a Monday pickup. It does not take bagged material, lawn clippings, root balls or landscape timbers."
+    },
+    {
+      "q": "Can I mow a lakefront lawn right down to the water?",
+      "a": "You can, but MSU Extension advises against it. Lawn grass roots are too shallow to hold a shoreline against waves, and a strip of native plants between the lawn and the water slows erosion and runoff. The township also posts its own riparian and shoreline information, so check with it before reshaping the bank."
+    },
+    {
+      "q": "Is Fenton in Genesee County or Oakland County?",
+      "a": "Mostly Genesee. The city reaches into Genesee, Oakland and Livingston counties, one of only two Michigan municipalities that span three, but nearly all of its homes are on the Genesee side. The charter township around it is a Genesee County township."
+    }
+  ],
+  "reviews": [
+    "reckless-cards",
+    "mark-v",
+    "rick-b"
+  ],
+  "neighbors": [
+    "linden",
+    "holly",
+    "grand-blanc",
+    "mundy-township"
+  ]
+}

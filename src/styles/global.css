@@ -550,6 +550,16 @@ h2 {
   background: rgb(255 255 255 / 0.07);
 }
 
+.ink .light .btn.ghost {
+  border-color: rgb(17 20 17 / 0.28);
+  color: var(--text);
+}
+
+.ink .light .btn.ghost:hover {
+  border-color: var(--text);
+  background: rgb(17 20 17 / 0.04);
+}
+
 .btn.small {
   min-height: 2.875rem;
   padding: 0.5rem 1.1rem;

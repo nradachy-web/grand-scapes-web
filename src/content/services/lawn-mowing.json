@@ -8,7 +8,12 @@
     "kicker": "Weekly lawn mowing in Grand Blanc, MI and across Genesee County",
     "title": "Clean stripes, **every week.**",
     "lede": "Grand Scapes mows lawns every week of the season in Grand Blanc and Grand Blanc Township. Every visit is mowed, trimmed, edged along the curb and walks, and blown off clean. Rob comes out, looks at the lawn and gives you a free estimate.",
-    "chips": ["Mowed and trimmed", "Edged at curbs and walks", "Blown off clean", "Licensed and insured"],
+    "chips": [
+      "Mowed and trimmed",
+      "Edged at curbs and walks",
+      "Blown off clean",
+      "Licensed and insured"
+    ],
     "photo": "curve-stripes-colonial"
   },
   "blocks": [
@@ -81,7 +86,14 @@
       "eyebrow": "Real lawns",
       "title": "Some of the stripes **we left behind.**",
       "intro": "Our own job photos. The pattern follows the yard: arcs across a big side lot, straight lines on a ranch front, a curve that follows the drive around a cul-de-sac.",
-      "photos": ["ranch-stripes", "side-yard-stripes", "cul-de-sac-stripes", "checker-close", "tree-line-stripes", "neighborhood-stripes"]
+      "photos": [
+        "ranch-stripes",
+        "side-yard-stripes",
+        "cul-de-sac-stripes",
+        "checker-close",
+        "tree-line-stripes",
+        "neighborhood-stripes"
+      ]
     },
     {
       "type": "intro",
@@ -95,14 +107,20 @@
       ],
       "photo": "truck-trailer",
       "flip": true,
-      "cta": { "label": "See every town we cover", "href": "/service-areas/" }
+      "cta": {
+        "label": "See every town we cover",
+        "href": "/service-areas/"
+      }
     },
     {
       "type": "reviews",
       "plane": "ink",
       "eyebrow": "On Google",
       "title": "From our **weekly customers.**",
-      "ids": ["stacy", "rick-b"]
+      "ids": [
+        "stacy",
+        "rick-b"
+      ]
     },
     {
       "type": "plan",
@@ -154,10 +172,22 @@
     "title": "Weekly mowing, the whole visit.",
     "intro": "Every weekly visit from Grand Scapes includes four jobs, done together. Rob looks at the lawn first and quotes the weekly service. The estimate is free.",
     "items": [
-      { "name": "Mowing", "detail": "Zero turn mowers, finished in clean stripes." },
-      { "name": "Trimming", "detail": "Along fences, beds, trees and anywhere the mower cannot reach." },
-      { "name": "Edging", "detail": "A sharp line at the curb, the driveway and the walks." },
-      { "name": "Blowing off", "detail": "Clippings blown off the drive, the walks and the patio." }
+      {
+        "name": "Mowing",
+        "detail": "Zero turn mowers, finished in clean stripes."
+      },
+      {
+        "name": "Trimming",
+        "detail": "Along fences, beds, trees and anywhere the mower cannot reach."
+      },
+      {
+        "name": "Edging",
+        "detail": "A sharp line at the curb, the driveway and the walks."
+      },
+      {
+        "name": "Blowing off",
+        "detail": "Clippings blown off the drive, the walks and the patio."
+      }
     ],
     "footnote": "Licensed and insured. Spring and fall cleanups, leaf removal and winter plowing can go on the same estimate."
   }

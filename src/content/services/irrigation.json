@@ -8,7 +8,12 @@
     "kicker": "Sprinkler repair and irrigation in Grand Blanc, MI",
     "title": "Water on the lawn, **not the drive.**",
     "lede": "Grand Scapes handles lawn sprinkler work in Grand Blanc and around Genesee County: repairs, new lines and zones where the lawn is not getting water, and service through the season. Call or text Rob and tell him what your system is doing.",
-    "chips": ["Sprinkler repairs", "New lines and zones", "Seasonal service", "Free estimate"],
+    "chips": [
+      "Sprinkler repairs",
+      "New lines and zones",
+      "Seasonal service",
+      "Free estimate"
+    ],
     "photo": "sprinkler-lawn"
   },
   "blocks": [
@@ -160,10 +165,22 @@
     "title": "Irrigation work, kept simple.",
     "intro": "Grand Scapes handles lawn sprinkler repairs, new lines and zones, and service through the season. Rob looks at the system first and quotes what it needs, and the estimate is free.",
     "items": [
-      { "name": "Repairs", "detail": "Broken heads and leaking lines fixed." },
-      { "name": "Adjustments", "detail": "Heads set to water the lawn, not the drive or the walk." },
-      { "name": "New lines and zones", "detail": "Coverage added where the lawn is not getting water." },
-      { "name": "Seasonal service", "detail": "Upkeep through the year. Ask Rob what your system needs." }
+      {
+        "name": "Repairs",
+        "detail": "Broken heads and leaking lines fixed."
+      },
+      {
+        "name": "Adjustments",
+        "detail": "Heads set to water the lawn, not the drive or the walk."
+      },
+      {
+        "name": "New lines and zones",
+        "detail": "Coverage added where the lawn is not getting water."
+      },
+      {
+        "name": "Seasonal service",
+        "detail": "Upkeep through the year. Ask Rob what your system needs."
+      }
     ]
   }
 }

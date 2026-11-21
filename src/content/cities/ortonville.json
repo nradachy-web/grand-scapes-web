@@ -8,8 +8,12 @@
     "kicker": "Lawn care, landscaping and snow removal in Ortonville, MI",
     "title": "Village lots and **long drives.**",
     "lede": "Grand Scapes mows, cleans up, landscapes and plows in Ortonville and the rest of Brandon Township, from small lots near the old mill to acreage on rolling back roads where the driveway is longer than some streets.",
-    "chips": ["Weekly mowing", "Leaf removal", "Driveway plowing"],
-    "photo": "tree-line-stripes"
+    "chips": [
+      "Weekly mowing",
+      "Leaf removal",
+      "Driveway plowing"
+    ],
+    "photo": "young-tree-stripes"
   },
   "about": {
     "eyebrow": "Yards in Ortonville",
@@ -17,13 +21,25 @@
     "body": [
       "Ortonville grew up around Amos Orton's dam and gristmill on Kearsley Creek, and the village still calls itself the downtown of Brandon Township. It covers about one square mile. Around it, the township's 2022 master plan describes rolling hills, woodlands, wetlands and lakes, and that is what most yards out here look like.",
       "Lot sizes run the whole range. The township counts more than 3,000 parcels under 8,000 square feet and more than 2,000 between one and two and a half acres, while parcels over ten acres cover the most ground. A village lot needs a careful mow and a clean edge; five acres needs a wide deck, a plan for the leaves and a long plowed drive.",
-      "We work in Ortonville and Brandon Township from our shop on Embury Road in Grand Blanc. Rob comes out, walks the property with you and gives you a free estimate."
+      "We work in Ortonville and Brandon Township from our shop on Embury Road in Grand Blanc. Rob comes out, walks the property with you, village lot or acreage, and gives you a free estimate."
     ],
     "points": [
-      { "title": "Kearsley Creek", "body": "Kearsley Creek is a cold water trout stream with its headwaters in Brandon Township. The master plan names sediment as its main problem, from eroding banks, cleared streamsides, construction sites and roadside ditches, so clippings, leaves and loose soil belong on the lawn, not in the ditch." },
-      { "title": "Sand, till and muck", "body": "The USDA soil survey maps the village largely as sandy, well drained outwash, with loamy till on the higher farm ground and wet muck in the low spots around the township. One lot can go from dry to soggy as it runs downhill." },
-      { "title": "Burning by permit", "body": "In Brandon Township, open burning takes a yearly permit from the Brandon Fire Department. Dry leaves are allowed and wet ones are not, and lots under 3 acres follow the burn calendar." },
-      { "title": "Gravel and back roads", "body": "The Road Commission for Oakland County runs every road in the township except M-15, and its gravel roads get sand rather than salt, since salt does little on gravel. A gravel drive gets plowed to move snow, not stone." }
+      {
+        "title": "Kearsley Creek",
+        "body": "Kearsley Creek is a cold water trout stream with its headwaters in Brandon Township. The master plan names sediment as its main problem, from eroding banks, cleared streamsides, construction sites and roadside ditches, so clippings, leaves and loose soil belong on the lawn, not in the ditch."
+      },
+      {
+        "title": "Sand, till and muck",
+        "body": "The USDA soil survey maps the village largely as sandy, well drained outwash, with loamy till across much of the township and wet muck in its low spots. One lot can go from dry to soggy as it runs downhill."
+      },
+      {
+        "title": "Burning by permit",
+        "body": "In Brandon Township, open burning takes a yearly permit from the Brandon Fire Department. Dry leaves are allowed and wet ones are not, and lots under 3 acres follow the burn calendar."
+      },
+      {
+        "title": "Gravel and back roads",
+        "body": "The Road Commission for Oakland County runs every road in the township except M-15, and its gravel roads get sand rather than salt, since salt does little on gravel. A gravel drive gets plowed to move snow, not stone."
+      }
     ],
     "photo": "truck-trailer"
   },
@@ -34,18 +50,50 @@
       "Call or text Rob at [(810) 990-3040](tel:+18109903040), or use the [estimate form](/get-an-estimate/). Tell him whether you are in the village or the township, and whether the drive is paved or gravel."
     ],
     "facts": [
-      { "label": "Drive from our shop", "value": "About 25 minutes from Embury Road" },
-      { "label": "Leaf burning", "value": "Brandon Fire Department permit, dry leaves only" },
-      { "label": "Who plows the roads", "value": "Road Commission, except M-15" },
-      { "label": "Estimate", "value": "Free, after Rob walks the property" }
+      {
+        "label": "Drive from our shop",
+        "value": "About 25 minutes from Embury Road"
+      },
+      {
+        "label": "Leaf burning",
+        "value": "Brandon Fire Department permit, dry leaves only"
+      },
+      {
+        "label": "Who plows the roads",
+        "value": "Road Commission, except M-15"
+      },
+      {
+        "label": "Estimate",
+        "value": "Free, after Rob walks the property"
+      }
     ]
   },
   "faq": [
-    { "q": "Do you work in Ortonville, MI?", "a": "Yes. Grand Scapes works in Ortonville and Brandon Township: [weekly mowing](/lawn-mowing-ortonville-mi/), [landscaping](/landscaping-ortonville-mi/), [leaf removal](/leaf-removal-ortonville-mi/) and [snow removal](/snow-removal-ortonville-mi/), plus [spring cleanups](/spring-cleanup/), [mulch](/mulch-and-flower-beds/) and [shrub trimming](/shrub-trimming/). It starts with a free estimate." },
-    { "q": "Is Ortonville part of Brandon Township?", "a": "Yes. The Village of Ortonville sits inside Brandon Township and has its own council and DPW, while the Brandon Fire Department, with a station in the village, issues the burn permits. When you call, tell Rob which side of the village line you are on." },
-    { "q": "Can I burn leaves in Ortonville?", "a": "In Brandon Township, dry leaves can be burned with a yearly permit from the Brandon Fire Department, on calendar days for lots under 3 acres, and never within 50 feet of a building or in the road right of way. Inside the village, check with the village office first. Or skip the smoke and have us haul them." },
-    { "q": "Do you plow long driveways in Brandon Township?", "a": "Yes. Rob walks a long drive before the season to see the grade, the turns and where the snow can go, then explains the options. We plow with our own trucks and can clear and salt the walks too." }
+    {
+      "q": "Do you work in Ortonville, MI?",
+      "a": "Yes. Grand Scapes works in Ortonville and Brandon Township: [weekly mowing](/lawn-mowing-ortonville-mi/), [landscaping](/landscaping-ortonville-mi/), [leaf removal](/leaf-removal-ortonville-mi/) and [snow removal](/snow-removal-ortonville-mi/), plus [spring cleanups](/spring-cleanup/), [mulch](/mulch-and-flower-beds/) and [shrub trimming](/shrub-trimming/). It starts with a free estimate."
+    },
+    {
+      "q": "Is Ortonville part of Brandon Township?",
+      "a": "Yes. The Village of Ortonville sits inside Brandon Township and has its own council and DPW, while the Brandon Fire Department, with a station in the village, issues the burn permits. When you call, tell Rob which side of the village line you are on."
+    },
+    {
+      "q": "Can I burn leaves in Ortonville?",
+      "a": "In Brandon Township, dry leaves can be burned with a yearly permit from the Brandon Fire Department, on calendar days for lots under 3 acres, and never within 50 feet of a building or in the road right of way. Inside the village, check with the village office first. Or skip the smoke and have us haul them."
+    },
+    {
+      "q": "Do you plow long driveways in Brandon Township?",
+      "a": "Yes. Rob walks a long drive before the season to see the grade, the turns and where the snow can go, then explains the options. We plow with our own trucks and can clear and salt the walks too."
+    }
   ],
-  "reviews": ["rick-b", "stacy", "bob-s"],
-  "neighbors": ["goodrich", "clarkston", "holly"]
+  "reviews": [
+    "stephanie-s",
+    "reckless-cards",
+    "mark-v"
+  ],
+  "neighbors": [
+    "goodrich",
+    "clarkston",
+    "holly"
+  ]
 }

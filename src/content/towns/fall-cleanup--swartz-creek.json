@@ -1,0 +1,48 @@
+{
+  "service": "fall-cleanup",
+  "city": "swartz-creek",
+  "meta": {
+    "title": "Leaf Removal in Swartz Creek, MI | Grand Scapes",
+    "description": "Fall cleanup and leaf removal in Swartz Creek, MI by Grand Scapes: leaves vacuumed into our trailer and hauled off, so nothing goes in bags or down the drain."
+  },
+  "hero": {
+    "kicker": "Fall cleanup and leaf removal in Swartz Creek, MI",
+    "title": "Street trees, small lots, **no bags.**",
+    "lede": "Grand Scapes clears Swartz Creek yards each fall: leaves blown out of the beds and off the lawn, vacuumed into our trailer and hauled away, beds cut back, and the walk and curb line left clean. No paper bags to fill and nothing washed into a storm drain.",
+    "chips": ["Vacuumed and hauled", "Beds cut back", "No bags at the curb", "Walks left clean"],
+    "photo": "leaf-curb"
+  },
+  "local": {
+    "eyebrow": "Leaves in Swartz Creek",
+    "title": "The storm drain **goes to the river.**",
+    "intro": "Fall leaves in Swartz Creek have three ways out: paper yard waste bags on trash day, your own compost pile, or a crew that hauls them off. The one the city asks you never to use is the storm drain. Its fall newsletter is blunt about it: leaves in a drain or a ditch go straight to the river.",
+    "points": [
+      { "title": "Paper bags, Tuesdays, through November", "body": "The city calendar says yard waste goes out with the trash on Tuesdays from April through November, in paper yard waste bags or a marked container of 30 pounds or less, with no plastic bags. A couple of big trees can fill a lot of those." },
+      { "title": "Why the drains matter", "body": "The creek is the city's main drain, and the newsletter explains that rotting leaves feed algae and pull oxygen out of the water, which hurts the fish. A cleanup that vacuums the leaves up keeps them off the street and away from the grates." },
+      { "title": "Wet lawns under wet leaves", "body": "Much of the city's soil already stays wet, and MSU turf specialists say a leaf mat left over winter smothers the turf, slows spring green up and may bring more snow mold. A soggy lawn does not need a wet blanket on top of it." },
+      { "title": "Leaves from the street side too", "body": "Most local streets have trees along the right of way, so the front lawn and walk catch leaves from the street as well as from your own trees. The walk and the curb line get blown clean as part of the job." }
+    ]
+  },
+  "logistics": {
+    "title": "A Swartz Creek fall cleanup, start to finish.",
+    "body": [
+      "Rob looks at the trees and the yard and tells you whether one visit will do or whether a second one after the last trees drop makes sense. Then you get a price.",
+      "The crew blows the leaves out of the beds and off the lawn into rows, pulls them into the truck mounted leaf vacuum and hauls them off in our dump trailer. Beds are cut back, and the walk and drive are blown clean before we go.",
+      "Sticks and brush from the cleanup ride out in the trailer too. If you would rather put some out yourself, the city chips brush every other week from April through October, so check the city calendar for the rules."
+    ],
+    "facts": [
+      { "label": "Leaves", "value": "Vacuumed up and hauled away" },
+      { "label": "City yard waste", "value": "Tuesdays, April to November, paper only" },
+      { "label": "Storm drains", "value": "Never for leaves, per the city" },
+      { "label": "Estimate", "value": "Free" }
+    ]
+  },
+  "photo": "leaf-loader",
+  "faq": [
+    { "q": "Do you do leaf removal in Swartz Creek?", "a": "Yes. Grand Scapes does fall cleanups and leaf removal in Swartz Creek. We blow leaves out of the beds and off the lawn, vacuum them into our trailer and haul them away, then cut back the beds and blow off the walks. Rob walks the yard first and quotes it." },
+    { "q": "Can I rake leaves into the street?", "a": "The city asks residents not to put leaves in storm drains or ditches, because those drains run directly to the river and rotting leaves harm the water. Leaves left in the street end up in those drains. Bag them in paper for yard waste day, compost them, or have them hauled off." },
+    { "q": "When should leaves be cleaned up in the fall?", "a": "Once most of your trees have dropped, and before the first snow that stays. MSU turf specialists say a mat of leaves left over winter smothers grass, slows spring green up and may mean more snow mold. With big trees on or near the lot, two visits often work better than one." },
+    { "q": "Will you haul brush too?", "a": "Yes, sticks and brush from the cleanup go in our trailer. If you have a pile of your own, the city chips brush every other week from April through October, with the cut ends toward the road and nothing thicker than 4 inches." }
+  ],
+  "reviews": ["rick-b", "stacy"]
+}

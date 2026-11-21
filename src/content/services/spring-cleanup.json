@@ -8,7 +8,12 @@
     "kicker": "Spring cleanup in Grand Blanc, MI and across Genesee County",
     "title": "Winter out. **Edges back.**",
     "lede": "A spring cleanup from Grand Scapes clears out what winter left behind: leaves, sticks, matted grass and last year's dead stems. We clean the beds, cut a fresh edge, give the lawn its first cut and leave the yard ready for mulch, in Grand Blanc and across Genesee County.",
-    "chips": ["Leaves and sticks out", "Beds cleaned", "Fresh bed edges", "First cut done"],
+    "chips": [
+      "Leaves and sticks out",
+      "Beds cleaned",
+      "Fresh bed edges",
+      "First cut done"
+    ],
     "photo": "block-bed-trailer"
   },
   "blocks": [
@@ -105,14 +110,21 @@
       ],
       "photo": "mulch-crew",
       "flip": true,
-      "cta": { "label": "Add mulch to the cleanup", "href": "/mulch-and-flower-beds/" }
+      "cta": {
+        "label": "Add mulch to the cleanup",
+        "href": "/mulch-and-flower-beds/"
+      }
     },
     {
       "type": "reviews",
       "plane": "ink",
       "eyebrow": "On Google",
       "title": "From customers we see **all season.**",
-      "ids": ["rick-b", "stacy"]
+      "ids": [
+        "mark-v",
+        "rick-b",
+        "stacy"
+      ]
     },
     {
       "type": "plan",
@@ -160,10 +172,22 @@
     "title": "Spring cleanup, the whole reset.",
     "intro": "A spring cleanup from Grand Scapes is one visit that clears out winter and gets the yard ready for the season. Rob looks at the yard first and quotes it, and the estimate is free.",
     "items": [
-      { "name": "Debris out", "detail": "Leaves, sticks and winter mess cleared from the lawn and the beds." },
-      { "name": "Beds cleaned", "detail": "Old stems and ornamental grasses cut back, the beds cleared out." },
-      { "name": "Fresh edges", "detail": "Bed edges recut to a clean line." },
-      { "name": "First cut", "detail": "The season's first mow, with the drive and walks blown off." }
+      {
+        "name": "Debris out",
+        "detail": "Leaves, sticks and winter mess cleared from the lawn and the beds."
+      },
+      {
+        "name": "Beds cleaned",
+        "detail": "Old stems and ornamental grasses cut back, the beds cleared out."
+      },
+      {
+        "name": "Fresh edges",
+        "detail": "Bed edges recut to a clean line."
+      },
+      {
+        "name": "First cut",
+        "detail": "The season's first mow, with the drive and walks blown off."
+      }
     ],
     "footnote": "Fresh mulch and shrub trimming can be added to the same visit."
   }

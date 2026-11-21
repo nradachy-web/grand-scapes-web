@@ -1,0 +1,76 @@
+{
+  "service": "snow-removal",
+  "city": "fenton",
+  "meta": {
+    "title": "Snow removal and plowing in Fenton, MI | Grand Scapes",
+    "description": "Driveway plowing and salting in Fenton, MI by Grand Scapes, with our own trucks, on city streets and on township roads where the county plows subdivisions last."
+  },
+  "hero": {
+    "kicker": "Snow removal in Fenton, MI",
+    "title": "Drives plowed, **walks salted.**",
+    "lede": "Grand Scapes plows Fenton driveways with our own trucks and puts ice melt down on the walks and steps. Out in the township the county plows subdivision streets last, so your own drive is the part you can count on.",
+    "chips": ["Our own trucks", "Drives, walks, steps", "Residential packages"],
+    "photo": "plow-deep"
+  },
+  "local": {
+    "eyebrow": "Snow in Fenton",
+    "title": "Who plows your road decides **how the morning goes.**",
+    "intro": "In the City of Fenton, the city's DPW plows the streets and hauls snow out of downtown. In the township, the Genesee County Road Commission plows every public road and many private ones, and the crew that covers Fenton Township also covers Argentine, Gaines and Mundy, over 500 miles in all. Subdivision streets come near the end of that list.",
+    "points": [
+      {
+        "title": "The county's order of work",
+        "body": "The township lists it plainly: US-23 first, then primary roads like Fenton, Linden and Owen Roads, then local roads paved and unpaved, then subdivision streets, then private roads under contract. The road commission asks for 48 hours on local roads after a storm."
+      },
+      {
+        "title": "Snow covered by design",
+        "body": "The county's winter policy treats subdivision streets and gravel roads as plow only, snow covered, with no overtime. A cleared driveway often opens onto a packed street, which makes salt on your walks, steps and the bottom of the drive count for more."
+      },
+      {
+        "title": "The ridge at the end of the drive",
+        "body": "County crews plow half the road one way and then the other, and the policy calls the snow pushed into driveways unavoidable. Trucks also come back later to blade the edges wider. When Rob walks the property, tell him how early you leave."
+      },
+      {
+        "title": "Salt near the lakes",
+        "body": "The road commission notes that salt runs off into lakes and streams, and MSU Extension says it builds up in beds beside drives and walks. On a lake lot, ice melt goes where people walk, not scattered along the whole edge of the lawn."
+      }
+    ]
+  },
+  "logistics": {
+    "title": "How a snow season gets set up here.",
+    "body": [
+      "Rob walks the property before the snow flies: the length of the drive, the walks and steps, where the cars park, and where snow can be piled without burying a shrub bed or sliding toward the water. Then he explains the residential package options and what each one covers.",
+      "The trucks are white pickups with stainless plows, and they are ours. Snow gets stacked on your side of the street. Michigan's vehicle code, MCL 257.677a, bars depositing snow, ice or slush on any roadway, so it never gets pushed across to the other side.",
+      "Before winter, the road commission suggests checking your mailbox and post, since plowing can knock over a tired one. Edge markers help our drivers find a drive that disappears under the first big storm; ask about them at the estimate."
+    ],
+    "facts": [
+      { "label": "Trucks", "value": "Our own, plows and spreaders" },
+      { "label": "Township roads", "value": "County plows subdivisions last" },
+      { "label": "Snow in the road", "value": "Not allowed under MCL 257.677a" },
+      { "label": "Estimate", "value": "Free, Rob walks the drive" }
+    ]
+  },
+  "photo": "salted-drive",
+  "faq": [
+    {
+      "q": "Do you plow driveways in Fenton?",
+      "a": "Yes. Grand Scapes plows residential driveways in the city and the township with our own trucks, and we [salt walks and steps](/salting-and-sidewalks/) too. Rob walks the property first and explains the package options. For a business lot, see [commercial snow removal in Fenton](/commercial-snow-removal-fenton-mi/)."
+    },
+    {
+      "q": "Who plows the subdivision streets in Fenton Township?",
+      "a": "The Genesee County Road Commission. It plows all public roads and many private roads in the township, and subdivision streets come after US-23, the primary roads and the local roads. The road commission asks residents to allow 48 hours for local roads after a storm."
+    },
+    {
+      "q": "Why is my driveway plowed in again after it was cleared?",
+      "a": "Because the county blade has nowhere else to put the snow. Its crews push half the road to one side and then the other, and they return later to widen the lanes and clear the edges of the road. The policy calls the snow left at driveways unavoidable."
+    },
+    {
+      "q": "Can snow be pushed across the road to the other side?",
+      "a": "No. MCL 257.677a says a person shall not deposit snow, ice or slush on any roadway or highway, and pushing it across means depositing it there. We pile snow on your own property, clear of the street and the mailbox."
+    },
+    {
+      "q": "Does road salt hurt lawns and shrubs?",
+      "a": "It can. MSU Extension says salt that builds up in the soil cuts down how well roots take up nutrients and can dehydrate plants, and spray from the road can kill buds. Calcium chloride and calcium magnesium acetate are safer around plants but cost more, and spring rain helps flush the soil."
+    }
+  ],
+  "reviews": ["rick-b", "stacy"]
+}

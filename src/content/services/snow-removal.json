@@ -8,7 +8,12 @@
     "kicker": "Snow removal and plowing in Grand Blanc, MI",
     "title": "A plowed driveway, **all winter long.**",
     "lede": "Grand Scapes plows driveways in Grand Blanc and across Genesee County with our own trucks: white pickups with stainless plows. We take care of homes and businesses, and we can shovel the walks and salt them too. Rob walks the drive with you first, so you both know the plan.",
-    "chips": ["Our own plow trucks", "Homes and businesses", "Walks and salt too", "Licensed and insured"],
+    "chips": [
+      "Our own plow trucks",
+      "Homes and businesses",
+      "Walks and salt too",
+      "Licensed and insured"
+    ],
     "photo": "plow-deep"
   },
   "blocks": [
@@ -29,7 +34,10 @@
         "Licensed and insured"
       ],
       "photo": "drive-cleared",
-      "cta": { "label": "Get a free estimate", "href": "/get-an-estimate/" }
+      "cta": {
+        "label": "Get a free estimate",
+        "href": "/get-an-estimate/"
+      }
     },
     {
       "type": "reveal",
@@ -47,10 +55,26 @@
       "intro": "The closest long official snow record to Grand Blanc is kept at Flint's Bishop Airport. These are the National Weather Service numbers.",
       "columns": 4,
       "items": [
-        { "tag": "Season", "title": "About 52 inches", "body": "The NWS normal for Flint is 52.1 inches of snow a season, based on 1991 to 2020. That is up from 47.4 inches in the 1981 to 2010 normal." },
-        { "tag": "Peak", "title": "January is the big month", "body": "January averages 15.1 inches at Flint, February 13.0 and December 11.4. Those three months bring about three quarters of the season's snow." },
-        { "tag": "Edges", "title": "It starts early and ends late", "body": "November averages 3.3 inches and March 6.6, with a little in October and 2.4 inches in April. Stakes go in before the ground freezes and stay until spring." },
-        { "tag": "Record", "title": "Some winters are a lot", "body": "The snowiest season on record at Flint was 85.3 inches, in the winter of 2017 to 2018. The second was 83.9 inches, four winters before that." }
+        {
+          "tag": "Season",
+          "title": "About 52 inches",
+          "body": "The NWS normal for Flint is 52.1 inches of snow a season, based on 1991 to 2020. That is up from 47.4 inches in the 1981 to 2010 normal."
+        },
+        {
+          "tag": "Peak",
+          "title": "January is the big month",
+          "body": "January averages 15.1 inches at Flint, February 13.0 and December 11.4. Those three months bring about three quarters of the season's snow."
+        },
+        {
+          "tag": "Edges",
+          "title": "It starts early and ends late",
+          "body": "November averages 3.3 inches and March 6.6, with a little in October and 2.4 inches in April. Stakes go in before the ground freezes and stay until spring."
+        },
+        {
+          "tag": "Record",
+          "title": "Some winters are a lot",
+          "body": "The snowiest season on record at Flint was 85.3 inches, in the winter of 2017 to 2018. The second was 83.9 inches, four winters before that."
+        }
       ]
     },
     {
@@ -59,11 +83,28 @@
       "eyebrow": "How a season goes",
       "title": "From the walk around to **the last push.**",
       "steps": [
-        { "title": "Call or text Rob", "body": "Call or text [(810) 990-3040](tel:+18109903040). Tell him the address, roughly how long the drive is, and whether you want the walks and salt too." },
-        { "title": "He walks the property", "body": "Rob looks at the drive, the parking, the mailbox and where the snow can be piled, then explains the options and gives you a free estimate." },
-        { "title": "Mark the edges", "body": "Before the ground freezes, stakes go in along the drive so the edges show under deep snow. Rob goes over where they should go.", "note": "Before the freeze" },
-        { "title": "Snow falls, we plow", "body": "Our trucks plow the drive and stack the snow to the sides. If you added walks or salting, those get done too.", "note": "All winter" },
-        { "title": "Spring", "body": "When the snow is gone, the stakes come out and the yard is ready for a [spring cleanup](/spring-cleanup/) and the first mow." }
+        {
+          "title": "Call or text Rob",
+          "body": "Call or text [(810) 990-3040](tel:+18109903040). Tell him the address, roughly how long the drive is, and whether you want the walks and salt too."
+        },
+        {
+          "title": "He walks the property",
+          "body": "Rob looks at the drive, the parking, the mailbox and where the snow can be piled, then explains the options and gives you a free estimate."
+        },
+        {
+          "title": "Mark the edges",
+          "body": "Before the ground freezes, stakes go in along the drive so the edges show under deep snow. Rob goes over where they should go.",
+          "note": "Before the freeze"
+        },
+        {
+          "title": "Snow falls, we plow",
+          "body": "Our trucks plow the drive and stack the snow to the sides. If you added walks or salting, those get done too.",
+          "note": "All winter"
+        },
+        {
+          "title": "Spring",
+          "body": "When the snow is gone, the stakes come out and the yard is ready for a [spring cleanup](/spring-cleanup/) and the first mow."
+        }
       ],
       "footnote": "How a season is quoted and how the trucks run in a storm are part of the conversation with Rob. Every drive is different, so he quotes after he has seen yours."
     },
@@ -82,7 +123,10 @@
         "Street plows may come back days after a storm to widen the road, the township says, and that can refill the end of a cleared drive."
       ],
       "photo": "plow-drive",
-      "cta": { "label": "Getting ready for the plow", "href": "/journal/getting-ready-for-the-plow/" }
+      "cta": {
+        "label": "Getting ready for the plow",
+        "href": "/journal/getting-ready-for-the-plow/"
+      }
     },
     {
       "type": "gallery",
@@ -90,7 +134,12 @@
       "eyebrow": "Our trucks",
       "title": "Plowed drives, **real winters.**",
       "intro": "Every photo here is from our own snow work.",
-      "photos": ["plow-push", "plow-pair", "plow-lawn", "salted-drive"]
+      "photos": [
+        "plow-push",
+        "plow-pair",
+        "plow-lawn",
+        "salted-drive"
+      ]
     },
     {
       "type": "plan",
@@ -150,11 +199,26 @@
     "title": "What snow removal with us includes.",
     "intro": "Driveways plowed by our own trucks, with walks and salting added if you want them. Rob walks the property first, explains the options and gives you a free estimate. We do not publish prices, because every drive is different.",
     "items": [
-      { "name": "Driveway plowing", "detail": "Plowed by our own trucks, with the snow stacked off to the sides and out of the road." },
-      { "name": "Walks and steps", "detail": "Shoveled down to the concrete, if you add them." },
-      { "name": "Salting", "detail": "Ice melt spread where people walk and cars stop, if you add it." },
-      { "name": "Homes and businesses", "detail": "Residential drives and commercial lots, each quoted after a walk around." },
-      { "name": "A free estimate", "detail": "Rob comes out, looks at the drive and explains how a season works." }
+      {
+        "name": "Driveway plowing",
+        "detail": "Plowed by our own trucks, with the snow stacked off to the sides and out of the road."
+      },
+      {
+        "name": "Walks and steps",
+        "detail": "Shoveled down to the concrete, if you add them."
+      },
+      {
+        "name": "Salting",
+        "detail": "Ice melt spread where people walk and cars stop, if you add it."
+      },
+      {
+        "name": "Homes and businesses",
+        "detail": "Residential drives and commercial lots, each quoted after a walk around."
+      },
+      {
+        "name": "A free estimate",
+        "detail": "Rob comes out, looks at the drive and explains how a season works."
+      }
     ],
     "footnote": "Licensed and insured. Call or text [(810) 990-3040](tel:+18109903040)."
   }

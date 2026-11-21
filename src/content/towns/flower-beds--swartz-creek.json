@@ -1,0 +1,92 @@
+{
+  "service": "flower-beds",
+  "city": "swartz-creek",
+  "meta": {
+    "title": "Mulch Installation in Swartz Creek, MI | Grand Scapes",
+    "description": "Grand Scapes weeds, edges and mulches beds in Swartz Creek, MI: old buildup pulled back, fabric where it helps, and fresh black, brown or red mulch on top."
+  },
+  "hero": {
+    "kicker": "Mulch installation and flower beds in Swartz Creek, MI",
+    "title": "Fresh mulch, **a real edge.**",
+    "lede": "Grand Scapes gets Swartz Creek beds ready each season: weeds pulled, old mulch and leaves cleaned out, a sharp edge cut where the bed meets the lawn, fabric where it helps, then fresh black, brown or red mulch at the depth MSU Extension recommends.",
+    "chips": [
+      "Weeded and cleaned out",
+      "Edged along the lawn",
+      "Black, brown or red",
+      "Fabric where it helps"
+    ],
+    "photo": "block-bed-door"
+  },
+  "local": {
+    "eyebrow": "Beds in Swartz Creek",
+    "title": "Decades of mulch and **a sidewalk** out front.",
+    "intro": "Many Swartz Creek beds have been mulched every spring for decades, and it shows: old layers built up against the foundation, edges lost into the lawn, and soil the city's plan describes as wet and slow to drain. Another layer on top is not the answer. Clearing it out and starting at the right depth is.",
+    "points": [
+      {
+        "title": "Years of old mulch",
+        "body": "MSU Extension says two to three inches of mulch is adequate, and more is not better. A bed that gets a new layer every year without the old one coming out ends up far deeper than that, so old material gets pulled back before new goes down."
+      },
+      {
+        "title": "Off the trunks and the siding",
+        "body": "Mulch heaped against the base of a tree, the dreaded mulch volcano in MSU's words, does damage over time. Each trunk gets a ring of bare ground around it, and the mulch stays below the siding along the house."
+      },
+      {
+        "title": "Salt from the walk",
+        "body": "Front beds in the city sit right beside the public sidewalk and the drive, which is where MSU Extension says salt collects in the soil. Spring mulch time is when you find out what winter did to the yews and roses."
+      },
+      {
+        "title": "An edge you can see from the street",
+        "body": "A cut natural edge or a gray block border keeps mulch in the bed and gives the mower a line to follow. One of our reviews describes a natural edge that still keeps chips from flowing into the lawn."
+      }
+    ]
+  },
+  "logistics": {
+    "title": "How Swartz Creek beds get mulched.",
+    "body": [
+      "First the bed is cleaned out: weeds pulled, leaves and dead growth removed, and the edge recut to a clean line. If old mulch has piled up over the years, it gets pulled back before anything new goes on.",
+      "Then landscape fabric where it helps, and fresh mulch spread even and kept away from trunks and stems. Black, brown and red are the choices. Black looks crisp against brick, and brown reads softer next to siding.",
+      "Spring is the usual time. It pairs well with a [spring cleanup](/spring-cleanup/) beforehand and [weekly mowing](/lawn-mowing-swartz-creek-mi/) through the season, and a bed that needs more than mulch can become a [landscaping](/landscaping-swartz-creek-mi/) job."
+    ],
+    "facts": [
+      {
+        "label": "Depth",
+        "value": "Two to three inches, per MSU"
+      },
+      {
+        "label": "Colors",
+        "value": "Black, brown or red"
+      },
+      {
+        "label": "Old mulch",
+        "value": "Pulled back first if it has built up"
+      },
+      {
+        "label": "Estimate",
+        "value": "Free"
+      }
+    ]
+  },
+  "photo": "tree-bed-drive",
+  "faq": [
+    {
+      "q": "Do you install mulch in Swartz Creek, MI?",
+      "a": "Yes. Grand Scapes weeds, edges and mulches flower beds in Swartz Creek, with landscape fabric where it helps and fresh black, brown or red mulch on top. Rob looks at the beds and quotes the job before anything is ordered."
+    },
+    {
+      "q": "Should old mulch be removed before adding new?",
+      "a": "If it has built up, yes. MSU Extension recommends two to three inches in all, so a bed that already has that much needs a light top up at most, and one buried deeper needs some taken out. Rob will check the depth when he looks at the beds."
+    },
+    {
+      "q": "How far should mulch stay from a tree?",
+      "a": "MSU Extension recommends a mulch free ring about six inches wide around the base of a tree, with no mound against the bark. The same idea goes for shrubs and the house: mulch around them, not up against them."
+    },
+    {
+      "q": "Which mulch color goes with a brick ranch?",
+      "a": "Black is the common pick against red or tan brick, because it makes the bed edge crisp. Brown looks warmer and softer, and red stands out the most. If you are not sure, start with the color already in your beds so touch ups blend in."
+    }
+  ],
+  "reviews": [
+    "kandice-w",
+    "stephanie-s"
+  ]
+}

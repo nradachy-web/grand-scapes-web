@@ -1,0 +1,91 @@
+{
+  "service": "spring-cleanup",
+  "city": "fenton",
+  "meta": {
+    "title": "Spring cleanup in Fenton, MI | Grand Scapes",
+    "description": "Spring cleanup in Fenton, MI by Grand Scapes: winter debris out, beds cleaned and edged, perennials cut back, the first cut done and the yard ready for mulch."
+  },
+  "hero": {
+    "kicker": "Spring cleanup in Fenton, MI",
+    "title": "Winter out, **season in.**",
+    "lede": "Grand Scapes resets Fenton yards each spring: sticks, leftover leaves and winter grit cleared, beds cleaned and edged, perennials cut back, and the first mow done, so the yard is ready for mulch and a summer of stripes.",
+    "chips": [
+      "Debris cleared",
+      "Beds edged",
+      "First cut done"
+    ],
+    "photo": "block-bed-front"
+  },
+  "local": {
+    "eyebrow": "Spring in Fenton",
+    "title": "Dry rises first, **wet hollows last.**",
+    "intro": "Spring does not reach every yard here at once. The sandy, well drained ground in and around the city firms up early. Lawns on Conover loam and muck near the lakes stay soft for weeks after the snow is gone. A good cleanup starts where the ground is ready and does not drag equipment across turf that is not.",
+    "points": [
+      {
+        "title": "Matted grass and snow mold",
+        "body": "MSU Extension says a light raking helps turf that came out of winter matted or spotted with snow mold. The goal is to lift debris and dead blades, not to tear into the lawn, so the rake stays gentle."
+      },
+      {
+        "title": "Salt burn along the road",
+        "body": "Grass damaged by deicing salt over the winter may need reseeding, MSU says, and spring is when those strips show up along drives and roads. If yours has a dead band by the street, point it out to Rob at the estimate."
+      },
+      {
+        "title": "Go easy on the leaf litter",
+        "body": "Bees and other insects spend the winter in old stems and leaf litter. MSU suggests working slowly and by hand when you take it out in spring, so beds get cleared with a light touch instead of being blasted bare in one pass."
+      },
+      {
+        "title": "City brush pickup starts May 1",
+        "body": "In the city, yard waste pickup on Wednesdays begins in April, and the DPW's once a year brush chipping program opens May 1. Branches that fit its limits can wait for it; everything else from the cleanup leaves in our trailer."
+      }
+    ]
+  },
+  "logistics": {
+    "title": "How spring cleanup runs in Fenton.",
+    "body": [
+      "We start with the debris: sticks, leftover leaves and the grit that builds up along the drive over a winter of plowing. Beds get cleaned out, perennials cut back and a fresh edge cut along the lawn. Then the lawn gets its first mow, and the drive and walks get blown clean.",
+      "Rob schedules spring cleanups as the ground allows, not by a set date, because no single day fits every yard and MSU gives none. If the beds need fresh mulch, it can go down on the same visit or right after as [mulch installation](/mulch-installation-fenton-mi/), and weekly [lawn mowing](/lawn-mowing-fenton-mi/) picks up from there."
+    ],
+    "facts": [
+      {
+        "label": "Includes",
+        "value": "Debris, beds, edges, first cut"
+      },
+      {
+        "label": "Timing",
+        "value": "When the ground is firm enough"
+      },
+      {
+        "label": "City brush chipping",
+        "value": "Opens May 1, one pickup a year"
+      },
+      {
+        "label": "Estimate",
+        "value": "Free, Rob walks the yard"
+      }
+    ]
+  },
+  "photo": "young-tree-stripes",
+  "faq": [
+    {
+      "q": "When do you start spring cleanups in Fenton?",
+      "a": "As soon as the snow is gone and the ground is firm enough to work without leaving ruts. Grand Scapes starts with the sandy, well drained yards and gets to the soft lakefront lawns as they dry out. There is no fixed calendar date, so call or [text Rob](sms:+18109903040) and he will put you on the list."
+    },
+    {
+      "q": "Should I rake up snow mold?",
+      "a": "Lightly, yes. MSU Extension says a gentle raking helps matted turf and snow mold spots recover by lifting the debris and dead tissue. Do not dig in hard; the point is to loosen the matted blades, not rip up the lawn."
+    },
+    {
+      "q": "What about the dead strip by the road from salt?",
+      "a": "Salt damaged turf may need reseeding in spring, according to MSU Extension, after rain has had a chance to flush some of the salt out. Mention it when Rob comes out, and he will tell you what he suggests for that strip."
+    },
+    {
+      "q": "Can spring branches go out for the City of Fenton's pickup?",
+      "a": "Some can. The city's brush chipping program runs May 1 to September 30, one pickup per house per year, with piles placed by the road with the cut ends facing the street. It takes no bagged material, lawn clippings or root balls, so those leave with us."
+    }
+  ],
+  "reviews": [
+    "mark-v",
+    "rick-b",
+    "stacy"
+  ]
+}

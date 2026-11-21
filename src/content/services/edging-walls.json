@@ -8,7 +8,12 @@
     "kicker": "Bed edging and block walls in Grand Blanc, MI",
     "title": "The line between **bed and lawn.**",
     "lede": "Grand Scapes pulls out tired brick borders and puts in something that holds: a low gray block wall, a row of boulders, or a clean natural edge cut into the lawn. Mulch stays in the bed, grass stays out, and the mower has a line to follow.",
-    "chips": ["Brick borders out", "Gray block walls", "Boulders", "Natural cut edge"],
+    "chips": [
+      "Brick borders out",
+      "Gray block walls",
+      "Boulders",
+      "Natural cut edge"
+    ],
     "photo": "tree-bed-after"
   },
   "blocks": [
@@ -35,7 +40,10 @@
       "eyebrow": "Real jobs",
       "title": "Brick out, **block in.**",
       "intro": "Two of our own jobs. Drag the line across each photo to see the old brick border and the gray block wall that replaced it.",
-      "pairs": ["ba-drive", "ba-front"],
+      "pairs": [
+        "ba-drive",
+        "ba-front"
+      ],
       "checks": [
         "Old brick edging removed",
         "Gray block wall stepping down at the walk",
@@ -48,12 +56,44 @@
       "eyebrow": "Three kinds of edge",
       "title": "Block, boulders **or a cut edge.**",
       "intro": "Each one keeps the bed in shape. They look different and suit different beds.",
-      "columns": ["Gray block wall", "Boulders", "Natural cut edge"],
+      "columns": [
+        "Gray block wall",
+        "Boulders",
+        "Natural cut edge"
+      ],
       "rows": [
-        { "label": "Looks", "values": ["Crisp, raised and tidy", "Heavy, natural, informal", "Low and clean, no border showing"] },
-        { "label": "Good for", "values": ["Front beds, tree rings, brick homes", "Slopes and big sweeping beds", "Beds where you want only mulch and lawn"] },
-        { "label": "Holds mulch", "values": ["Yes, it sits above the lawn", "Yes, the bed sits behind it", "Yes, behind the cut, as Bob S. found"] },
-        { "label": "Upkeep", "values": ["Very little once it is set", "Very little", "A fresh cut now and then"] }
+        {
+          "label": "Looks",
+          "values": [
+            "Crisp, raised and tidy",
+            "Heavy, natural, informal",
+            "Low and clean, no border showing"
+          ]
+        },
+        {
+          "label": "Good for",
+          "values": [
+            "Front beds, tree rings, brick homes",
+            "Slopes and big sweeping beds",
+            "Beds where you want only mulch and lawn"
+          ]
+        },
+        {
+          "label": "Holds mulch",
+          "values": [
+            "Yes, it sits above the lawn",
+            "Yes, the bed sits behind it",
+            "Yes, behind the cut, as Bob S. found"
+          ]
+        },
+        {
+          "label": "Upkeep",
+          "values": [
+            "Very little once it is set",
+            "Very little",
+            "A fresh cut now and then"
+          ]
+        }
       ]
     },
     {
@@ -99,7 +139,11 @@
       "plane": "ink",
       "eyebrow": "On Google",
       "title": "A new edge, **in their words.**",
-      "ids": ["bob-s", "james-a"]
+      "ids": [
+        "kandice-w",
+        "bob-s",
+        "james-a"
+      ]
     }
   ],
   "faq": [
@@ -140,10 +184,22 @@
     "title": "Edging and walls that keep beds in shape.",
     "intro": "We take out tired borders and put in one that holds: a low gray block wall, boulders, or a cut natural edge. Rob quotes each job after he sees the beds, and the estimate is free.",
     "items": [
-      { "name": "Old border out", "detail": "Heaved or sunken brick and broken edging dug out and hauled away." },
-      { "name": "Block walls", "detail": "Low gray block walls around beds and trees, stepped where the ground drops." },
-      { "name": "Boulders", "detail": "A heavier, natural border, or a boulder wall holding a graded slope." },
-      { "name": "Natural edge", "detail": "A clean cut in the soil that keeps mulch in and grass out." }
+      {
+        "name": "Old border out",
+        "detail": "Heaved or sunken brick and broken edging dug out and hauled away."
+      },
+      {
+        "name": "Block walls",
+        "detail": "Low gray block walls around beds and trees, stepped where the ground drops."
+      },
+      {
+        "name": "Boulders",
+        "detail": "A heavier, natural border, or a boulder wall holding a graded slope."
+      },
+      {
+        "name": "Natural edge",
+        "detail": "A clean cut in the soil that keeps mulch in and grass out."
+      }
     ],
     "footnote": "Fresh mulch inside the new border is a [bed makeover](/mulch-and-flower-beds/), and Rob can quote both together."
   }

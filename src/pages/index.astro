@@ -37,10 +37,10 @@ import { href } from '../lib/paths';
 import { faqSchema } from '../lib/schema';
 
 const wide = await heroImage('mower-stripes', { sizes: '100vw', widths: [960, 1320, 1600, 1920], media: '(min-width: 48rem)' });
-const tall = await heroImage('mower-stripes', { ratio: 4 / 5, focus: 'right', sizes: '100vw', widths: [420, 640, 828, 1024], media: '(max-width: 47.99rem)' });
+const tall = await heroImage('mower-stripes', { ratio: 1, focus: 'right', sizes: '100vw', widths: [420, 640, 828, 1024], media: '(max-width: 47.99rem)' });
 
 const facts = [
-  { n: RATING.value, label: 'stars on Google' },
+  { n: RATING.value, label: `stars from ${RATING.countLabel} Google reviews` },
   { n: 'Four', label: 'seasons, one local crew' },
   { n: 'Free', label: 'estimates, on site' },
   { n: 'Licensed', label: 'and insured' },
@@ -67,7 +67,7 @@ const faq = [
 
 <Base
   title="Grand Scapes | Lawn Care, Landscaping and Snow in Grand Blanc"
-  description="Grand Scapes mows and stripes lawns weekly, rebuilds beds, clears leaves and plows driveways in Grand Blanc, Flint, Fenton and nearby. Free estimates."
+  description="Grand Scapes mows and stripes lawns weekly, rebuilds beds, clears leaves and plows driveways in Grand Blanc and nearby. 4.9 stars from 106 Google reviews."
   path="/"
   preload={[wide.preload, tall.preload]}
   schema={[faqSchema(faq)]}
@@ -218,8 +218,8 @@ const faq = [
 
   <section class="band has-edge" aria-labelledby="rv-h">
     <div class="wrap">
-      <Head id="rv-h" eyebrow={`${RATING.value} stars on Google`} title="In the words of **the people who hired us.**" />
-      <Reviews reviews={REVIEWS.slice(0, 3)} />
+      <Head id="rv-h" eyebrow={`${RATING.value} stars, ${RATING.countLabel} Google reviews`} title="In the words of **the people who hired us.**" />
+      <Reviews reviews={[review('reckless-cards')!, review('mark-v')!, review('rick-b')!]} />
     </div>
     <Edge to="ink" flip />
   </section>
@@ -380,6 +380,14 @@ const faq = [
   .group__img {
     margin-bottom: 0.4rem;
     aspect-ratio: 3 / 2;
+  }
+
+  .group__img :global(img) {
+    transition: transform 0.7s var(--ease);
+  }
+
+  .group:hover .group__img :global(img) {
+    transform: scale(1.04);
   }
 
   .group__list {

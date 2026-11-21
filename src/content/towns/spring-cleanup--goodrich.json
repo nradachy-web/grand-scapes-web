@@ -1,0 +1,91 @@
+{
+  "service": "spring-cleanup",
+  "city": "goodrich",
+  "meta": {
+    "title": "Spring Cleanup in Goodrich, MI | Grand Scapes",
+    "description": "Spring cleanup in Goodrich, MI by Grand Scapes: winter debris and leftover leaves out, beds cleaned and edged, the first cut done and every bit hauled away."
+  },
+  "hero": {
+    "kicker": "Spring cleanup in Goodrich, MI",
+    "title": "Sticks, leaves and **the first cut.**",
+    "lede": "Grand Scapes gets Goodrich yards going in spring: branches and leftover leaves picked up, beds cleaned out and edged, perennials cut back and the first mowing done. Everything we clear leaves in our trailer.",
+    "chips": [
+      "Debris and sticks",
+      "Beds and edges",
+      "First cut",
+      "Hauled away"
+    ],
+    "photo": "cul-de-sac-stripes"
+  },
+  "local": {
+    "eyebrow": "Spring in Goodrich",
+    "title": "A lot of yard comes out **from under the snow.**",
+    "intro": "A Goodrich spring cleanup is often a big one. Wooded township lots drop branches all winter, leaves that fell after the last fall pass lie matted on the lawn, and the low spots near ponds and creeks are the last to dry. The older village streets have mature trees of their own.",
+    "points": [
+      {
+        "title": "Branches after winter",
+        "body": "Woods cover about a fifth of Atlas Township, and a winter of wind and ice brings down sticks and limbs across big lawns. We pick them up and haul them off before the first cut, so the mower does not find them first."
+      },
+      {
+        "title": "Matted leaves",
+        "body": "Leaves left on the lawn over winter can smother the grass and invite snow mold, MSU Extension says. We rake and blow them out of the lawn and the beds so the grass can green up."
+      },
+      {
+        "title": "Wet spots last",
+        "body": "Low ground near the Mill Pond, the creeks and the township's lakes stays soft the longest. We clean the high ground and the beds first and save the wet corners for when they will hold a machine."
+      },
+      {
+        "title": "Let the bees out first",
+        "body": "MSU Extension notes that some native bees spend the winter in hollow stems, and that waiting until mid to late April is likely fine for most of them. We cut back perennials and grasses with that timing in mind."
+      }
+    ]
+  },
+  "logistics": {
+    "title": "One visit, then into the season.",
+    "body": [
+      "Spring cleanups go on the calendar as the ground firms up. We pick up debris, clean and edge the beds, cut back perennials, blow off the drive and the walks and do the first cut. In the township, where yard waste pickup is by subscription only, hauling it all away saves you the bags.",
+      "If you want [fresh mulch](/mulch-installation-goodrich-mi/), it goes down right after, while the beds are clean. If you want the lawn kept from there, [weekly mowing in Goodrich](/lawn-mowing-goodrich-mi/) starts with the next cut."
+    ],
+    "facts": [
+      {
+        "label": "Includes",
+        "value": "Debris, beds, edges, first cut"
+      },
+      {
+        "label": "Village yard waste",
+        "value": "Tuesdays from early April"
+      },
+      {
+        "label": "Township yard waste",
+        "value": "Subscription only"
+      },
+      {
+        "label": "Estimate",
+        "value": "Free, call or text Rob"
+      }
+    ]
+  },
+  "photo": "tree-bed-drive",
+  "faq": [
+    {
+      "q": "Do you do spring cleanups in Goodrich, MI?",
+      "a": "Yes. Grand Scapes does spring cleanups in the Village of Goodrich and across Atlas Township: sticks and leftover leaves out, beds cleaned and edged, perennials cut back and the first cut done. We haul everything away."
+    },
+    {
+      "q": "When is it safe to clean up the yard in spring?",
+      "a": "MSU Extension suggests not rushing, since some pollinators spend the winter in stems and leaf litter, and it says mid to late April is likely fine for most cavity-nesting bees. The ground matters too: wait until the lawn is firm enough not to rut."
+    },
+    {
+      "q": "Can you pick up branches from a wooded lot?",
+      "a": "Yes. Sticks and smaller limbs that came down over winter are part of a spring cleanup, and they leave in our trailer. A large fallen tree is a different job, and Rob will tell you if you have one."
+    },
+    {
+      "q": "When does yard waste pickup start in the Village of Goodrich?",
+      "a": "The 2026 village calendar marks Tuesday, April 7 as the first yard waste day of the year. In Atlas Township outside the village, pickup only comes with an Emterra subscription, and sign up opens March 1."
+    }
+  ],
+  "reviews": [
+    "mark-v",
+    "rick-b"
+  ]
+}

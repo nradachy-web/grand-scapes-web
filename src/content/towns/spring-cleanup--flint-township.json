@@ -9,7 +9,12 @@
     "kicker": "Spring cleanup in Flint Township, MI",
     "title": "Winter out, **edges back.**",
     "lede": "Grand Scapes gets Flint Township yards ready for the season: winter debris and sticks picked up, beds cleaned out and edged, perennials cut back, and the first cut done when the ground can take it. Rob quotes it free after a look.",
-    "chips": ["Debris picked up", "Beds cleaned and edged", "First cut done", "Ready for mulch"],
+    "chips": [
+      "Debris picked up",
+      "Beds cleaned and edged",
+      "First cut done",
+      "Ready for mulch"
+    ],
     "photo": "block-bed-door"
   },
   "local": {
@@ -17,10 +22,22 @@
     "title": "Heavy soil decides **when spring starts.**",
     "intro": "In the township the calendar says April and the lawn says wait. Much of the ground is Conover and Brookston loam, both slow to drain, so yards stay soft well after the snow melts. A good spring cleanup starts when you can walk the lawn without leaving tracks.",
     "points": [
-      { "title": "Wait for firm ground", "body": "Wheel ruts and footprints in wet loam harden into bumps you mow over all summer. We do the beds and the debris first and hold the first cut until the lawn can carry a mower." },
-      { "title": "Sticks and brush", "body": "Winter brings branches down. Emterra takes bundled brush no thicker than 2 inches and no longer than 4 feet, and not from contractors, so what our crew picks up goes in our trailer." },
-      { "title": "Pickup starts in April", "body": "Township compost pickup starts the first Thursday in April. A cleanup in late March does not have to wait for it, because our debris never goes to the curb anyway." },
-      { "title": "Leave the lilacs for later", "body": "MSU Extension says spring flowering shrubs set their buds the summer before, so cutting them in spring cuts off the flowers. During a cleanup we take out dead and broken wood and leave the shaping of lilac and forsythia until after they bloom." }
+      {
+        "title": "Wait for firm ground",
+        "body": "Wheel ruts and footprints in wet loam harden into bumps you mow over all summer. We do the beds and the debris first and hold the first cut until the lawn can carry a mower."
+      },
+      {
+        "title": "Sticks and brush",
+        "body": "Winter brings branches down. Emterra takes bundled brush no thicker than 2 inches and no longer than 4 feet, and not from contractors, so what our crew picks up goes in our trailer."
+      },
+      {
+        "title": "Pickup starts in April",
+        "body": "Township compost pickup starts the first Thursday in April. A cleanup in late March does not have to wait for it, because our debris never goes to the curb anyway."
+      },
+      {
+        "title": "Leave the lilacs for later",
+        "body": "MSU Extension says spring flowering shrubs set their buds the summer before, so cutting them in spring cuts off the flowers. During a cleanup we take out dead and broken wood and leave the shaping of lilac and forsythia until after they bloom."
+      }
     ]
   },
   "logistics": {
@@ -31,18 +48,45 @@
       "Fresh mulch is the natural next step once the beds are clean. See [mulch and flower beds](/mulch-and-flower-beds/) for colors and depth, and [weekly mowing in Flint Township](/lawn-mowing-flint-township-mi/) for the rest of the season."
     ],
     "facts": [
-      { "label": "Starts", "value": "When the ground is firm" },
-      { "label": "Township brush rule", "value": "Bundled, 2 inches thick, 4 feet long" },
-      { "label": "Includes", "value": "Debris, beds, edges, first cut" },
-      { "label": "Estimate", "value": "Free, Rob looks first" }
+      {
+        "label": "Starts",
+        "value": "When the ground is firm"
+      },
+      {
+        "label": "Township brush rule",
+        "value": "Bundled, 2 inches thick, 4 feet long"
+      },
+      {
+        "label": "Includes",
+        "value": "Debris, beds, edges, first cut"
+      },
+      {
+        "label": "Estimate",
+        "value": "Free, Rob looks first"
+      }
     ]
   },
   "photo": "mulch-crew",
   "faq": [
-    { "q": "Do you do spring cleanups in Flint Township?", "a": "Yes. Grand Scapes does spring cleanups in Flint Township: winter debris and sticks out, matted leaves raked up, beds cleaned and edged, perennials cut back and the first cut done. Rob quotes it free after he walks the yard." },
-    { "q": "When should spring cleanup be done in Michigan?", "a": "Once the snow is gone and the ground is firm enough to walk on without sinking. In Genesee County that is often April, and later on wet, heavy soil. Beds and debris can go first, and the first cut waits for the lawn to firm up." },
-    { "q": "Should I trim my shrubs in the spring?", "a": "Dead and broken wood, yes. MSU Extension says spring flowering shrubs like lilac and forsythia are pruned right after they bloom, because their flower buds formed the summer before. Summer bloomers can be pruned in late winter or early spring." },
-    { "q": "Will the township pick up my yard waste in spring?", "a": "From the first Thursday in April, yes. Emterra's weekly compost pickup takes brown yard waste bags, X marked cans and bundled branches up to 2 inches thick and 4 feet long. Material from a contractor is not accepted, so our cleanup debris leaves with us." }
+    {
+      "q": "Do you do spring cleanups in Flint Township?",
+      "a": "Yes. Grand Scapes does spring cleanups in Flint Township: winter debris and sticks out, matted leaves raked up, beds cleaned and edged, perennials cut back and the first cut done. Rob quotes it free after he walks the yard."
+    },
+    {
+      "q": "When should spring cleanup be done in Michigan?",
+      "a": "Once the snow is gone and the ground is firm enough to walk on without sinking. In Genesee County that is often April, and later on wet, heavy soil. Beds and debris can go first, and the first cut waits for the lawn to firm up."
+    },
+    {
+      "q": "Should I trim my shrubs in the spring?",
+      "a": "Dead and broken wood, yes. MSU Extension says spring flowering shrubs like lilac and forsythia are pruned right after they bloom, because their flower buds formed the summer before. Summer bloomers can be pruned in late winter or early spring."
+    },
+    {
+      "q": "Will the township pick up my yard waste in spring?",
+      "a": "From the first Thursday in April, yes. Emterra's weekly compost pickup takes brown yard waste bags, X marked cans and bundled branches up to 2 inches thick and 4 feet long. Material from a contractor is not accepted, so our cleanup debris leaves with us."
+    }
   ],
-  "reviews": ["stacy", "rick-b"]
+  "reviews": [
+    "rick-b",
+    "stacy"
+  ]
 }
