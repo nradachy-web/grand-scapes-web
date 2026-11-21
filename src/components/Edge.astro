@@ -1,0 +1,66 @@
+---
+/* Where two planes meet they meet on the swoosh from Rob's logo: a long curve
+   that rises to the right, carrying a crescent of mowed stripes in his two greens.
+   Decorative, so it stays out of the accessibility tree.
+
+   `to` is the plane below the line. Sits at the bottom of the band above it. */
+interface Props {
+  to?: 'paper' | 'white' | 'ink';
+  flip?: boolean;
+  /** Sit along the top of the band instead, in the color of the band above. */
+  top?: boolean;
+}
+const { to = 'paper', flip = false, top = false } = Astro.props;
+const id = `sw-${Math.random().toString(36).slice(2, 8)}`;
+---
+
+<svg class:list={['edge', `edge--${to}`, flip && 'edge--flip', top && 'edge--top']} viewBox="0 0 1440 80" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+  <defs>
+    <pattern id={id} width="26" height="26" patternUnits="userSpaceOnUse" patternTransform="rotate(-38)">
+      <rect width="13" height="26" fill="var(--stripe-a)" />
+      <rect x="13" width="13" height="26" fill="var(--stripe-b)" />
+    </pattern>
+  </defs>
+  <path class="edge__fill" d="M0 80V60C320 68 700 64 1010 46S1350 10 1440 0v80z" />
+  <path class="edge__band" fill={`url(#${id})`} d="M0 60C320 62 700 52 1010 33S1350 3 1440 0C1350 10 1300 28 1010 46S320 68 0 60z" />
+</svg>
+
+<style>
+  .edge {
+    position: absolute;
+    inset: auto 0 -1px;
+    z-index: 3;
+    width: 100%;
+    height: clamp(1.75rem, 4.6vw, 4.5rem);
+    pointer-events: none;
+  }
+
+  .edge--flip {
+    transform: scaleX(-1);
+  }
+
+  .edge--top {
+    inset: -1px 0 auto;
+    transform: scaleY(-1);
+  }
+
+  .edge--top.edge--flip {
+    transform: scale(-1, -1);
+  }
+
+  .edge__fill {
+    fill: var(--paper);
+  }
+
+  .edge--white .edge__fill {
+    fill: var(--white);
+  }
+
+  .edge--ink .edge__fill {
+    fill: var(--ink);
+  }
+
+  .edge__band {
+    opacity: 0.95;
+  }
+</style>

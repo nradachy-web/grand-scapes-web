@@ -1,0 +1,153 @@
+---
+/* About Rob and Grand Scapes. Only what is sourced: the old site's own words,
+   the reviews, his photos. No founding year or years in business. */
+import Base from '../layouts/Base.astro';
+import Hero from '../components/Hero.astro';
+import Head from '../components/Head.astro';
+import Photo from '../components/Photo.astro';
+import Reviews from '../components/Reviews.astro';
+import QuoteBand from '../components/QuoteBand.astro';
+import Edge from '../components/Edge.astro';
+import { BRAND, SOCIAL } from '../data/site';
+import { review } from '../data/reviews';
+import { photo, type PhotoId } from '../data/photos';
+import { heroImage } from '../lib/hero';
+import { href } from '../lib/paths';
+import { breadcrumbs } from '../lib/schema';
+
+const path = '/about/';
+const hero = await heroImage('truck-trailer');
+const beliefs = [
+  { title: 'You get the owner', body: 'Call or text and you reach Rob. As James A. put it, they “suggested what I needed to do to make it look great, quoted me a price and executed.”' },
+  { title: 'On time, every week', body: 'Weekly service means the same day, every week, without a reminder from you. Stacy wrote that they are “on time each week.”' },
+  { title: 'Careful with the place', body: 'Treat the property like our own and keep the dogs in. Rick B. called that out on a seven and a half acre lawn.' },
+  { title: 'Straight about the limits', body: 'Big tree removals and anything we do not do, Rob will tell you on the first call, so nobody wastes a visit.' },
+];
+const kit: { id: PhotoId; label: string }[] = [
+  { id: 'fall-rider', label: 'Zero turn mowers with baggers' },
+  { id: 'leaf-trailer', label: 'A leaf vacuum trailer' },
+  { id: 'deere-grading', label: 'Compact track loaders' },
+  { id: 'plow-fleet-2', label: 'Our own plow trucks' },
+];
+---
+
+<Base
+  title="About Rob Couchman and Grand Scapes, Grand Blanc MI"
+  description="Grand Scapes LLC is Rob Couchman's lawn care, landscaping and snow removal company, run out of a shop on Embury Road in Grand Blanc, Michigan."
+  path={path}
+  preload={hero.preload}
+  schema={[breadcrumbs([{ name: 'Home', path: '/' }, { name: 'About', path }])]}
+>
+  <Hero image={hero} kicker="About Grand Scapes" title="Rob's crew, **Rob's name on the trailer.**" lede={`Grand Scapes LLC is a lawn care, landscaping and snow removal company run by ${BRAND.owner}, out of a shop on Embury Road in ${BRAND.city}.`} crumbs={[{ name: 'About', path }]} />
+
+  <section class="band has-edge" aria-labelledby="rob-h">
+    <div class="wrap two wide-left">
+      <div class="stack" style="--gap:1.4rem">
+        <Head id="rob-h" layout="left" eyebrow="Rob Couchman, owner" title="Creating, restoring and **maintaining.**" />
+        <div class="prose">
+          <p>It was the first line on the old Grand Scapes site: our passion is creating, restoring and maintaining your outdoor spaces. In practice it means three kinds of work. Building a bed or a lawn from scratch. Bringing back one that got away from you. And keeping it sharp, week after week, season after season.</p>
+          <p>When you call Grand Scapes, you get Rob. He comes out, looks at the place with you, tells you what he would do and gives you a free estimate. Then the crew shows up with the right equipment: zero turn mowers for the stripes, track loaders for the digging, a leaf vacuum trailer in the fall and plow trucks in the winter.</p>
+          <p>Most of all, Grand Scapes is customer service based lawn and landscaping. The <a href={href('/reviews/')}>reviews</a> say it better than we can: on time, quick to answer, careful with the property.</p>
+        </div>
+        {SOCIAL.length > 0 && <p class="follow small"><span class="muted">See the latest jobs on</span> {SOCIAL.map((s) => <a href={s.href} target="_blank" rel="noopener">{s.name}</a>)}</p>}
+      </div>
+      <figure>
+        <div class="frame tall"><Photo id="mulch-crew" ratio={4 / 5} widths={[420, 640, 780]} sizes="(min-width: 60rem) 36vw, 92vw" /></div>
+        <figcaption class="note cap">{photo('mulch-crew').caption}</figcaption>
+      </figure>
+    </div>
+    <Edge to="ink" />
+  </section>
+
+  <section class="band ink has-edge" aria-labelledby="way-h">
+    <div class="wrap">
+      <Head id="way-h" eyebrow="How we work" title="How Rob **runs a crew.**" />
+      <ul class="grid c2">
+        {beliefs.map((b) => <li class="card pad way"><h3 class="h3">{b.title}</h3><p class="small muted">{b.body}</p></li>)}
+      </ul>
+      <div class="kit">
+        <Head layout="left" small eyebrow="The equipment" title="Real equipment, **owned and run by us.**" />
+        <ul class="kit__row">
+          {
+            kit.map((k) => (
+              <li>
+                <div class="frame kit__f"><Photo id={k.id} ratio={4 / 5} widths={[300, 450, 600]} sizes="(min-width: 60rem) 22vw, 46vw" /></div>
+                <p class="small kit__l">{k.label}</p>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+    </div>
+    <Edge to="paper" flip />
+  </section>
+
+  <section class="band" aria-labelledby="say-h">
+    <div class="wrap">
+      <Head id="say-h" eyebrow="From our customers" title="People **who hired us.**" />
+      <Reviews reviews={[review('james-a')!, review('rick-b')!, review('stacy')!]} />
+      <div class="hire">
+        <p class="h3">Want to work outside? Grand Scapes is hiring.</p>
+        <a class="arrow" href={href('/careers/')}>Now hiring</a>
+      </div>
+    </div>
+  </section>
+
+  <QuoteBand />
+</Base>
+
+<style>
+  .follow {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 1rem;
+  }
+
+  .follow a {
+    font-weight: 600;
+  }
+
+  .way {
+    display: grid;
+    gap: 0.5rem;
+    align-content: start;
+  }
+
+  .kit {
+    margin-top: clamp(3rem, 6vw, 4.5rem);
+    padding-top: clamp(2rem, 4vw, 3rem);
+    border-top: 1px solid var(--line-ink);
+  }
+
+  .kit__row {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+  }
+
+  @media (min-width: 60rem) {
+    .kit__row {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+  }
+
+  .kit__f {
+    aspect-ratio: 4 / 5;
+  }
+
+  .kit__l {
+    margin-top: 0.6rem;
+    font-weight: 600;
+  }
+
+  .hire {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem 2rem;
+    margin-top: clamp(2.5rem, 5vw, 3.5rem);
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--line);
+  }
+</style>

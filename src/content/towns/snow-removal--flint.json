@@ -1,0 +1,50 @@
+{
+  "service": "snow-removal",
+  "city": "flint",
+  "meta": {
+    "title": "Snow removal and plowing in Flint, MI | Grand Scapes",
+    "description": "Grand Scapes plows Flint, MI driveways with our own trucks, clears the public walk out front and salts where people walk. Free estimates from Rob."
+  },
+  "hero": {
+    "kicker": "Snow removal in Flint, MI",
+    "title": "The drive open, **the walk done too.**",
+    "lede": "Grand Scapes plows Flint driveways with our own trucks, clears the public sidewalk out front and puts ice melt down where people walk. Rob walks the property with you before winter and explains the snow package options in person.",
+    "chips": ["Our own plow trucks", "Drive and walk cleared", "Ice melt on walks", "Free estimate"],
+    "photo": "walk-cleared"
+  },
+  "local": {
+    "eyebrow": "Winter in Flint",
+    "title": "The city plows the street. **The rest is yours.**",
+    "intro": "Here the split is clear: the city handles the streets, and the owner handles the driveway, the walk to the door and the public sidewalk along the front. The city has said that clearing the sidewalk is required by ordinance. On a corner lot that is a lot of shoveling before work.",
+    "points": [
+      { "title": "Local streets are last on the list", "body": "The city's snow plan works major routes first, then dangerous hills, curves, schools and hospitals, then other major roads, and local streets last. For a 4 to 8 inch storm, the plan estimates about three days to finish every route." },
+      { "title": "The end of the drive, again", "body": "When the city plow finally comes down your street, it can leave a ridge of heavy snow across the drive you already cleared. Ask Rob how your plan handles that, so the end of the drive is not a surprise in the morning." },
+      { "title": "Snow cannot go in the street", "body": "Michigan's vehicle code says a person shall not deposit snow, ice or slush on any roadway, and the city asks homes and businesses the same. We pile it on your side of the walk, set back from the drive so you can see traffic when you back out." },
+      { "title": "Cars off the street in an emergency", "body": "When the city declares a snow emergency through Alert Flint, it asks people not to park on the street, and parked cars can be ticketed or towed at the owner's expense. A plowed driveway gives the car somewhere to go." },
+      { "title": "Salt where it helps, not on the beds", "body": "Ice melt on the walk and steps does the most good. MSU Extension notes that salt burns plants through spray and buildup in the soil, so salty snow gets piled away from your beds wherever the lot allows." }
+    ]
+  },
+  "logistics": {
+    "title": "How winter service works on a Flint driveway.",
+    "body": [
+      "Rob sets winter up before the snow flies. He walks the drive and the walks with you, notes where snow can go and what has to stay open, and explains the residential snow package options. Terms depend on the property, so he goes over them in person.",
+      "During a storm our trucks plow the driveway, the walks get shoveled down to the concrete, and blue ice melt goes on the walk and steps. Snow gets pushed back onto your lawn, not into the street.",
+      "The city has also asked owners to keep fire hydrants on their frontage clear of snow. If one sits at the edge of your lot, tell Rob when he comes out."
+    ],
+    "facts": [
+      { "label": "Driveways", "value": "Plowed with our own trucks" },
+      { "label": "Public sidewalk", "value": "The owner's job, per the city" },
+      { "label": "City street plowing", "value": "Major routes first, local streets last" },
+      { "label": "Snow emergency", "value": "Keep cars off the street" }
+    ]
+  },
+  "photo": "plow-drive",
+  "faq": [
+    { "q": "Do you plow driveways in Flint?", "a": "Yes. Grand Scapes plows residential driveways in Flint with our own trucks, clears walks and puts ice melt down where people walk. Rob walks the property before winter and explains the residential snow and salting package options in person." },
+    { "q": "Do I have to shovel the sidewalk in front of my house in Flint?", "a": "The city has said sidewalks should be cleared by the property owner and that it is required by ordinance. The ordinance sets the details, so check with the city for the current rule. Clearing the public walk can be part of your snow service with us." },
+    { "q": "Can a plow driver push snow into the street?", "a": "No. Michigan's vehicle code says a person shall not deposit snow, ice or slush on any roadway, and the City of Flint asks homes and businesses not to push snow into the street because it slows the plows. We keep the snow on your property." },
+    { "q": "When will the city plow my street in Flint?", "a": "After the bigger roads. The city's plan clears major routes, then dangerous hills, curves, schools and hospitals, then other major roads, and local streets last. Heavy storms take longer, and the city asks people to move cars off the street so plows can get through." },
+    { "q": "Will the city plow fill in the end of my driveway?", "a": "It can. When the street plow passes after your drive is cleared, it can leave a ridge of snow across the end. Talk it through with Rob when you set up winter service, so you know how the end of the drive gets handled." }
+  ],
+  "reviews": ["rick-b", "stacy"]
+}

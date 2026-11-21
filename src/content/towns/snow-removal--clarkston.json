@@ -1,0 +1,49 @@
+{
+  "service": "snow-removal",
+  "city": "clarkston",
+  "meta": {
+    "title": "Snow removal in Clarkston, MI | Grand Scapes",
+    "description": "Driveway plowing and snow removal in Clarkston and Independence Township, by our own trucks, with walks cleared and salt kept where it does some good."
+  },
+  "hero": {
+    "kicker": "Snow removal in Clarkston, MI",
+    "title": "Your drive, **plowed and walkable.**",
+    "lede": "Grand Scapes plows driveways in Clarkston and Independence Township with our own trucks, clears the walks and steps people use, and puts salt down where it actually helps, which near the lakes matters.",
+    "chips": ["Our own plow trucks", "Driveways and walks", "Homes and businesses"],
+    "photo": "plow-push"
+  },
+  "local": {
+    "eyebrow": "Winter in Clarkston",
+    "title": "The county does the roads. **The drive is ours.**",
+    "intro": "The Road Commission for Oakland County plows the public roads in Independence Township and sets its order by traffic, so subdivision streets come after the main roads. Private roads are up to the people who live on them, and in the city the DPW handles city streets. None of them touch your driveway, which is where we come in.",
+    "points": [
+      { "title": "Hills and curves", "body": "The Road Commission says hills and curves can move a road up its list, and the Clarkston area has plenty of both. So do a lot of driveways. A drive that slopes toward the road gets cleared to the pavement, and the bottom, where you brake before pulling out, is where traction counts most." },
+      { "title": "Salt and the lakes", "body": "Independence Township's winter tips are blunt: salt that melts off a drive runs toward the lakes, and once chloride is in the water there is no getting it out. So the snow comes off first, by plow and shovel, and salt goes where people walk and tires need grip, not everywhere out of habit." },
+      { "title": "The city's overnight parking rule", "body": "Inside the City of the Village of Clarkston, parking on city streets is banned from December 1 to March 1 between 2 and 6 AM so the DPW can plow. Cars end up in the driveway overnight, and the plowing plan works around them." },
+      { "title": "The mailbox at the road", "body": "The Road Commission wants breakaway mailbox posts, set no deeper than 24 inches and never in concrete. Give yours a shake in the fall. We plow with the mailbox and the landscaping at the end of the drive in mind." }
+    ]
+  },
+  "logistics": {
+    "title": "How winter service works here.",
+    "body": [
+      "Rob walks the drive with you before the season: how long it is, where the slope runs, where snow can be piled without blocking the view of the road, and where the mailbox, the beds and the lawn edges sit under the snow. Then he explains the options and prices it.",
+      "Walks and steps can be shoveled to the concrete and treated. That matters in the city, where the code expects owners to keep the public walk along their property clear after a snowfall. See [salting and sidewalks](/salting-and-sidewalks/) for what that covers.",
+      "Businesses, churches and associations in Clarkston can ask about [commercial snow removal](/commercial/) for lots, drives and walks."
+    ],
+    "facts": [
+      { "label": "Equipment", "value": "Our own plow trucks" },
+      { "label": "Snow from the drive", "value": "Kept off the road, as state law requires" },
+      { "label": "City street parking", "value": "None Dec 1 to Mar 1, 2 to 6 AM" },
+      { "label": "Pricing", "value": "Rob walks it and explains the options" }
+    ]
+  },
+  "photo": "walk-cleared",
+  "faq": [
+    { "q": "Do you plow driveways in Clarkston?", "a": "Yes. Grand Scapes plows residential driveways in Clarkston and Independence Township with our own trucks, and we clear and salt walks too. Rob comes out first, looks at the drive and gives you a free estimate." },
+    { "q": "When does the county plow subdivision streets in Independence Township?", "a": "After the main roads. The Road Commission for Oakland County sets its order by traffic volume and speed, so subdivision streets are done after everything else, and in a storm that goes on for days its trucks may have to stay on the main roads. A private road is not on the county's list at all; the homeowners along it are responsible." },
+    { "q": "Can snow from my driveway be pushed into the road?", "a": "No. Michigan's vehicle code says a person shall not deposit snow, ice or slush on any roadway or highway, and piles that block a driver's view at the road break the same section. Snow from a Clarkston drive belongs on the yard side, away from the sight line." },
+    { "q": "Does salt still work when it is really cold?", "a": "Less and less. Independence Township's winter tips say most salts stop working well below 15 degrees, and the Road Commission says salt starts losing its effectiveness below 20. On the coldest mornings, sand for traction does more, and less salt ends up in the lakes." },
+    { "q": "Will you clear the walk to my front door?", "a": "Yes, walks and steps can be part of the plan, shoveled to the concrete and treated where people walk. In the City of the Village of Clarkston, the public sidewalk along your lot matters too, because the code puts it on owners after a snowfall. Check with the city office about your block." }
+  ],
+  "reviews": ["rick-b", "stacy"]
+}

@@ -1,0 +1,48 @@
+{
+  "service": "landscaping",
+  "city": "holly",
+  "meta": {
+    "title": "Landscaping in Holly, MI | Grand Scapes",
+    "description": "Grand Scapes rebuilds tired beds in Holly, MI: old shrubs dug out, new borders, block walls or boulders on the slopes, and plants that suit sand and lake edges."
+  },
+  "hero": {
+    "kicker": "Landscaping in Holly, MI",
+    "title": "Rolling ground, **new beds.**",
+    "lede": "Grand Scapes tears out tired Holly beds and builds them back: overgrown shrubs and small trees dug out, a new shape and border, block walls or boulders where the ground slopes, then plants and mulch. Rob suggests what the yard needs and quotes it.",
+    "chips": ["Old shrubs out", "Block walls and boulders", "New plants and mulch", "Free estimate"],
+    "photo": "boulder-wall"
+  },
+  "local": {
+    "eyebrow": "Landscaping in Holly",
+    "title": "Glacial hills, sand and **lake edges.**",
+    "intro": "The township's own plan describes glacial country: hills, sand and gravel, kettle lakes and wetlands. That shapes a Holly landscape more than any style does. Slopes want something to hold them, sandy beds dry out, low corners stay wet, and lots that back up to state land or woods share an edge with whatever lives there.",
+    "points": [
+      { "title": "Slopes that need holding", "body": "On a sloped front yard or a walkout, a bed with no border sheds mulch and soil every heavy rain. A low block wall or a row of boulders gives the slope a step to hold onto. We build both, and we can show you each one finished." },
+      { "title": "Builder beds from the 2000s", "body": "Nearly 40% of the township's homes went up between 2000 and 2010, according to its master plan. Many still have their original foundation shrubs, now too big for the windows. Those come out by machine, roots and all, and the [bed starts over](/bush-removal/)." },
+      { "title": "Sand that drains, muck that does not", "body": "Sandy outwash soil drains fast, so new plants in it need steady watering until they root. Mucky ground near a wetland does the opposite and stays wet. Rob looks at what is actually under your bed before suggesting what should go in it." },
+      { "title": "Village fronts close to the walk", "body": "In the village, older homes sit on smaller lots with porches and walks near the street. A front bed there is mostly what people see from the sidewalk, so it gets a clean border and plants that stay in scale with the house." }
+    ]
+  },
+  "logistics": {
+    "title": "From walk through to finished bed in Holly.",
+    "body": [
+      "It starts with Rob in your yard. He looks at the slope, the light, the soil and what is worth keeping, and he tells you what he would do and what he would leave alone. Then you get a price and a date.",
+      "Our compact track loaders do the heavy digging and grading, and the dump trailer takes the old shrubs, roots and soil away. The village's yard waste rules do not accept root balls, dirt or rocks, and the outer township has no public pickup at all, so hauling the debris is part of our job.",
+      "Big trees are not something we take down; overgrown bushes and small trees are. If a slope needs reshaping and new seed once the old beds are out, that falls under our [grading and new lawn work](/grading-and-new-lawns/)."
+    ],
+    "facts": [
+      { "label": "Heavy digging", "value": "Compact track loaders" },
+      { "label": "Borders", "value": "Block wall, boulders or a cut natural edge" },
+      { "label": "Debris", "value": "Loaded and hauled off by us" },
+      { "label": "Estimate", "value": "Free, with Rob's suggestions" }
+    ]
+  },
+  "photo": "kubota-trailer",
+  "faq": [
+    { "q": "Do you do landscaping in Holly, MI?", "a": "Yes. Grand Scapes does landscaping in the Village of Holly and across Holly Township: tearing out overgrown beds, digging out bushes and small trees, building block or boulder borders, and finishing with plants and [mulch](/mulch-installation-holly-mi/). Rob comes out, suggests what the yard needs and quotes a price." },
+    { "q": "Can a landscape bed hold a slope?", "a": "Often, yes. On a moderate slope, a low block wall or a row of boulders gives soil and mulch something to stop against, and the bed behind it can be planted. A steep bank, especially one running toward a lake, may need more than a bed, and Rob will tell you plainly when that is the case." },
+    { "q": "Can old shrubs go out with village yard waste?", "a": "Only the small stuff. The village hauler takes brush under 2 inches thick, bundled and no longer than 4 feet, in season, and it does not accept root balls, dirt or rocks. Out in the township there is no public pickup. When we dig out a bed, the debris leaves in our trailer." },
+    { "q": "Do you remove trees?", "a": "Small ones, yes. We dig out overgrown bushes and small trees, roots and all, with a compact track loader, the way one of our reviews describes a cherry tree coming out. Big trees need a tree company, and we will say so at the walk through." }
+  ],
+  "reviews": ["bob-s", "james-a"]
+}

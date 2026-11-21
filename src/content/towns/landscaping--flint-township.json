@@ -1,0 +1,49 @@
+{
+  "service": "landscaping",
+  "city": "flint-township",
+  "meta": {
+    "title": "Landscaping in Flint Township, MI | Grand Scapes",
+    "description": "Grand Scapes rebuilds 1960s and 70s beds in Flint Township, MI: old shrubs out, beds shaped to drain, block walls or natural edges, new plants and mulch."
+  },
+  "hero": {
+    "kicker": "Landscaping in Flint Township, MI",
+    "title": "Fifty year old beds, **rebuilt.**",
+    "lede": "Grand Scapes rebuilds the beds around Flint Township homes: worn out shrubs dug out, the bed shaped to shed water, a gray block wall or natural edge set, then plants, fabric and mulch. Rob walks it with you and quotes the whole job.",
+    "chips": ["Old shrubs out", "Beds shaped to drain", "Block walls or edges", "Free estimate"],
+    "photo": "block-bed-front"
+  },
+  "local": {
+    "eyebrow": "Landscaping in Flint Township",
+    "title": "Homes from the 60s and 70s, and beds **that show it.**",
+    "intro": "The 1960s were the township's biggest building decade, and the typical home here dates to about 1970, by Census figures. Foundation beds that old have usually outlived their shrubs, and on heavy, slow draining loam they often hold water against the house. A rebuild fixes both at once.",
+    "points": [
+      { "title": "Shrubs past their prime", "body": "Foundation shrubs from decades ago can cover the windows and crowd the front walk. We dig them out with a compact track loader, roots and all, and start the bed fresh instead of trimming around dead wood." },
+      { "title": "Water against the foundation", "body": "Conover loam, the soil the USDA maps across most of the township, drains somewhat poorly, and Brookston loam in the low spots drains poorly. A bed shaped to slope away from the house keeps water moving the right way." },
+      { "title": "Mind the road edge", "body": "The Road Commission says anything installed in the county right of way needs a permit, and it names rocks, timber borders and heavy mailbox posts near the road as hazards. New beds stay on your side of that line." },
+      { "title": "The hauling is on us", "body": "Emterra's yard waste pickup does not take contractor generated material, and its brush bundles top out at 4 feet. Old shrubs, borders and soil from a rebuild leave in our dump trailer." }
+    ]
+  },
+  "logistics": {
+    "title": "How a landscaping job runs in Flint Township.",
+    "body": [
+      "Rob comes out, walks the beds and the yard with you, suggests what to keep, what to pull and how the bed should shed water, then quotes a price for the whole job.",
+      "On the work days the loader digs out old shrubs and borders, the bed gets shaped and graded, the new block wall or natural edge goes in, and plants, fabric and mulch finish it. Bare or torn up lawn along the bed can get seed and straw.",
+      "Big trees are a job for a tree company. Bushes and small trees that are in the way, we can remove, and [grading and new lawns](/grading-and-new-lawns/) covers the bigger dirt work."
+    ],
+    "facts": [
+      { "label": "Estimate", "value": "Free, Rob walks it with you" },
+      { "label": "Borders", "value": "Gray block or a natural edge" },
+      { "label": "Near the road", "value": "County permit for the right of way" },
+      { "label": "Debris", "value": "Hauled off in our trailer" }
+    ]
+  },
+  "photo": "kubota-trailer",
+  "faq": [
+    { "q": "Do you do landscaping in Flint Township?", "a": "Yes. Grand Scapes rebuilds beds in Flint Township: old shrubs and borders out, beds shaped to drain, block walls or a natural edge in, then new plants, fabric and mulch. Rob quotes it free after he walks the property." },
+    { "q": "Can you fix a bed that holds water against the house?", "a": "Usually, yes. Much of the township sits on loam that drains slowly, so we reshape the bed to slope away from the foundation before anything is planted. If the problem is the grade of the whole yard, see [grading and new lawns](/grading-and-new-lawns/)." },
+    { "q": "Can I put boulders or a border along the road?", "a": "Check with the Genesee County Road Commission first. It says installing anything in the public right of way needs a permit, and it lists rocks and solid timber borders near the road as hazards. We keep new work on your side of the right of way." },
+    { "q": "Do you remove old bushes?", "a": "Yes. We dig out overgrown bushes and small trees with a compact track loader, roots and all, and haul them away. See [bush and small tree removal](/bush-removal/) for how that works." },
+    { "q": "Do you keep the beds up after a rebuild?", "a": "Yes. [Landscape maintenance](/landscape-maintenance/) covers weeding, edging and touch ups through the season, and [shrub trimming in Flint Township](/shrub-trimming-flint-township-mi/) keeps the new plants in shape." }
+  ],
+  "reviews": ["bob-s", "james-a"]
+}

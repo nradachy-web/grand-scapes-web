@@ -1,0 +1,150 @@
+{
+  "service": "edging-walls",
+  "meta": {
+    "title": "Bed edging and block walls in Grand Blanc, MI | Grand Scapes",
+    "description": "Old brick borders out, gray block walls, boulders or a cut natural edge in. Bed edging in Grand Blanc, MI that keeps mulch in and grass out. Free estimate."
+  },
+  "hero": {
+    "kicker": "Bed edging and block walls in Grand Blanc, MI",
+    "title": "The line between **bed and lawn.**",
+    "lede": "Grand Scapes pulls out tired brick borders and puts in something that holds: a low gray block wall, a row of boulders, or a clean natural edge cut into the lawn. Mulch stays in the bed, grass stays out, and the mower has a line to follow.",
+    "chips": ["Brick borders out", "Gray block walls", "Boulders", "Natural cut edge"],
+    "photo": "tree-bed-after"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "plane": "paper",
+      "eyebrow": "The short version",
+      "title": "A border **that holds.**",
+      "body": [
+        "An edge does two jobs. It keeps mulch in the bed and grass out of it, and it draws the line your eye follows across the front of the house. When an old border heaves, sinks or disappears under the grass, the bed looks tired no matter how fresh the mulch is.",
+        "We put in three kinds: low gray block walls, boulders, and a natural edge cut into the soil. Which one fits depends on the house, the bed and the look you want, and Rob will tell you what he would pick."
+      ],
+      "checks": [
+        "Old brick borders pulled out and hauled off",
+        "Gray block walls around beds and tree rings, stepped where the ground drops",
+        "Boulders where a heavier, natural look fits",
+        "A natural edge that keeps chips out of the lawn"
+      ],
+      "photo": "block-bed-side"
+    },
+    {
+      "type": "beforeAfter",
+      "plane": "ink",
+      "eyebrow": "Real jobs",
+      "title": "Brick out, **block in.**",
+      "intro": "Two of our own jobs. Drag the line across each photo to see the old brick border and the gray block wall that replaced it.",
+      "pairs": ["ba-drive", "ba-front"],
+      "checks": [
+        "Old brick edging removed",
+        "Gray block wall stepping down at the walk",
+        "Bed finished in fresh black mulch"
+      ]
+    },
+    {
+      "type": "compare",
+      "plane": "paper",
+      "eyebrow": "Three kinds of edge",
+      "title": "Block, boulders **or a cut edge.**",
+      "intro": "Each one keeps the bed in shape. They look different and suit different beds.",
+      "columns": ["Gray block wall", "Boulders", "Natural cut edge"],
+      "rows": [
+        { "label": "Looks", "values": ["Crisp, raised and tidy", "Heavy, natural, informal", "Low and clean, no border showing"] },
+        { "label": "Good for", "values": ["Front beds, tree rings, brick homes", "Slopes and big sweeping beds", "Beds where you want only mulch and lawn"] },
+        { "label": "Holds mulch", "values": ["Yes, it sits above the lawn", "Yes, the bed sits behind it", "Yes, behind the cut, as Bob S. found"] },
+        { "label": "Upkeep", "values": ["Very little once it is set", "Very little", "A fresh cut now and then"] }
+      ]
+    },
+    {
+      "type": "intro",
+      "plane": "white",
+      "eyebrow": "The natural edge",
+      "title": "No border at all, **still no chips.**",
+      "body": [
+        "A natural edge is a clean, deep cut where the lawn stops and the bed begins. There is no brick, block or plastic, just a crisp line in the soil with the mulch sitting behind it.",
+        "Bob S. had us pull his old brick edging and cut a natural edge instead. In his review he wrote that it \"still prevents chips from flowing into the lawn.\"",
+        "Grass creeps back over a season, so a natural edge needs recutting now and then. That is part of what [landscape maintenance](/landscape-maintenance/) covers, along with weeding and trimming."
+      ],
+      "photo": "mulch-colonial",
+      "flip": true
+    },
+    {
+      "type": "cards",
+      "plane": "paper",
+      "eyebrow": "Good to know",
+      "title": "Before the shovel **goes in.**",
+      "columns": 2,
+      "items": [
+        {
+          "title": "Utilities get marked first",
+          "body": "MISS DIG 811 says every digging project needs a ticket at least 3 business days ahead, regardless of size or depth. Whoever does the digging places it, so on our jobs that call is ours."
+        },
+        {
+          "title": "Private lines are on you to point out",
+          "body": "MISS DIG does not mark private lines, like sprinkler lines, invisible dog fences, or power to a shed or detached garage. Tell us where yours run before a wall goes in."
+        },
+        {
+          "title": "Tree rings protect the bark",
+          "body": "A bed around a tree keeps mowers and string trimmers off the trunk, MSU Extension notes. Inside the ring, keep the mulch pulled back from the bark."
+        },
+        {
+          "title": "Low walls, not tall ones",
+          "body": "Our walls are low bed walls and boulder walls like the ones in our photos. If you need a tall wall holding back a hill or a driveway, ask Rob when he comes out."
+        }
+      ]
+    },
+    {
+      "type": "reviews",
+      "plane": "ink",
+      "eyebrow": "On Google",
+      "title": "A new edge, **in their words.**",
+      "ids": ["bob-s", "james-a"]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do you install landscape edging in Grand Blanc?",
+      "a": "Yes. Grand Scapes takes out old borders and puts in gray block walls, boulders or a cut natural edge around beds in Grand Blanc and Grand Blanc Township. We do edging work across Genesee County and north Oakland County too."
+    },
+    {
+      "q": "What kind of edging keeps mulch out of the lawn?",
+      "a": "All three of ours do: a raised gray block wall, boulders, or a natural edge cut into the soil. Block gives the crispest line, and a natural edge shows no border at all. Bob S. had his brick swapped for a natural edge and wrote that it still keeps the chips out of the lawn."
+    },
+    {
+      "q": "Can you remove old brick edging?",
+      "a": "Yes. Old brick borders that have heaved or sunk come out and get hauled off, and the bed gets a gray block wall or a natural edge in their place. Both before and after jobs on this page started that way."
+    },
+    {
+      "q": "What is a natural edge?",
+      "a": "It is a clean cut in the soil where the lawn ends and the bed begins, with no brick, block or plastic. The mulch sits behind the cut and the grass stays on its side. It needs a fresh cut now and then as the lawn creeps back."
+    },
+    {
+      "q": "Do you build retaining walls?",
+      "a": "We build low gray block walls around beds and trees, and boulder walls that hold a graded slope. Those are the walls in our photos. For a tall wall holding back a hill or a driveway, ask Rob when he comes out."
+    },
+    {
+      "q": "Do I have to call MISS DIG before putting in edging?",
+      "a": "Someone has to. MISS DIG 811 says any digging project needs a ticket at least 3 business days ahead, regardless of size or depth, and the person or company doing the digging places it. MISS DIG does not mark private lines like sprinkler lines or an invisible dog fence, so tell us where those run."
+    },
+    {
+      "q": "How much does bed edging cost?",
+      "a": "It depends on how long the border is, what has to come out and what goes in: block, boulders or a cut edge. Rob walks the beds, suggests what fits and quotes a price. The estimate is free."
+    }
+  ],
+  "quote": {
+    "title": "Tell us about the border.",
+    "lede": "What is there now, and what would you like instead? Call or [text Rob](sms:+18109903040) a photo at (810) 990-3040, and he will come out to look and quote it."
+  },
+  "summary": {
+    "title": "Edging and walls that keep beds in shape.",
+    "intro": "We take out tired borders and put in one that holds: a low gray block wall, boulders, or a cut natural edge. Rob quotes each job after he sees the beds, and the estimate is free.",
+    "items": [
+      { "name": "Old border out", "detail": "Heaved or sunken brick and broken edging dug out and hauled away." },
+      { "name": "Block walls", "detail": "Low gray block walls around beds and trees, stepped where the ground drops." },
+      { "name": "Boulders", "detail": "A heavier, natural border, or a boulder wall holding a graded slope." },
+      { "name": "Natural edge", "detail": "A clean cut in the soil that keeps mulch in and grass out." }
+    ],
+    "footnote": "Fresh mulch inside the new border is a [bed makeover](/mulch-and-flower-beds/), and Rob can quote both together."
+  }
+}

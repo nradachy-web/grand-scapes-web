@@ -1,0 +1,47 @@
+{
+  "service": "shrub-trimming",
+  "city": "davison",
+  "meta": {
+    "title": "Shrub and Hedge Trimming in Davison, MI | Grand Scapes",
+    "description": "Shrub and hedge trimming in Davison, MI: Grand Scapes shapes shrubs back to clean lines at the right time of year, rakes out clippings and hauls them away."
+  },
+  "hero": {
+    "kicker": "Shrub and hedge trimming in Davison, MI",
+    "title": "Back to **clean lines.**",
+    "lede": "Grand Scapes trims Davison shrubs and hedges back to clean lines, rakes the clippings out of the beds and hauls them off. Overgrown bushes past saving can come out, roots and all, and Rob will tell you which is which.",
+    "chips": ["Shrubs and hedges", "Clippings hauled off", "Bush removal too"],
+    "photo": "stone-house-bed"
+  },
+  "local": {
+    "eyebrow": "Shrubs in Davison",
+    "title": "Timing matters more than **the shears.**",
+    "intro": "Most Davison yards have a row of foundation shrubs and a few flowering ones, and the age of the planting shows. Some just need a shape up. Others have swallowed a window or crowded the front walk. When each one blooms decides when it should be cut.",
+    "points": [
+      { "title": "Spring bloomers after bloom", "body": "MSU Extension says spring-flowering shrubs like lilac, forsythia, spirea and weigela are best pruned right after they finish blooming, because they set next year's buds the summer before. Cut them in early spring and the flowers go with the clippings." },
+      { "title": "Off the walk and the windows", "body": "On compact city lots, a shrub by the front walk can crowd the sidewalk the city expects you to keep clear in winter. We cut it back off the concrete and away from the siding." },
+      { "title": "Long hedges on township lots", "body": "Township lots often have a hedge or a shrub row along a drive or a property line. We keep the faces straight and the tops level, then rake the clippings out of the bed underneath." },
+      { "title": "When to start over", "body": "Shrubs that are bare inside or far too big for the spot may never recover from a hard cut. A track loader can take them out, roots and all, and the bed can be [rebuilt](/landscaping-davison-mi/)." }
+    ]
+  },
+  "logistics": {
+    "title": "What a trimming visit looks like.",
+    "body": [
+      "Rob walks the beds with you, notes which shrubs flower in spring and which do not, and plans the visits around that. On the day, we shape each shrub, clean the cuttings out from underneath, blow off the walks and haul the brush away in our trailer.",
+      "Davison Township allows brush to be burned on a permit, but most people would rather not tend a fire in the back yard. Our clippings leave with us, so nothing waits for the yard waste truck in a tied bundle at the curb."
+    ],
+    "facts": [
+      { "label": "Spring bloomers", "value": "Trimmed right after flowering" },
+      { "label": "Clippings", "value": "Raked out and hauled away" },
+      { "label": "Old shrubs", "value": "Removed, roots and all" },
+      { "label": "Estimate", "value": "Free, Rob looks first" }
+    ]
+  },
+  "photo": "gazebo-hedges",
+  "faq": [
+    { "q": "Do you trim shrubs and hedges in Davison, MI?", "a": "Yes. Grand Scapes trims shrubs and hedges in the City of Davison and Davison Township, from foundation shrubs to long hedges along a drive. We rake out the clippings and haul them away. Rob gives you a free estimate after he sees the yard." },
+    { "q": "When should I trim my lilacs?", "a": "Right after they bloom. MSU Extension explains that lilacs and other spring-flowering shrubs form next year's flower buds the summer before, so cutting them in early spring removes the flowers. Dead or damaged wood can come out whenever you find it." },
+    { "q": "Can you remove old bushes in Davison?", "a": "Yes. Overgrown bushes and small trees come out with a compact track loader, roots and all. One of our Google reviews describes Rob's crew removing 25 year old bushes and a cherry tree, then redoing the bed. Big trees are not something we take down." },
+    { "q": "What happens to the clippings?", "a": "They go in our trailer and leave with us. In Davison Township, yard waste bundles have to be tied, under 4 feet long and under 50 pounds, with branches no thicker than 2 inches. Hauling them off saves you the bundling." }
+  ],
+  "reviews": ["bob-s", "james-a"]
+}

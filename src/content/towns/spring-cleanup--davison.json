@@ -1,0 +1,47 @@
+{
+  "service": "spring-cleanup",
+  "city": "davison",
+  "meta": {
+    "title": "Spring Cleanup in Davison, MI | Grand Scapes",
+    "description": "Spring cleanup in Davison, MI by Grand Scapes: winter debris out, beds cleaned and edged, the first cut done and the yard set up for mulch and the season."
+  },
+  "hero": {
+    "kicker": "Spring cleanup in Davison, MI",
+    "title": "Winter out, **season in.**",
+    "lede": "Grand Scapes gets Davison yards ready in spring: sticks and leftover leaves out, beds cleaned and edged, perennials cut back, the grit along the walks swept off and the first cut done. What we clear leaves in our trailer.",
+    "chips": ["Debris out", "Beds edged", "First cut", "Ready for mulch"],
+    "photo": "mulch-colonial"
+  },
+  "local": {
+    "eyebrow": "Spring in Davison",
+    "title": "Soft ground first, **then the mower.**",
+    "intro": "Spring in Davison means wet ground before anything else. The loam soils under much of the city and the township drain slowly, so a yard can look ready well before it can carry a mower. A good cleanup works with that, starting with the beds and the debris and saving the heavy work for firm ground.",
+    "points": [
+      { "title": "Wait for firm soil", "body": "Somewhat poorly drained soils like Conover loam stay soft after the frost goes out. We clean the beds and pick up debris first, and keep the mower off the lawn until it will not leave ruts." },
+      { "title": "Some stems can wait", "body": "MSU Extension notes that some bees spend the winter in hollow plant stems, and that mid to late April is likely fine for most of them. We time the cutback of perennials and grasses with that in mind." },
+      { "title": "Yard waste returns in April", "body": "City yard waste pickup started April 6 in 2026, and Davison Township's runs from the first Tuesday in April. Our cleanup debris goes in our trailer, so your bags stay free for the rest of spring." },
+      { "title": "Sidewalk edges after winter", "body": "A season of shoveling and salt leaves grit and a ragged lawn edge along the walk. We sweep it off, cut the edge back to a straight line and give the lawn a clean border before its first cut." }
+    ]
+  },
+  "logistics": {
+    "title": "One visit that sets up the year.",
+    "body": [
+      "Spring cleanups go on the calendar in order as the ground firms up. If you also want [mulch](/mulch-installation-davison-mi/), it goes down right after, while the beds are clean and freshly edged.",
+      "If you are on weekly mowing with us, the cleanup rolls straight into the first cut of the season. If not, spring is a good time to start, and [weekly mowing in Davison](/lawn-mowing-davison-mi/) picks up from there. Rob texts before we come."
+    ],
+    "facts": [
+      { "label": "Includes", "value": "Debris, beds, edges, first cut" },
+      { "label": "City yard waste", "value": "Weekly from April (April 6 in 2026)" },
+      { "label": "Township yard waste", "value": "From the first Tuesday in April" },
+      { "label": "Estimate", "value": "Free, call or text Rob" }
+    ]
+  },
+  "photo": "walk-edge",
+  "faq": [
+    { "q": "Do you do spring cleanups in Davison, MI?", "a": "Yes. Grand Scapes does spring cleanups in the City of Davison and Davison Township: winter debris out, beds cleaned and edged, perennials cut back and the first cut of the year. Everything we clear gets hauled away." },
+    { "q": "When should I do a spring cleanup in Michigan?", "a": "When the ground is firm enough to walk and mow without leaving ruts, which on slow-draining loam can be later than it looks. MSU Extension also suggests not rushing to cut every stem, since some bees overwinter in them; mid to late April is likely fine for most." },
+    { "q": "Does Davison pick up yard waste in the spring?", "a": "Yes. City yard waste goes out weekly from April through November, and in 2026 the first pickup was April 6. Davison Township's season starts the first Tuesday in April. Both want paper bags or marked cans, not plastic. Our cleanups take the debris with us, so you need neither." },
+    { "q": "Do you put down mulch after the cleanup?", "a": "Yes, if you want it. Mulch goes on best right after a cleanup, when the beds are clean and edged. See [mulch installation in Davison](/mulch-installation-davison-mi/) for colors and depth." }
+  ],
+  "reviews": ["stacy", "rick-b"]
+}

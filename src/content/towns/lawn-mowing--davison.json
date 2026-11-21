@@ -1,0 +1,49 @@
+{
+  "service": "lawn-mowing",
+  "city": "davison",
+  "meta": {
+    "title": "Lawn Mowing in Davison, MI | Grand Scapes",
+    "description": "Weekly lawn mowing in Davison, MI from Grand Scapes: mowed, trimmed, edged and blown off, on compact city lots and on big township yards, in clean stripes."
+  },
+  "hero": {
+    "kicker": "Lawn mowing in Davison, MI",
+    "title": "Short city lawns, **long township ones.**",
+    "lede": "Grand Scapes mows Davison lawns every week: cut, trimmed, edged along the curb and the walk, and blown off before we leave. A small lot near downtown and two acres out in the township both get finished in clean stripes.",
+    "chips": ["Weekly service", "Edged walks and curbs", "Striped finish"],
+    "photo": "ranch-stripes"
+  },
+  "local": {
+    "eyebrow": "Mowing in Davison",
+    "title": "Two kinds of lawn, and each one **wants something else.**",
+    "intro": "Inside the city, lawns are compact, with a sidewalk or a curb on at least one side, so the edging shows as much as the cut. Out in Davison Township, zoning allows anything from estate lots of an acre and a half to 10 acre parcels, and the mowing is the long part of the visit. Under both sits loam that holds water.",
+    "points": [
+      { "title": "Edges carry a city lawn", "body": "On a small lot, a crisp line along the walk and the curb does most of the work. We edge those hard lines every visit, string trim around the fence and the mailbox post, and blow the clippings off the concrete." },
+      { "title": "Room to stripe in the township", "body": "Big township yards are where a zero turn earns its keep. We pick a pattern, straight, curved or crosshatch, and keep the lines running true across the whole lawn from week to week." },
+      { "title": "Soft loam after rain", "body": "The USDA soil survey puts the city center on Conover loam, which is somewhat poorly drained, and parts of the township on poorly drained Brookston loam. After a soaking rain we skip the softest spots rather than leave tire tracks in them." },
+      { "title": "The six inch rule", "body": "The city counts grass over six inches on average as a nuisance on lots under an acre, and code enforcement posts that reminder every spring. A weekly cut keeps you well clear of it, even in a fast May." },
+      { "title": "A third of the blade at a time", "body": "MSU Extension advises taking no more than a third of the grass blade in one mowing, and 2.5 to 3.5 inches suits most lawns. We set the deck in that range so the turf stays thick." }
+    ]
+  },
+  "logistics": {
+    "title": "A set day each week, spring to the last cut.",
+    "body": [
+      "Once you say yes, the lawn goes on our weekly Davison route with a set day. It is about 20 minutes from our shop on Embury Road. When a downpour soaks the ground, we shift the cut instead of mowing mud into the lawn, and Rob lets you know by text.",
+      "City lots usually mean the truck and trailer at the curb, so we keep the street side tidy and the sidewalk clear for the neighbors. On township acreage, tell us about gates, dogs and soft ground near a ditch, and we plan the route around them."
+    ],
+    "facts": [
+      { "label": "Every visit", "value": "Mowed, trimmed, edged, blown off" },
+      { "label": "City grass rule", "value": "Over six inches on average is a nuisance" },
+      { "label": "Patterns", "value": "Straight, curved or crosshatch" },
+      { "label": "Estimate", "value": "Free, after Rob sees the lawn" }
+    ]
+  },
+  "photo": "curb-edge",
+  "faq": [
+    { "q": "Do you mow lawns in Davison, MI?", "a": "Yes. Grand Scapes mows lawns every week in the City of Davison and in Davison Township. Each visit is mowed, trimmed, edged and blown off, and Rob gives you a free estimate after he has seen the lawn." },
+    { "q": "How tall can grass get in the City of Davison?", "a": "The city's ordinance treats grass or rank vegetation over six inches on average as a nuisance on lots under one acre. On larger unplatted lots, the strip within 50 feet of the street or a property line has to stay under that height. Weekly mowing handles it." },
+    { "q": "Do you mow big lots in Davison Township?", "a": "Yes. Township lots can run from an acre and a half to farm parcels of 10 acres or more, and big lawns are a normal part of our week. One of our Google reviews comes from a customer whose 7 1/2 acre lawn we keep all year." },
+    { "q": "How often should a lawn be mowed in Michigan?", "a": "Weekly through most of the season. MSU Extension says not to remove more than a third of the blade in one mowing, and in a fast spring that can mean more than one cut a week. A weekly visit keeps most lawns inside that rule." },
+    { "q": "What else can you do for a yard in Davison?", "a": "Plenty, around the mowing: [spring cleanups](/spring-cleanup-davison-mi/), [fall leaf removal](/leaf-removal-davison-mi/), [shrub trimming](/shrub-trimming-davison-mi/) and [mulch and beds](/mulch-installation-davison-mi/). Lawn treatments are not on our list, so the weekly visit is about the cut, the trim and the edge." }
+  ],
+  "reviews": ["stacy", "rick-b"]
+}

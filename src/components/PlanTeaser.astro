@@ -1,0 +1,68 @@
+---
+/* The way in to the Plan your year builder: four seasons of real work as tiles,
+   one line each, and one action. */
+import Photo from './Photo.astro';
+import { SEASONS } from '../data/seasons';
+import type { PhotoId } from '../data/photos';
+import { href } from '../lib/paths';
+
+const PICS: Record<string, PhotoId> = { spring: 'block-bed-door', summer: 'mower-stripes', fall: 'leaf-vac', winter: 'plow-fleet' };
+---
+
+<div class="pt">
+  <ul class="pt__tiles">
+    {
+      SEASONS.map((s) => (
+        <li class="pt__tile">
+          <div class="frame pt__frame">
+            <Photo id={PICS[s.id]} ratio={3 / 4} widths={[240, 360, 480]} sizes="(min-width: 64rem) 14vw, 45vw" />
+          </div>
+          <p class="pt__name">{s.name}</p>
+          <p class="fine pt__line">{s.title}</p>
+        </li>
+      ))
+    }
+  </ul>
+  <a class="btn primary pt__cta" href={href('/plan-your-year/')}>Build your year</a>
+</div>
+
+<style>
+  .pt {
+    display: grid;
+    gap: 1.5rem;
+  }
+
+  .pt__tiles {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.75rem;
+  }
+
+  @media (min-width: 48rem) {
+    .pt__tiles {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+  }
+
+  .pt__frame {
+    aspect-ratio: 3 / 4;
+  }
+
+  .pt__name {
+    margin-top: 0.7rem;
+    font-weight: 720;
+    letter-spacing: -0.01em;
+  }
+
+  .pt__line {
+    color: var(--muted);
+  }
+
+  :global(.ink) .pt__line {
+    color: var(--on-ink-muted);
+  }
+
+  .pt__cta {
+    justify-self: start;
+  }
+</style>

@@ -1,0 +1,47 @@
+{
+  "service": "spring-cleanup",
+  "city": "clarkston",
+  "meta": {
+    "title": "Spring cleanup in Clarkston, MI | Grand Scapes",
+    "description": "Spring cleanup in Clarkston, MI: winter debris and leftover leaves out, beds cleaned and edged, the first cut done, timed for soil that has dried out."
+  },
+  "hero": {
+    "kicker": "Spring cleanup in Clarkston, MI",
+    "title": "Winter out, **the yard back.**",
+    "lede": "Grand Scapes gets Clarkston yards ready for the season: sticks and leftover leaves out, beds cleaned and edged, perennials cut back, the first mow done when the grass is ready, and everything hauled off in our trailer.",
+    "chips": ["Debris hauled off", "Beds cleaned and edged", "First cut done"],
+    "photo": "block-bed-trailer"
+  },
+  "local": {
+    "eyebrow": "Spring in Clarkston",
+    "title": "Dry knobs and **wet hollows.**",
+    "intro": "Spring shows up unevenly on a Clarkston lot. The sandy rises drain and firm up early, while the low ground near lakes and wetlands sits on muck that stays soft much longer. A good cleanup starts where the ground can take it and comes back for the rest.",
+    "points": [
+      { "title": "Wet soil packs down", "body": "MSU Extension's test is simple: squeeze a handful of soil, and if it holds together as a mud ball, it is too wet to work. A crew and equipment on soggy ground compact it, so the wet corners wait a little." },
+      { "title": "Salt burn along the road", "body": "Winter salt does its damage quietly and shows up in spring. MSU Extension says injury is usually worst on the side facing the road, and white pine, roses, yews and boxwood are among the sensitive plants. We will point out what got burned." },
+      { "title": "Leftover leaves", "body": "Leaves that came down after the fall cleanup mat over the lawn and fill the beds. In the city they cannot go to the street, so they go in our trailer with the sticks and the cut back stems." },
+      { "title": "Some shrubs wait", "body": "A spring cleanup is not the time to shear everything. MSU Extension says spring flowering shrubs such as forsythia and lilac should be pruned right after they bloom, so those wait for a [later trim](/shrub-trimming-clarkston-mi/)." }
+    ]
+  },
+  "logistics": {
+    "title": "What a spring visit covers in Clarkston.",
+    "body": [
+      "We rake and blow the winter debris out of the lawn and beds, cut back last year's perennials and ornamental grasses, cut fresh bed edges and haul everything away. When the grass is ready, the first mow comes on that visit or the next one.",
+      "A clean, edged bed is the right start for fresh [mulch](/mulch-installation-clarkston-mi/), and the spring visit is a natural time to begin [weekly mowing](/lawn-mowing-clarkston-mi/). Rob can price all three at one walk through."
+    ],
+    "facts": [
+      { "label": "Includes", "value": "Debris out, beds edged, first cut" },
+      { "label": "Timing", "value": "When the soil crumbles, not before" },
+      { "label": "Debris", "value": "Hauled off in our trailer" },
+      { "label": "Estimate", "value": "Free" }
+    ]
+  },
+  "photo": "walk-edge",
+  "faq": [
+    { "q": "Do you do spring cleanups in Clarkston?", "a": "Yes. Grand Scapes does spring cleanups in Clarkston and Independence Township: leaves and sticks out, beds cleaned and edged, perennials cut back, and the first cut when the lawn is ready. Everything leaves in our trailer." },
+    { "q": "When should spring cleanup start in Michigan?", "a": "When the ground has dried enough to walk on without leaving footprints. MSU Extension's squeeze test is a good guide. On sandy high spots around Clarkston that comes early; low, mucky corners can take weeks longer." },
+    { "q": "My shrubs by the road look brown. Is that salt?", "a": "It may be. MSU Extension says salt injury usually shows on the side facing the road, and white pine, roses, yews and boxwood take it hard. Rob can look during the cleanup and suggest whether to prune, wait or replace, and next winter, salty slush is better kept off the beds." },
+    { "q": "Can mulch go down during a spring cleanup?", "a": "Yes, as part of the same job. The cleanup clears and edges the beds, which is the right start for 2 to 3 inches of fresh mulch. Rob will price both when he comes out." }
+  ],
+  "reviews": ["stacy", "rick-b"]
+}

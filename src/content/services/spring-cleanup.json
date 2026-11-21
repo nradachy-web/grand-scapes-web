@@ -1,0 +1,170 @@
+{
+  "service": "spring-cleanup",
+  "meta": {
+    "title": "Spring cleanup in Grand Blanc, MI | Grand Scapes",
+    "description": "Spring yard cleanup in Grand Blanc and Genesee County. Winter debris out, beds cleaned and edged, the first cut done. Free estimates from Grand Scapes."
+  },
+  "hero": {
+    "kicker": "Spring cleanup in Grand Blanc, MI and across Genesee County",
+    "title": "Winter out. **Edges back.**",
+    "lede": "A spring cleanup from Grand Scapes clears out what winter left behind: leaves, sticks, matted grass and last year's dead stems. We clean the beds, cut a fresh edge, give the lawn its first cut and leave the yard ready for mulch, in Grand Blanc and across Genesee County.",
+    "chips": ["Leaves and sticks out", "Beds cleaned", "Fresh bed edges", "First cut done"],
+    "photo": "block-bed-trailer"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "plane": "paper",
+      "eyebrow": "What it covers",
+      "title": "The whole yard, **caught up.**",
+      "body": [
+        "Spring cleanup is the first visit of the year, and it gets the yard back to a clean start. We clear leaves, sticks and winter debris from the lawn and out of the beds, cut back last year's dead stems and ornamental grasses, recut the bed edges and blow off the drive and walks.",
+        "Then the lawn gets its first mow of the season. From there the yard is ready for [fresh mulch](/mulch-and-flower-beds/), [shrub trimming](/shrub-trimming/) or a spot on the [weekly mowing](/lawn-mowing/) route, whichever you want next."
+      ],
+      "checks": [
+        "Leaves, sticks and winter debris out of the lawn and the beds",
+        "Matted spots lightly raked so new grass can come through",
+        "Last year's perennial stems and grasses cut back",
+        "Bed edges recut to a clean line",
+        "The first cut of the season",
+        "Drive and walks blown off"
+      ],
+      "photo": "sign-bed"
+    },
+    {
+      "type": "seasons",
+      "plane": "white",
+      "eyebrow": "One yard, four seasons",
+      "title": "Spring is where **the year starts.**",
+      "intro": "The same yard through a year with us, as an illustration. Spring sets up the rest: a clean, edged yard is easier to keep striped all summer and quicker to clear in the fall."
+    },
+    {
+      "type": "steps",
+      "plane": "paper",
+      "eyebrow": "How it goes",
+      "title": "From winter mess to **a first cut.**",
+      "steps": [
+        {
+          "title": "Book it",
+          "body": "Call or text Rob. He comes out, walks the yard with you and gives you a free estimate. If you want the beds cut back hard or a corner left a little wild, this is when to say so.",
+          "note": "Free estimate"
+        },
+        {
+          "title": "Clear",
+          "body": "Leaves, sticks and debris come off the lawn and out of the beds, with a light hand around bulbs and perennials that are already coming up."
+        },
+        {
+          "title": "Cut back",
+          "body": "Last year's dead stems and ornamental grasses come down, and the beds are cleaned out so new growth has room."
+        },
+        {
+          "title": "Edge",
+          "body": "Every bed gets a fresh, crisp edge, so the lawn stays in the lawn and the mulch stays in the bed."
+        },
+        {
+          "title": "First cut",
+          "body": "The lawn gets its first mow of the season, and the drive and walks get blown off. The yard is ready for mulch."
+        }
+      ],
+      "footnote": "Mulch and shrub trimming can go on the same estimate, so the yard is finished in one stretch."
+    },
+    {
+      "type": "cards",
+      "plane": "white",
+      "eyebrow": "From MSU Extension",
+      "title": "Good spring habits for **a Michigan yard.**",
+      "intro": "A few things Michigan State University Extension says are worth knowing before anyone, us included, works a yard in early spring.",
+      "columns": 2,
+      "items": [
+        {
+          "title": "Rake light, not hard",
+          "body": "Snow mold usually kills only the grass blades, not the plant, MSU says. A light pass with a leaf rake, not a garden rake, lifts the matted spots and helps the new growth come through."
+        },
+        {
+          "title": "Stay off soggy ground",
+          "body": "Rolling or turning a heavy mower on saturated soil packs it down. MSU's advice is to wait until the soil dries rather than risk making the problem worse."
+        },
+        {
+          "title": "Leave some stems for the bees",
+          "body": "Bees and other insects spend the winter in leaf litter and hollow perennial stems, and some stay put until June or July. MSU suggests working slowly, or setting cut stems aside where insects can still come out. Tell Rob if you want some left."
+        },
+        {
+          "title": "Check the salt line",
+          "body": "MSU notes that de-icing salt can kill patches of grass over the winter. If the strip along the drive or walk has not greened up, it may need reseeding. Ask Rob about [new seed](/grading-and-new-lawns/) when he comes out."
+        }
+      ]
+    },
+    {
+      "type": "intro",
+      "plane": "paper",
+      "eyebrow": "Timing",
+      "title": "Between soggy ground and **fast grass.**",
+      "body": [
+        "Spring cleanup in Michigan sits between two things. Early on, a lot of yards are too wet to work without packing the soil or leaving ruts. Then the grass takes off: MSU Extension says the spring growth surge peaks in May or June. Getting the cleanup done in between means the first cut lands on a clean lawn.",
+        "Our shop is on Embury Road in Grand Blanc, and we do spring cleanups all over Grand Blanc and Grand Blanc Township. We also work around Genesee County and into north Oakland County, including [Fenton](/spring-cleanup-fenton-mi/), [Davison](/spring-cleanup-davison-mi/), [Burton](/spring-cleanup-burton-mi/) and [Clarkston](/spring-cleanup-clarkston-mi/)."
+      ],
+      "photo": "mulch-crew",
+      "flip": true,
+      "cta": { "label": "Add mulch to the cleanup", "href": "/mulch-and-flower-beds/" }
+    },
+    {
+      "type": "reviews",
+      "plane": "ink",
+      "eyebrow": "On Google",
+      "title": "From customers we see **all season.**",
+      "ids": ["rick-b", "stacy"]
+    },
+    {
+      "type": "plan",
+      "plane": "paper",
+      "eyebrow": "Plan your year",
+      "title": "Start with spring. **Plan the rest.**",
+      "intro": "A spring cleanup is usually the first visit of the year. Lay out what comes after, from weekly mowing to the fall leaves and winter plowing, and Rob can quote the year together."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do you do spring cleanups in Grand Blanc?",
+      "a": "Yes. Grand Scapes does spring cleanups in Grand Blanc, Grand Blanc Township and across Genesee County. We clear winter debris from the lawn and beds, cut back old growth, recut the bed edges and give the lawn its first cut. Call or text Rob at [(810) 990-3040](tel:+18109903040) for a free estimate."
+    },
+    {
+      "q": "When should I do a spring yard cleanup in Michigan?",
+      "a": "Once the ground has dried out enough to walk on without sinking in, and before the grass takes off. MSU Extension warns that rolling or driving on saturated soil compacts it, and says the spring growth surge usually peaks in May or June. In the beds, MSU suggests a slower touch early on, since some bees and butterflies are still sheltering in leaf litter and stems."
+    },
+    {
+      "q": "What does a spring cleanup include?",
+      "a": "Leaves, sticks and winter debris cleared from the lawn and beds, last year's dead stems and ornamental grasses cut back, bed edges recut, the first mow of the season, and the drive and walks blown off. Rob goes over the list with you when he quotes it, and extras like mulch can be added."
+    },
+    {
+      "q": "Should I rake my lawn in the spring?",
+      "a": "Lightly, and only where it needs it. MSU Extension recommends a leaf rake, not a garden rake, on matted or snow mold spots, to lift the dead blades so new growth can come through. Snow mold usually kills only the leaf tissue, so most of those spots recover as the soil warms."
+    },
+    {
+      "q": "When should I cut back ornamental grasses and perennials?",
+      "a": "Late winter or early spring, before the new growth comes up. MSU Extension suggests leaving the stems standing through winter as shelter for bees and other helpful insects, then cutting them during the dormant season and setting them somewhere the insects can still come out. We cut them back as part of a spring cleanup."
+    },
+    {
+      "q": "Can you mulch the beds during a spring cleanup?",
+      "a": "Yes, and spring is a natural time for it, with the beds cleared and edged. We lay fresh mulch in black, brown or red, with fabric underneath where you want it. See [mulch and flower bed makeovers](/mulch-and-flower-beds/) for how that part goes."
+    },
+    {
+      "q": "How much does a spring cleanup cost?",
+      "a": "It depends on the size of the yard, how many beds there are and how much winter left behind. Rob comes out, looks at it and quotes you a price before any work starts. The estimate is free."
+    }
+  ],
+  "quote": {
+    "title": "Tell us what winter left.",
+    "lede": "Where the yard is and what it needs: beds full of leaves, matted grass, edges that have disappeared, a lawn ready for its first cut. Rob will come out and give you a free estimate."
+  },
+  "summary": {
+    "title": "Spring cleanup, the whole reset.",
+    "intro": "A spring cleanup from Grand Scapes is one visit that clears out winter and gets the yard ready for the season. Rob looks at the yard first and quotes it, and the estimate is free.",
+    "items": [
+      { "name": "Debris out", "detail": "Leaves, sticks and winter mess cleared from the lawn and the beds." },
+      { "name": "Beds cleaned", "detail": "Old stems and ornamental grasses cut back, the beds cleared out." },
+      { "name": "Fresh edges", "detail": "Bed edges recut to a clean line." },
+      { "name": "First cut", "detail": "The season's first mow, with the drive and walks blown off." }
+    ],
+    "footnote": "Fresh mulch and shrub trimming can be added to the same visit."
+  }
+}

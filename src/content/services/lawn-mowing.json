@@ -1,0 +1,164 @@
+{
+  "service": "lawn-mowing",
+  "meta": {
+    "title": "Weekly lawn mowing in Grand Blanc, MI | Grand Scapes",
+    "description": "Weekly lawn mowing in Grand Blanc and Genesee County. Mowed, trimmed, edged and blown off, finished in clean stripes. Licensed and insured. Free estimates."
+  },
+  "hero": {
+    "kicker": "Weekly lawn mowing in Grand Blanc, MI and across Genesee County",
+    "title": "Clean stripes, **every week.**",
+    "lede": "Grand Scapes mows lawns every week of the season in Grand Blanc and Grand Blanc Township. Every visit is mowed, trimmed, edged along the curb and walks, and blown off clean. Rob comes out, looks at the lawn and gives you a free estimate.",
+    "chips": ["Mowed and trimmed", "Edged at curbs and walks", "Blown off clean", "Licensed and insured"],
+    "photo": "curve-stripes-colonial"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "plane": "paper",
+      "eyebrow": "The weekly visit",
+      "title": "Four jobs on **every visit.**",
+      "body": [
+        "Weekly lawn service from Grand Scapes is mowing, trimming, edging and blowing off, done together each time we come. We mow on zero turn mowers and finish the lawn in stripes, so it looks freshly cut from the street all week.",
+        "Trimming takes care of what the mower cannot reach: fence lines, the mailbox post, around trees and along the beds. Edging cuts a clean line where the grass meets the curb, the driveway and the walks. Then the clippings get blown off the concrete, so nobody tracks them into the house."
+      ],
+      "checks": [
+        "Mowed on zero turn mowers, finished in stripes",
+        "Trimmed along fences, beds, trees and posts",
+        "Edged sharp along the curb, the drive and the walks",
+        "Clippings blown off the drive, walks and patio",
+        "Gates shut behind us. The dog stays in."
+      ],
+      "photo": "curb-edge"
+    },
+    {
+      "type": "stripes",
+      "plane": "white",
+      "eyebrow": "Pick a pattern",
+      "title": "Stripes are **the finish.**",
+      "intro": "Try the patterns on the drawing, pick the one you like and it goes with your estimate request. Switching it up now and then is good for the grass too: Michigan State University Extension notes that varying the mowing direction from time to time reduces wear patterns."
+    },
+    {
+      "type": "reveal",
+      "kind": "mow",
+      "plane": "ink",
+      "eyebrow": "Try it",
+      "title": "A week of May, **one visit.**",
+      "intro": "An illustration of a lawn that got ahead of its owner. Drag across it to cut it back to stripes, which is about how the front yard looks when the trailer pulls away."
+    },
+    {
+      "type": "cards",
+      "plane": "paper",
+      "eyebrow": "How a good cut works",
+      "title": "A healthy lawn is mostly **height and timing.**",
+      "intro": "This is Michigan State University Extension's guidance for home lawns, in plain words. It is also why a weekly schedule suits most lawns around Grand Blanc.",
+      "columns": 2,
+      "items": [
+        {
+          "tag": "Height",
+          "title": "Taller is tougher",
+          "body": "MSU's current range for home lawns is 2 to 3.75 inches. Taller grass keeps a bigger root system, shades the soil so less crabgrass sprouts, and holds up better in summer heat. If you want your lawn kept at a certain height, tell Rob."
+        },
+        {
+          "tag": "Frequency",
+          "title": "Never more than a third",
+          "body": "MSU's rule of thumb is to take off no more than one third of the leaf in a single cut. A lawn kept at 3 inches should be mowed before it passes 4.5. In a fast spring, MSU says that can mean a cut every four to five days."
+        },
+        {
+          "tag": "Clippings",
+          "title": "Leave them, mostly",
+          "body": "Clippings from a regular cut do not cause thatch, MSU says. They are mostly water, break down fast and put nutrients back in the soil. The trouble is heavy clumps from grass left too long, which can smother the lawn. One more reason to mow every week."
+        },
+        {
+          "tag": "Blades",
+          "title": "A sharp blade cuts",
+          "body": "A dull blade tears grass instead of cutting it. MSU says that leaves a frayed, brownish look and an easy opening for disease. A clean stripe starts with a clean cut."
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "plane": "white",
+      "eyebrow": "Real lawns",
+      "title": "Some of the stripes **we left behind.**",
+      "intro": "Our own job photos. The pattern follows the yard: arcs across a big side lot, straight lines on a ranch front, a curve that follows the drive around a cul-de-sac.",
+      "photos": ["ranch-stripes", "side-yard-stripes", "cul-de-sac-stripes", "checker-close", "tree-line-stripes", "neighborhood-stripes"]
+    },
+    {
+      "type": "intro",
+      "plane": "paper",
+      "eyebrow": "Grand Blanc and beyond",
+      "title": "City lots, township lots, **whole acres.**",
+      "body": [
+        "Our shop is on Embury Road in Grand Blanc, and most of the lawns we mow are close to home, in the city and across Grand Blanc Township. We also mow around Genesee County and into north Oakland County, from Flint to Holly and from Fenton to Davison.",
+        "Size is not a problem. One customer wrote that Rob and the crew took care of their 7 1/2 acre lawn all year, and plenty of our lawns are a front yard, a back yard and a fence. Offices, HOAs and other businesses can have the grounds mowed through our [commercial service](/commercial/).",
+        "Outside Grand Blanc, see how mowing works in [Fenton](/lawn-mowing-fenton-mi/), [Flint](/lawn-mowing-flint-mi/), [Davison](/lawn-mowing-davison-mi/), [Burton](/lawn-mowing-burton-mi/) and [Clarkston](/lawn-mowing-clarkston-mi/)."
+      ],
+      "photo": "truck-trailer",
+      "flip": true,
+      "cta": { "label": "See every town we cover", "href": "/service-areas/" }
+    },
+    {
+      "type": "reviews",
+      "plane": "ink",
+      "eyebrow": "On Google",
+      "title": "From our **weekly customers.**",
+      "ids": ["stacy", "rick-b"]
+    },
+    {
+      "type": "plan",
+      "plane": "paper",
+      "eyebrow": "Plan your year",
+      "title": "Mowing is summer. **Add the rest.**",
+      "intro": "Most yards need more than a weekly cut: a spring cleanup to start, the leaves hauled off in fall, a plowed drive in winter. Lay the year out season by season and Rob can quote it together."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do you do weekly lawn mowing in Grand Blanc?",
+      "a": "Yes. Grand Scapes mows lawns every week in Grand Blanc and Grand Blanc Township, where our shop is, and across Genesee County. Each visit is mowed, trimmed, edged and blown off, and finished in stripes. Call [(810) 990-3040](tel:+18109903040) or [text Rob](sms:+18109903040) for a free estimate."
+    },
+    {
+      "q": "How often should my lawn be mowed?",
+      "a": "Once a week suits most Michigan lawns through the season. MSU Extension's rule is to take off no more than one third of the grass blade at a time, so a lawn kept at 3 inches should be cut before it passes 4.5. In a fast, wet spring that can mean every four to five days, and in a dry July the grass slows way down."
+    },
+    {
+      "q": "How high should grass be cut in Michigan?",
+      "a": "MSU Extension's current range for home lawns is 2 to 3.75 inches, and another MSU guide suggests the top mower setting, 3.5 to 4 inches, for a more drought tolerant lawn. Taller grass grows a bigger root system, shades out crabgrass and handles summer heat better. Cutting short is the quickest road to a thin, weedy lawn."
+    },
+    {
+      "q": "Should grass clippings be bagged or left on the lawn?",
+      "a": "Left on, in most cases. MSU Extension says clippings do not cause thatch: they are mostly water, break down quickly and return nutrients to the soil. The exception is heavy clumps after the grass has gotten long, which can smother the lawn. On every visit, we blow the clippings off the drive, walks and patio."
+    },
+    {
+      "q": "When is the last mow of the year in Michigan?",
+      "a": "When the grass stops growing, which depends on the fall, not a date on the calendar. MSU Extension suggests dropping the mower one notch, about half an inch, for that final cut, once the leaves are done. It cleans up the last leaf bits and keeps the grass from going into winter too tall, which MSU says helps with snow mold and voles."
+    },
+    {
+      "q": "Do you mow large lawns and acreage?",
+      "a": "Yes. One customer wrote that Rob and his crew took care of their 7 1/2 acre lawn all year, and we mow plenty of ordinary lots every week too. Big, open lawns are where stripes really show. Rob will come out, walk it and quote it for free."
+    },
+    {
+      "q": "Can I choose the mowing pattern?",
+      "a": "Tell Rob what you like: straight stripes, diagonals, a checkerboard or a diamond, or a plain even cut if your HOA likes it quiet. The shape of the yard, the trees and the beds decide what a lawn will hold, and Rob will tell you straight. MSU notes that changing the mowing direction now and then also reduces wear."
+    },
+    {
+      "q": "How much does weekly lawn mowing cost?",
+      "a": "It depends on the lawn: its size, how much trimming there is around beds, trees and fences, any slopes, and the gates. Rob comes out, looks at it and quotes you a price for the weekly service. The estimate is free."
+    }
+  ],
+  "quote": {
+    "title": "Tell us about your lawn.",
+    "lede": "Where it is, roughly how big, and anything we should know about: a gate, a dog, a steep side yard. Rob will come out, take a look and give you a free estimate."
+  },
+  "summary": {
+    "title": "Weekly mowing, the whole visit.",
+    "intro": "Every weekly visit from Grand Scapes includes four jobs, done together. Rob looks at the lawn first and quotes the weekly service. The estimate is free.",
+    "items": [
+      { "name": "Mowing", "detail": "Zero turn mowers, finished in clean stripes." },
+      { "name": "Trimming", "detail": "Along fences, beds, trees and anywhere the mower cannot reach." },
+      { "name": "Edging", "detail": "A sharp line at the curb, the driveway and the walks." },
+      { "name": "Blowing off", "detail": "Clippings blown off the drive, the walks and the patio." }
+    ],
+    "footnote": "Licensed and insured. Spring and fall cleanups, leaf removal and winter plowing can go on the same estimate."
+  }
+}

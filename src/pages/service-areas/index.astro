@@ -1,0 +1,112 @@
+---
+/* Every town, by area, Grand Blanc first: that is where the shop is. */
+import Base from '../../layouts/Base.astro';
+import PageHead from '../../components/PageHead.astro';
+import Edge from '../../components/Edge.astro';
+import Head from '../../components/Head.astro';
+import Faq from '../../components/Faq.astro';
+import QuoteBand from '../../components/QuoteBand.astro';
+import AreaMap from '../../components/AreaMap.astro';
+import { AREAS, areaId, inArea, hubPath } from '../../data/cities';
+import { BRAND } from '../../data/site';
+import { heroImage } from '../../lib/hero';
+import { href } from '../../lib/paths';
+import { breadcrumbs, faqSchema } from '../../lib/schema';
+
+const head = await heroImage('trailer-2023', { sizes: '(min-width: 60rem) 48vw, 1px' });
+const path = '/service-areas/';
+const blurbs: Record<string, string> = {
+  'Grand Blanc and south': 'Home ground: the city and the township around the shop, then south toward the lakes of Fenton, Linden and the Holly area.',
+  'Flint and west': 'Flint, Flint Township, Mundy Township and Swartz Creek: older city lots, post war subdivisions and newer builds.',
+  'North and east': 'Burton, Davison and Goodrich, from compact neighborhoods to big rural lots with long drives.',
+  'Oakland County line': 'Holly, Ortonville and Clarkston: hills, lakes, wooded lots and a different road commission.',
+};
+const faq = [
+  { q: 'Where is Grand Scapes based?', a: `Our shop is at ${BRAND.street} in ${BRAND.city}, Michigan. We work across Genesee County and north Oakland County, and every estimate starts with Rob looking at the property.` },
+  { q: 'Do you work outside these towns?', a: `Sometimes, yes, especially for regular mowing and snow routes. If you are close to a town on this list, call or text [${BRAND.phone}](${BRAND.phoneHref}) and ask.` },
+];
+---
+
+<Base
+  title="Service Areas Around Grand Blanc, MI | Grand Scapes"
+  description="Grand Scapes mows, landscapes and plows across Grand Blanc, Flint, Burton, Davison, Fenton, Holly, Clarkston and nearby towns in Genesee and Oakland County."
+  path={path}
+  preload={{ ...head.preload, media: '(min-width: 60rem)' }}
+  schema={[faqSchema(faq), breadcrumbs([{ name: 'Home', path: '/' }, { name: 'Service areas', path }])]}
+>
+  <PageHead image={head} eyebrow="Service areas" title="Grand Blanc and **every town around it.**" lede={`Our shop is on Embury Road in ${BRAND.city}. We work across Genesee County and the north edge of Oakland County.`} crumbs={[{ name: 'Service areas', path }]} next="ink" />
+
+  <section class="band ink map has-edge" aria-labelledby="map-h">
+    <div class="wrap">
+      <h2 class="sr" id="map-h">Map of our service area</h2>
+      <AreaMap />
+    </div>
+    <Edge to="paper" />
+  </section>
+
+  <section class="band" aria-labelledby="areas-h">
+    <div class="wrap">
+      <h2 class="sr" id="areas-h">Towns we serve</h2>
+      <div class="areas">
+        {
+          AREAS.map((a) => (
+            <div class="area" id={areaId(a)}>
+              <h3 class="h2 area__t">{a}</h3>
+              <p class="small muted">{blurbs[a]}</p>
+              <ul class="chips">
+                {inArea(a).map((c) => <li><a class="chip" href={href(hubPath(c))}>{c.name}</a></li>)}
+              </ul>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="band white" aria-labelledby="faq-h">
+    <div class="wrap faqs">
+      <Head id="faq-h" layout="left" eyebrow="Questions" title="Not sure if you are in range?" />
+      <Faq items={faq} />
+    </div>
+  </section>
+
+  <QuoteBand from="white" />
+</Base>
+
+<style>
+  .map {
+    padding-top: 1rem;
+  }
+
+  .area {
+    scroll-margin-top: calc(var(--header) + 1rem);
+  }
+
+  .areas {
+    display: grid;
+    gap: clamp(2.5rem, 5vw, 3.5rem);
+  }
+
+  .area {
+    display: grid;
+    gap: 0.7rem;
+    padding-top: clamp(1.5rem, 3vw, 2.25rem);
+    border-top: 1px solid var(--line);
+  }
+
+  .area__t {
+    font-size: clamp(1.7rem, 1.6vw + 1.2rem, 2.4rem);
+  }
+
+  .faqs {
+    display: grid;
+    gap: 1rem;
+  }
+
+  @media (min-width: 72rem) {
+    .faqs {
+      grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
+      gap: clamp(2rem, 6vw, 6rem);
+    }
+  }
+</style>

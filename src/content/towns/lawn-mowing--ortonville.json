@@ -1,0 +1,47 @@
+{
+  "service": "lawn-mowing",
+  "city": "ortonville",
+  "meta": {
+    "title": "Lawn mowing in Ortonville, MI | Grand Scapes",
+    "description": "Weekly lawn service in Ortonville and Brandon Township: big rural lots and village yards mowed, trimmed, edged and blown off, finished in clean stripes."
+  },
+  "hero": {
+    "kicker": "Lawn mowing in Ortonville, MI",
+    "title": "Acres of lawn, **one clean finish.**",
+    "lede": "Grand Scapes mows Ortonville and Brandon Township lawns every week, from village yards near the mill to acreage along the back roads: mowed, trimmed, edged along the drive and blown off, with stripes that run the length of the lot.",
+    "chips": ["Big lots welcome", "Trimmed and edged", "Free estimate"],
+    "photo": "mower-stripes"
+  },
+  "local": {
+    "eyebrow": "Mowing in Ortonville",
+    "title": "Big lawns on **rolling ground.**",
+    "intro": "Brandon Township is not a quarter acre kind of place. Its master plan counts more than 2,000 parcels between one and two and a half acres and more than 1,100 between two and a half and five, and the ground rolls. That changes the mowing: wider decks, longer runs and more trim work along fences, ditches and tree lines.",
+    "points": [
+      { "title": "Acreage is normal here", "body": "One of our customers has us on a 7 1/2 acre lawn all year and says so in a review. Mowing acreage well is about keeping the lines straight across a long run, and keeping the trim work just as tidy at the far end of the property as by the front door." },
+      { "title": "Sandy rises, wet swales", "body": "The USDA soil survey shows sandy outwash around the village and plenty of muck in the township's low ground. In a dry spell the rises brown first, and in a wet spring the swales stay soft. Mowing at about 3 inches and taking no more than a third, as MSU Extension advises, helps the dry spots most." },
+      { "title": "Ditches and the creek", "body": "Most of Brandon Township drains to Kearsley Creek, a cold water trout stream whose biggest problem is sediment carried in by roadside ditches and bare banks. Clippings get blown back onto the grass, not down the slope into the ditch." },
+      { "title": "Village yards", "body": "In the village, lots sit closer together and the walks and curbs show every edge. Those get a sharp edging line and a blown off walk, the same care the big lots get along a long drive." }
+    ]
+  },
+  "logistics": {
+    "title": "A weekly route that reaches Ortonville.",
+    "body": [
+      "You get a set mowing day, so the gate, the dogs and the kids' toys can be planned around it. Each visit is the full job: mowing, trimming around trees, beds and fence lines, edging along the drive and walks, and a final blow off.",
+      "Rob prices a big lot after he has walked it, because on acreage the time is in the trimming as much as the open lawn. For the start and end of the season, see [leaf removal in Ortonville](/leaf-removal-ortonville-mi/) and our [spring cleanup](/spring-cleanup/) service."
+    ],
+    "facts": [
+      { "label": "Each visit", "value": "Mow, trim, edge, blow off" },
+      { "label": "Lot sizes", "value": "Village yards to acreage" },
+      { "label": "Clippings", "value": "Kept out of the ditches and the road" },
+      { "label": "Estimate", "value": "Free, after Rob walks the lot" }
+    ]
+  },
+  "photo": "crosscut-lawn",
+  "faq": [
+    { "q": "Is there a lawn service in Ortonville, MI?", "a": "Yes. Grand Scapes provides weekly lawn service in Ortonville and Brandon Township: mowing, trimming, edging and a blown off finish, on a set day each week. Call or [text Rob](sms:+18109903040) for a free estimate." },
+    { "q": "Do you mow large rural lots?", "a": "Yes. Acreage is normal around Ortonville, and one of our reviewers has us on a 7 1/2 acre lawn all year. Rob walks the property first so the price reflects both the open lawn and the trim work." },
+    { "q": "What height should my lawn be cut in summer?", "a": "Around 3 inches or a little more, per MSU Extension, and never more than a third of the blade at a time. On sandy Brandon Township ground that dries out fast, the taller cut shades the soil and holds up better through a dry August." },
+    { "q": "Do you mow down to the road ditch?", "a": "The part of the lawn you keep mowed now, yes, including the slope toward the ditch where a mower can run safely. Clippings stay on the grass instead of going into the ditch, since ditches here feed creeks like Kearsley Creek." }
+  ],
+  "reviews": ["rick-b", "stacy"]
+}

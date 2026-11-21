@@ -1,0 +1,47 @@
+{
+  "service": "flower-beds",
+  "city": "clarkston",
+  "meta": {
+    "title": "Mulch installation in Clarkston, MI | Grand Scapes",
+    "description": "Mulch and flower bed work in Clarkston, MI: beds weeded, edged and laid with fabric and fresh black, brown or red mulch, at a depth that suits the plants."
+  },
+  "hero": {
+    "kicker": "Mulch installation in Clarkston, MI",
+    "title": "Fresh mulch, **crisp edges.**",
+    "lede": "Grand Scapes freshens beds in Clarkston and Independence Township: weeds pulled, edges cut clean, fabric where it helps and new mulch in black, brown or red, kept back from trunks and stems where piled mulch does harm.",
+    "chips": ["Black, brown or red", "Weeded and edged", "Free estimate"],
+    "photo": "mulch-colonial"
+  },
+  "local": {
+    "eyebrow": "Beds in Clarkston",
+    "title": "Mulch works harder **on sandy ground.**",
+    "intro": "Mulch is more than a color choice in Clarkston. A lot of the township sits on sandy, well drained soil that dries out fast, and a proper layer of mulch keeps moisture in and weeds down. Piled too thick or pushed against the bark, it starts to cause problems instead, so the depth matters as much as the shade you pick.",
+    "points": [
+      { "title": "The right depth", "body": "MSU Extension puts it at 2 to 3 inches. Each year's mulch sits on top of the last, so a bed that got a fresh load every spring for years may need some of the old layer pulled out before new goes on." },
+      { "title": "Keep it off the trunk", "body": "Mulch heaped against a trunk keeps the bark damp, and MSU warns that invites rot and pests. We pull it back from trees and shrub stems, which also looks better than a mulch volcano." },
+      { "title": "Edges that hold on a slope", "body": "On a sloped Clarkston bed, mulch drifts downhill in every hard rain. A cut natural edge or a [block wall](/bed-edging-and-block-walls/) keeps it in the bed and out of the lawn, the way one reviewer's new natural edge still keeps the chips from flowing out." },
+      { "title": "Historic homes", "body": "In the historic district, fresh mulch and weeding count as everyday upkeep. Taking plantings out is a different matter, and the commission asks to hear about that before it happens." }
+    ]
+  },
+  "logistics": {
+    "title": "How a bed refresh runs in Clarkston.",
+    "body": [
+      "We weed the bed, cut a fresh edge, lay fabric where it makes sense and spread the mulch by wheelbarrow, then blow the walks and the drive clean. You pick the color: black, brown or red.",
+      "Spring is the usual time, often right after a [spring cleanup](/spring-cleanup-clarkston-mi/), but mulch can go down any time the beds are clear. If a bed is past saving, a [landscaping rebuild in Clarkston](/landscaping-clarkston-mi/) may be money better spent than another layer on top."
+    ],
+    "facts": [
+      { "label": "Mulch colors", "value": "Black, brown or red" },
+      { "label": "Depth", "value": "2 to 3 inches, per MSU Extension" },
+      { "label": "Around trunks", "value": "Pulled back, never piled" },
+      { "label": "Estimate", "value": "Free, after Rob sees the beds" }
+    ]
+  },
+  "photo": "mulch-crew",
+  "faq": [
+    { "q": "Do you install mulch in Clarkston, MI?", "a": "Yes. Grand Scapes weeds, edges and mulches beds in Clarkston and Independence Township, in black, brown or red. Rob looks at the beds, tells you how much they need and gives you a free estimate." },
+    { "q": "How deep should mulch be?", "a": "About 2 to 3 inches, according to MSU Extension, and thinner right against trunks and stems. On Clarkston's sandy soil, that layer slows down drying between rains without smothering the roots." },
+    { "q": "Should landscape fabric go under the mulch?", "a": "In a lot of beds it helps, because it keeps weeds from pushing up through the mulch. One reviewer had black mesh laid under new mulch for exactly that reason. Rob will tell you where it helps in your beds and where it does not." },
+    { "q": "When should I mulch in Clarkston?", "a": "Spring is when most people do it, once the beds are cleaned out and the soil has dried enough to walk on. MSU Extension warns that working wet spring soil packs it down, so a few dry days first are worth the wait. Fall mulching works too." }
+  ],
+  "reviews": ["bob-s", "james-a"]
+}

@@ -1,0 +1,176 @@
+---
+/* Same bed, your pick of mulch. One of Rob's real beds (a tree bed in a new block
+   wall, black mulch, April 2022). The brown and red frames change only the mulch
+   pixels, on a soft matte from scripts/bed.py, so the trunk, the statue and every
+   chip of texture stay real. Whole frames cross fade, lined up to the pixel.
+   Plain radio buttons, no script, and the frames are lazy. */
+import { getImage } from 'astro:assets';
+import black from '../assets/panel/bed-black.jpg';
+import brown from '../assets/panel/bed-brown.jpg';
+import red from '../assets/panel/bed-red.jpg';
+
+interface Props {
+  sizes?: string;
+}
+const { sizes = '(min-width: 64rem) 58vw, 100vw' } = Astro.props;
+
+const opts = [
+  { id: 'black', name: 'Black mulch', note: 'The bed as we finished it. Sharp against gray block and green grass.', img: black, sw: '#1d1c1a' },
+  { id: 'brown', name: 'Brown mulch', note: 'Warm and natural, and easy on an older brick or wood home.', img: brown, sw: '#5b3a22' },
+  { id: 'red', name: 'Red mulch', note: 'Bold. It holds its color beside brick and gray stone.', img: red, sw: '#7a2a1c' },
+];
+
+const frames = await Promise.all(
+  opts.map(async (o) => {
+    const set = async (format: 'avif' | 'webp', quality: number) => (await Promise.all([640, 960, 1280, 1600].map(async (w) => `${(await getImage({ src: o.img, width: w, format, quality })).src} ${w}w`))).join(', ');
+    const fb = await getImage({ src: o.img, width: 960, format: 'webp', quality: 64 });
+    return { ...o, avif: await set('avif', 50), webp: await set('webp', 64), fb: fb.src };
+  }),
+);
+---
+
+<figure class="bed">
+  <div class="frame bed__stage">
+    {
+      frames.map((f, i) => (
+        <picture class="bed__img" data-m={f.id}>
+          <source type="image/avif" srcset={f.avif} sizes={sizes} />
+          <source type="image/webp" srcset={f.webp} sizes={sizes} />
+          <img src={f.fb} width="1600" height="1200" alt={i === 0 ? 'A curved tree bed finished in black mulch inside a gray block wall, beside a walk' : ''} loading="lazy" decoding="async" />
+        </picture>
+      ))
+    }
+  </div>
+  <div class="bed__side">
+    <fieldset class="bed__opts">
+      <legend class="sr">Choose a mulch color</legend>
+      {
+        opts.map((o, i) => (
+          <label class="bed__opt">
+            <input class="sr" type="radio" name="bed" value={o.id} checked={i === 0} />
+            <span class="bed__sw" style={`--sw:${o.sw}`} aria-hidden="true" />
+            <span class="bed__txt">
+              <span class="bed__name">{o.name}</span>
+              <span class="bed__note">{o.note}</span>
+            </span>
+          </label>
+        ))
+      }
+    </fieldset>
+    <p class="note">One of our real beds, finished in black mulch. Brown and red are digital previews of the same photo, so treat the colors as a guide.</p>
+  </div>
+</figure>
+
+<style>
+  .bed {
+    display: grid;
+    gap: clamp(1.25rem, 3vw, 2.5rem);
+    align-items: center;
+  }
+
+  @media (min-width: 64rem) {
+    .bed {
+      grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr);
+    }
+  }
+
+  .bed__stage {
+    display: grid;
+    aspect-ratio: 4 / 3;
+  }
+
+  .bed__img {
+    grid-area: 1 / 1;
+    opacity: 0;
+    transition: opacity 0.6s var(--ease);
+  }
+
+  .bed__img :global(img) {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .bed__side {
+    display: grid;
+    gap: 1rem;
+  }
+
+  .bed__opts {
+    display: grid;
+    gap: 0.5rem;
+    min-width: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  .bed__opt {
+    display: grid;
+    grid-template-columns: 2.75rem 1fr;
+    gap: 0.9rem;
+    align-items: center;
+    padding: 0.7rem 0.85rem;
+    border: 1px solid var(--line-ink);
+    border-radius: var(--r);
+    background: rgb(255 255 255 / 0.03);
+    cursor: pointer;
+    transition:
+      border-color 0.2s var(--ease),
+      background-color 0.2s var(--ease);
+  }
+
+  .bed__opt:hover {
+    border-color: rgb(255 255 255 / 0.32);
+  }
+
+  .bed__opt:has(input:checked) {
+    border-color: var(--lime);
+    background: rgb(132 212 85 / 0.08);
+  }
+
+  .bed__opt:has(input:focus-visible) {
+    outline: 2px solid var(--lime-soft);
+    outline-offset: 2px;
+  }
+
+  /* a swatch of chips: the color with a little grain */
+  .bed__sw {
+    width: 2.75rem;
+    height: 2.75rem;
+    border-radius: var(--r-sm);
+    background:
+      repeating-linear-gradient(115deg, rgb(255 255 255 / 0.08) 0 2px, transparent 2px 6px),
+      repeating-linear-gradient(35deg, rgb(0 0 0 / 0.22) 0 3px, transparent 3px 7px),
+      var(--sw);
+    box-shadow: inset 0 0 0 1px rgb(255 255 255 / 0.14);
+  }
+
+  .bed__txt {
+    display: grid;
+    gap: 0.15rem;
+  }
+
+  .bed__name {
+    font-weight: 680;
+  }
+
+  .bed__note {
+    font-size: 0.9rem;
+    line-height: 1.45;
+    color: var(--on-ink-muted);
+  }
+
+  .bed:has(input[value='black']:checked) [data-m='black'],
+  .bed:has(input[value='brown']:checked) [data-m='brown'],
+  .bed:has(input[value='red']:checked) [data-m='red'] {
+    opacity: 1;
+  }
+
+  @media (forced-colors: active) {
+    .bed__opt:has(input:checked) {
+      outline: 3px solid Highlight;
+      outline-offset: -3px;
+    }
+  }
+</style>

@@ -1,0 +1,48 @@
+{
+  "service": "fall-cleanup",
+  "city": "clarkston",
+  "meta": {
+    "title": "Leaf removal in Clarkston, MI | Grand Scapes",
+    "description": "Fall cleanup and leaf removal in Clarkston and Independence Township: leaves vacuumed into our trailer and hauled off, beds cut back, lawn left clean."
+  },
+  "hero": {
+    "kicker": "Fall cleanup and leaf removal in Clarkston, MI",
+    "title": "Leaves out. **Nothing in the lake.**",
+    "lede": "Grand Scapes clears Clarkston yards in the fall: leaves blown off the lawn and out of the beds, vacuumed into our trailer and hauled away, beds cut back and the lawn left clean for winter.",
+    "chips": ["Leaves hauled away", "Beds cut back", "No burning needed"],
+    "photo": "leaf-slope"
+  },
+  "local": {
+    "eyebrow": "Leaves in Clarkston",
+    "title": "No burning in the city, and **the street is off limits.**",
+    "intro": "Leaves are more regulated in Clarkston than most people expect. Inside the city, the code bans leaf burning outright and makes it unlawful to let leaves pile up in, or flow into, a street, ditch, creek, lake or pond. Out in Independence Township, burning dry leaves is allowed on set days, but plenty of lots are too small or too wooded for it.",
+    "points": [
+      { "title": "No raking to the curb in the city", "body": "The city's nuisance code covers leaves sitting at the street as well as leaves in the water, so the old habit of raking to the curb and waiting does not fit. Our leaf vacuum loads them into the trailer, and they leave with us on the same visit." },
+      { "title": "Township burn rules", "body": "The Independence Fire Department lets township parcels under 3 acres burn only on calendar days, never within 50 feet of a building and never along a roadway, with the pile no wider than 6 feet. On a wooded half acre, hauling is simpler." },
+      { "title": "Lake lots", "body": "Leaves blown into a lake rot there. Township lawn tips ask owners to keep yard debris out of the drains and ditches that run to the lakes, and the state says burning brush or leaves on the ice is not allowed. Shoreline leaves go in the trailer with the rest." },
+      { "title": "Hills", "body": "Leaves collect at the bottom of every slope and against every fence. On a hilly lot we work them downhill into rows and then to the vacuum, instead of fighting gravity across the whole yard." }
+    ]
+  },
+  "logistics": {
+    "title": "How a fall cleanup goes in Clarkston.",
+    "body": [
+      "We blow the leaves out of the beds and off the lawn into long rows, pull them to the vacuum and load the trailer. Beds get cut back, and the last of the leaves come off the drive and the walk.",
+      "Big canopies drop over several weeks, so one cleanup at the very end may not be enough. MSU Extension says more than 3 to 4 inches of leaves sitting on turf is too much, so heavy yards often need a visit partway through and another at the end. Rob will suggest a schedule once he sees your trees.",
+      "Pair the cleanup with the last [mowing visits](/lawn-mowing-clarkston-mi/) and the lawn goes into winter clean, with a head start on [spring cleanup](/spring-cleanup-clarkston-mi/)."
+    ],
+    "facts": [
+      { "label": "Leaf burning in the city", "value": "Banned, without exception" },
+      { "label": "Township burning", "value": "Calendar days for lots under 3 acres" },
+      { "label": "Where the leaves go", "value": "Our trailer, hauled away" },
+      { "label": "Estimate", "value": "Free; Rob looks at the trees first" }
+    ]
+  },
+  "photo": "leaf-vac",
+  "faq": [
+    { "q": "Do you do leaf removal in Clarkston?", "a": "Yes. Grand Scapes does fall cleanup and leaf removal in Clarkston and Independence Township. Leaves are blown out of the beds and off the lawn, vacuumed into our trailer and hauled away, and the beds are cut back." },
+    { "q": "Can I rake leaves into the street in Clarkston?", "a": "Inside the city, no. The city code makes it unlawful to let leaves accumulate at the street or flow into a ditch, creek, lake or pond. In the township, keeping leaves out of drains and ditches protects the lakes those drains feed." },
+    { "q": "Can I burn leaves in Independence Township?", "a": "Dry leaves, yes, under the fire department's rules. No permit has been needed since August 2023, but parcels under 3 acres must stick to the burn day calendar, fires stay 50 feet from buildings and off the roadside, and someone 14 or older has to tend them. Check the calendar before you light." },
+    { "q": "Is it OK to mow leaves into the lawn?", "a": "A light layer, yes. MSU Extension says mowing leaves into the grass is fine, but more than 3 to 4 inches sitting on the turf is too much. Under big shade trees that line comes fast, and the rest should be hauled." }
+  ],
+  "reviews": ["rick-b", "stacy"]
+}

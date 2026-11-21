@@ -1,0 +1,50 @@
+{
+  "service": "landscaping",
+  "city": "flint",
+  "meta": {
+    "title": "Landscaping and landscapers in Flint, MI | Grand Scapes",
+    "description": "Grand Scapes rebuilds tired beds around Flint, MI homes: old shrubs and brick borders out, block walls or a clean edge in, new plants and mulch. Free estimates."
+  },
+  "hero": {
+    "kicker": "Landscaping in Flint, MI",
+    "title": "Old beds out, **new lines in.**",
+    "lede": "Grand Scapes rebuilds the beds around Flint homes: overgrown shrubs and tired brick borders out, a gray block wall or a cut natural edge in, then new plants, fabric and mulch. Rob walks it with you and suggests what the house needs.",
+    "chips": ["Old shrubs dug out", "Block walls or natural edge", "Plants, fabric, mulch", "Free estimate"],
+    "photo": "block-bed-colonial"
+  },
+  "local": {
+    "eyebrow": "Landscaping in Flint",
+    "title": "Older houses carry **older plantings.**",
+    "intro": "About seven in ten homes in the city were built before 1960, by Census figures, and their foundation beds have usually been replanted a few times since. What is left is often a mix: shrubs that now cover the windows, a border that has sunk into the lawn, and soil that has been dug, filled and dug again.",
+    "points": [
+      { "title": "Shrubs that outgrew the house", "body": "Foundation shrubs planted decades ago can swallow a porch rail and block half a window. We take them out with a compact track loader, roots and all, so the bed can start over instead of fighting old stumps." },
+      { "title": "Ground that has been moved before", "body": "The soil survey maps parts of Flint as urban land mixed with Udorthents, which means soil that has been cut, moved or filled. Dig a bed in that kind of ground and the first shovel can hold anything, so Rob plans for the haul-off up front." },
+      { "title": "Heavy, slow draining loam", "body": "Much of the mapped soil in the city is Crosier loam, which the survey rates somewhat poorly drained. Beds get shaped so water runs away from the foundation, and plants get picked for ground that stays damp into spring." },
+      { "title": "The strip by the street is the city's", "body": "Work in the public right of way, including digging, takes a city permit, and street trees there are the city's to assess. New beds stay on your side of the walk unless the city has signed off." },
+      { "title": "Homes with a plan behind them", "body": "Civic Park was laid out by landscape architect William Pitkin, and about 950 homes went up there between 1919 and early 1920. Houses with that kind of history look right with beds scaled to the house, not crowded against it." }
+    ]
+  },
+  "logistics": {
+    "title": "How a Flint landscaping job comes together.",
+    "body": [
+      "Rob comes out, looks at the house and the beds with you, suggests what to keep and what to pull, and quotes a price for the whole job. You know what is happening and what it costs before anything gets dug.",
+      "On the work days, the track loader digs out old shrubs and borders, the crew sets the new block wall or cuts the natural edge, lays fabric, plants, and finishes with black, brown or red mulch. Old plants, borders and soil leave in our trailer, not in your yard waste bags.",
+      "Big trees are a job for a tree company, and street trees are the city's. Bushes and small trees inside your beds, we can take out."
+    ],
+    "facts": [
+      { "label": "Estimate", "value": "Free, Rob walks it with you" },
+      { "label": "Borders", "value": "Gray block wall or natural edge" },
+      { "label": "Digging by the street", "value": "City right of way permit" },
+      { "label": "Debris", "value": "Hauled off in our trailer" }
+    ]
+  },
+  "photo": "kubota-dig",
+  "faq": [
+    { "q": "Is there a landscaper who works in Flint, MI?", "a": "Yes. Grand Scapes does landscaping in Flint: overgrown shrubs and old borders out, block walls or a natural edge in, then new plants, fabric and mulch. We are based in Grand Blanc, licensed and insured, and Rob gives a free estimate after he sees the house." },
+    { "q": "Can you take out the old bushes in front of my house?", "a": "Yes. We dig out overgrown bushes and small trees with a compact track loader, roots and all, then rebuild the bed. Big trees go to a tree company. See [bush and small tree removal](/bush-removal/) for how that part works." },
+    { "q": "Do I need a permit to dig a bed between the sidewalk and the street in Flint?", "a": "Usually, yes. The city says work in the public right of way, including excavating, needs a permit from Building and Safety Inspections at City Hall, and street trees there are the city's to assess. Check with the city before planning a bed out there." },
+    { "q": "Can you replace an old brick border with something cleaner?", "a": "Yes, it is one of the jobs we do most. The old brick comes out, a gray block wall or a cut natural edge goes in, and the bed gets fabric and fresh mulch. See [bed edging and block walls](/bed-edging-and-block-walls/)." },
+    { "q": "Do you just mulch, without a full redo?", "a": "Yes. If the plants are fine and the beds only need weeding, a fresh edge and new mulch, that is a smaller job: see [mulch installation in Flint](/mulch-installation-flint-mi/)." }
+  ],
+  "reviews": ["bob-s", "james-a"]
+}

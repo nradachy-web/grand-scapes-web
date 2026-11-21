@@ -1,0 +1,157 @@
+{
+  "service": "fall-cleanup",
+  "meta": {
+    "title": "Leaf removal and fall cleanup in Grand Blanc | Grand Scapes",
+    "description": "Fall cleanup and leaf removal in Grand Blanc and Genesee County. Leaves blown out, vacuumed into our trailer and hauled away, beds cut back, drive left clean."
+  },
+  "hero": {
+    "kicker": "Fall cleanup and leaf removal in Grand Blanc, MI",
+    "title": "Leaves up. **Lawn back.**",
+    "lede": "Grand Scapes blows the leaves off the lawn and out of the beds, vacuums them into our leaf trailer and hauls them away. Then the beds get cut back the way you want them and the drive and walks are blown clean. We do fall cleanups all over Grand Blanc and Genesee County.",
+    "chips": ["Leaves blown out", "Vacuumed and hauled off", "Beds cut back", "Drive and walks clean"],
+    "photo": "leaf-vac"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "plane": "paper",
+      "eyebrow": "How it works",
+      "title": "Blow, vacuum, **haul.**",
+      "body": [
+        "Fall cleanup is leaf removal plus the end of season tidy. The crew blows the leaves off the lawn, out of the beds and away from the fences into long rows and piles. A truck loader leaf vacuum on the front of our dump trailer pulls them in, and the load leaves with us.",
+        "No bags lined up at the curb and no raking weekends. Once the leaves are gone, we cut back the beds you want cut back and blow off the drive, the walks and the patio.",
+        "We do fall cleanups across Grand Blanc and Grand Blanc Township, and around Genesee County in towns like [Fenton](/leaf-removal-fenton-mi/), [Flint](/leaf-removal-flint-mi/), [Davison](/leaf-removal-davison-mi/) and [Holly](/leaf-removal-holly-mi/)."
+      ],
+      "checks": [
+        "Leaves blown out of the lawn, the beds and the fence lines",
+        "Vacuumed into our leaf trailer and hauled away",
+        "Beds cut back as much or as little as you want",
+        "A bagged last cut where the lawn needs one",
+        "Drive, walks and patio blown clean"
+      ],
+      "photo": "leaf-trailer"
+    },
+    {
+      "type": "reveal",
+      "kind": "leaf",
+      "plane": "ink",
+      "eyebrow": "Try it",
+      "title": "Drag the leaves **off the lawn.**",
+      "intro": "An illustration of a yard the week after the big drop. Drag across it to clear the lawn and the beds, the way a cleanup does."
+    },
+    {
+      "type": "cards",
+      "plane": "white",
+      "eyebrow": "From MSU Extension",
+      "title": "Mulch a few, **move a lot.**",
+      "intro": "Michigan State University Extension research is clear that a light layer of leaves can be mowed right into a lawn. The trouble is a thick layer left to sit through the winter.",
+      "columns": 2,
+      "items": [
+        {
+          "tag": "A light drop",
+          "title": "Mow it in",
+          "body": "In MSU studies, up to 6 inches of leaves were mowed into lawns with no harm, and the bits sifted into the grass within a few weeks. For a light drop, a mower with a sharp blade is all it takes."
+        },
+        {
+          "tag": "A heavy drop",
+          "title": "Get it off",
+          "body": "MSU's mulching advice is not to let leaves get deeper than 3 to 4 inches before mowing them in. Left in a thick layer under wet, heavy snow, MSU says, leaves can mean disaster for the grass below."
+        },
+        {
+          "tag": "Big trees",
+          "title": "When the drop wins",
+          "body": "Under big, old trees the leaves can come down faster than a mower keeps up with. MSU notes that after heavy wind, even mulching them in can take two passes in a week. That is the yard the leaf vacuum is for."
+        },
+        {
+          "tag": "The beds",
+          "title": "Your call",
+          "body": "MSU suggests leaves can stay around shrubs and perennials over winter as insulation and shelter for insects, with some stems left standing for bees. Some people want the beds cleared to the soil instead. Tell Rob which."
+        }
+      ]
+    },
+    {
+      "type": "intro",
+      "plane": "paper",
+      "eyebrow": "The last cut",
+      "title": "The last mow, **one notch down.**",
+      "body": [
+        "The final mow of the year comes once the grass stops growing, not on a set date. MSU Extension suggests lowering the mower no more than one notch, about half an inch, for that cut. It picks up the last leaf bits and keeps the grass from going into winter too tall, which MSU says reduces trouble with voles and snow mold.",
+        "On lawns we already mow every week, that last cut is simply the end of the season. For everyone else, we can bag a final cut once the leaves are out, so the lawn goes into winter clean and striped one more time."
+      ],
+      "photo": "fall-rider",
+      "flip": true,
+      "cta": { "label": "About weekly mowing", "href": "/lawn-mowing/" }
+    },
+    {
+      "type": "gallery",
+      "plane": "white",
+      "eyebrow": "Real cleanups",
+      "title": "Our own **fall photos.**",
+      "intro": "Leaves down, blown into rows, piled at the curb and pulled into the trailer. Every one is from our own jobs.",
+      "photos": ["leaves-before", "leaf-tree", "leaf-crew", "leaf-curb", "leaf-loader", "leaf-slope"]
+    },
+    {
+      "type": "reviews",
+      "plane": "ink",
+      "eyebrow": "On Google",
+      "title": "From customers we see **all year.**",
+      "ids": ["rick-b", "stacy"]
+    },
+    {
+      "type": "plan",
+      "plane": "paper",
+      "eyebrow": "Plan your year",
+      "title": "Leaves now, **plow next.**",
+      "intro": "Fall cleanup sits between the last mow and the first snow. Lay out the whole year, from spring cleanup and weekly mowing to a plowed drive in winter, and Rob can quote it together."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do you do leaf removal in Grand Blanc?",
+      "a": "Yes. Grand Scapes does fall cleanups and leaf removal in Grand Blanc, Grand Blanc Township and across Genesee County. We blow the leaves out, vacuum them into our leaf trailer and haul them away, then cut back the beds and blow off the drive and walks. Call [(810) 990-3040](tel:+18109903040) or [text Rob](sms:+18109903040) for a free estimate."
+    },
+    {
+      "q": "Should I mulch my leaves or have them removed?",
+      "a": "Both have a place. MSU Extension research found lawns do fine with up to 6 inches of leaves mowed in, and the bits sift into the grass within a few weeks. When leaves come down faster than a mower can handle, or pile up deeper than 3 to 4 inches, removal is the safer call, because a thick layer under wet snow can do real damage to the grass."
+    },
+    {
+      "q": "Is it bad to leave leaves on the lawn over winter?",
+      "a": "A thick layer, yes. MSU Extension notes that leaves piled up under wet, heavy snow can mean disaster for the grass below. A light layer chopped fine by a mower is a different story: MSU says the pieces sift into the lawn and you will not notice them in spring."
+    },
+    {
+      "q": "Should I cut my grass short before winter?",
+      "a": "A little shorter, not short. MSU Extension suggests dropping the mower no more than one notch, typically half an inch, for the final cut, once the grass has stopped growing and the leaves are done. That keeps the lawn from going into winter too tall, which MSU says helps with snow mold and voles."
+    },
+    {
+      "q": "How many leaf cleanups will my yard need?",
+      "a": "It depends on the trees. A yard with a few young trees may only need one visit after most of the leaves are down. A yard under big, old trees can drop more than one visit can handle. Rob will look at the trees when he comes out and tell you what makes sense."
+    },
+    {
+      "q": "Do you cut back perennials in the fall?",
+      "a": "Yes, as much or as little as you want. Some people want every bed cleared. MSU Extension suggests leaving ornamental grasses and some perennial stems standing over winter as shelter for bees and other helpful insects, and leaves around shrubs as insulation. Tell Rob which you prefer and the beds will be done that way."
+    },
+    {
+      "q": "What do you do with the leaves?",
+      "a": "They go in our trailer. A truck loader leaf vacuum on the front of our dump trailer pulls them in from the rows and curb piles, and we haul the load away. You are not left with a row of bags at the curb."
+    },
+    {
+      "q": "How much does leaf removal cost?",
+      "a": "It depends on the size of the yard, how many trees drop on it and how many beds need cutting back. Rob comes out, looks at it and quotes you a price. The estimate is free."
+    }
+  ],
+  "quote": {
+    "title": "Tell us about your trees.",
+    "lede": "Where the yard is, how many big trees drop on it and whether the beds need cutting back. Rob will come out, take a look and give you a free estimate."
+  },
+  "summary": {
+    "title": "Fall cleanup and leaf removal, start to finish.",
+    "intro": "A fall cleanup from Grand Scapes takes the leaves away with us, so nothing waits at the curb. Rob looks at the yard and the trees first, then quotes it. The estimate is free.",
+    "items": [
+      { "name": "Leaves blown out", "detail": "Off the lawn, out of the beds and away from the fences." },
+      { "name": "Vacuumed and hauled", "detail": "Pulled into our leaf vacuum trailer and taken away." },
+      { "name": "Beds cut back", "detail": "As much or as little as you want." },
+      { "name": "Clean finish", "detail": "Drive, walks and patio blown off." }
+    ],
+    "footnote": "A bagged last cut of the year can be added where the lawn needs it."
+  }
+}

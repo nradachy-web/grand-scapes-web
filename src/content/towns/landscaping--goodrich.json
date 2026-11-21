@@ -1,0 +1,47 @@
+{
+  "service": "landscaping",
+  "city": "goodrich",
+  "meta": {
+    "title": "Landscaping in Goodrich, MI | Grand Scapes",
+    "description": "Landscaping in Goodrich, MI by Grand Scapes: beds rebuilt, block and boulder walls on slopes, old bushes removed and new plants set for rolling, wet ground."
+  },
+  "hero": {
+    "kicker": "Landscaping in Goodrich, MI",
+    "title": "Rolling ground, **beds that stay put.**",
+    "lede": "Grand Scapes rebuilds Goodrich yards: tired beds dug out with a track loader, new shapes cut, block or boulder walls set where the ground slopes, new plants in and fresh mulch on top. Rob comes out, suggests what the yard needs and quotes a price.",
+    "chips": ["Bed rebuilds", "Block and boulder walls", "Bush removal", "Grading"],
+    "photo": "boulder-wall"
+  },
+  "local": {
+    "eyebrow": "Landscaping in Goodrich",
+    "title": "Slopes, wet corners and **woods at the edge.**",
+    "intro": "Goodrich sits on rolling land with water in the low places, and that shapes every landscape plan. The village master plan points to the Mill Pond, Kearsley Creek, wetlands and rolling hillsides as its defining features. Out in Atlas Township, the township plan adds woods on about a fifth of the land and lots of two acres and more.",
+    "points": [
+      { "title": "Walls on the slopes", "body": "A bed on a slope wants to slide toward the lawn every time it rains. A gray block wall or a row of boulders holds the grade, and the bed behind it stays level enough to plant and mulch." },
+      { "title": "Plan around wet ground", "body": "Wetlands sit in low areas around the Mill Pond and along the creeks, and the USDA maps muck in some low spots near the village. The higher ground is mostly loam and works well. We grade beds to move water away from the house and keep machines off soft ground." },
+      { "title": "Wetlands come with rules", "body": "The village plan notes that the state may require permits before regulated wetlands are altered. If a project gets near a pond edge or a wet hollow, we will tell you to check before anything is dug." },
+      { "title": "Scale for a big lot", "body": "On a two acre lot, a skinny foundation bed disappears. Longer bed lines, island beds around trees and plantings sized for the distance read better from the road." }
+    ]
+  },
+  "logistics": {
+    "title": "How a Goodrich landscape job goes.",
+    "body": [
+      "Rob walks the property with you, looks at how the ground falls and where the water goes, and suggests a plan. You get one price for the job. On the day, compact track loaders dig out old shrubs and do the grading, and the crew handles the detail work by hand.",
+      "New beds get their edge or wall, then fabric and mulch. Bare ground from grading gets seeded and covered with straw. Everything we pull out is hauled off in our trailer, which helps out in the township, where yard waste pickup is by subscription only."
+    ],
+    "facts": [
+      { "label": "Typical work", "value": "Beds, walls, bush removal, grading" },
+      { "label": "Slopes", "value": "Block or boulder walls" },
+      { "label": "Not offered", "value": "Patios, pavers, big tree work" },
+      { "label": "Estimate", "value": "Free, Rob walks it first" }
+    ]
+  },
+  "photo": "kubota-dig",
+  "faq": [
+    { "q": "Do you do landscaping in Goodrich, MI?", "a": "Yes. Grand Scapes does landscaping in the Village of Goodrich and Atlas Township: bed makeovers, block and boulder walls, bush and small tree removal, grading, new plants and mulch. Rob gives you a free estimate and one price for the job." },
+    { "q": "Can you build a wall to hold a slope?", "a": "Yes. We set gray block walls around beds and boulder walls on slopes, and we grade and seed the ground around them. Rob looks at how steep the ground is and what it has to hold before he quotes it." },
+    { "q": "Can you landscape near the Mill Pond or a wetland?", "a": "Often, with care. The village master plan notes that the state may require permits before regulated wetlands are altered, and wetlands are common around the Mill Pond and along the creeks. We keep beds and grading out of wet ground and will tell you when to check with the village or the state first." },
+    { "q": "Do you remove old bushes and small trees?", "a": "Yes, roots and all, with a compact track loader. That covers overgrown foundation shrubs and small trees like an old ornamental cherry. Large trees are not part of our work, and Rob will say so when he sees one that needs it." }
+  ],
+  "reviews": ["james-a", "bob-s"]
+}

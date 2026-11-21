@@ -1,0 +1,168 @@
+{
+  "service": "landscape-maintenance",
+  "meta": {
+    "title": "Landscape maintenance in Grand Blanc, MI | Grand Scapes",
+    "description": "Weeding, edging, shrub trimming and mulch touch ups through the season in Grand Blanc, MI, so finished beds stay finished. Free estimate from Rob."
+  },
+  "hero": {
+    "kicker": "Landscape maintenance in Grand Blanc, MI",
+    "title": "Keep the beds **finished.**",
+    "lede": "Grand Scapes keeps beds looking the way they did the day they were done: weeds pulled, edges recut, shrubs trimmed and mulch touched up through the season. It sits naturally beside weekly lawn mowing, so the beds and the stripes stay sharp together.",
+    "chips": ["Weeding", "Edges recut", "Shrubs trimmed", "Mulch touched up"],
+    "photo": "block-bed-colonial"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "plane": "paper",
+      "eyebrow": "The short version",
+      "title": "Beds drift. **We pull them back.**",
+      "body": [
+        "Landscape maintenance is the upkeep between the big jobs. Weeds come back, grass creeps over the bed line, shrubs push past their shape, and mulch thins and fades. We come back through the season and put it right before it gets away from you.",
+        "It fits alongside [weekly lawn mowing](/lawn-mowing/), so the edge of the bed matches the edge of the lawn. If a bed needs more than upkeep, like a new border or overgrown shrubs out, Rob will say so and quote that separately."
+      ],
+      "checks": [
+        "Weeds pulled from beds and tree rings",
+        "Bed edges recut where the grass creeps in",
+        "Shrubs and hedges trimmed in their season",
+        "Mulch raked and touched up where it has thinned",
+        "Dead plants and debris cleared out"
+      ],
+      "photo": "block-bed-front"
+    },
+    {
+      "type": "cards",
+      "plane": "white",
+      "eyebrow": "Through the year",
+      "title": "What upkeep looks like, **season by season.**",
+      "columns": 2,
+      "items": [
+        {
+          "tag": "Spring",
+          "title": "Reset the beds",
+          "body": "After the [spring cleanup](/spring-cleanup/), beds get their first edge and a mulch top up. Spring bloomers like lilac and forsythia wait to be trimmed until they finish flowering."
+        },
+        {
+          "tag": "Early summer",
+          "title": "Hold the line",
+          "body": "Weeds and grass push into the beds, so edges get recut and weeds pulled. Leggy yew shoots can be trimmed back by hand in June, as MSU Extension suggests."
+        },
+        {
+          "tag": "Late summer",
+          "title": "Touch ups",
+          "body": "Mulch thins and fades in the sun. Thin spots get raked and touched up, not piled on. MSU Extension warns that layer on layer of mulch smothers plants and cakes into a mat that sheds water."
+        },
+        {
+          "tag": "Fall",
+          "title": "Put the beds to bed",
+          "body": "Beds get cleared of leaves and spent plants and the edges cut one last time. That work overlaps with our [fall cleanup](/fall-cleanup-and-leaf-removal/), and the two are easy to book together."
+        }
+      ]
+    },
+    {
+      "type": "reviews",
+      "plane": "ink",
+      "eyebrow": "On Google",
+      "title": "On time, **every week.**",
+      "ids": ["rick-b", "stacy", "james-a"]
+    },
+    {
+      "type": "compare",
+      "plane": "paper",
+      "eyebrow": "Makeover or upkeep",
+      "title": "Once, or **all season.**",
+      "intro": "A [bed makeover](/mulch-and-flower-beds/) gets the beds right. Maintenance keeps them that way.",
+      "columns": ["One time makeover", "Landscape maintenance"],
+      "highlight": 1,
+      "rows": [
+        { "label": "What it is", "values": ["A bed done over once", "The beds kept that way all season"] },
+        { "label": "Weeds", "values": ["Pulled on the day", "Pulled again as they come back"] },
+        { "label": "Edges", "values": ["Cut once", "Recut when the grass creeps in"] },
+        { "label": "Shrubs", "values": ["Trimmed if they need it", "Trimmed when each one is due"] },
+        { "label": "Good for", "values": ["A fresh start", "Sharp beds without thinking about them"] }
+      ]
+    },
+    {
+      "type": "cards",
+      "plane": "white",
+      "eyebrow": "Worth a look",
+      "title": "Small things **worth catching early.**",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Boxwood damage",
+          "body": "Box tree moth was confirmed in Genesee County in September 2026. Webbing, chewed leaves and green and yellow striped caterpillars on boxwood are worth a photo and a report to the state at Michigan.gov/ReportBTM."
+        },
+        {
+          "title": "Mulch against the bark",
+          "body": "Mulch piled against a trunk keeps the bark wet. MSU Extension says to keep a bare ring of about 6 inches around a tree, a doughnut rather than a volcano."
+        },
+        {
+          "title": "Invasive seedlings",
+          "body": "Young bush honeysuckle pulls easily from damp spring soil, MSU Extension notes, but roots left behind re-sprout. Left alone for a few years, it turns into a [removal job](/bush-removal/)."
+        }
+      ]
+    },
+    {
+      "type": "intro",
+      "plane": "paper",
+      "eyebrow": "Grand Blanc",
+      "title": "Upkeep close **to the shop.**",
+      "body": [
+        "Our shop is on Embury Road in Grand Blanc, and Grand Blanc and Grand Blanc Township are home. We take on landscape maintenance across Genesee County and north Oakland County too, from Fenton to Davison and Flint to Holly.",
+        "How often we come and what each visit covers depends on the yard. Rob walks the beds, suggests a plan for the season and quotes it, and the estimate is free. For businesses and HOAs, see [commercial grounds and snow](/commercial/)."
+      ],
+      "cta": { "label": "Get a free estimate", "href": "/get-an-estimate/" }
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do you offer landscape maintenance in Grand Blanc?",
+      "a": "Yes. Grand Scapes keeps beds weeded, edged, trimmed and touched up through the season for homes in Grand Blanc and Grand Blanc Township. We do landscape maintenance across Genesee County and north Oakland County too."
+    },
+    {
+      "q": "What does landscape maintenance include?",
+      "a": "Weeding the beds, recutting edges, trimming shrubs and hedges, and touching up mulch, plus clearing out dead plants and debris. What your yard needs and how often depends on the beds, and Rob sets that out when he quotes it."
+    },
+    {
+      "q": "How often should flower beds be weeded?",
+      "a": "Often enough that weeds never get the chance to flower and drop seed, since they are easiest pulled small. A light top up of mulch each year helps too: MSU Extension says it keeps newly dropped seeds from sprouting. How often we come by depends on your beds."
+    },
+    {
+      "q": "Can you maintain beds someone else put in?",
+      "a": "Yes. We can take over beds no matter who installed them. If they need more than upkeep, like a new border or overgrown shrubs taken out, Rob will say so and quote that separately."
+    },
+    {
+      "q": "Can I get bed maintenance with my lawn mowing?",
+      "a": "Yes, you can book both. Upkeep on the beds alongside [weekly lawn mowing](/lawn-mowing/) keeps the whole yard sharp, edges and stripes together. Ask Rob how he would schedule the two."
+    },
+    {
+      "q": "Should I add new mulch every year?",
+      "a": "Usually just a little. MSU Extension says a 1 inch top dressing is plenty if last year's mulch is still there, and warns that piling on thick layers every season smothers plants and can cake into a mat that sheds water."
+    },
+    {
+      "q": "Do you do commercial landscape maintenance?",
+      "a": "Yes. We keep grounds for businesses and HOAs as well as homes, around Grand Blanc and across Genesee County. See [commercial grounds and snow](/commercial/)."
+    },
+    {
+      "q": "How much does landscape maintenance cost?",
+      "a": "It depends on how many beds you have, what is in them and how often they need attention. Rob walks the yard, suggests a plan and quotes it. The estimate is free."
+    }
+  ],
+  "quote": {
+    "title": "Tell us about the beds you want kept.",
+    "lede": "How many beds, and what keeps going wrong with them? Call or [text Rob](sms:+18109903040) at (810) 990-3040, and he will come out, look it over and quote the season."
+  },
+  "summary": {
+    "title": "Bed upkeep through the season.",
+    "intro": "Landscape maintenance keeps beds weeded, edged, trimmed and touched up through the season, so a finished yard stays finished. Rob quotes it after he walks the beds, and the estimate is free.",
+    "items": [
+      { "name": "Weeding", "detail": "Beds and tree rings weeded through the season." },
+      { "name": "Edging", "detail": "Bed lines recut where the grass creeps in." },
+      { "name": "Trimming", "detail": "Shrubs and hedges trimmed when each one is due." },
+      { "name": "Mulch", "detail": "Thin spots raked and touched up, not piled on." },
+      { "name": "Clean out", "detail": "Dead plants and debris cleared from the beds." }
+    ],
+    "footnote": "Pairs well with [weekly lawn mowing](/lawn-mowing/), so the beds and the lawn stay sharp together."
+  }
+}

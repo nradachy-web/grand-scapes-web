@@ -1,0 +1,49 @@
+{
+  "service": "fall-cleanup",
+  "city": "flint-township",
+  "meta": {
+    "title": "Leaf removal and fall cleanup in Flint Township | Grand Scapes",
+    "description": "Grand Scapes vacuums Flint Township, MI leaves into our trailer and hauls them off, beds cut back, lawn left clean. No burning, no bags. Free estimates."
+  },
+  "hero": {
+    "kicker": "Fall cleanup and leaf removal in Flint Township, MI",
+    "title": "Leaves hauled off, **not burned.**",
+    "lede": "Grand Scapes clears Flint Township yards each fall: leaves blown out of beds and off the lawn, vacuumed into our trailer and hauled away, perennials cut back and the last cut done. No burning, and no stack of brown bags at the curb.",
+    "chips": ["Vacuumed and hauled", "Beds cut back", "Last cut done", "Free estimate"],
+    "photo": "leaf-windrow"
+  },
+  "local": {
+    "eyebrow": "Leaves in Flint Township",
+    "title": "No burning, Thursday bags, **or our trailer.**",
+    "intro": "Fall leaves in the township have two ways out: Emterra's weekly compost pickup on Thursdays, which ends the last Friday in November, or a crew that hauls them away. The township fire department's burning guidelines rule out burning leaves, pine needles and grass clippings.",
+    "points": [
+      { "title": "Brown bags or marked cans", "body": "Emterra takes yard waste in brown yard waste bags or 30 gallon cans marked with an X, each under 50 pounds, and nothing in plastic bags. A yard with a few big trees can mean a lot of bags." },
+      { "title": "A season that ends in November", "body": "Compost pickup runs from the first Thursday in April to the last Friday in November. Leaves that come down after that sit until spring unless someone hauls them." },
+      { "title": "Contractor leaves do not go curbside", "body": "The hauler does not take contractor generated material, so the leaves our crew gathers go in our trailer, not out with your Thursday bags." },
+      { "title": "Soft ground in late fall", "body": "On the township's slow draining loam, November rain leaves lawns soft. Leaves left on soggy ground over winter mat down tight, and clearing them before the snow gives the grass a clean start in spring." }
+    ]
+  },
+  "logistics": {
+    "title": "How a fall cleanup runs in Flint Township.",
+    "body": [
+      "Rob looks at the yard and the trees around it and quotes the cleanup. A lighter yard is usually one visit once most leaves are down; a heavy one may be better as two, one midway and one at the end.",
+      "On the day the crew blows leaves out of beds, fence lines and corners into rows, the leaf vacuum on our dump trailer pulls them in, perennials get cut back and the lawn gets its last cut. Then the drive and walks get blown clean.",
+      "If you would rather mow a light layer of leaves into the lawn, MSU Extension research found no harm in it. When the layer is deep, it is a cleanup job."
+    ],
+    "facts": [
+      { "label": "Compost pickup", "value": "Thursdays, ends last Friday in Nov" },
+      { "label": "Leaf burning", "value": "Prohibited in the township" },
+      { "label": "Our way", "value": "Vacuumed and hauled away" },
+      { "label": "Estimate", "value": "Free, Rob looks first" }
+    ]
+  },
+  "photo": "leaf-loader",
+  "faq": [
+    { "q": "Do you do leaf removal in Flint Township?", "a": "Yes. Grand Scapes does fall cleanups and leaf removal in Flint Township: leaves vacuumed into our trailer and hauled away, beds cut back and the lawn left clean. Rob looks at the yard and quotes it free." },
+    { "q": "Is leaf burning allowed in Flint Township?", "a": "No. The township fire department's open burning guidelines prohibit burning leaves, pine needles, grass clippings, stumps and tree cuttings thicker than three inches. Bag leaves for Emterra's Thursday compost pickup, or have them hauled away." },
+    { "q": "When does yard waste pickup end in Flint Township?", "a": "Emterra's compost pickup runs weekly from the first Thursday in April until the last Friday in November, according to the township's brochure. Set brown bags or X marked cans out by 7 a.m. on pickup day, and check with the township for the current schedule." },
+    { "q": "How do I set out leaves for the township pickup?", "a": "In brown yard waste bags or plastic 30 gallon cans clearly marked with an X, each under 50 pounds, and never in plastic bags. With a cleanup from us, there is nothing to bag at all." },
+    { "q": "When should a fall cleanup be done?", "a": "After most of the leaves are down, which in Genesee County usually means late October into November. Heavy leaf yards often do better with two visits, so the lawn is not buried for weeks before the final one." }
+  ],
+  "reviews": ["rick-b", "stacy"]
+}

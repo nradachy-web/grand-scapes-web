@@ -1,0 +1,63 @@
+---
+/* Reviews, word for word. Google tags each with what the customer liked
+   ("Positive: Professionalism, Punctuality, Quality, Responsiveness, Value"),
+   and those tags are shown as they were written. */
+import Base from '../layouts/Base.astro';
+import PageHead from '../components/PageHead.astro';
+import Head from '../components/Head.astro';
+import Stars from '../components/Stars.astro';
+import Reviews from '../components/Reviews.astro';
+import QuoteBand from '../components/QuoteBand.astro';
+import { LINKS, RATING } from '../data/site';
+import { REVIEWS, review } from '../data/reviews';
+import Photo from '../components/Photo.astro';
+import { photo } from '../data/photos';
+import { heroImage } from '../lib/hero';
+import { breadcrumbs } from '../lib/schema';
+
+const head = await heroImage('side-yard-stripes', { sizes: '(min-width: 60rem) 48vw, 1px' });
+const path = '/reviews/';
+/* the tags Google showed on these reviews */
+const tags = ['Professionalism', 'Punctuality', 'Quality', 'Responsiveness', 'Value'];
+---
+
+<Base
+  title="Grand Scapes Reviews: 4.9 Stars on Google, Grand Blanc"
+  description="Read what customers say about Grand Scapes in Grand Blanc: meticulous lawns, on time each week, quick to respond and careful with the property."
+  path={path}
+  preload={{ ...head.preload, media: '(min-width: 60rem)' }}
+  schema={[breadcrumbs([{ name: 'Home', path: '/' }, { name: 'Reviews', path }])]}
+>
+  <PageHead image={head} eyebrow="Reviews" title={`${RATING.value} stars **on Google.**`} lede="Four of them, word for word, typos and all. The rest are on Google." crumbs={[{ name: 'Reviews', path }]}>
+    <a class="rating" href={LINKS.google} target="_blank" rel="noopener"><Stars /><span>Read them all on Google</span></a>
+  </PageHead>
+
+  <section class="band pull" aria-labelledby="pull-h">
+    <div class="wrap two wide-left">
+      <figure class="stack" style="--gap:1rem">
+        <blockquote class="h2" id="pull-h">“They are meticulous, they are on time each week and … <span class="accent">they are quick to respond.”</span></blockquote>
+        <figcaption class="small muted">{review('stacy')!.name}, Google review</figcaption>
+      </figure>
+      <figure>
+        <div class="frame"><Photo id="young-tree-stripes" ratio={4 / 3} widths={[420, 640, 860]} sizes="(min-width: 60rem) 34vw, 92vw" /></div>
+        <figcaption class="note cap">{photo('young-tree-stripes').caption}</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section class="band white" aria-labelledby="topics-h">
+    <div class="wrap">
+      <Head id="topics-h" eyebrow="What they liked" title="The same five words, **review after review.**" intro="Google lets a reviewer tick what they liked. On three of the four reviews below, they ticked all five." />
+      <ul class="chips">{tags.map((t) => <li><span class="chip">{t}</span></li>)}</ul>
+    </div>
+  </section>
+
+  <section class="band" aria-labelledby="all-h">
+    <div class="wrap">
+      <Head id="all-h" eyebrow="Word for word" title="What they wrote **after the crew left.**" />
+      <Reviews reviews={REVIEWS} full />
+    </div>
+  </section>
+
+  <QuoteBand title="Be our next review." />
+</Base>

@@ -1,0 +1,165 @@
+{
+  "service": "grading-lawns",
+  "meta": {
+    "title": "Yard grading and new lawns in Grand Blanc, MI | Grand Scapes",
+    "description": "Yard grading and new lawns in Grand Blanc and Genesee County. Ground shaped with track loaders, sloped away from the house, seeded and covered in straw."
+  },
+  "hero": {
+    "kicker": "Yard grading and new lawns in Grand Blanc, MI",
+    "title": "Ground first, **then grass.**",
+    "lede": "Grand Scapes shapes rough or bare ground with compact track loaders, gives it a steady fall away from the house, then seeds the new lawn and covers it in straw. New builds, low spots that hold water and yards torn up by old projects, in Grand Blanc and around Genesee County.",
+    "chips": ["Track loader grading", "Sloped away from the house", "Seed under straw", "Free estimate"],
+    "photo": "deere-grading"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "plane": "paper",
+      "eyebrow": "The short version",
+      "title": "Shape it, seed it, **cover it.**",
+      "body": [
+        "Grading means shaping the ground before anything grows on it: cutting down high spots, filling low ones and giving the yard a steady fall away from the house so rain runs off instead of sitting. We do it with compact track loaders, so the whole yard gets shaped by machine instead of raked over by hand.",
+        "Then the new lawn goes in from seed, with a light layer of straw on top to hold moisture and keep the seed from washing away. It takes some patience. Michigan State University Extension notes that grass grown from seed starts out with a stronger root system, and on ground that was shaped right, it comes in even."
+      ],
+      "checks": [
+        "Rough, rutted or bare ground shaped with track loaders",
+        "High spots cut down and low spots filled",
+        "A steady fall away from the house and the garage",
+        "Rocks, roots and clods out, the surface raked smooth",
+        "Seeded, then covered with a light layer of straw",
+        "Watering gone over with you before we leave"
+      ],
+      "photo": "boulder-wall"
+    },
+    {
+      "type": "steps",
+      "plane": "white",
+      "eyebrow": "How a new lawn goes in",
+      "title": "From bare dirt to **a first mow.**",
+      "steps": [
+        {
+          "title": "Walk the yard",
+          "body": "Rob comes out, looks at where water sits and where the ground is rough, and talks through what you want. You get a price before anything moves, and the estimate is free.",
+          "note": "Free estimate"
+        },
+        {
+          "title": "Grade",
+          "body": "The track loaders cut and fill until the yard falls away from the house. MSU Extension's rule of thumb is a drop of about 1 foot every 50 feet, enough to keep water from standing on the lawn."
+        },
+        {
+          "title": "Prep the seedbed",
+          "body": "Stones, roots and clods come out and the surface is raked smooth. MSU suggests a root zone of at least 4 inches of topsoil, so if the yard is short, Rob will tell you before the seed goes down."
+        },
+        {
+          "title": "Seed and straw",
+          "body": "Seed goes down, then clean straw on top. MSU's guide is about two 60 pound bales per 1,000 square feet: one thin layer, with soil still showing between the stems."
+        },
+        {
+          "title": "Water and wait",
+          "body": "Keep the top of the soil moist without puddles. On warm, sunny days MSU says that can take two or three light waterings a day until the grass is up."
+        }
+      ],
+      "footnote": "Straw spread that thin can be left to break down on its own, MSU says. Keep people and pets off the new lawn until you can no longer see soil between the blades."
+    },
+    {
+      "type": "compare",
+      "plane": "paper",
+      "eyebrow": "When to seed",
+      "title": "In Michigan, new seed likes **late summer.**",
+      "intro": "MSU Extension puts the ideal seeding window at August 15 to September 15. Spring can work, and so can a warm October, but each comes with a catch. Rob can tell you what fits your yard and your schedule.",
+      "columns": ["Late summer", "Spring", "October"],
+      "rows": [
+        { "label": "Window", "values": ["August 15 to September 15", "Done by about June 15", "Early October, in a warm fall"] },
+        { "label": "Weather", "values": ["Warm days and cool nights", "Warming up toward summer heat", "Cold can come early"] },
+        { "label": "Weeds", "values": ["Crabgrass is winding down", "Crabgrass is just starting", "Time is the bigger worry"] },
+        { "label": "The catch", "values": ["Keeping the seed moist", "Needs steady water into June", "Seed may sprout too late to settle in"] }
+      ]
+    },
+    {
+      "type": "intro",
+      "plane": "white",
+      "eyebrow": "Around Grand Blanc",
+      "title": "New builds, low spots and **old beds.**",
+      "body": [
+        "On a new home, MSU Extension's advice is to keep the topsoil in a pile off to the side during construction, then spread it evenly once the house is done. If you are building in Grand Blanc or Grand Blanc Township, ask your builder where the topsoil went before we start. New seed on bare subsoil has a hard time.",
+        "In an older yard, grading fixes the low spot that turns into a pond every spring, or the ground left rough after old shrubs and beds came out. We dig those out with the same machines, so [bush removal](/bush-removal/) and a new lawn can go on one estimate.",
+        "Some slopes are too steep to mow well. MSU notes that too much slope leads to erosion, hard mowing and scalping. Where a slope has to stay, a boulder or block wall can hold it; see [bed edging and block walls](/bed-edging-and-block-walls/)."
+      ],
+      "photo": "kubota-trailer",
+      "flip": true
+    },
+    {
+      "type": "cards",
+      "plane": "paper",
+      "eyebrow": "Good to know",
+      "title": "Three things that make **new seed** take.",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Seed has to touch soil",
+          "body": "Seed tossed onto hard ground feeds the birds, not the lawn, MSU says. Raking it in lightly and firming the surface gives each seed a place to root."
+        },
+        {
+          "title": "Straw, but not too much",
+          "body": "A light layer holds moisture and keeps the seed in place. Pile it on and it shades out the seedlings. MSU's test is simple: you should still see soil between the stems."
+        },
+        {
+          "title": "The first mow",
+          "body": "MSU says to mow new grass once the blades pass 3 inches, with a sharp blade. Regular mowing after that helps it spread and fill in, and we can put it on the [weekly mowing](/lawn-mowing/) route."
+        }
+      ]
+    },
+    {
+      "type": "reviews",
+      "plane": "ink",
+      "eyebrow": "On Google",
+      "title": "From customers who had **the yard redone.**",
+      "ids": ["james-a", "bob-s"]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do you grade yards and put in new lawns in Grand Blanc?",
+      "a": "Yes. Grand Scapes grades yards and seeds new lawns in Grand Blanc, Grand Blanc Township and around Genesee County. We shape the ground with compact track loaders, slope it away from the house, then seed it and cover it with straw. Rob comes out first and gives you a free estimate."
+    },
+    {
+      "q": "When should I seed my lawn in Michigan?",
+      "a": "Late summer. MSU Extension puts the ideal window at August 15 to September 15, when warm days and cool nights help seed sprout and crabgrass is winding down. Spring is second choice, and MSU says to finish by about June 15. A warm October can work, but older MSU advice says north of the Grand Rapids, Lansing and Detroit line, where Grand Blanc sits, late seeding is more of a gamble."
+    },
+    {
+      "q": "How do you fix low spots where water stands in my yard?",
+      "a": "With grading. We cut down the high spots, fill the low ones and give the yard a steady fall away from the house. MSU Extension's rule of thumb is a drop of about 1 foot over 50 feet, which keeps water from standing on the lawn. Then the bare ground is seeded and covered with straw."
+    },
+    {
+      "q": "Do I need to take the straw off new grass seed?",
+      "a": "Usually not. MSU Extension says straw spread thin, about two 60 pound bales per 1,000 square feet with soil showing between the stems, can be left to break down on its own. A heavier cover that hides the soil should come off as soon as grass blades appear. If the seed goes down late in fall, leave the straw on through winter."
+    },
+    {
+      "q": "How often should I water new grass seed?",
+      "a": "Lightly and often, enough to keep the top of the soil moist without puddles or washing the seed away. On warm, sunny days MSU Extension says that can mean two or three times a day. About a week after sowing, as the grass starts to grow, water less often but longer. By about two months, it can be watered like any other lawn."
+    },
+    {
+      "q": "When can I mow new grass?",
+      "a": "When the blades pass about 3 inches, according to MSU Extension, and with a sharp blade so the young plants are cut, not torn. Until the soil is covered, MSU says the only traffic on it should be you and the mower. After that, regular mowing helps the new lawn spread and thicken."
+    },
+    {
+      "q": "How much does yard grading cost?",
+      "a": "It depends on how much ground has to move, how big the yard is, how easily a machine can get in, and how much seed and straw it takes. Rob walks the yard, talks through what you want and quotes you a price. The estimate is free."
+    }
+  ],
+  "quote": {
+    "title": "Tell us about the ground.",
+    "lede": "A new build, a low spot that holds water, or a yard left rough after old beds came out. Describe it or text Rob a few photos, and he will come out and quote it."
+  },
+  "summary": {
+    "title": "Grading and new lawns, start to finish.",
+    "intro": "A new lawn from Grand Scapes is ground work first and seed second. Rob walks the yard and quotes the whole job, and the estimate is free.",
+    "items": [
+      { "name": "Grading", "detail": "Ground shaped with compact track loaders and sloped away from the house." },
+      { "name": "Seedbed", "detail": "Rocks, roots and clods out, the surface raked smooth." },
+      { "name": "Seed", "detail": "Spread over the prepared ground and raked in lightly." },
+      { "name": "Straw", "detail": "One thin layer to hold moisture and keep the seed in place." }
+    ],
+    "footnote": "We grow new lawns from seed. MSU Extension puts the ideal Michigan seeding window at August 15 to September 15."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "service": "snow-removal",
+  "city": "goodrich",
+  "meta": {
+    "title": "Snow Removal in Goodrich, MI | Grand Scapes",
+    "description": "Snow plowing in Goodrich, MI: Grand Scapes clears long drives off gravel and county roads with our own trucks, plus walks, steps and salt where people walk."
+  },
+  "hero": {
+    "kicker": "Snow removal in Goodrich, MI",
+    "title": "Long drives, **plowed wide.**",
+    "lede": "Grand Scapes plows Goodrich driveways with our own trucks, from short village drives to long ones off Atlas Township gravel roads. Walks and steps get cleared to the concrete and salted. Rob walks the drive before winter and explains the residential snow and salting packages.",
+    "chips": ["Our own plow trucks", "Long drives", "Walks and salt"],
+    "photo": "plow-deep"
+  },
+  "local": {
+    "eyebrow": "Snow in Goodrich",
+    "title": "Gravel roads and **a long way in.**",
+    "intro": "Snow around Goodrich is mostly about distance. Many Atlas Township homes sit far back on lots of two acres or more, often off one of the 44.4 miles of gravel road the township counts, and the road out front is on the county's plow list, not the township's. In the village, drives are shorter and sidewalks come into it.",
+    "points": [
+      { "title": "County plows, county order", "body": "Local roads around Goodrich are Genesee County Road Commission roads. Its winter list puts unpaved local roads and subdivision streets last, and crews do not work overtime on them. Plan on your drive being open before your road is." },
+      { "title": "Find the edges before snow", "body": "On a long drive, the edges, the culvert and the mailbox vanish under the first real snowfall. Rob walks the drive in the fall so the plow knows where the lawn stops and the ditch starts." },
+      { "title": "Township sidewalks", "body": "Atlas Township's 2022 sidewalk ordinance says sidewalks must be kept clear of ice and snow, and that snow must not be piled where it blocks a sidewalk, a road or a driver's view. An HOA may take that job on for its subdivision." },
+      { "title": "Nothing back into the road", "body": "State law (MCL 257.677a) forbids depositing snow, ice or slush on any roadway. Snow from the drive gets stacked on your own ground, away from the road and the sight line where you pull out." }
+    ]
+  },
+  "logistics": {
+    "title": "Before the season, then every snow.",
+    "body": [
+      "The walk through is in the fall. Rob looks at the length and width of the drive, where snow can be pushed and stacked, the turnaround by the garage, the walks and steps, and anything hidden at the edges. Then he explains the options and quotes a price for your Goodrich drive.",
+      "Through the winter, the drive gets plowed with our own trucks, and walks and steps are shoveled to the concrete. Salt goes where people walk and where cars stop. In the village, ask about the sidewalk along the street, and check with the village office on its rules."
+    ],
+    "facts": [
+      { "label": "Roads out here", "value": "County roads, gravel ones plowed last" },
+      { "label": "Township sidewalks", "value": "Kept clear of ice and snow" },
+      { "label": "Snow in the road", "value": "Not allowed, MCL 257.677a" },
+      { "label": "Trucks", "value": "Our own, with plows" }
+    ]
+  },
+  "photo": "salted-drive",
+  "faq": [
+    { "q": "Do you plow driveways in Goodrich, MI?", "a": "Yes. Grand Scapes plows driveways in the Village of Goodrich and around Atlas Township with our own trucks, and we clear and salt walks and steps. Rob walks your drive before the season and gives you a free estimate." },
+    { "q": "When does the county plow gravel roads near Goodrich?", "a": "After the bigger roads. The Genesee County Road Commission plows by traffic volume, and unpaved local roads and subdivision streets come last, with no overtime on either. After a big storm, a gravel road can stay snow covered well after your drive is clear." },
+    { "q": "Will the county plow knock over my mailbox?", "a": "Heavy snow off a county plow can. The Road Commission asks owners to check their mailbox and post every fall and replace anything weak. If its plow damages a mailbox, its crews replace it with a standard one once the roads are cleared." },
+    { "q": "Do I have to clear the sidewalk in Atlas Township?", "a": "Yes, if one runs along your property. The township's sidewalk ordinance puts sidewalk upkeep on the property owner, including keeping it free of ice and snow, though an HOA can take that on. In the Village of Goodrich, ask the village office what applies on your street." },
+    { "q": "How do your snow packages work?", "a": "We offer residential and commercial snow removal and salting packages. Rob walks your drive, talks through what you want cleared and salted, and quotes your property. The details depend on the drive, so he explains them in person." }
+  ],
+  "reviews": ["rick-b", "stacy"]
+}

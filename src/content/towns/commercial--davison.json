@@ -1,0 +1,49 @@
+{
+  "service": "commercial",
+  "city": "davison",
+  "meta": {
+    "title": "Commercial Snow Removal in Davison, MI | Grand Scapes",
+    "description": "Commercial snow removal and grounds care in Davison, MI: Grand Scapes plows and salts lots, drives and walks, and keeps the grounds for businesses and HOAs."
+  },
+  "hero": {
+    "kicker": "Commercial snow removal in Davison, MI",
+    "title": "Lots plowed, **walks salted.**",
+    "lede": "Grand Scapes plows and salts parking lots, drives and walks for Davison businesses, offices, churches and HOAs, with our own trucks. In summer we mow and keep the same grounds. Rob walks the site with you and explains the commercial snow and salting packages.",
+    "chips": ["Lots and drives", "Entries salted", "Grounds kept in summer", "Licensed and insured"],
+    "photo": "plow-fleet"
+  },
+  "local": {
+    "eyebrow": "Commercial in Davison",
+    "title": "The sidewalk out front is **your job, too.**",
+    "intro": "A property manager in Davison works under the same rules as a homeowner, only with more pavement. In the city, the public sidewalk along the property has to be cleared, snow cannot go in the street, and water that freezes cannot be drained across a walk. Along the township's M-15 and I-69 corridors, lots open onto county roads with their own plow order.",
+    "points": [
+      { "title": "Public sidewalks in the city", "body": "City Ordinance 1024.10 applies to the owners and occupants of every property next to a public sidewalk, businesses included. If the walk is not cleared in a reasonable time, the city can clear it and lien the cost. We put the public walk on the plan with the lot." },
+      { "title": "No meltwater across the walk", "body": "The same ordinance bars letting water or any liquid that can freeze drain onto a sidewalk, street, alley or parking area from November through March. A downspout or a snow pile that drains across an entry is worth fixing before it turns to ice." },
+      { "title": "Snow stays on the property", "body": "State law, MCL 257.677a, bars depositing snow on any roadway, and the city bars moving it across a public street. A lot needs a stacking spot that does not eat parking spaces or block a driver's view at the exit." },
+      { "title": "Grounds the rest of the year", "body": "The company that plows in January can mow, trim, edge and keep the beds from spring to fall. One contact for the whole year is simpler for a board or an office manager." }
+    ]
+  },
+  "logistics": {
+    "title": "How we set up a Davison property.",
+    "body": [
+      "Rob walks the site with you before the season: the lot, the entries, the public walk, where snow can be stacked and where salt matters most. Then he explains the commercial snow removal and salting package options and quotes the property.",
+      "Through the winter, lots and drives are plowed with our own trucks, and walks and entries are cleared to the concrete and treated with ice melt. For an HOA in Davison Township, the county plows subdivision streets last, so the drives and walks the association controls are what keep residents moving.",
+      "In summer, the same grounds get weekly mowing, trimming, edging and bed upkeep, with a [spring cleanup](/spring-cleanup-davison-mi/) and a [fall leaf cleanup](/leaf-removal-davison-mi/) at either end."
+    ],
+    "facts": [
+      { "label": "City public walks", "value": "Owner or occupant clears them" },
+      { "label": "Freezing runoff", "value": "Not onto walks, November to March" },
+      { "label": "Snow in the road", "value": "Not allowed under state law" },
+      { "label": "Coverage", "value": "Licensed and insured" }
+    ]
+  },
+  "photo": "commercial-lot",
+  "faq": [
+    { "q": "Do you do commercial snow removal in Davison, MI?", "a": "Yes. Grand Scapes plows and salts parking lots, drives and walks for businesses, offices, churches and HOAs in the City of Davison and Davison Township, with our own trucks. We are licensed and insured, and the estimate is free." },
+    { "q": "Does a business have to clear the public sidewalk in the City of Davison?", "a": "Yes. City Ordinance 1024.10 puts sidewalk snow and ice on the owners or occupants of property next to a public sidewalk, and that includes businesses. The city's notice says a reasonable time is usually 48 hours; after that the city can clear the walk and lien the cost." },
+    { "q": "Do you handle HOA snow and grounds in Davison Township?", "a": "Yes. We plow and salt drives, walks and common areas for associations, and we can mow and keep the grounds in summer. The Road Commission plows subdivision streets last, so tell us what the association is responsible for and we plan around it." },
+    { "q": "How are commercial snow packages priced?", "a": "Rob walks the property, looks at the lot, the walks and the salt needs, and explains the commercial snow removal and salting package options. You get a quote for your site. We do not publish prices, because no two lots are alike." },
+    { "q": "Do you do summer grounds work for businesses?", "a": "Yes. Weekly mowing, trimming, edging and blowing off, plus bed upkeep, spring and fall cleanups and shrub trimming. See [commercial grounds and snow](/commercial/) for the full list." }
+  ],
+  "reviews": ["rick-b", "james-a"]
+}

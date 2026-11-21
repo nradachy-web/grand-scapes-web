@@ -1,0 +1,135 @@
+---
+/* Our work. Real photographs only: Rob's own job photos, captioned plainly.
+   No illustrations on this page. Nick has said no filterable catalog, square
+   expand icons or modal viewer, so these are composed bands of captioned photos. */
+import Base from '../layouts/Base.astro';
+import PageHead from '../components/PageHead.astro';
+import Edge from '../components/Edge.astro';
+import Head from '../components/Head.astro';
+import Photo from '../components/Photo.astro';
+import BeforeAfter from '../components/BeforeAfter.astro';
+import QuoteBand from '../components/QuoteBand.astro';
+import { photo, type PairId, type PhotoId } from '../data/photos';
+import { heroImage } from '../lib/hero';
+import { balance } from '../lib/paths';
+import { breadcrumbs } from '../lib/schema';
+
+const head = await heroImage('crosscut-lawn', { sizes: '(min-width: 60rem) 48vw, 1px' });
+const path = '/our-work/';
+const sets: { id: string; title: string; intro: string; photos: PhotoId[] }[] = [
+  { id: 'lawns', title: 'Lawns, **in stripes.**', intro: 'Straight, curved, crosscut and checkerboard. Mowed, trimmed, edged and blown off.', photos: ['curve-stripes-colonial', 'crosscut-lawn', 'cul-de-sac-stripes', 'ranch-stripes', 'side-yard-stripes', 'young-tree-stripes', 'tree-line-stripes', 'neighborhood-stripes', 'checker-close', 'curb-edge', 'walk-edge', 'deck-lawn'] },
+  { id: 'beds', title: 'Beds, block and **mulch.**', intro: 'Tired beds rebuilt with gray block walls, fabric and fresh mulch.', photos: ['tree-bed-after', 'block-bed-front', 'block-bed-colonial', 'block-bed-wide', 'block-bed-corner', 'block-bed-trailer', 'block-bed-side', 'block-bed-door', 'stone-house-bed', 'mulch-colonial', 'sign-bed', 'rose-bed', 'gazebo-hedges'] },
+  { id: 'ground', title: 'Digging, grading and **new lawns.**', intro: 'Old shrubs out with a track loader, new ground shaped, seed down under straw.', photos: ['deere-grading', 'kubota-dig', 'kubota-trailer', 'boulder-wall', 'straw-seed'] },
+  { id: 'fall', title: 'Fall cleanups and **leaves.**', intro: 'Blown into rows, vacuumed into the trailer and hauled away.', photos: ['leaves-before', 'leaf-vac', 'leaf-trailer', 'leaf-curb', 'leaf-loader', 'leaf-pile', 'leaf-windrow', 'leaf-tree', 'leaf-crew', 'leaf-slope', 'fall-mowing', 'fall-rider'] },
+  { id: 'snow', title: 'Snow and **ice.**', intro: 'Driveways, walks and lots plowed and salted with our own trucks.', photos: ['plow-fleet', 'plow-deep', 'plow-drive', 'plow-pair', 'plow-lawn', 'plow-push', 'drive-cleared', 'walk-cleared', 'salt-spreader', 'salted-drive', 'commercial-lot'] },
+];
+---
+
+<Base
+  title="Our Work: Lawns, Beds, Leaves and Snow | Grand Scapes"
+  description="Real photos of Grand Scapes jobs around Grand Blanc: striped lawns, block wall beds, leaf cleanups, grading and plowed driveways, plus before and after."
+  path={path}
+  preload={{ ...head.preload, media: '(min-width: 60rem)' }}
+  schema={[breadcrumbs([{ name: 'Home', path: '/' }, { name: 'Our work', path }])]}
+>
+  <PageHead image={head} eyebrow="Our work" title="Real jobs, **real phone photos.**" lede="Every photo on this page is one of our jobs, taken on the job. No stock photos and nothing staged." crumbs={[{ name: 'Our work', path }]} next="ink" />
+
+  <section class="band ink has-edge" aria-labelledby="ba-h">
+    <div class="wrap">
+      <Head id="ba-h" eyebrow="Before and after" title="Same beds, **a week apart.**" intro="Two of our bed rebuilds, photographed before and after. Drag the line." />
+      <div class="ba-row ba-row--wide">
+        {['ba-drive', 'ba-front'].map((p) => <BeforeAfter pair={p as PairId} sizes="(min-width: 48rem) 46vw, 92vw" />)}
+      </div>
+    </div>
+    <Edge to="paper" />
+  </section>
+
+  {
+    sets.map((s, i) => (
+      <section class:list={['band', i % 2 === 1 && 'white']} aria-labelledby={`set-${s.id}`}>
+        <div class="wrap">
+          <Head id={`set-${s.id}`} title={s.title} intro={s.intro} />
+          <div class="set">
+            {balance(s.photos, (id) => photo(id).src.height / photo(id).src.width, 3).map((col) => (
+              <ul>
+                {col.map((id) => (
+                  <li>
+                    <figure>
+                      <div class="frame"><Photo id={id} widths={[420, 640, 900]} sizes="(min-width: 60rem) 31vw, 46vw" /></div>
+                      <figcaption class="note cap">{photo(id).caption}</figcaption>
+                    </figure>
+                  </li>
+                ))}
+              </ul>
+            ))}
+          </div>
+        </div>
+      </section>
+    ))
+  }
+
+  <QuoteBand title="Want your yard on this page?" />
+</Base>
+
+<style>
+  .ba-row {
+    display: grid;
+    gap: 2rem;
+  }
+
+  .ba-more {
+    display: grid;
+    gap: 2rem;
+    margin-top: clamp(3rem, 6vw, 4.5rem);
+    padding-top: clamp(2.5rem, 5vw, 3.5rem);
+    border-top: 1px solid var(--line-ink);
+  }
+
+  @media (min-width: 48rem) {
+    .ba-row--wide {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 2.25rem 1.75rem;
+    }
+  }
+
+  @media (min-width: 56rem) {
+    .ba-row:not(.ba-row--wide) {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1.5rem;
+    }
+  }
+
+  /* three even columns, balanced at build time, so no set ends in a hole */
+  .set {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.9rem;
+    align-items: start;
+  }
+
+  .set ul {
+    display: grid;
+    gap: 0.9rem;
+  }
+
+  .set ul:last-child:not(:first-child) {
+    grid-column: 1 / -1;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  @media (min-width: 60rem) {
+    .set {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1.25rem;
+    }
+
+    .set ul {
+      gap: 1.25rem;
+    }
+
+    .set ul:last-child:not(:first-child) {
+      grid-column: auto;
+      grid-template-columns: minmax(0, 1fr);
+    }
+  }
+</style>

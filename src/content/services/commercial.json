@@ -1,0 +1,134 @@
+{
+  "service": "commercial",
+  "meta": {
+    "title": "Commercial snow removal in Grand Blanc, MI | Grand Scapes",
+    "description": "Lots plowed and salted, walks cleared, and the grounds mowed and kept, for businesses, HOAs, churches and offices in Grand Blanc and Genesee County."
+  },
+  "hero": {
+    "kicker": "Commercial snow removal and grounds care in Grand Blanc, MI",
+    "title": "One call for **the lot and the lawn.**",
+    "lede": "Grand Scapes plows and salts parking lots, drives and walks for businesses, HOAs, churches, offices and apartment and senior communities, then mows and keeps the same grounds when the snow is gone. Rob walks the property with you and quotes the parts you need.",
+    "chips": ["Lots plowed and salted", "Walks cleared", "Grounds mowed and kept", "Licensed and insured"],
+    "photo": "commercial-lot"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "plane": "paper",
+      "eyebrow": "For property managers",
+      "title": "Snow and grounds, **one contact.**",
+      "body": [
+        "A commercial property needs two things from a grounds company: snow and ice handled through the winter, and the grounds kept the rest of the year. Grand Scapes does both, so a manager or a board has one name to call instead of two. You deal with Rob directly, by phone or text.",
+        "Before the season, Rob walks the lot with you. He looks at the entrances, the parking rows, the walks and doorways, where the snow can be piled without eating parking or blocking a driver's view, and which spots ice over first. Then he explains the options and quotes it."
+      ],
+      "checks": [
+        "Lots and drives plowed by our own trucks",
+        "Walks, entrances and steps cleared and treated with ice melt",
+        "Snow piled on the property, never pushed into the road",
+        "Grounds mowed, trimmed, edged and blown off through the season",
+        "Spring and fall cleanups, beds and shrubs kept up",
+        "Licensed and insured"
+      ],
+      "photo": "plow-fleet",
+      "cta": { "label": "Set up a walk around", "href": "/get-an-estimate/" }
+    },
+    {
+      "type": "cards",
+      "plane": "white",
+      "eyebrow": "Who it is for",
+      "title": "Built around **the property you manage.**",
+      "columns": 2,
+      "items": [
+        { "title": "Businesses and offices", "body": "The lot, the entrance and the walk to the door are what customers and staff see first. Those get plowed and treated in winter, and the lawn out front gets mowed and edged in summer." },
+        { "title": "HOAs", "body": "Entrances, common areas and shared walks can be plowed in winter and mowed in summer on one plan. The board or the manager gets one contact for both seasons." },
+        { "title": "Churches", "body": "Lots, walks and steps need to be clear on the days people come. Tell Rob your service and event schedule when he walks the property, and he will talk through how that is handled." },
+        { "title": "Apartment and senior communities", "body": "Walks, steps and drop off areas matter most where residents walk with care. Rob looks at every entrance and talks through how the walks and the ice are handled." }
+      ]
+    },
+    {
+      "type": "steps",
+      "plane": "paper",
+      "eyebrow": "How we set it up",
+      "title": "From the walk around to **the season.**",
+      "steps": [
+        { "title": "Walk the property", "body": "Rob walks the lot with you or your board: entrances, parking rows, walks, steps, dumpster pads and the places snow can be piled." },
+        { "title": "Mark the edges", "body": "Curbs, islands and drive edges need marking before the ground freezes, so a plow can find them under snow. Rob goes over what needs a stake.", "note": "Before the freeze" },
+        { "title": "Snow season", "body": "Our trucks plow the lot and drives, walks and entrances are cleared, and ice melt goes down where people walk and cars stop.", "note": "Winter" },
+        { "title": "Grounds season", "body": "When the snow is gone, we do the [spring cleanup](/spring-cleanup/), then mow, trim, edge and blow off the grounds through the season, and take the leaves away in fall.", "note": "Spring to fall" }
+      ],
+      "footnote": "Rob explains how a commercial season is quoted when he walks the property. We do not publish prices or terms, because every lot is different."
+    },
+    {
+      "type": "intro",
+      "plane": "white",
+      "eyebrow": "Genesee County",
+      "title": "Snow belongs **on your side of the curb.**",
+      "body": [
+        "Michigan's vehicle code, MCL 257.677a, says a person shall not deposit snow, ice or slush on any roadway or highway. It also bars putting snow onto a road or its shoulder in a way that blocks a driver's view, and a violation is a civil infraction. For a lot that opens onto a busy road, that decides where the piles go.",
+        "The public streets are plowed by priority. The Genesee County Road Commission says expressways come first, then main streets, then local roads, with subdivision streets last, and that it cannot give a time for any one street. Your lot, your drives and your walks are on you. That is the part we handle, in Grand Blanc and in towns like [Flint](/commercial-snow-removal-flint-mi/), [Burton](/commercial-snow-removal-burton-mi/) and [Fenton](/commercial-snow-removal-fenton-mi/)."
+      ],
+      "photo": "plow-pair"
+    },
+    {
+      "type": "reviews",
+      "plane": "ink",
+      "eyebrow": "On Google",
+      "title": "What customers say about **the grounds side.**",
+      "intro": "These reviews are about lawn and landscape work. We do not have a snow review to show yet.",
+      "ids": ["rick-b", "stacy"]
+    },
+    {
+      "type": "plan",
+      "plane": "paper",
+      "eyebrow": "Plan your year",
+      "title": "Winter and summer **on one page.**",
+      "intro": "Lay out plowing and salting next to mowing, cleanups and bed work, and bring the plan along when Rob walks the property."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do you do commercial snow removal in Grand Blanc?",
+      "a": "Yes. Grand Scapes plows and salts parking lots, drives and walks for businesses, HOAs, churches, offices and apartment and senior communities in Grand Blanc and across Genesee County, with our own trucks. Call or text Rob at [(810) 990-3040](tel:+18109903040) to set up a walk around."
+    },
+    {
+      "q": "Can one company handle our snow and our lawn?",
+      "a": "Yes. We plow and salt in winter, and mow, trim, edge and clean up the grounds the rest of the year, so a property manager or board has one contact for both. Rob quotes the parts you need."
+    },
+    {
+      "q": "Do you work for HOAs?",
+      "a": "Yes. Entrances, common areas and shared walks can be plowed and salted in winter and mowed and kept in summer. Rob will walk the community with the board or the manager and explain the options."
+    },
+    {
+      "q": "How is commercial snow removal priced?",
+      "a": "Every lot is different, so Rob walks it first: the size, the entrances, the walks, where the snow can go and how the property is used. Then he explains the options and quotes it, and the estimate is free. We do not publish prices."
+    },
+    {
+      "q": "Where do you put the snow from a parking lot?",
+      "a": "On the property, in spots Rob picks with you on the walk around: away from entrances and the parking you need, and never in the road. Michigan law, MCL 257.677a, bars depositing snow on a roadway, and piles should not block a driver's view of the road."
+    },
+    {
+      "q": "Do you salt walks and entrances?",
+      "a": "Yes. Walks, steps and entrances are cleared and treated with ice melt where people walk and cars stop. Rock salt slows down sharply below about 15 degrees Fahrenheit, so very cold days are part of the conversation. More on our [salting and sidewalks](/salting-and-sidewalks/) page."
+    },
+    {
+      "q": "Do you do commercial work in Flint and Burton?",
+      "a": "Yes. We take commercial work across Genesee County, including [Flint](/commercial-snow-removal-flint-mi/), [Burton](/commercial-snow-removal-burton-mi/), [Flint Township](/commercial-snow-removal-flint-township-mi/), [Fenton](/commercial-snow-removal-fenton-mi/) and [Davison](/commercial-snow-removal-davison-mi/). Call or text Rob to talk about your property."
+    }
+  ],
+  "quote": {
+    "title": "Tell us about the property.",
+    "lede": "What kind of property is it, how big is the lot, and what do you need in winter and in summer? Call or text Rob, or send the form, and he will set up a time to walk it."
+  },
+  "summary": {
+    "title": "What commercial grounds and snow include.",
+    "intro": "Snow and ice handled through the winter and the grounds kept the rest of the year, by one company. Rob walks the property with you, explains the options and quotes the parts you need. The estimate is free.",
+    "items": [
+      { "name": "Lots and drives", "detail": "Plowed by our own trucks, with the snow piled on the property and out of the road." },
+      { "name": "Walks and entrances", "detail": "Cleared and treated with ice melt where people walk and cars stop." },
+      { "name": "Grounds", "detail": "Mowed, trimmed, edged and blown off through the season." },
+      { "name": "Spring and fall", "detail": "Cleanups, leaves hauled off, and beds and shrubs kept up." },
+      { "name": "One contact", "detail": "Rob, by phone or text, for both seasons." }
+    ],
+    "footnote": "Licensed and insured. We do not publish prices or terms, because every lot is different."
+  }
+}

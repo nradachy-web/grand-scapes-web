@@ -1,0 +1,49 @@
+{
+  "service": "commercial",
+  "city": "flint",
+  "meta": {
+    "title": "Commercial snow removal in Flint, MI | Grand Scapes",
+    "description": "Grand Scapes plows and salts Flint, MI parking lots, drives and walks for businesses, churches and property managers, and keeps the grounds mowed in summer."
+  },
+  "hero": {
+    "kicker": "Commercial snow removal in Flint, MI",
+    "title": "Lots open **before the doors.**",
+    "lede": "Grand Scapes plows and salts Flint parking lots, drives and walks for businesses, churches, offices and apartment owners, and keeps the grounds mowed and the beds kept in summer. Rob walks the property and explains the commercial package options.",
+    "chips": ["Lots plowed and salted", "Walks and entrances", "Grounds mowed in summer", "Free estimate"],
+    "photo": "commercial-lot"
+  },
+  "local": {
+    "eyebrow": "Commercial property in Flint",
+    "title": "Clinics, campuses, churches and **corner lots.**",
+    "intro": "The city has colleges, hospitals, downtown offices along Saginaw Street, churches and apartment buildings, all places people have to reach on a January morning. The snow rules here are the same for every one of them, and they shape how a lot gets cleared.",
+    "points": [
+      { "title": "Walks are the owner's job", "body": "The city has said clearing sidewalks is the property owner's job under its ordinance. For a business that means the public walk along the frontage, plus the walks, ramps and steps to every door." },
+      { "title": "No piles in the street", "body": "Snow from lots and drives cannot go into the street. The city asks businesses not to push it there, and Michigan law bars depositing snow on a roadway or piling it where it blocks a driver's view. We plan where the piles go before the first storm." },
+      { "title": "Downtown runs on an early clock", "body": "The city's snow plan treats downtown as its own area and plows it overnight or in the early morning, before parked cars and traffic. A downtown entrance and walk need that same early start." },
+      { "title": "Some big roads are the county's", "body": "Dort Highway, Corunna Road and parts of Court Street and Ballenger Highway are Genesee County Road Commission roads inside the city. If your entrance is on one, the county's plow, not the city's, sets when the ridge shows up across it." }
+    ]
+  },
+  "logistics": {
+    "title": "How a commercial account starts in Flint.",
+    "body": [
+      "Rob walks the lot with you or your manager before winter: entrances, drive lanes, walks, steps, where snow can be stacked and where it cannot. Then he explains the commercial snow and salting package options and quotes the property.",
+      "During a storm our trucks plow the lot and the drives, walks get cleared to the concrete, and ice melt goes down at entrances, ramps and steps. Snow gets stacked on the property, away from the sight lines at the exits.",
+      "In summer we mow, trim, edge and blow off the grounds, keep the beds weeded and mulched, and handle the spring and fall cleanups. We are licensed and insured, and you have one person to call."
+    ],
+    "facts": [
+      { "label": "Winter", "value": "Lots, drives, walks and salt" },
+      { "label": "Summer", "value": "Mowing, beds and cleanups" },
+      { "label": "Snow piles", "value": "On site, clear of exits" },
+      { "label": "Estimate", "value": "Free walk-through with Rob" }
+    ]
+  },
+  "photo": "salt-spreader",
+  "faq": [
+    { "q": "Do you do commercial snow removal in Flint?", "a": "Yes. Grand Scapes plows and salts parking lots, drives and walks for businesses, churches, offices and property managers in Flint, with our own trucks. Rob walks the property and explains the commercial snow and salting package options before winter." },
+    { "q": "Who has to clear the public sidewalk in front of a business in Flint?", "a": "The property owner. The city has said sidewalk clearing by owners is required by ordinance, and it asks businesses not to push snow into the street. Check with the city for the current rule. Clearing the frontage walk can be part of your service." },
+    { "q": "Where does the snow from a parking lot go?", "a": "On the property. Michigan law bars depositing snow on a roadway and piling it so it blocks a driver's view at the road, so piles go to the back or the sides of the lot, away from entrances and walks." },
+    { "q": "Do you mow and maintain commercial grounds in Flint too?", "a": "Yes. We mow, trim, edge and blow off commercial grounds weekly, keep the beds clean and mulched, and do spring and fall cleanups. See [commercial grounds and snow](/commercial/) for how a year-round account works." },
+    { "q": "Can you handle an HOA or an apartment property?", "a": "Yes. We plow and mow for associations and rental properties as well as businesses. The board or the manager gets one contact, Rob, for the walk-through, the quote and any questions during the season." }
+  ],
+  "reviews": ["rick-b", "james-a"]
+}

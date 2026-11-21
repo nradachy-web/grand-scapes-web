@@ -1,0 +1,260 @@
+---
+/* Pick your stripes: the same front lawn in five mowing patterns. Each picture is
+   an edit of one base picture, so only the grass changes and the swap reads like
+   the same yard on a different day. Radio buttons drive it through :has(), so it
+   works with no script. "Ask Rob for this" puts the pattern into the estimate
+   form on the page (or carries it to the estimate page).
+
+   Illustrations, and labeled so. The proof is the real stripe photos around it. */
+import { getImage } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
+import { href } from '../lib/paths';
+
+interface Props {
+  id?: string;
+  sizes?: string;
+}
+const { id = 'sp', sizes = '(min-width: 64rem) 60vw, 100vw' } = Astro.props;
+
+const OPTS = [
+  { id: 'straight', file: 'lawn-straight', name: 'Straight stripes', note: 'The classic. Each pass runs the other way, so the grass leans toward you, then away, and the light does the rest.', alt: 'Illustration: a brick colonial with the front lawn mowed in straight light and dark stripes running toward the house' },
+  { id: 'diagonal', file: 'lawn-diagonal', name: 'Diagonal', note: 'The same stripes at an angle. Good on a lawn that sits a little out of square with the house.', alt: 'Illustration: the same lawn mowed in diagonal stripes' },
+  { id: 'checker', file: 'lawn-checker', name: 'Checkerboard', note: 'Straight passes one way, then again at a right angle. More time on the mower, very ballpark.', alt: 'Illustration: the same lawn mowed in a checkerboard of light and dark squares' },
+  { id: 'diamond', file: 'lawn-diamond', name: 'Diamond', note: 'Two diagonal passes crossing. The one people slow down for.', alt: 'Illustration: the same lawn mowed in a diamond pattern' },
+  { id: 'plain', file: 'lawn-plain', name: 'Clean, no stripes', note: 'Mowed even, trimmed and edged, and nothing else. Some lawns and some HOAs like it quiet.', alt: 'Illustration: the same lawn freshly mowed in one even green with no pattern' },
+] as const;
+
+const files = import.meta.glob<{ default: ImageMetadata }>('../assets/panel/*.jpg', { eager: true });
+const widths = [640, 960, 1280, 1536];
+const pics = await Promise.all(
+  OPTS.map(async (o) => {
+    const src = files[`../assets/panel/${o.file}.jpg`].default;
+    const ratio = src.width / src.height;
+    const mk = async (format: 'avif' | 'webp', quality: number) => (await Promise.all(widths.map(async (w) => `${(await getImage({ src, width: w, height: Math.round(w / ratio), format, quality })).src} ${w}w`))).join(', ');
+    const fb = await getImage({ src, width: 960, height: Math.round(960 / ratio), format: 'webp', quality: 62 });
+    return { o, avif: await mk('avif', 48), webp: await mk('webp', 62), fb: fb.src, w: src.width, h: src.height };
+  }),
+);
+const name = `${id}-pattern`;
+const estimate = href('/get-an-estimate/');
+---
+
+<figure class="sp" data-sp data-estimate={estimate}>
+  <div class="sp__stage frame">
+    {
+      pics.map((p) => (
+        <picture class="sp__img" data-p={p.o.id}>
+          <source type="image/avif" srcset={p.avif} sizes={sizes} />
+          <source type="image/webp" srcset={p.webp} sizes={sizes} />
+          <img src={p.fb} width={p.w} height={p.h} alt={p.o.alt} loading="lazy" decoding="async" />
+        </picture>
+      ))
+    }
+    <span class="sp__tag fine">Illustration</span>
+  </div>
+
+  <div class="sp__side">
+    <fieldset class="sp__pick">
+      <legend class="sr">Choose a mowing pattern</legend>
+      {
+        OPTS.map((o, i) => (
+          <label class="sp__opt">
+            <input class="sr" type="radio" name={name} value={o.id} checked={i === 0} />
+            <span class:list={['sp__sw', `sp__sw--${o.id}`]} aria-hidden="true" />
+            <span class="sp__txt">
+              <span class="sp__name">{o.name}</span>
+              <span class="sp__note">{o.note}</span>
+            </span>
+          </label>
+        ))
+      }
+    </fieldset>
+    <a class="btn primary sp__ask" href={`${estimate}?service=Lawn%20mowing`} data-ask>Ask Rob for this pattern</a>
+    <p class="fine muted">What a lawn will hold depends on its shape, the trees and beds in the way, and the grass. Rob will tell you straight.</p>
+  </div>
+</figure>
+
+<script is:inline>
+  (function () {
+    document.querySelectorAll('[data-sp]:not([data-on])').forEach(function (sp) {
+      sp.setAttribute('data-on', '');
+      var ask = sp.querySelector('[data-ask]');
+      function picked() { var i = sp.querySelector('input:checked'); return i ? i.parentNode.querySelector('.sp__name').textContent : ''; }
+      function note() { return 'Weekly mowing, and I like this pattern: ' + picked() + '.'; }
+      function sync() { ask.href = sp.dataset.estimate + '?service=' + encodeURIComponent('Lawn mowing') + '&note=' + encodeURIComponent(note()); }
+      sp.addEventListener('change', sync);
+      sync();
+      ask.addEventListener('click', function (e) {
+        var f = document.getElementById('qf');
+        if (!f) return;
+        e.preventDefault();
+        f.querySelectorAll('input[name=services]').forEach(function (c) { if (c.value === 'Lawn mowing') c.checked = true; });
+        var t = f.querySelector('textarea[name=message]');
+        if (t) t.value = note();
+        if (window.gsTrack) window.gsTrack('stripes_ask', { pattern: picked() });
+        var q = document.getElementById('quote');
+        if (q) q.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+    });
+  })();
+</script>
+
+<style>
+  .sp {
+    display: grid;
+    gap: clamp(1.5rem, 3vw, 2.5rem);
+    align-items: center;
+  }
+
+  @media (min-width: 64rem) {
+    .sp {
+      grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr);
+    }
+  }
+
+  .sp__stage {
+    display: grid;
+    aspect-ratio: 3 / 2;
+  }
+
+  .sp__img {
+    grid-area: 1 / 1;
+    opacity: 0;
+    transition: opacity 0.7s var(--ease);
+  }
+
+  .sp__img :global(img) {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .sp__tag {
+    position: absolute;
+    z-index: 2;
+    top: 0.6rem;
+    right: 0.6rem;
+    padding: 0.1rem 0.45rem;
+    border-radius: var(--r-sm);
+    background: rgb(11 13 12 / 0.62);
+    color: var(--on-ink);
+  }
+
+  .sp__side {
+    display: grid;
+    gap: 1rem;
+    align-content: start;
+  }
+
+  .sp__pick {
+    display: grid;
+    gap: 0.5rem;
+    min-width: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  .sp__opt {
+    display: grid;
+    grid-template-columns: 3rem 1fr;
+    gap: 0.9rem;
+    align-items: center;
+    padding: 0.7rem 0.85rem;
+    border: 1px solid var(--line-ink);
+    border-radius: var(--r);
+    background: rgb(255 255 255 / 0.03);
+    cursor: pointer;
+    transition:
+      border-color 0.2s var(--ease),
+      background-color 0.2s var(--ease);
+  }
+
+  .sp__opt:hover {
+    border-color: rgb(255 255 255 / 0.32);
+  }
+
+  .sp__opt:has(input:checked) {
+    border-color: var(--lime);
+    background: rgb(132 212 85 / 0.08);
+  }
+
+  .sp__opt:has(input:focus-visible) {
+    outline: 2px solid var(--lime-soft);
+    outline-offset: 2px;
+  }
+
+  /* a little square of lawn mowed the same way */
+  .sp__sw {
+    width: 3rem;
+    height: 3rem;
+    border-radius: var(--r-sm);
+    overflow: hidden;
+    background: #3f8f2f;
+    box-shadow: inset 0 0 0 1px rgb(255 255 255 / 0.12);
+  }
+
+  .sp__sw--straight {
+    background: repeating-linear-gradient(90deg, #3f8f2f 0 0.5rem, #63ad45 0.5rem 1rem);
+  }
+
+  .sp__sw--diagonal {
+    background: repeating-linear-gradient(45deg, #3f8f2f 0 0.45rem, #63ad45 0.45rem 0.9rem);
+  }
+
+  .sp__sw--checker {
+    background: repeating-conic-gradient(#3f8f2f 0 25%, #63ad45 0 50%) 0 0 / 1rem 1rem;
+  }
+
+  .sp__sw--diamond {
+    background:
+      repeating-linear-gradient(45deg, rgb(255 255 255 / 0.16) 0 0.4rem, transparent 0.4rem 0.8rem),
+      repeating-linear-gradient(-45deg, rgb(0 0 0 / 0.16) 0 0.4rem, transparent 0.4rem 0.8rem),
+      #4f9d3a;
+  }
+
+  .sp__sw--plain {
+    background: #4f9d3a;
+  }
+
+  .sp__txt {
+    display: grid;
+    gap: 0.15rem;
+    min-width: 0;
+  }
+
+  .sp__name {
+    font-weight: 680;
+    letter-spacing: -0.01em;
+  }
+
+  .sp__note {
+    display: none;
+    font-size: 0.9rem;
+    line-height: 1.45;
+    color: var(--on-ink-muted);
+  }
+
+  .sp__opt:has(input:checked) .sp__note {
+    display: block;
+  }
+
+  .sp__ask {
+    justify-self: start;
+  }
+
+  .sp:has(input[value='straight']:checked) [data-p='straight'],
+  .sp:has(input[value='diagonal']:checked) [data-p='diagonal'],
+  .sp:has(input[value='checker']:checked) [data-p='checker'],
+  .sp:has(input[value='diamond']:checked) [data-p='diamond'],
+  .sp:has(input[value='plain']:checked) [data-p='plain'] {
+    opacity: 1;
+  }
+
+  @media (forced-colors: active) {
+    .sp__opt:has(input:checked) {
+      outline: 3px solid Highlight;
+      outline-offset: -3px;
+    }
+  }
+</style>

@@ -1,0 +1,178 @@
+{
+  "service": "flower-beds",
+  "meta": {
+    "title": "Mulch and flower beds in Grand Blanc, MI | Grand Scapes",
+    "description": "Flower beds weeded, edged and laid with landscape fabric and fresh black, brown or red mulch in Grand Blanc, MI. Free estimate from Rob at Grand Scapes."
+  },
+  "hero": {
+    "kicker": "Mulch and flower bed makeovers in Grand Blanc, MI",
+    "title": "Weeded, edged and **mulched fresh.**",
+    "lede": "Grand Scapes pulls the weeds, cuts a clean edge, lays landscape fabric and finishes the bed in fresh mulch: black, brown or red. A fresh bed changes the whole front of a house, and Rob quotes it free after he has seen your beds.",
+    "chips": ["Weeds out", "Edges cut clean", "Fabric under mulch", "Black, brown or red"],
+    "photo": "block-bed-corner"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "plane": "paper",
+      "eyebrow": "The short version",
+      "title": "A bed makeover, **in four moves.**",
+      "body": [
+        "A flower bed makeover is the bed you have, done over properly. We pull the weeds and dead plants, cut the edge back to a clean line, lay landscape fabric where it suits the bed, and finish it in fresh mulch.",
+        "It is a smaller job than full [landscaping](/landscaping/): the shape and the plants mostly stay. If the bushes are overgrown or the border is falling apart, Rob will say so, and the bed can be rebuilt instead."
+      ],
+      "checks": [
+        "Weeds, dead plants and old debris pulled out",
+        "A clean edge cut between the bed and the lawn",
+        "Landscape fabric laid where it suits the bed",
+        "Fresh mulch in black, brown or red"
+      ],
+      "photo": "mulch-crew"
+    },
+    {
+      "type": "bed",
+      "plane": "white",
+      "eyebrow": "Try the bed",
+      "title": "Pick a color, **see it on a bed.**",
+      "intro": "One of our real beds, finished in black mulch. Tap brown or red to preview them on the same bed. The stone options are previews too, so if you are thinking about rock instead of mulch, ask Rob."
+    },
+    {
+      "type": "beforeAfter",
+      "plane": "ink",
+      "eyebrow": "Real jobs",
+      "title": "Two beds, **before and after.**",
+      "intro": "Drag the line across each photo. Both beds lost an old brick border for gray block and were finished in fresh black mulch.",
+      "pairs": ["ba-drive", "ba-front"],
+      "checks": [
+        "Weedy, crowded beds cleared out",
+        "Old brick borders replaced with block",
+        "Finished in fresh black mulch"
+      ]
+    },
+    {
+      "type": "cards",
+      "plane": "paper",
+      "eyebrow": "How deep, how often",
+      "title": "What MSU Extension says **about mulch.**",
+      "intro": "The numbers come from Michigan State University Extension, and they are simpler than the bags at the store make them sound.",
+      "columns": 2,
+      "items": [
+        {
+          "tag": "Depth",
+          "title": "Two to three inches",
+          "body": "That is enough for most beds, MSU Extension says, and more is not better. Heavy layers can smother perennials and hold too much moisture at the crown, where rot starts."
+        },
+        {
+          "tag": "Top up",
+          "title": "About an inch a year",
+          "body": "If last year's mulch is still in the bed, a thin 1 inch top dressing is plenty. A new bed can start at 3 to 4 inches, then take about an inch a year after that."
+        },
+        {
+          "tag": "Trees",
+          "title": "A doughnut, not a volcano",
+          "body": "Keep a bare ring of about 6 inches around a tree trunk. A cone of mulch against the bark is a dark, moist spot that MSU calls an invitation for root rot and insects."
+        },
+        {
+          "tag": "Old mulch",
+          "title": "Break up the crust",
+          "body": "Mulch that dries out can cake into a mat that sheds rain. MSU says to break it up with a garden fork or hoe so water can get through again."
+        }
+      ]
+    },
+    {
+      "type": "compare",
+      "plane": "white",
+      "eyebrow": "Landscape fabric",
+      "title": "Fabric under the mulch, **or not.**",
+      "intro": "Bob S. called it black mesh. Landscape fabric is a sound way to hold weeds down in a shrub bed, and MSU Extension warns it can turn into a problem in perennial beds. Rob will tell you which way he would go for each bed.",
+      "columns": ["Fabric under mulch", "Mulch alone"],
+      "rows": [
+        { "label": "Weeds", "values": ["Holds most weeds down", "About 3 inches smothers many weed seeds"] },
+        { "label": "Suits", "values": ["Shrub beds that stay put", "Perennial beds that spread and change"] },
+        { "label": "Water", "values": ["Can slow water into the soil over the years", "Rain soaks in, as long as the mulch has not caked"] },
+        { "label": "Changing it later", "values": ["Roots grow into it, so it is hard to pull", "Easy to dig into and replant"] }
+      ]
+    },
+    {
+      "type": "steps",
+      "plane": "paper",
+      "eyebrow": "How a bed makeover runs",
+      "title": "Look, clean, **edge, mulch.**",
+      "intro": "Most of our bed work is in Grand Blanc and Grand Blanc Township, and the job runs the same way anywhere in Genesee County.",
+      "steps": [
+        {
+          "title": "Rob looks at the beds",
+          "body": "Rob walks the beds with you, suggests what to keep and what to pull, helps you pick a color and quotes the job. The estimate is free."
+        },
+        {
+          "title": "Weed and clean out",
+          "body": "Weeds, dead plants and old debris come out. Old mulch that has caked into a crust gets broken up or pulled, so the new layer does not just pile on top."
+        },
+        {
+          "title": "Cut the edge",
+          "body": "A clean edge gets cut between the bed and the lawn, so the line reads sharp and the chips stay in. More on [edging and borders](/bed-edging-and-block-walls/)."
+        },
+        {
+          "title": "Fabric and mulch",
+          "body": "Fabric goes down where it suits the bed, cut around the plants, and fresh mulch goes on top, kept back from trunks and stems."
+        }
+      ]
+    },
+    {
+      "type": "reviews",
+      "plane": "ink",
+      "eyebrow": "On Google",
+      "title": "Black mesh, new mulch, **in their words.**",
+      "ids": ["bob-s", "james-a"]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do you install mulch in Grand Blanc?",
+      "a": "Yes. Grand Scapes weeds, edges and mulches flower beds across Grand Blanc and Grand Blanc Township, with landscape fabric underneath where it suits the bed. We also do mulch work in [Fenton](/mulch-installation-fenton-mi/), [Davison](/mulch-installation-davison-mi/), [Flint](/mulch-installation-flint-mi/) and other towns in Genesee County."
+    },
+    {
+      "q": "How deep should mulch be?",
+      "a": "Two to three inches is enough for most beds, according to Michigan State University Extension, and more is not better. If the bed already has mulch from last year, about an inch freshens it. Keep it off tree trunks and off the crowns of perennials."
+    },
+    {
+      "q": "What color mulch should I get?",
+      "a": "We lay black, brown and red. Black reads sharp against brick and a green lawn, brown is warmer and blends into older homes, and red stands out. Try them on one of our beds in the picker above, then decide with Rob."
+    },
+    {
+      "q": "Should I put landscape fabric under mulch?",
+      "a": "In a shrub bed it helps hold weeds down, and it is what Bob S. called the black mesh in his review. MSU Extension warns that in perennial beds, weeds and roots grow into fabric over time, it is hard to remove later, and it can slow water into the soil. Rob will tell you which way he would go for each bed."
+    },
+    {
+      "q": "How often should mulch be replaced?",
+      "a": "Most beds need a top up each year, not a full new layer. MSU Extension suggests about an inch a year once a bed has 2 to 3 inches. If old mulch has caked into a crust, it needs breaking up or pulling before new mulch goes on."
+    },
+    {
+      "q": "When should I mulch my flower beds?",
+      "a": "Spring is when most people want it, right after a [spring cleanup](/spring-cleanup/) clears the beds and the first edge is cut. Mulch can go down later in the season too. Tell Rob when you would like the beds done."
+    },
+    {
+      "q": "Do you plant flowers too?",
+      "a": "New perennials and shrubs are part of a [bed rebuild](/landscaping/). If you want seasonal flowers planted in the beds or in pots, ask Rob when he comes out."
+    },
+    {
+      "q": "How much does it cost to mulch flower beds?",
+      "a": "It depends on how many beds you have, how big they are, how weedy they are and whether fabric goes down. Rob looks them over when he comes out and gives you a price. The estimate is free."
+    }
+  ],
+  "quote": {
+    "title": "Tell us about your beds.",
+    "lede": "How many beds, and which color are you leaning toward? Call or [text Rob](sms:+18109903040) a photo at (810) 990-3040, and he will come out to look and quote it."
+  },
+  "summary": {
+    "title": "A bed makeover, done properly.",
+    "intro": "A mulch and flower bed makeover keeps the bed you have and does it over: weeds out, edge cut, fabric down, fresh mulch on top. Rob quotes it after he sees the beds, and the estimate is free.",
+    "items": [
+      { "name": "Weeding", "detail": "Weeds, dead plants and old debris pulled out of the bed." },
+      { "name": "Edging", "detail": "A clean edge cut between the bed and the lawn, so the chips stay put." },
+      { "name": "Fabric", "detail": "Landscape fabric laid under the mulch where it suits the bed." },
+      { "name": "Mulch", "detail": "Fresh mulch in black, brown or red, kept back from trunks and stems." }
+    ],
+    "footnote": "Want the bushes or the border changed too? That is a [landscaping](/landscaping/) job, and Rob can quote both together."
+  }
+}

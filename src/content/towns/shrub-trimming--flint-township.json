@@ -1,0 +1,49 @@
+{
+  "service": "shrub-trimming",
+  "city": "flint-township",
+  "meta": {
+    "title": "Shrub and hedge trimming in Flint Township, MI | Grand Scapes",
+    "description": "Grand Scapes trims shrubs and hedges in Flint Township, MI back to clean lines, at the right time for each plant, and hauls the clippings away. Free estimates."
+  },
+  "hero": {
+    "kicker": "Shrub and hedge trimming in Flint Township, MI",
+    "title": "Shrubs back to **clean lines.**",
+    "lede": "Grand Scapes trims Flint Township shrubs and hedges back to clean shapes, clears them off the windows and the walk, and rakes out and hauls away every clipping. Rob looks at the plants first and tells you what to cut and when.",
+    "chips": ["Hedges and foundation shrubs", "Timed to the plant", "Clippings hauled away", "Free estimate"],
+    "photo": "gazebo-hedges"
+  },
+  "local": {
+    "eyebrow": "Shrubs in Flint Township",
+    "title": "Decades of growth, and **a view to keep clear.**",
+    "intro": "Most township homes went up between the 1950s and the 1970s, and the shrubs planted with them have had a long time to grow. A regular trim keeps them off the siding, out of the windows and below the sight line at the end of the drive.",
+    "points": [
+      { "title": "Sight lines at the drive", "body": "The Genesee County Road Commission says bushes and other items near the right of way can cause sight distance problems at driveways and intersections. A shrub kept low by the drive helps you see traffic when you back out." },
+      { "title": "Timing by bloom", "body": "MSU Extension says spring bloomers like lilac and forsythia should be pruned right after they flower, and summer bloomers in late winter or early spring. Trim at the wrong time and you cut off next year's flowers." },
+      { "title": "Clippings leave with us", "body": "Emterra's yard waste rules cap branches at 2 inches thick and 4 feet long and do not take contractor generated material. Our clippings get raked out of the beds and hauled away in the trailer." },
+      { "title": "When trimming is not enough", "body": "Some old shrubs are too far gone to shape. Those can come out, roots and all, and the bed can start over: see [bush and small tree removal](/bush-removal/) and [landscaping in Flint Township](/landscaping-flint-township-mi/)." }
+    ]
+  },
+  "logistics": {
+    "title": "How a shrub trimming visit runs in Flint Township.",
+    "body": [
+      "Rob walks the beds with you, names what is growing, and tells you which plants to trim now and which to leave until after they bloom. Then he quotes the visit, or a couple of visits through the season.",
+      "On the day, hedges get sheared to clean lines, foundation shrubs get shaped and cut back off the house, the walk and the windows, and the clippings get raked out of the beds and hauled away.",
+      "Shrubs and hedges are ours. Big trees belong with a tree company."
+    ],
+    "facts": [
+      { "label": "Spring bloomers", "value": "Trim right after they flower" },
+      { "label": "Summer bloomers", "value": "Late winter or early spring" },
+      { "label": "Clippings", "value": "Raked out and hauled away" },
+      { "label": "Estimate", "value": "Free, Rob looks first" }
+    ]
+  },
+  "photo": "rose-bed",
+  "faq": [
+    { "q": "Do you trim shrubs and hedges in Flint Township?", "a": "Yes. Grand Scapes trims shrubs and hedges in Flint Township: hedges sheared to clean lines, foundation shrubs shaped and cut back off the house, and the clippings hauled away. Rob looks at the plants and quotes it free." },
+    { "q": "When is the right time to trim shrubs in Michigan?", "a": "It depends on when they bloom. MSU Extension says spring flowering shrubs like lilac and forsythia are pruned right after flowering, since their buds form the summer before, and summer flowering shrubs in late winter or early spring. Dead or damaged wood can come out in early spring." },
+    { "q": "Do shrubs by my driveway need to be kept low?", "a": "It is a good idea. The Genesee County Road Commission says bushes near the right of way can block the view at driveways and intersections. Keeping them below eye level from the driver's seat makes backing out safer." },
+    { "q": "What do you do with the clippings?", "a": "We rake them out of the beds and haul them away. The township hauler does not take contractor material, and burning tree cuttings over three inches thick is not allowed here, so hauling is the clean way out." },
+    { "q": "Can you take a shrub out instead of trimming it?", "a": "Yes. Overgrown bushes and small trees can come out roots and all with our track loader, and the bed can be rebuilt after. Rob will tell you honestly which ones are worth keeping." }
+  ],
+  "reviews": ["bob-s", "james-a"]
+}

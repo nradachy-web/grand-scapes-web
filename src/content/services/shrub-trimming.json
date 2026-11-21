@@ -1,0 +1,151 @@
+{
+  "service": "shrub-trimming",
+  "meta": {
+    "title": "Shrub and hedge trimming in Grand Blanc, MI | Grand Scapes",
+    "description": "Shrubs and hedges trimmed back to clean lines in Grand Blanc, MI, with clippings raked out and hauled off. Michigan pruning timing explained. Free estimate."
+  },
+  "hero": {
+    "kicker": "Shrub and hedge trimming in Grand Blanc, MI",
+    "title": "Hedges back **in line.**",
+    "lede": "Grand Scapes trims shrubs and hedges back to clean shapes, cuts out the dead wood, then rakes the clippings out of the beds and hauls them away. Rob looks at what you have, tells you what each shrub needs and when, and quotes it free.",
+    "chips": ["Shrubs and hedges shaped", "Dead wood cut out", "Clippings hauled away", "Free estimate"],
+    "photo": "gazebo-hedges"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "plane": "paper",
+      "eyebrow": "The short version",
+      "title": "Trimmed, raked out, **hauled off.**",
+      "body": [
+        "Shrub trimming means shaping your shrubs and hedges back to a clean outline, cutting out dead and broken branches, and leaving the bed clean underneath. The clippings come out of the mulch and leave with us.",
+        "Timing matters more than most people think. A lilac sheared in April loses most of that spring's flowers, because, as Michigan State University Extension explains, lilacs and other spring bloomers set their buds the summer before. So we plan the trims around what is in your beds."
+      ],
+      "checks": [
+        "Shrubs and hedges shaped back to a clean outline",
+        "Hedges kept wider at the base than the top",
+        "Dead and broken branches cut out",
+        "Clippings raked out of the beds and hauled away"
+      ],
+      "photo": "neighborhood-stripes"
+    },
+    {
+      "type": "compare",
+      "plane": "white",
+      "eyebrow": "When to trim",
+      "title": "Trim to the plant, **not the calendar.**",
+      "intro": "Timing from MSU Extension. Trimming a spring bloomer in early spring does not hurt the plant, MSU says, but it costs you that season's flowers.",
+      "columns": ["When to trim", "Why"],
+      "rows": [
+        { "label": "Lilac, forsythia, weigela", "values": ["Right after they finish flowering", "They set next spring's flower buds the summer before"] },
+        { "label": "Spring spirea, viburnum", "values": ["Right after they finish flowering", "An early spring cut takes off most of the buds"] },
+        { "label": "Rose of Sharon, Annabelle hydrangea","values": ["Late winter or early spring", "They flower on this year's new growth"] },
+        { "label": "Privet, alpine currant", "values": ["Late winter or early spring", "Grown for their leaves, not their flowers"] },
+        { "label": "Yews", "values": ["Hand trim the leggy shoots in June", "They take a hard cut, but fill in slowly from old wood"] },
+        { "label": "Junipers", "values": ["Thin by hand, skip the shears", "No new growth comes from bare inner branches"] }
+      ]
+    },
+    {
+      "type": "cards",
+      "plane": "paper",
+      "eyebrow": "A good trim",
+      "title": "What makes a trim **look right.**",
+      "columns": 2,
+      "items": [
+        {
+          "title": "Wider at the bottom",
+          "body": "Keep a hedge narrower at the top than at the base, so light reaches the lower branches. MSU Extension notes that a hedge trimmed top heavy shades itself and thins out at the bottom."
+        },
+        {
+          "title": "Shapes that suit the plant",
+          "body": "Yews, boxwood and privet take clipping into tight shapes. Junipers do not: MSU warns that a juniper cut again and again with hedge shears deforms and dies back."
+        },
+        {
+          "title": "Dead wood first",
+          "body": "Dead and dying branches are worth cutting out before new growth starts in spring, MSU Extension says, even on spring bloomers. It sends the plant's energy to the healthy buds."
+        },
+        {
+          "title": "Too big for the spot",
+          "body": "Some shrubs have simply outgrown the window they were planted under. Then the honest answer may be to take them out and start the bed over. See [bush removal](/bush-removal/)."
+        }
+      ]
+    },
+    {
+      "type": "intro",
+      "plane": "white",
+      "eyebrow": "Boxwood in Genesee County",
+      "title": "Box tree moth **is here now.**",
+      "body": [
+        "In September 2026 the Michigan Department of Agriculture and Rural Development confirmed box tree moth in Genesee County, and said it will add the county to its boxwood quarantine. Oakland County is already inside it. The caterpillars feed only on boxwood, and the state says they can strip it and kill it.",
+        "Look for green and yellow caterpillars with black stripes and spots, loose webbing, and leaves chewed at the edges. Inside a quarantine zone, boxwood clippings are regulated too, so tell Rob before trimming day if you have boxwood. If you think you have found the moth, take photos and report it to the state at Michigan.gov/ReportBTM before you spray or throw anything out."
+      ]
+    },
+    {
+      "type": "reviews",
+      "plane": "ink",
+      "eyebrow": "On Google",
+      "title": "Bed and shrub work, **in their words.**",
+      "ids": ["bob-s", "james-a"]
+    },
+    {
+      "type": "intro",
+      "plane": "paper",
+      "eyebrow": "Where we trim",
+      "title": "Grand Blanc first, **and nearby.**",
+      "body": [
+        "Our shop is on Embury Road in Grand Blanc, and Grand Blanc and Grand Blanc Township are home turf for trimming. We also trim shrubs across Genesee County and north Oakland County, with pages for [Fenton](/shrub-trimming-fenton-mi/), [Davison](/shrub-trimming-davison-mi/), [Burton](/shrub-trimming-burton-mi/), [Flint Township](/shrub-trimming-flint-township-mi/) and [Clarkston](/shrub-trimming-clarkston-mi/).",
+        "Want the trimming handled through the season without having to ask? It is part of [landscape maintenance](/landscape-maintenance/), along with weeding, edging and mulch touch ups."
+      ],
+      "cta": { "label": "Get a free estimate", "href": "/get-an-estimate/" }
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do you do shrub trimming in Grand Blanc?",
+      "a": "Yes. Grand Scapes trims shrubs and hedges across Grand Blanc and Grand Blanc Township, rakes the clippings out of the beds and hauls them away. We trim across Genesee County and north Oakland County too."
+    },
+    {
+      "q": "When should I trim my shrubs in Michigan?",
+      "a": "For most shrubs, late winter or early spring, before new growth starts, according to MSU Extension. Spring bloomers like lilac, forsythia and weigela are the exception: trim them right after they flower, or you cut off next spring's buds. MSU calls early summer, right after the new growth comes out, the least desirable time to prune."
+    },
+    {
+      "q": "Why did my lilac stop blooming?",
+      "a": "Often it was trimmed at the wrong time. MSU Extension explains that lilacs set their flower buds the summer before, so a trim in early spring takes the flowers off. Lilacs also bloom best with six or more hours of full sun."
+    },
+    {
+      "q": "Can you cut back an overgrown shrub?",
+      "a": "Often, but it depends on the shrub. MSU Extension says yews can take a hard cut but are slow to fill in from old wood, and junipers do not regrow from bare inner branches at all. Forsythia, spirea and weigela can be cut down to a few inches and regrow, though they may skip flowering for a year or more. When a shrub has outgrown its spot, [taking it out](/bush-removal/) may be the better fix."
+    },
+    {
+      "q": "Do you haul away the clippings?",
+      "a": "Yes. Clippings are raked out of the beds and hauled away, so there is nothing left for you to bag. If you have boxwood, tell Rob first: box tree moth was confirmed in Genesee County in 2026, and the state is adding the county to its boxwood quarantine, which covers clippings."
+    },
+    {
+      "q": "Do you trim trees?",
+      "a": "Shrubs and hedges, yes. Tall trees and big limbs are not our work. MSU Extension advises leaving tall trees and large branches to a professional tree company, and anything near power lines to the utility."
+    },
+    {
+      "q": "How often do hedges need trimming?",
+      "a": "It depends on the plant. Some shrubs do not need pruning every year, MSU Extension notes, while a clipped yew hedge may want shearing once or twice a year to hold its shape. Rob can schedule trims as they come due, or fold them into [landscape maintenance](/landscape-maintenance/)."
+    },
+    {
+      "q": "Is box tree moth in Genesee County?",
+      "a": "Yes. The Michigan Department of Agriculture and Rural Development confirmed it in Genesee County in September 2026 and said it will add the county to its boxwood quarantine. Look for green and yellow striped caterpillars, webbing and chewed leaves on boxwood, and report a suspected find with photos at Michigan.gov/ReportBTM."
+    }
+  ],
+  "quote": {
+    "title": "Tell us what needs trimming.",
+    "lede": "Which shrubs, how many and how overgrown? Call or [text Rob](sms:+18109903040) a photo at (810) 990-3040, and he will come out, look it over and quote it."
+  },
+  "summary": {
+    "title": "Shrub trimming, cleaned up after.",
+    "intro": "We shape shrubs and hedges back to clean lines, cut out dead wood and leave the beds clean underneath. Rob quotes it after he sees what you have, and the estimate is free.",
+    "items": [
+      { "name": "Shaping", "detail": "Shrubs and hedges trimmed back to a clean outline, wider at the base." },
+      { "name": "Dead wood", "detail": "Dead and broken branches cut out." },
+      { "name": "Timing", "detail": "Spring bloomers after they flower, most others in late winter or early spring." },
+      { "name": "Cleanup", "detail": "Clippings raked out of the beds and hauled away." }
+    ],
+    "footnote": "Tall trees and big limbs are not our work. Shrubs that have outgrown their spot can [come out instead](/bush-removal/)."
+  }
+}

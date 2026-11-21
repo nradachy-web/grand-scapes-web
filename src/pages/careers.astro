@@ -1,0 +1,149 @@
+---
+/* Careers. His old site said "NOW HIRING, Apply Today". Facts only: no pay,
+   benefits, openings, crew names or faces. The work is Grand Scapes' own
+   service list. */
+import Base from '../layouts/Base.astro';
+import PageHead from '../components/PageHead.astro';
+import Head from '../components/Head.astro';
+import Edge from '../components/Edge.astro';
+import Photo from '../components/Photo.astro';
+import ApplyForm from '../components/ApplyForm.astro';
+import { BRAND } from '../data/site';
+import { photo } from '../data/photos';
+import { heroImage } from '../lib/hero';
+import { breadcrumbs } from '../lib/schema';
+
+const path = '/careers/';
+const head = await heroImage('fall-rider', { sizes: '(min-width: 60rem) 48vw, 1px' });
+
+const work = [
+  { tag: 'Spring to fall', title: 'Lawn crew', body: 'Mowing, trimming, edging and blowing off on a weekly route, on zero turn mowers that leave stripes behind.' },
+  { tag: 'Projects', title: 'Landscaping crew', body: 'Old beds out, block walls and borders in, fabric and mulch down, shrubs trimmed or pulled with a track loader.' },
+  { tag: 'Fall', title: 'Cleanups', body: 'Leaves blown into rows and vacuumed into the trailer, beds cut back, the last cuts of the year.' },
+  { tag: 'Winter', title: 'Snow', body: 'Plowing driveways and lots, clearing walks and putting down ice melt, often before anyone else is up.' },
+];
+
+const values = [
+  { title: 'Show up', body: 'Same day, every week. The reviews keep saying it, and it is the job.' },
+  { title: 'Respect the place', body: 'Treat the property like your own. Close the gate, keep the dogs in, leave the walk clean.' },
+  { title: 'Finish the edges', body: 'A lawn is not done until it is trimmed, edged and blown off. The stripes are the signature.' },
+  { title: 'Say something', body: 'See a broken head, a sick shrub or a cracked block? Tell Rob, so the customer hears it from us first.' },
+];
+---
+
+<Base
+  title="Now Hiring: Lawn, Landscape and Snow Crews | Grand Scapes"
+  description="Work outside with Grand Scapes in Grand Blanc, MI: lawn crew, landscaping crew, fall cleanups and winter snow. A short application, no resume needed."
+  path={path}
+  quoteHref="/get-an-estimate/"
+  bare
+  preload={{ ...head.preload, media: '(min-width: 60rem)' }}
+  schema={[breadcrumbs([{ name: 'Home', path: '/' }, { name: 'Careers', path }])]}
+>
+  <PageHead image={head} eyebrow="Now hiring" title="Work you can see **from the road.**" lede={`Grand Scapes mows, builds beds, clears leaves and plows snow across ${BRAND.region}. If you like outdoor work done right, send a short application. It takes about two minutes.`} crumbs={[{ name: 'Careers', path }]}>
+    <div class="actions">
+      <a class="btn primary" href="#apply">Apply now</a>
+      <a class="btn ghost" href={BRAND.smsHref} data-loc="careers-text">Text Rob</a>
+    </div>
+  </PageHead>
+
+  <section class="band has-edge" aria-labelledby="work-h">
+    <div class="wrap">
+      <Head id="work-h" eyebrow="The work" title="Four seasons of work, **one crew.**" intro="Tell us which you want, or that you are not sure yet. Plenty of people start on one crew and learn the others." />
+      <ul class="grid c4 jobs">
+        {
+          work.map((w) => (
+            <li class="card pad job">
+              <span class="eyebrow">{w.tag}</span>
+              <h3 class="h3">{w.title}</h3>
+              <p class="small muted">{w.body}</p>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+    <Edge to="ink" />
+  </section>
+
+  <section class="band ink has-edge" aria-labelledby="way-h">
+    <div class="wrap two wide-left">
+      <div>
+        <Head id="way-h" layout="left" eyebrow="What we look for" title="Four things, **on every job.**" intro="Bring these and Rob can teach you the rest of the job." />
+        <ul class="grid c2 vals">
+          {
+            values.map((v, i) => (
+              <li class="val">
+                <span class="val__n">{String(i + 1).padStart(2, '0')}</span>
+                <h3 class="h3">{v.title}</h3>
+                <p class="small muted">{v.body}</p>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+      <figure>
+        <div class="frame tall"><Photo id="leaf-crew" ratio={4 / 5} widths={[420, 640, 860]} sizes="(min-width: 60rem) 36vw, 92vw" /></div>
+        <figcaption class="note cap">{photo('leaf-crew').caption}</figcaption>
+      </figure>
+    </div>
+    <Edge to="paper" flip />
+  </section>
+
+  <section class="band apply" aria-labelledby="apply-h">
+    <div class="wrap two wide-left apply__grid">
+      <div class="stack apply__copy" style="--gap:1.25rem">
+        <p class="eyebrow">Apply</p>
+        <h2 class="h2" id="apply-h">A short application. <span class="accent">No resume.</span></h2>
+        <p class="lede">Tell us what kind of work you want and how to reach you. It goes straight to Rob.</p>
+        <ul class="checks small">
+          <li>Pick one kind of work or several</li>
+          <li>Experience helps, and new people are welcome to apply</li>
+          <li><span>Rather talk? Call or text <a class="nw" href={BRAND.phoneHref} data-loc="careers">{BRAND.phone}</a></span></li>
+        </ul>
+      </div>
+      <div class="card pad apply__card" id="apply">
+        <ApplyForm />
+      </div>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .job {
+    display: grid;
+    gap: 0.55rem;
+    align-content: start;
+  }
+
+  .vals {
+    row-gap: 1.75rem;
+  }
+
+  .val {
+    display: grid;
+    gap: 0.45rem;
+    align-content: start;
+  }
+
+  .val__n {
+    color: var(--lime);
+    font-size: 2rem;
+    font-weight: 800;
+    font-style: italic;
+    line-height: 1;
+    letter-spacing: -0.04em;
+  }
+
+  .apply__grid {
+    align-items: start;
+  }
+
+  .apply__copy {
+    max-width: 30rem;
+  }
+
+  .apply__card {
+    scroll-margin-top: 5.5rem;
+    box-shadow: 0 24px 50px rgb(14 18 15 / 0.12);
+  }
+</style>

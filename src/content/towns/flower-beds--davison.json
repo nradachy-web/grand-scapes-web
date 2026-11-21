@@ -1,0 +1,47 @@
+{
+  "service": "flower-beds",
+  "city": "davison",
+  "meta": {
+    "title": "Mulch Installation in Davison, MI | Grand Scapes",
+    "description": "Mulch and flower bed makeovers in Davison, MI: Grand Scapes weeds, edges, lays fabric and spreads fresh black, brown or red mulch at the depth beds need."
+  },
+  "hero": {
+    "kicker": "Mulch installation in Davison, MI",
+    "title": "Fresh mulch, **a crisp edge.**",
+    "lede": "Grand Scapes freshens Davison flower beds: weeds pulled, edges cut clean, landscape fabric down where it helps and new mulch spread in black, brown or red. Rob looks at the beds first and quotes the job.",
+    "chips": ["Weeded and edged", "Fabric where it helps", "Black, brown or red"],
+    "photo": "block-bed-door"
+  },
+  "local": {
+    "eyebrow": "Mulch in Davison",
+    "title": "Beds on slow soil need **a lighter hand.**",
+    "intro": "Most Davison beds sit on loam that drains slowly, and the city center is mapped on a somewhat poorly drained soil. Mulch holds moisture through a dry July, but heaped too deep on ground like that it keeps roots wet. The job is a clean edge and the right depth, not the most mulch.",
+    "points": [
+      { "title": "Two to three inches", "body": "MSU Extension says 2 to 3 inches of mulch is enough for most beds, and that more is not better. Where last year's mulch is still there, we top it up instead of stacking a full new layer on top." },
+      { "title": "Off the trunks", "body": "Mulch piled against a tree or shrub trunk can cause the bark to decay. We pull it back from the trunk, so the tree bed by your Davison sidewalk never turns into a mulch volcano." },
+      { "title": "An edge that holds", "body": "A cut natural edge or a block border keeps the mulch in the bed and out of the lawn. On a small city lot, that line along the walk is the first thing a neighbor notices." },
+      { "title": "Spring or fall", "body": "Spring mulch goes down after the beds are cleaned out and the soil has firmed up. Fall works too, once the leaves are cleared, so the beds head into winter neat." }
+    ]
+  },
+  "logistics": {
+    "title": "How a Davison mulch job goes.",
+    "body": [
+      "Rob walks the beds with you and talks color: black, brown or red. Then we pull the weeds, cut the edges, lay fabric where it will help and wheel the mulch in from the trailer. On a city lot with the trailer at the curb, the street and the sidewalk get blown off before we go.",
+      "Township yards tend to have more beds and bigger ones, some out by the road or around the mailbox. We price by the beds you actually have, after seeing them, so nobody guesses at yards of mulch over the phone."
+    ],
+    "facts": [
+      { "label": "Depth", "value": "2 to 3 inches, per MSU Extension" },
+      { "label": "Colors", "value": "Black, brown or red" },
+      { "label": "Includes", "value": "Weeding, edging, fabric, mulch" },
+      { "label": "Estimate", "value": "Free, after Rob sees the beds" }
+    ]
+  },
+  "photo": "mulch-crew",
+  "faq": [
+    { "q": "Do you install mulch in Davison, MI?", "a": "Yes. Grand Scapes weeds, edges and mulches flower beds in the City of Davison and Davison Township. We lay landscape fabric where it helps and spread fresh mulch in black, brown or red. The estimate is free." },
+    { "q": "How deep should mulch be?", "a": "About 2 to 3 inches, which MSU Extension says gives the full benefit in most cases. Going deeper can hold too much water around the roots, and that matters on the slow-draining loam common around Davison. Keep it pulled back from trunks." },
+    { "q": "What color mulch should I choose?", "a": "Mostly taste. Black looks sharp against gray block and a green lawn, brown reads warmer next to brick, and red is the brightest of the three. Rob can tell you what he thinks suits your house when he comes out." },
+    { "q": "Can you redo the whole bed, not just mulch it?", "a": "Yes. If the shrubs are overgrown or the border is falling apart, that is a [landscaping job in Davison](/landscaping-davison-mi/): old plants out, a new edge or block wall in, then fabric and mulch. Rob will tell you which one your bed needs." }
+  ],
+  "reviews": ["bob-s", "james-a"]
+}

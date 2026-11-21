@@ -1,0 +1,169 @@
+{
+  "service": "irrigation",
+  "meta": {
+    "title": "Sprinkler repair and irrigation in Grand Blanc | Grand Scapes",
+    "description": "Lawn sprinkler repairs, new lines and zones, and seasonal service in Grand Blanc and Genesee County. Call or text Rob for a free estimate on your system."
+  },
+  "hero": {
+    "kicker": "Sprinkler repair and irrigation in Grand Blanc, MI",
+    "title": "Water on the lawn, **not the drive.**",
+    "lede": "Grand Scapes handles lawn sprinkler work in Grand Blanc and around Genesee County: repairs, new lines and zones where the lawn is not getting water, and service through the season. Call or text Rob and tell him what your system is doing.",
+    "chips": ["Sprinkler repairs", "New lines and zones", "Seasonal service", "Free estimate"],
+    "photo": "sprinkler-lawn"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "plane": "paper",
+      "eyebrow": "What we do",
+      "title": "Repairs, new zones, **upkeep.**",
+      "body": [
+        "Our irrigation work comes in three kinds: fixing what is broken, adding coverage where the lawn needs it, and keeping a system running well through the season. A zone that will not come on, a head soaking the street, a corner of the lawn that is always brown: that is the call.",
+        "We keep it simple. Rob comes out, looks at the system with you, tells you plainly what he sees and quotes what it needs. The estimate is free."
+      ],
+      "checks": [
+        "Broken heads and leaking lines repaired",
+        "Heads set to water the lawn, not the drive or the walk",
+        "New lines and zones where coverage is thin",
+        "Service through the season"
+      ],
+      "photo": "sprinkler-trench"
+    },
+    {
+      "type": "cards",
+      "plane": "white",
+      "eyebrow": "Signs",
+      "title": "When to call **about the sprinklers.**",
+      "columns": 2,
+      "items": [
+        {
+          "title": "A zone that will not run",
+          "body": "One part of the lawn stays dry while the rest comes on. Worth a look before that side of the yard browns out in July."
+        },
+        {
+          "title": "Water on the concrete",
+          "body": "Heads that spray the drive, the walk or the street waste water and leave the grass short of it. They need to be set to hit the lawn."
+        },
+        {
+          "title": "Dry arcs and brown corners",
+          "body": "Uneven coverage shows up as brown arcs between heads or a corner that never greens up. MSU Extension's can test, below, shows where the water is not landing."
+        },
+        {
+          "title": "Runoff and soggy spots",
+          "body": "MSU says a system should never put water down faster than the soil can take it in. On clay or a slope, shorter cycles run more than once give the water time to soak in instead of running off."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "plane": "paper",
+      "eyebrow": "From MSU Extension",
+      "title": "How much water **a Michigan lawn** needs.",
+      "intro": "Michigan State University Extension's guidance, in short. A system that runs right gets the lawn close to these numbers.",
+      "columns": 3,
+      "items": [
+        {
+          "title": "About an inch a week",
+          "body": "A lawn usually needs about 1 inch of water a week, MSU says, and rain counts toward it. Across a season MSU's range is 0.5 to 1.5 inches, more in heat, full sun and wind. A rain gauge tells you what already fell."
+        },
+        {
+          "title": "Split it up",
+          "body": "MSU research found several light waterings work better than one heavy soak a week. On sandy soil that may mean every other day, and on heavier soil every third day."
+        },
+        {
+          "title": "Daylight or late night",
+          "body": "MSU calls early evening one of the worst times to water, because the grass stays wet overnight and disease can follow. Daylight works, and when there are restrictions, midnight to 6 a.m. is acceptable."
+        },
+        {
+          "title": "Measure what it puts down",
+          "body": "Set a few rain gauges or tuna cans around the lawn, run the system for an hour and check what each one caught. MSU says that tells you how long a zone needs, and where coverage is uneven."
+        },
+        {
+          "title": "Shut it off in the rain",
+          "body": "MSU recommends a rain shut off device on a system that runs on a clock, and turning the clock off through a rainy stretch, so the lawn is not watered on top of the weather."
+        },
+        {
+          "title": "Before a hard freeze",
+          "body": "MSU's fall checklist includes blowing out or winterizing the irrigation system before a hard freeze. Ask Rob about fall service when you book."
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "plane": "white",
+      "eyebrow": "How it goes",
+      "title": "Call, look, **fix.**",
+      "steps": [
+        {
+          "title": "Tell Rob what it is doing",
+          "body": "Call or text [(810) 990-3040](tel:+18109903040). A zone that will not run, heads hitting the drive, a soggy spot or a dry one. A photo or a short video helps."
+        },
+        {
+          "title": "He takes a look",
+          "body": "Rob comes out, looks at the system and the lawn with you and quotes what it needs. The estimate is free.",
+          "note": "Free estimate"
+        },
+        {
+          "title": "We fix or add",
+          "body": "Repairs get made, and new lines or zones go in where the lawn needs them, with the heads set to water the grass and not the walk."
+        }
+      ]
+    },
+    {
+      "type": "intro",
+      "plane": "paper",
+      "eyebrow": "Part of the lawn",
+      "title": "Sprinklers and **a weekly cut.**",
+      "body": [
+        "Water and mowing work together. MSU Extension notes that cool season lawns go dormant in a long hot, dry spell, and that irrigation can keep them green through the summer. A higher cut helps too: MSU says taller grass keeps a bigger root system and holds up better in the heat. Pair a working system with [weekly mowing](/lawn-mowing/) and the stripes still show in August.",
+        "Letting the lawn go brown in July is a fair choice as well. MSU says a dormant lawn is not dead, since the crown of the plant stays alive waiting for water. Its one warning: if you have been watering, taper off gradually rather than shutting the system off all at once in the heat."
+      ],
+      "photo": "sprinkler-walk",
+      "flip": true
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do you repair sprinkler systems in Grand Blanc?",
+      "a": "Yes. Grand Scapes does lawn sprinkler repairs in Grand Blanc and around Genesee County, along with new lines and zones and service through the season. Call or [text Rob](sms:+18109903040) and tell him what the system is doing. He will come out and give you a free estimate."
+    },
+    {
+      "q": "How much should I water my lawn in Michigan?",
+      "a": "About 1 inch a week, counting rain, according to MSU Extension, with a range of 0.5 to 1.5 inches depending on heat, sun and wind. Split it into several waterings rather than one long soak. A rain gauge in the yard tells you how much the weather already covered."
+    },
+    {
+      "q": "What time of day should my sprinklers run?",
+      "a": "During the day or in the middle of the night. MSU Extension says early evening is one of the worst times, because the grass stays wet overnight and some lawn diseases become active. When watering is restricted, MSU says midnight to 6 a.m. is acceptable."
+    },
+    {
+      "q": "How do I know how long to run each zone?",
+      "a": "Measure it. MSU Extension suggests setting rain gauges or tuna cans around the lawn, running the system for an hour and checking how much each one caught. That shows how long it takes to put down what the lawn needs, and where the coverage is uneven."
+    },
+    {
+      "q": "Do I need to winterize my sprinkler system in Michigan?",
+      "a": "MSU Extension's fall checklist says to blow out or winterize the irrigation system before a hard freeze. Ask Rob about fall service when you call, and he can tell you what fits your system."
+    },
+    {
+      "q": "Can you add a zone to my sprinkler system?",
+      "a": "Yes. New lines and zones are part of our irrigation work, for a corner that never gets water or a part of the yard the system never reached. Rob will look at the system, see what it can take and quote it."
+    },
+    {
+      "q": "How much does sprinkler repair cost?",
+      "a": "It depends on what is wrong and how much of the system is involved. Rob comes out, looks at it and quotes you a price before any work starts. The estimate is free."
+    }
+  ],
+  "quote": {
+    "title": "Tell us what the sprinklers are doing.",
+    "lede": "A zone that will not run, heads hitting the drive, a dry corner. Describe it or text Rob a photo, and he will come out and take a look."
+  },
+  "summary": {
+    "title": "Irrigation work, kept simple.",
+    "intro": "Grand Scapes handles lawn sprinkler repairs, new lines and zones, and service through the season. Rob looks at the system first and quotes what it needs, and the estimate is free.",
+    "items": [
+      { "name": "Repairs", "detail": "Broken heads and leaking lines fixed." },
+      { "name": "Adjustments", "detail": "Heads set to water the lawn, not the drive or the walk." },
+      { "name": "New lines and zones", "detail": "Coverage added where the lawn is not getting water." },
+      { "name": "Seasonal service", "detail": "Upkeep through the year. Ask Rob what your system needs." }
+    ]
+  }
+}

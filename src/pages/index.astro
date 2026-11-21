@@ -1,0 +1,575 @@
+---
+/* ============================================================================
+   HOME
+     hero      Rob's zero turn on a fresh striped lawn. "Sharp lines, every season."
+     paper     four facts, then the lawn as the business card (a referral review)
+     ink       pick your stripes (illustration), with real stripes beneath
+     white     what we do, in four groups
+     ink       real before and after: brick borders out, block walls in
+     paper     how a job runs, from what reviewers say
+     ink       a year with Grand Scapes: the Season Dial, then Plan your year
+     photo     the plow trucks: winter
+     paper     reviews
+     ink       where we work: the map
+     paper     plain answers (what answer engines quote)
+     ink       the estimate form beside the phone
+   ========================================================================== */
+import Base from '../layouts/Base.astro';
+import Hero from '../components/Hero.astro';
+import Head from '../components/Head.astro';
+import Photo from '../components/Photo.astro';
+import Steps from '../components/Steps.astro';
+import Faq from '../components/Faq.astro';
+import Reviews from '../components/Reviews.astro';
+import BeforeAfter from '../components/BeforeAfter.astro';
+import StripePicker from '../components/StripePicker.astro';
+import SeasonDial from '../components/SeasonDial.astro';
+import QuoteBand from '../components/QuoteBand.astro';
+import Edge from '../components/Edge.astro';
+import AreaMap from '../components/AreaMap.astro';
+import { BRAND, RATING } from '../data/site';
+import { GROUPS, inGroup } from '../data/services';
+import { AREAS, inArea, hubPath } from '../data/cities';
+import { REVIEWS, review } from '../data/reviews';
+import { photo, type PhotoId } from '../data/photos';
+import { heroImage } from '../lib/hero';
+import { href } from '../lib/paths';
+import { faqSchema } from '../lib/schema';
+
+const wide = await heroImage('mower-stripes', { sizes: '100vw', widths: [960, 1320, 1600, 1920], media: '(min-width: 48rem)' });
+const tall = await heroImage('mower-stripes', { ratio: 4 / 5, focus: 'right', sizes: '100vw', widths: [420, 640, 828, 1024], media: '(max-width: 47.99rem)' });
+
+const facts = [
+  { n: RATING.value, label: 'stars on Google' },
+  { n: 'Four', label: 'seasons, one local crew' },
+  { n: 'Free', label: 'estimates, on site' },
+  { n: 'Licensed', label: 'and insured' },
+];
+
+const steps = [
+  { title: 'Call or text Rob', body: 'You reach the owner. Tell him what is going on with the lawn, the beds or the driveway, or text a photo.' },
+  { title: 'He walks it with you', body: 'Rob comes out, suggests what the place actually needs and quotes you a price. The estimate is free.' },
+  { title: 'The crew shows up', body: 'On your day, every week, with the right equipment for the job, and careful with the property and the dogs.' },
+  { title: 'It stays that way', body: 'Mowing all season, cleanups spring and fall, the plow in winter. One crew that already knows your place.' },
+];
+
+const stripes: { id: PhotoId }[] = [{ id: 'crosscut-lawn' }, { id: 'curve-stripes-colonial' }, { id: 'cul-de-sac-stripes' }, { id: 'curb-edge' }];
+
+const faq = [
+  { q: 'What does Grand Scapes do?', a: 'Grand Scapes is a lawn care, landscaping and snow removal company in Grand Blanc, Michigan. We mow, trim, edge and stripe lawns every week, rebuild and mulch flower beds, put in block borders and walls, trim and remove shrubs, do spring and fall cleanups with leaf vacuum trucks, grade and seed new lawns, and plow and salt driveways, walks and lots in winter, for homes and businesses.' },
+  { q: 'What areas do you serve?', a: 'Our shop is on Embury Road in Grand Blanc, and we work across Genesee County and north Oakland County: Grand Blanc, Burton, Flint, Flint Township, Mundy Township, Swartz Creek, Davison, Goodrich, Fenton, Linden, Holly, Ortonville and Clarkston. See [every town we serve](/service-areas/).' },
+  { q: 'Do you plow residential driveways?', a: 'Yes. We plow driveways for homes with our own trucks, clear walks and steps, and put ice melt down where people walk. We also plow and salt lots for businesses and HOAs. Ask Rob about a plan before the first snow: [snow removal](/snow-removal/).' },
+  { q: 'How much does lawn mowing cost?', a: 'It depends on the size of the lawn, the trimming and the obstacles, so we price it after seeing the property. The estimate is free. Call or text [(810) 990-3040](tel:+18109903040) and Rob will come out.' },
+  { q: 'Are you licensed and insured?', a: 'Yes. Grand Scapes LLC is licensed and insured. Ask Rob if you or your HOA needs a certificate of insurance.' },
+  { q: 'Do you do aeration or fertilizer programs?', a: 'They are not services we list on this site. If you want them alongside your mowing, ask Rob when he comes out and he will tell you straight what he can do.' },
+];
+---
+
+<Base
+  title="Grand Scapes | Lawn Care, Landscaping and Snow in Grand Blanc"
+  description="Grand Scapes mows and stripes lawns weekly, rebuilds beds, clears leaves and plows driveways in Grand Blanc, Flint, Fenton and nearby. Free estimates."
+  path="/"
+  preload={[wide.preload, tall.preload]}
+  schema={[faqSchema(faq)]}
+>
+  <Hero
+    size="home"
+    image={wide}
+    tall={tall}
+    kicker="Lawn care, landscaping and snow removal in Grand Blanc, MI"
+    title="Sharp lines, **every season.**"
+    lede="Grand Scapes mows and stripes lawns every week, rebuilds tired beds with block and fresh mulch, clears the leaves in fall and plows the drive when it snows. One local crew, out of a shop on Embury Road."
+    next="paper"
+  />
+
+  <section class="band has-edge" aria-labelledby="card-h">
+    <div class="wrap">
+      <ul class="facts" aria-label={`${BRAND.name} in brief`}>
+        {facts.map((f) => <li><span class="facts__n">{f.n}</span><span class="small muted">{f.label}</span></li>)}
+      </ul>
+      <div class="two wide-left card-band">
+        <div class="stack" style="--gap:1.5rem">
+          <p class="eyebrow">The lawn people notice</p>
+          <h2 class="h2" id="card-h">A clean stripe is <span class="accent">the business card.</span></h2>
+          <figure class="pull">
+            <blockquote>“I've since referred Grand Scapes to other clients of mine and they to raved about the quality work they do.”</blockquote>
+            <figcaption class="small muted">{review('james-a')!.name}, Google review</figcaption>
+          </figure>
+          <p class="lede">When the mower pulls away, the stripes are there for the whole street to see, and so is our yard sign. So we cut, trim and edge every lawn like the neighbors are watching. They usually are.</p>
+          <div class="actions">
+            <a class="arrow" href={href('/lawn-mowing/')}>Weekly lawn mowing</a>
+            <a class="arrow" href={href('/about/')}>Meet Rob</a>
+          </div>
+        </div>
+        <div class="card-band__pics">
+          <figure class="cb cb--a">
+            <div class="frame"><Photo id="curve-stripes-colonial" ratio={4 / 5} widths={[400, 600, 860]} sizes="(min-width: 60rem) 24vw, 46vw" /></div>
+          </figure>
+          <figure class="cb cb--b">
+            <div class="frame"><Photo id="sign-bed" ratio={4 / 5} widths={[400, 600, 860]} sizes="(min-width: 60rem) 24vw, 46vw" /></div>
+            <figcaption class="note cap">{photo('sign-bed').caption}</figcaption>
+          </figure>
+        </div>
+      </div>
+    </div>
+    <Edge to="ink" />
+  </section>
+
+  <section class="band has-edge ink" aria-labelledby="sp-h">
+    <div class="wrap">
+      <Head id="sp-h" eyebrow="Try it" title="Pick your **stripes.**" intro="The same front lawn, mowed five ways. Tap through the patterns, then ask Rob about the one you like." />
+      <StripePicker id="sp-home" />
+      <div class="real">
+        <p class="eyebrow">And the real thing</p>
+        <ul class="real__row">
+          {
+            stripes.map((s) => (
+              <li>
+                <figure>
+                  <div class="frame"><Photo id={s.id} ratio={1} widths={[300, 450, 600]} sizes="(min-width: 60rem) 22vw, 46vw" /></div>
+                  <figcaption class="note cap">{photo(s.id).caption}</figcaption>
+                </figure>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+    </div>
+    <Edge to="white" flip />
+  </section>
+
+  <section class="band has-edge white" aria-labelledby="svc-h">
+    <div class="wrap">
+      <Head id="svc-h" eyebrow="What we do" title="The whole yard, **all year.**" intro="Mowing all season, beds rebuilt and kept, leaves gone in the fall and the drive plowed in winter. One number for all of it." />
+      <ul class="groups">
+        {
+          GROUPS.map((g) => (
+            <li class="group">
+              <div class="frame group__img">
+                <Photo id={g.photo} ratio={3 / 2} widths={[420, 640, 840]} sizes="(min-width: 70rem) 23vw, (min-width: 40rem) 46vw, 92vw" alt="" />
+              </div>
+              <h3 class="h3">{g.name}</h3>
+              <p class="small muted">{g.blurb}</p>
+              <ul class="group__list">
+                {inGroup(g.id).map((s) => <li><a href={href(s.path)}>{s.name}</a></li>)}
+              </ul>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+    <Edge to="ink" />
+  </section>
+
+  <section class="band has-edge ink" aria-labelledby="ba-h">
+    <div class="wrap">
+      <div class="ba-head">
+        <Head id="ba-h" layout="left" eyebrow="Same beds, real photos" title="Brick borders out, **block walls in.**" intro="Two of our bed rebuilds, photographed before and after. Drag the line." />
+        <figure class="pull pull--ink">
+          <blockquote>“They also removed our old brick edging and replaced with a natural edge that still prevents chips from flowing into the lawn.”</blockquote>
+          <figcaption class="small muted">{review('bob-s')!.name}, Google review</figcaption>
+        </figure>
+      </div>
+      <div class="ba-row">
+        <BeforeAfter pair="ba-drive" sizes="(min-width: 48rem) 46vw, 92vw" />
+        <BeforeAfter pair="ba-front" sizes="(min-width: 48rem) 46vw, 92vw" />
+      </div>
+      <p class="ba-more"><a class="arrow" href={href('/landscaping/')}>Landscaping and bed rebuilds</a></p>
+    </div>
+    <Edge to="paper" flip />
+  </section>
+
+  <section class="band has-edge" aria-labelledby="how-h">
+    <div class="wrap">
+      <Head id="how-h" eyebrow="How it works" title="What the reviews **keep mentioning.**" intro="On time each week, quick to answer, careful with the property. That is the part people write about after the lawn." />
+      <Steps steps={steps} />
+    </div>
+    <Edge to="ink" />
+  </section>
+
+  <section class="band ink" aria-labelledby="yr-h">
+    <div class="wrap">
+      <Head id="yr-h" eyebrow="A year with Grand Scapes" title="One yard, **four seasons.**" intro="Pick a season to see what we do to the same house that time of year. It opens on today." />
+      <SeasonDial id="sd-home" />
+      <div class="yr-cta">
+        <p class="h3">Want the whole year handled?</p>
+        <a class="btn primary" href={href('/plan-your-year/')}>Build your year</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="winter ink" aria-labelledby="snow-h">
+    <div class="winter__bg" aria-hidden="true">
+      <Photo id="plow-fleet" alt="" ratio={2} widths={[828, 1320, 1680]} sizes="100vw" />
+    </div>
+    <Edge to="ink" top />
+    <div class="wrap winter__in">
+      <p class="eyebrow">When it snows</p>
+      <h2 class="h2" id="snow-h">Our own trucks, <span class="accent">blades on.</span></h2>
+      <p class="lede">Driveways plowed, walks and steps cleared, ice melt where people walk. Homes, businesses and HOAs, with trucks we own and run ourselves.</p>
+      <div class="actions">
+        <a class="btn primary" href={href('/snow-removal/')}>Snow removal</a>
+        <a class="btn ghost" href={href('/commercial/')}>For businesses and HOAs</a>
+      </div>
+    </div>
+    <p class="note winter__note">{photo('plow-fleet').caption}</p>
+    <Edge to="paper" />
+  </section>
+
+  <section class="band has-edge" aria-labelledby="rv-h">
+    <div class="wrap">
+      <Head id="rv-h" eyebrow={`${RATING.value} stars on Google`} title="In the words of **the people who hired us.**" />
+      <Reviews reviews={REVIEWS.slice(0, 3)} />
+    </div>
+    <Edge to="ink" flip />
+  </section>
+
+  <section class="band has-edge ink" aria-labelledby="areas-h">
+    <div class="wrap">
+      <div class="map-grid">
+        <div class="stack" style="--gap:1.25rem">
+          <Head id="areas-h" layout="left" eyebrow="Where we work" title="Grand Blanc and **every town around it.**" intro={`Our shop is on Embury Road in ${BRAND.city}. From there we cover Genesee County and the north edge of Oakland County.`} />
+          <div class="areas">
+            {
+              AREAS.map((a) => (
+                <div>
+                  <h3 class="areas__h">{a}</h3>
+                  <ul class="areas__l">
+                    {inArea(a).map((c) => <li><a href={href(hubPath(c))}>{c.name}</a></li>)}
+                  </ul>
+                </div>
+              ))
+            }
+          </div>
+        </div>
+        <AreaMap />
+      </div>
+    </div>
+    <Edge to="paper" />
+  </section>
+
+  <section class="band" aria-labelledby="faq-h">
+    <div class="wrap faqs">
+      <Head id="faq-h" layout="left" eyebrow="Plain answers" title="Good to know **before you call.**" intro={`Anything else? Call or text [${BRAND.phone}](${BRAND.phoneHref}).`} />
+      <Faq items={faq} />
+    </div>
+  </section>
+
+  <QuoteBand avoid={['curve-stripes-colonial', 'crosscut-lawn']} />
+</Base>
+
+<style>
+  .facts {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.75rem 1.5rem;
+    padding-bottom: clamp(2.5rem, 5vw, 4rem);
+    margin-bottom: clamp(3rem, 6vw, 5rem);
+    border-bottom: 1px solid var(--line);
+  }
+
+  .facts li {
+    display: grid;
+    align-content: start;
+    gap: 0.25rem;
+  }
+
+  .facts__n {
+    font-size: clamp(2.4rem, 3vw + 1.5rem, 3.4rem);
+    font-weight: 780;
+    font-style: italic;
+    line-height: 1;
+    letter-spacing: -0.04em;
+    color: var(--text);
+  }
+
+  @media (min-width: 56rem) {
+    .facts {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+
+    .facts li + li {
+      padding-left: 1.5rem;
+      border-left: 1px solid var(--line);
+    }
+  }
+
+  .pull {
+    display: grid;
+    gap: 0.6rem;
+    padding-left: 1.25rem;
+    border-left: 3px solid var(--stripe-a);
+  }
+
+  .pull blockquote {
+    font-size: clamp(1.3rem, 1vw + 1.05rem, 1.7rem);
+    font-weight: 560;
+    font-style: italic;
+    line-height: 1.3;
+    letter-spacing: -0.02em;
+  }
+
+  .pull--ink {
+    border-left-color: var(--lime);
+    align-self: end;
+    max-width: 34rem;
+  }
+
+  /* two photos, offset like prints on a table */
+  .card-band__pics {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+    align-items: start;
+  }
+
+  .cb .frame {
+    aspect-ratio: 4 / 5;
+  }
+
+  .cb--b {
+    margin-top: clamp(2rem, 6vw, 5rem);
+  }
+
+  .real {
+    margin-top: clamp(3rem, 6vw, 4.5rem);
+    padding-top: clamp(2rem, 4vw, 3rem);
+    border-top: 1px solid var(--line-ink);
+  }
+
+  .real__row {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+    margin-top: 1.25rem;
+  }
+
+  @media (min-width: 60rem) {
+    .real__row {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+  }
+
+  .real__row .frame {
+    aspect-ratio: 1;
+  }
+
+  .groups {
+    display: grid;
+    gap: 2.5rem 1.5rem;
+  }
+
+  @media (min-width: 40rem) {
+    .groups {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (min-width: 70rem) {
+    .groups {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+  }
+
+  .group {
+    display: grid;
+    align-content: start;
+    gap: 0.6rem;
+  }
+
+  .group__img {
+    margin-bottom: 0.4rem;
+    aspect-ratio: 3 / 2;
+  }
+
+  .group__list {
+    margin-top: 0.35rem;
+    border-top: 1px solid var(--line);
+  }
+
+  .group__list a {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 2.6rem;
+    border-bottom: 1px solid var(--line);
+    font-size: 0.975rem;
+    font-weight: 560;
+    text-decoration: none;
+    transition:
+      color 0.16s var(--ease),
+      padding 0.16s var(--ease);
+  }
+
+  .group__list a::after {
+    content: '';
+    width: 0.42em;
+    height: 0.42em;
+    border-top: 1.5px solid currentColor;
+    border-right: 1.5px solid currentColor;
+    transform: rotate(45deg);
+    opacity: 0.5;
+  }
+
+  .group__list a:hover {
+    color: var(--green-ink);
+    padding-left: 0.3rem;
+  }
+
+  .ba-head {
+    display: grid;
+    gap: 1.5rem;
+    margin-bottom: clamp(2rem, 4vw, 3rem);
+  }
+
+  .ba-head :global(.head) {
+    margin-bottom: 0;
+  }
+
+  @media (min-width: 60rem) {
+    .ba-head {
+      grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
+      gap: clamp(2rem, 6vw, 6rem);
+      align-items: end;
+    }
+  }
+
+  .ba-row {
+    display: grid;
+    gap: 2rem;
+  }
+
+  @media (min-width: 48rem) {
+    .ba-row {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 2.25rem 1.75rem;
+    }
+  }
+
+  .ba-more,
+  .rv-more {
+    margin-top: 1.5rem;
+  }
+
+  .yr-cta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem 2rem;
+    margin-top: clamp(2.5rem, 5vw, 3.5rem);
+    padding: clamp(1.25rem, 3vw, 1.75rem) clamp(1.25rem, 3vw, 2rem);
+    border: 1px solid var(--line-ink);
+    border-radius: var(--r);
+    background: linear-gradient(100deg, rgb(132 212 85 / 0.1), rgb(132 212 85 / 0) 60%);
+  }
+
+  /* winter: the plow trucks, full bleed */
+  .winter {
+    position: relative;
+    isolation: isolate;
+    display: grid;
+    align-items: end;
+    min-height: clamp(34rem, 78svh, 46rem);
+    overflow: clip;
+  }
+
+  .winter__bg {
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+  }
+
+  .winter__bg :global(picture),
+  .winter__bg :global(img) {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 60%;
+  }
+
+  .winter__bg::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(to top, var(--ink) 0%, rgb(11 13 12 / 0.86) 26%, rgb(11 13 12 / 0.35) 55%, rgb(11 13 12 / 0.5) 100%),
+      linear-gradient(to right, rgb(11 13 12 / 0.7), rgb(11 13 12 / 0) 60%);
+  }
+
+  .winter__in {
+    display: grid;
+    justify-items: start;
+    gap: 1.1rem;
+    padding-block: 8rem clamp(6rem, 11vw, 8.5rem);
+  }
+
+  .winter__in .lede {
+    max-width: 36rem;
+    color: #dde3dd;
+  }
+
+  .winter__note {
+    position: absolute;
+    right: var(--gutter);
+    top: clamp(3.5rem, 7vw, 6rem);
+    padding: 0.1rem 0.45rem;
+    border-radius: var(--r-sm);
+    background: rgb(11 13 12 / 0.6);
+  }
+
+  .map-grid {
+    display: grid;
+    gap: clamp(2rem, 5vw, 4rem);
+    align-items: center;
+  }
+
+  @media (min-width: 64rem) {
+    .map-grid {
+      grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
+    }
+  }
+
+  .areas {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5rem 1.25rem;
+  }
+
+  .areas__h {
+    font-family: var(--font);
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--lime-soft);
+  }
+
+  .areas ul {
+    margin-top: 0.4rem;
+  }
+
+  .areas a {
+    display: block;
+    padding-block: 0.4rem;
+    color: var(--on-ink-muted);
+    text-decoration: none;
+  }
+
+  .areas a:hover {
+    color: var(--lime);
+  }
+
+  .faqs {
+    display: grid;
+    gap: 1rem;
+  }
+
+  @media (min-width: 72rem) {
+    .faqs {
+      grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
+      gap: clamp(2rem, 6vw, 6rem);
+      align-items: start;
+    }
+  }
+</style>

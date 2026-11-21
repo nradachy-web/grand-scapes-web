@@ -1,0 +1,207 @@
+{
+  "service": "landscaping",
+  "meta": {
+    "title": "Landscaping in Grand Blanc, MI | Grand Scapes",
+    "description": "Tired beds torn out and rebuilt in Grand Blanc, MI: new shape, block wall or natural edge, new plants, fabric and mulch. Licensed and insured. Free estimate."
+  },
+  "hero": {
+    "kicker": "Landscaping in Grand Blanc, MI and across Genesee County",
+    "title": "Old beds out. **New lines in.**",
+    "lede": "Grand Scapes tears out tired beds and builds them back: a new shape, a gray block wall or a cut natural edge, new plants, landscape fabric and fresh mulch. Rob comes out to look at the yard himself, suggests what it needs and quotes the job before anything gets dug.",
+    "chips": ["Old beds dug out", "Block wall or natural edge", "Plants, fabric and mulch", "Free estimate"],
+    "photo": "stone-house-bed"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "plane": "paper",
+      "eyebrow": "The short version",
+      "title": "A bed rebuilt **from the roots up.**",
+      "body": [
+        "Landscaping, for us, mostly means rebuilding the beds around a house. The old shrubs, weeds and borders come out, the bed gets a new shape, and it goes back together with a border that holds, plants that suit the spot, landscape fabric and fresh mulch.",
+        "Foundation shrubs get planted small and grow up fast. Michigan State University Extension says size control is the main reason people prune foundation plants, and that the better question is often whether the shrub was planted in the right place to begin with. When the answer is no, we start the bed over."
+      ],
+      "checks": [
+        "Old shrubs, small trees and borders dug out, roots and all",
+        "A new bed line, curved or straight, cut to fit the house",
+        "Gray block walls, boulders or a clean natural edge",
+        "New plants, landscape fabric and black, brown or red mulch"
+      ],
+      "photo": "block-bed-door"
+    },
+    {
+      "type": "beforeAfter",
+      "plane": "ink",
+      "eyebrow": "Real jobs",
+      "title": "Two tired beds, **rebuilt.**",
+      "intro": "Two of our own jobs. Drag the line across each photo to compare the bed we found with the bed we left.",
+      "pairs": ["ba-drive", "ba-front"],
+      "checks": [
+        "Old brick borders pulled out",
+        "Gray block walls set in their place",
+        "Beds cleaned out and opened up",
+        "Finished in fresh black mulch"
+      ]
+    },
+    {
+      "type": "steps",
+      "plane": "paper",
+      "eyebrow": "How a landscaping job runs",
+      "title": "Walk it, dig it, **build it back.**",
+      "steps": [
+        {
+          "title": "Rob walks the yard",
+          "body": "Rob comes out, looks at the beds with you and suggests what to keep, what to pull and what to plant. Then he quotes the job. The estimate is free."
+        },
+        {
+          "title": "Lines get marked",
+          "body": "Michigan's MISS DIG law puts the call on whoever does the digging, at least 3 business days ahead. MISS DIG does not mark private lines, so show us any sprinkler lines, dog fence or power to a shed.",
+          "note": "MISS DIG 811"
+        },
+        {
+          "title": "Out with the old",
+          "body": "Old shrubs and small trees come out roots and all, often with a compact track loader, along with the old border, the weeds and the worn out mulch. It all goes out in our dump trailer."
+        },
+        {
+          "title": "New shape and border",
+          "body": "We cut the new bed line and set the border: a low gray block wall, boulders, or a clean natural edge cut into the lawn."
+        },
+        {
+          "title": "Plants, fabric, mulch",
+          "body": "New plants go in, landscape fabric goes down where it suits the bed, and the bed is finished in fresh mulch, kept back from trunks and stems."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "plane": "white",
+      "eyebrow": "Good to know",
+      "title": "What goes into a bed that lasts.",
+      "columns": 2,
+      "items": [
+        {
+          "tag": "The border",
+          "title": "Block, boulders or a cut edge",
+          "body": "A border keeps mulch in the bed and grass out of it. Gray block makes a crisp, raised line. A cut natural edge uses no material at all and, as Bob S. wrote in his review, still keeps the chips out of the lawn."
+        },
+        {
+          "tag": "The plants",
+          "title": "Planted for the size they will be",
+          "body": "Pick a shrub for its grown size, not its size in the pot. MSU Extension advises against planting burning bush, Japanese barberry and privet, because they spread into natural areas and crowd out native plants."
+        },
+        {
+          "tag": "The fabric",
+          "title": "Good under shrubs, tricky under perennials",
+          "body": "Landscape fabric under mulch holds weeds down well in a shrub bed. MSU Extension warns that in perennial beds, weeds and roots grow into it over the years and it is hard to pull out, so it suits some beds better than others."
+        },
+        {
+          "tag": "The mulch",
+          "title": "Two to three inches, off the bark",
+          "body": "MSU Extension says 2 to 3 inches of mulch is enough for most beds, and more is not better. Mulch piled up against a trunk makes a dark, moist spot that MSU calls an invitation for root rot and insects."
+        }
+      ]
+    },
+    {
+      "type": "intro",
+      "plane": "paper",
+      "eyebrow": "Grand Blanc",
+      "title": "Home is **Grand Blanc.**",
+      "body": [
+        "Grand Scapes runs out of a shop on Embury Road in Grand Blanc, and the city and Grand Blanc Township are where you will see our yard sign in a finished bed most often. We take landscaping jobs across Genesee County too, from Fenton to Davison and Flint to Holly, and into north Oakland County.",
+        "If your beds have boxwood, there is news this year. In September 2026 the Michigan Department of Agriculture and Rural Development confirmed box tree moth in Genesee County and said it will add the county to its boxwood quarantine. Oakland County is already in it. Tell Rob if boxwood is part of your beds, so the plan accounts for it."
+      ],
+      "checks": [
+        "Town pages for [Fenton](/landscaping-fenton-mi/), [Davison](/landscaping-davison-mi/), [Flint](/landscaping-flint-mi/) and [Clarkston](/landscaping-clarkston-mi/)",
+        "Every town we work in is on the [service areas](/service-areas/) page"
+      ],
+      "cta": { "label": "More on Grand Blanc", "href": "/service-areas/grand-blanc-mi/" }
+    },
+    {
+      "type": "reviews",
+      "plane": "ink",
+      "eyebrow": "On Google",
+      "title": "What people wrote **after the dig.**",
+      "ids": ["bob-s", "james-a"]
+    },
+    {
+      "type": "cards",
+      "plane": "paper",
+      "eyebrow": "Smaller jobs",
+      "title": "Only need **one part of it?**",
+      "intro": "A full rebuild is not always the answer. Each piece of the job can be done on its own.",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Just the mulch",
+          "body": "Weeds out, edges cut, fabric and fresh mulch, with the plants left where they are. That is a [mulch and flower bed makeover](/mulch-and-flower-beds/)."
+        },
+        {
+          "title": "Just the border",
+          "body": "Old brick out, and a block wall, boulders or a natural edge in. See [bed edging and block walls](/bed-edging-and-block-walls/)."
+        },
+        {
+          "title": "Just the bushes",
+          "body": "Overgrown shrubs and small trees dug out and hauled away. See [bush and small tree removal](/bush-removal/)."
+        },
+        {
+          "title": "Keep it sharp",
+          "body": "Once the beds are done, [landscape maintenance](/landscape-maintenance/) and [shrub trimming](/shrub-trimming/) keep them that way through the season."
+        },
+        {
+          "title": "The lawn beside it",
+          "body": "Bare or rough ground next to the new beds can be graded and seeded. See [grading and new lawns](/grading-and-new-lawns/)."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do you do landscaping in Grand Blanc?",
+      "a": "Yes. Grand Scapes is based on Embury Road in Grand Blanc and rebuilds beds across Grand Blanc and Grand Blanc Township: old shrubs and borders out, a new shape, a block wall or natural edge, new plants, fabric and mulch. We take landscaping jobs across Genesee County and north Oakland County too."
+    },
+    {
+      "q": "How much does landscaping cost?",
+      "a": "It depends on how much comes out, how big the beds are and what goes back in, which is why Rob prices it after he sees the yard. He will tell you what he would do and what it costs before any digging starts. The estimate is free."
+    },
+    {
+      "q": "How long does it take to redo a flower bed?",
+      "a": "It depends on the size of the job and how much has to come out. Bob S. had his old bushes and a cherry tree removed, the bed rescaped, fabric and mulch laid and a new natural edge cut, and wrote that it was all done in two days. Rob can give you a better idea at the estimate."
+    },
+    {
+      "q": "Do you remove old bushes and trees?",
+      "a": "Bushes and small trees, yes, roots and all. Big trees are not our work, so for those call a tree company first, and we can rebuild the bed once the tree is gone. More on [bush and small tree removal](/bush-removal/)."
+    },
+    {
+      "q": "Do I need to call MISS DIG before landscaping?",
+      "a": "Someone does. MISS DIG 811 says every digging project needs a ticket at least 3 business days ahead, regardless of size or depth, and the person or company doing the digging places it. MISS DIG does not mark private lines like sprinkler lines, invisible dog fences or power to a shed, so tell us where yours run."
+    },
+    {
+      "q": "Can you put in new plants as part of the job?",
+      "a": "Yes. New plants are part of most bed rebuilds, and Rob suggests what fits the spot and the size it will grow to. MSU Extension advises against burning bush, Japanese barberry and privet, and from January 1, 2028, Michigan restricts the sale of Japanese barberry and both buckthorns."
+    },
+    {
+      "q": "Do you build retaining walls or patios?",
+      "a": "Our walls are bed walls: low gray block walls around beds and trees, and boulder walls holding a graded slope. Patios and paver work are not on our list. If a tall wall or a patio is part of your plan, ask Rob when he comes out."
+    },
+    {
+      "q": "Do you do landscaping outside Grand Blanc?",
+      "a": "Yes. We take landscaping jobs across Genesee County and into north Oakland County, including [Fenton](/landscaping-fenton-mi/), [Davison](/landscaping-davison-mi/), [Burton](/landscaping-burton-mi/) and [Holly](/landscaping-holly-mi/). The [service areas](/service-areas/) page lists every town."
+    }
+  ],
+  "quote": {
+    "title": "Tell us about the beds.",
+    "lede": "Which beds, and what is wrong with them? Call or [text Rob](sms:+18109903040) a photo at (810) 990-3040 if that is easier, and he will come out to look and quote it."
+  },
+  "summary": {
+    "title": "A landscaping job, start to finish.",
+    "intro": "Most landscaping jobs are a bed rebuild: what is there comes out, and the bed goes back together with a new shape, border, plants and mulch. Rob quotes each job after he walks the yard, and the estimate is free.",
+    "items": [
+      { "name": "Tear out", "detail": "Old shrubs, small trees, borders, weeds and tired mulch dug out and hauled away." },
+      { "name": "New shape", "detail": "A new bed line, curved or straight, cut to fit the house and the lawn." },
+      { "name": "Border", "detail": "A low gray block wall, boulders, or a cut natural edge that keeps the chips in." },
+      { "name": "Plants", "detail": "New plants picked for the spot and for the size they will grow to." },
+      { "name": "Fabric and mulch", "detail": "Landscape fabric where it suits the bed, then fresh black, brown or red mulch." }
+    ],
+    "footnote": "Big trees are not our work. Patios and paver work are not on our list either, so ask Rob when he comes out if you need them."
+  }
+}

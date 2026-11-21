@@ -1,0 +1,52 @@
+{
+  "city": "davison",
+  "meta": {
+    "title": "Lawn Care and Snow Removal in Davison, MI | Grand Scapes",
+    "description": "Grand Scapes mows, cleans up, rebuilds beds and plows drives in Davison, MI, from compact city lots by downtown to township acreage toward Lapeer County."
+  },
+  "hero": {
+    "kicker": "Lawn care, landscaping and snow removal in Davison, MI",
+    "title": "From city sidewalks to **township acres.**",
+    "lede": "Grand Scapes mows, edges, cleans up and plows in Davison, from the compact lots around downtown to estate lots and farm parcels out in the township. Rob comes out, walks the yard with you and gives you a free estimate.",
+    "chips": ["Weekly mowing", "Leaves vacuumed and hauled", "Driveways plowed", "Free estimates"],
+    "photo": "side-yard-stripes"
+  },
+  "about": {
+    "eyebrow": "Yards in Davison",
+    "title": "City or township, the yards **are not alike.**",
+    "body": [
+      "Davison is really two places. The city covers about two square miles around downtown, with M-15 running through it and sidewalks, curbs and lots set close together. The township wraps around it on every side, about 34 square miles out to the Lapeer County line, and its zoning runs from subdivision lots to estate lots of an acre and a half to agricultural parcels of 10 acres.",
+      "That spread changes the work. A city lot is mostly edging, trimming and a quick mow, and the public sidewalk out front is yours to clear when it snows. A township lot can be an acre or more of grass, a long drive off a county road and a tree line that lets go of its leaves all through October. We quote each one for what it actually is.",
+      "The ground is the other half of it. The USDA soil survey maps the city center on Conover loam, a somewhat poorly drained soil, and stretches of the township on Brookston loam, which drains poorly. Loam like that stays soft in a wet spring, so heavy work waits for firm ground and the mowers stay off a lawn that would rut."
+    ],
+    "points": [
+      { "title": "Sidewalks inside the city", "body": "City Ordinance 1024.10 makes owners and occupants clear the public sidewalk beside their property after snow or ice. The city's notice calls for a reasonable time, usually 48 hours, and says the city will clear a neglected walk and bill the property." },
+      { "title": "Leaves to the curb, or in paper bags", "body": "In the city, the DPW runs its fall leaf pickups and asks residents to rake leaves to the curb line, leaves only. In the township, yard waste goes out on Tuesdays in brown paper bags or marked cans from the first week of April to the end of November." },
+      { "title": "County roads outside town", "body": "Township roads belong to the Genesee County Road Commission, and its winter list puts unpaved local roads and subdivision streets last. A long drive that is plowed and salted gets you as far as the road, which may still be waiting its turn." },
+      { "title": "Grass has a height limit", "body": "The city treats grass over six inches on average as a nuisance on lots under an acre, and the township requires owners to keep weeds and grass cut back. A weekly mow keeps either one off your mind." }
+    ],
+    "photo": "leaf-curb"
+  },
+  "logistics": {
+    "title": "How a Davison job runs, from the first call.",
+    "body": [
+      "Call or text Rob at [(810) 990-3040](tel:+18109903040). He comes out, walks the property with you, suggests what it needs and quotes a price. The drive is about 20 minutes from our shop on Embury Road in Grand Blanc, and weekly work gets a set day.",
+      "In the city we work around the curb, the sidewalk and the neighbors' cars. In the township we ask about gates, dogs, soft ground and where the drive meets the road. Clippings get blown off the walks and the drive before we pull away, and debris leaves in our trailer."
+    ],
+    "facts": [
+      { "label": "City sidewalks", "value": "Owner or occupant clears snow and ice" },
+      { "label": "City leaf pickup", "value": "Leaves only, raked to the curb" },
+      { "label": "Township yard waste", "value": "Paper bags, Tuesdays, April to November" },
+      { "label": "Estimate", "value": "Free, Rob walks it with you" }
+    ]
+  },
+  "faq": [
+    { "q": "Do you do lawn care and snow removal in Davison, MI?", "a": "Yes. Grand Scapes works in the City of Davison and Davison Township: [weekly mowing](/lawn-mowing-davison-mi/), [landscaping](/landscaping-davison-mi/), [mulch and bed work](/mulch-installation-davison-mi/), [shrub trimming](/shrub-trimming-davison-mi/), [spring](/spring-cleanup-davison-mi/) and [fall cleanups](/leaf-removal-davison-mi/), and [snow removal](/snow-removal-davison-mi/) for homes and [businesses](/commercial-snow-removal-davison-mi/). We are licensed and insured, and the estimate is free." },
+    { "q": "Is Davison a city or a township, and does it matter for my yard?", "a": "Both exist. The city is about two square miles around downtown, and the township surrounds it. It matters for the rules: the city has its own sidewalk snow ordinance and DPW leaf pickup, while the township has paper bag yard waste pickup and its own burn permit. Your tax bill shows which one you live in." },
+    { "q": "Who has to shovel the sidewalk in the City of Davison?", "a": "The owner or occupant of the property next to it. City Ordinance 1024.10 requires snow and ice to be cleared from the public sidewalk in a reasonable time, which the city's notice puts at usually 48 hours. The same ordinance says snow may not be piled on a sidewalk or street or pushed across one. Our [salting and sidewalk](/salting-and-sidewalks/) work can take that off your list." },
+    { "q": "Can I burn leaves in Davison Township?", "a": "Check with the township first. Its open burning ordinance requires a permit, and the materials it lists for a permit are brush, tree trimmings, shrubbery and other wood, not leaves. Permitted burning is daylight only and never within 50 feet of a building. Most people find it easier to have the leaves [vacuumed up and hauled away](/leaf-removal-davison-mi/)." },
+    { "q": "Do you plow long driveways out in Davison Township?", "a": "Yes, with our own trucks. Rob walks the drive with you in the fall, notes the turnaround, the mailbox and anything that will be buried under snow, and explains the residential snow removal and salting packages. Walks and steps can be cleared and salted too." }
+  ],
+  "reviews": ["rick-b", "bob-s", "james-a"],
+  "neighbors": ["burton", "flint", "grand-blanc", "goodrich"]
+}

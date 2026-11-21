@@ -1,0 +1,49 @@
+{
+  "service": "lawn-mowing",
+  "city": "flint",
+  "meta": {
+    "title": "Lawn mowing and lawn care in Flint, MI | Grand Scapes",
+    "description": "Weekly lawn care in Flint, MI: mowed, trimmed, edged along every walk and curb, and blown off. Grand Scapes is licensed and insured. Free estimates from Rob."
+  },
+  "hero": {
+    "kicker": "Lawn mowing in Flint, MI",
+    "title": "Every walk and curb, **edged clean.**",
+    "lede": "Grand Scapes keeps Flint lawns on a weekly schedule: mowed, trimmed, edged along the sidewalk and the curb, and blown off, finished in clean stripes. Rob quotes it after a look at the yard, and the crew comes on a set day.",
+    "chips": ["Weekly, on a set day", "Edged at walk and curb", "Clippings blown off", "Free estimate"],
+    "photo": "walk-edge"
+  },
+  "local": {
+    "eyebrow": "Lawns in Flint",
+    "title": "Older lots, public walks and soil that **holds water.**",
+    "intro": "Most lawns in the city sit in front of homes built before 1960, with a public sidewalk and a curb on the street side. That means more edge per square foot than a big suburban yard, and edges are what people notice from the street. The ground underneath changes too, sometimes within one block.",
+    "points": [
+      { "title": "Two edges, not one", "body": "A city lot usually has a walk across the front and a curb beyond the strip of grass. We edge both on every visit so the lines stay straight, then blow the clippings off the concrete and back onto the lawn, never into the street." },
+      { "title": "Heavy ground in much of the city", "body": "The USDA soil survey maps a big share of Flint as urban land mixed with Crosier loam, which drains somewhat poorly. In a wet spring that ground stays soft, so on soggy days the low spots get a lighter touch instead of ruts from a heavy mower." },
+      { "title": "Sandy pockets near the river", "body": "Closer to the Flint River the survey shows sandy, well drained soils like Boyer and Spinks. Those lawns brown out first in a dry July. Mowing on the high side in summer helps, and MSU Extension's general range for lawns runs about 2.5 to 3.5 inches." },
+      { "title": "A house you own but do not live in", "body": "Nearly half the homes in the city are rented, by Census figures. If you own one, a weekly cut keeps it looking cared for without a drive over to check, and you have one person to call about it." }
+    ]
+  },
+  "logistics": {
+    "title": "How weekly mowing runs on a city lot.",
+    "body": [
+      "Rob comes out first, walks the lawn with you and quotes a weekly price. After that the crew shows up on a set weekday from spring into fall: mow, trim along the house and fences, edge the walk and the curb, and blow everything clean.",
+      "MSU Extension's rule of thumb is to take no more than a third of the grass blade in one cut, and spring growth can call for mowing every four or five days. That is why weekly beats every other week in May, when an older lawn can double in height between visits.",
+      "Normal clippings stay on the lawn, where they belong. Heavy growth after a rainy stretch gets bagged and hauled in our trailer, so none of it ends up in your Priority Waste bags."
+    ],
+    "facts": [
+      { "label": "Visits", "value": "Weekly, on a set day" },
+      { "label": "Each visit", "value": "Mow, trim, edge, blow off" },
+      { "label": "Estimate", "value": "Free, after Rob looks" },
+      { "label": "To talk now", "value": "Call or text (810) 990-3040" }
+    ]
+  },
+  "photo": "ranch-stripes",
+  "faq": [
+    { "q": "Do you mow lawns in Flint, MI?", "a": "Yes. Grand Scapes mows lawns in Flint every week from spring into fall: mowed, trimmed, edged along the walk and curb, and blown off. We are based in Grand Blanc, about 20 minutes away, and Rob gives a free estimate after he sees the yard." },
+    { "q": "How much does lawn care cost in Flint?", "a": "It depends on the size of the lawn, how much trimming and edging it has, and how often it gets cut. Rob quotes a weekly price after he walks the yard, so you know the number before the first cut. We do not publish prices, because two lots on one street can take very different time." },
+    { "q": "How often should a lawn be mowed in Michigan?", "a": "Weekly through most of the season. MSU Extension advises cutting no more than a third of the blade at a time, and in spring a lawn can need it every four or five days. A weekly visit keeps up with that without scalping the grass." },
+    { "q": "Do you edge along the sidewalk and the curb?", "a": "Yes, on every visit. On a city lot with a public walk and a curb, those two lines are most of what people see from the street. We edge them, then blow the walk and the curb line clean." },
+    { "q": "What else can you do for a Flint yard besides mowing?", "a": "[Fall leaf cleanups](/leaf-removal-flint-mi/), [mulch and flower beds](/mulch-installation-flint-mi/), [landscaping](/landscaping-flint-mi/) and [snow removal](/snow-removal-flint-mi/). If you are after a treatment program for the grass itself, ask Rob when he comes out." }
+  ],
+  "reviews": ["stacy", "rick-b"]
+}

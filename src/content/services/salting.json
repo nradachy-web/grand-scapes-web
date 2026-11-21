@@ -1,0 +1,134 @@
+{
+  "service": "salting",
+  "meta": {
+    "title": "Salting and sidewalks in Grand Blanc, MI | Grand Scapes",
+    "description": "Walks and steps cleared to the concrete, then ice melt where people walk and cars stop, for homes and businesses in Grand Blanc. Licensed and insured."
+  },
+  "hero": {
+    "kicker": "Salting and sidewalk clearing in Grand Blanc, MI",
+    "title": "Walks cleared, **steps salted.**",
+    "lede": "Grand Scapes shovels walks and steps down to the concrete and spreads ice melt where people walk and cars stop, at homes and businesses in Grand Blanc and across Genesee County. It pairs with our [driveway plowing](/snow-removal/), so the drive, the walk and the steps are handled together.",
+    "chips": ["Walks to the concrete", "Ice melt where it counts", "Homes and businesses", "Licensed and insured"],
+    "photo": "salt-spreader"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "plane": "paper",
+      "eyebrow": "What we do",
+      "title": "Shovel first, **then salt.**",
+      "body": [
+        "Salt works on a thin layer, not on a foot of snow. Michigan State University Extension recommends clearing as much snow as possible before putting any product down, so it works efficiently and less of it is needed. That is the order we work in: walks and steps cleared first, then ice melt from a walk behind spreader.",
+        "We spread it where people actually walk and where cars stop: the front walk, the steps, the landing by the door, the garage apron and the end of the drive. If one spot always glazes over, like the walk below a downspout, show it to Rob when he comes out."
+      ],
+      "checks": [
+        "Walks and steps shoveled down to the concrete",
+        "Ice melt spread from a walk behind spreader, not tossed by the handful",
+        "Extra care near new concrete, beds and pets, once you tell us about them"
+      ],
+      "photo": "salted-drive"
+    },
+    {
+      "type": "cards",
+      "plane": "white",
+      "eyebrow": "How rock salt works",
+      "title": "Salt has a **temperature limit.**",
+      "intro": "Most ice melt is rock salt, which is sodium chloride. It is inexpensive and it works, within limits.",
+      "columns": 2,
+      "items": [
+        { "title": "Good to about 15°F", "body": "The Minnesota Pollution Control Agency lists 15°F pavement as the lowest practical temperature for rock salt, and MSU Extension says it is not effective below 15 degrees. Colder than that, it works too slowly to help." },
+        { "title": "Fast near freezing", "body": "At 30°F, one pound of rock salt melts about 46 pounds of ice in 5 minutes, by the Minnesota agency's numbers. At 15°F the same pound melts about 6 pounds, and it takes an hour." },
+        { "title": "More is not faster", "body": "The University of Minnesota's winter salt guide says applying more salt than needed does not melt ice faster. The extra ends up on boots, floors and the edge of the lawn." },
+        { "title": "Sand for grip", "body": "When it is too cold for salt, sand gives traction without melting anything. MSU Extension lists sand and grit as anti slip options, with a sweep up in spring." }
+      ]
+    },
+    {
+      "type": "compare",
+      "plane": "paper",
+      "eyebrow": "Choosing ice melt",
+      "title": "Three ways to deal with **an icy walk.**",
+      "intro": "From MSU Extension and the Minnesota Pollution Control Agency. Each one has a trade off, and none is right for every walk.",
+      "columns": ["Rock salt", "Calcium chloride", "Sand"],
+      "rows": [
+        { "label": "Lowest useful temp", "values": ["About 15°F", "About -20°F", "Any, but it does not melt"] },
+        { "label": "How it works", "values": ["Melts, but slows sharply in the cold", "Gives off heat and melts on contact", "Adds grip only"] },
+        { "label": "Plants", "values": ["Can kill vegetation, per MSU", "Not as damaging as salt, per MSU", "No salt to build up in beds"] },
+        { "label": "Concrete", "values": ["Can make scaling worse", "Can make scaling worse", "No chemical effect"] },
+        { "label": "Cost and cleanup", "values": ["Inexpensive; sweep leftovers in spring", "Costs more; can leave a slimy residue", "Has to be swept up in spring"] }
+      ]
+    },
+    {
+      "type": "cards",
+      "plane": "ink",
+      "eyebrow": "Before anything goes down",
+      "title": "Three things **to tell Rob.**",
+      "columns": 3,
+      "items": [
+        { "tag": "New concrete", "title": "Poured this year", "body": "Fresh concrete is the most at risk. MSU Extension says not to use deicers on concrete that has not fully cured, and Pennsylvania's concrete industry group says to avoid them through the first year. If your drive or walk is new, we can talk about sand." },
+        { "tag": "Pets", "title": "A dog that uses the walk", "body": "The ASPCA says rock salt can be harsh on dogs' paws, and that there is no specific requirement for a product to be labeled pet safe. Wipe paws when the dog comes in, and tell Rob where the dog goes out." },
+        { "tag": "Plants", "title": "Beds along the walk", "body": "MSU Extension says salt builds up in beds beside walks and driveways, and names white pines, roses, rhododendrons and yews as sensitive. We aim the spreader at the pavement, not the beds." }
+      ]
+    },
+    {
+      "type": "intro",
+      "plane": "white",
+      "eyebrow": "Grand Blanc and around",
+      "title": "Sidewalk rules are **set locally.**",
+      "body": [
+        "Rules for clearing the public sidewalk in front of a home are set by the city or township, and they differ from place to place. The City of Grand Blanc and Grand Blanc Township are separate governments, and Fenton, Flint and Davison each have their own. Check with yours before the first snow, then tell Rob which walks you want cleared.",
+        "One rule covers everyone in Michigan. The state vehicle code, MCL 257.677a, says a person shall not deposit snow, ice or slush on any roadway or highway, and Grand Blanc Township asks residents not to shovel snow back into the road. Snow from the walks stays on your side of the curb."
+      ],
+      "photo": "drive-cleared",
+      "cta": { "label": "Salt and your concrete", "href": "/journal/salt-and-your-concrete/" }
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do you salt driveways and sidewalks in Grand Blanc?",
+      "a": "Yes. Grand Scapes clears walks and steps and spreads ice melt on drives and walks for homes and businesses in Grand Blanc, Grand Blanc Township and across Genesee County. It pairs with our [driveway plowing](/snow-removal/). Call or text Rob at [(810) 990-3040](tel:+18109903040) for a free estimate."
+    },
+    {
+      "q": "Does rock salt work when it is really cold?",
+      "a": "Not well. MSU Extension says rock salt is not effective below 15 degrees Fahrenheit, and the Minnesota Pollution Control Agency puts its lowest practical pavement temperature at 15°F. Below that, calcium chloride still melts ice, and sand gives traction without melting anything."
+    },
+    {
+      "q": "Will salt damage my concrete?",
+      "a": "It can make scaling worse, which is the top surface flaking off. University of Nebraska Extension explains that scaling comes from water freezing and expanding in the concrete, and the Federal Highway Administration says deicers amplify that damage. Well made, air entrained concrete holds up best, and new concrete needs extra care. Our note on [salt and your concrete](/journal/salt-and-your-concrete/) has the details."
+    },
+    {
+      "q": "Is ice melt safe for dogs?",
+      "a": "Use it with care. The ASPCA says rock salt can be harsh on paws, and that there is no specific requirement for labeling a product pet safe. Wipe your dog's paws after walks, keep the bag out of reach, and tell Rob where your dog goes out."
+    },
+    {
+      "q": "Can you keep salt out of my flower beds?",
+      "a": "We aim the spreader at the pavement and keep it out of the beds. MSU Extension says salt still builds up in beds next to walks and drives over a winter, and that spring rain usually flushes it out. In a dry spring, MSU suggests watering those beds."
+    },
+    {
+      "q": "Do I have to clear the public sidewalk in front of my house?",
+      "a": "That depends on your city or township, because the rules are local. Check with yours before the first snow. If you want the public walk cleared along with your own walk and steps, tell Rob when he comes out."
+    },
+    {
+      "q": "Do you salt parking lots and business walks?",
+      "a": "Yes. For businesses we plow and salt lots and drives and clear the walks and entrances. See [commercial grounds and snow](/commercial/) for how a commercial season is set up."
+    },
+    {
+      "q": "What ice melt do you use?",
+      "a": "Ask Rob when he walks the property, and tell him about new concrete, pets and plantings near the walk. He can explain what goes down where, and where sand makes more sense than salt."
+    }
+  ],
+  "quote": {
+    "title": "Tell us about the walks.",
+    "lede": "Which walks, how many steps, and is any of the concrete new? Call or text Rob, or send the form, and he will come out and look."
+  },
+  "summary": {
+    "title": "What salting and sidewalks include.",
+    "intro": "Walks and steps cleared to the concrete, then ice melt spread where people walk and cars stop. It pairs with driveway plowing, and Rob quotes it after he has walked the property. The estimate is free.",
+    "items": [
+      { "name": "Walks and steps", "detail": "Shoveled down to the concrete before anything is spread." },
+      { "name": "Ice melt", "detail": "Spread from a walk behind spreader on walks, steps and the drive." },
+      { "name": "Where it goes", "detail": "Doorways, steps, garage aprons and the end of the drive." },
+      { "name": "Talked through first", "detail": "New concrete, pets and the beds along the walk, before the season starts." }
+    ],
+    "footnote": "Licensed and insured. We do not publish prices, because every property is different."
+  }
+}

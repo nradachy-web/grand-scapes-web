@@ -1,0 +1,37 @@
+---
+/* Every service, in four groups. */
+import Base from '../../layouts/Base.astro';
+import PageHead from '../../components/PageHead.astro';
+import Head from '../../components/Head.astro';
+import ServiceCards from '../../components/ServiceCards.astro';
+import QuoteBand from '../../components/QuoteBand.astro';
+import { GROUPS, inGroup } from '../../data/services';
+import { heroImage } from '../../lib/hero';
+import { breadcrumbs, serviceListSchema } from '../../lib/schema';
+
+const head = await heroImage('truck-trailer', { sizes: '(min-width: 60rem) 48vw, 1px' });
+const path = '/services/';
+---
+
+<Base
+  title="Lawn, Landscape and Snow Services | Grand Scapes"
+  description="Weekly mowing, bed rebuilds and mulch, block walls, shrub trimming, spring and fall cleanups, snow plowing and salting from Grand Scapes in Grand Blanc."
+  path={path}
+  preload={{ ...head.preload, media: '(min-width: 60rem)' }}
+  schema={[serviceListSchema(), breadcrumbs([{ name: 'Home', path: '/' }, { name: 'Services', path }])]}
+>
+  <PageHead image={head} eyebrow="Services" title="The whole yard, **one number to call.**" lede="Weekly mowing, beds rebuilt and kept, leaves gone in the fall and the drive plowed in winter. If something is outside what we do, Rob will say so on the first call." crumbs={[{ name: 'Services', path }]} />
+
+  {
+    GROUPS.map((g, i) => (
+      <section class:list={['band', i % 2 === 1 && 'white']} aria-labelledby={`g-${g.id}`}>
+        <div class="wrap">
+          <Head id={`g-${g.id}`} title={g.name} intro={g.blurb} />
+          <ServiceCards services={inGroup(g.id)} />
+        </div>
+      </section>
+    ))
+  }
+
+  <QuoteBand from="white" />
+</Base>

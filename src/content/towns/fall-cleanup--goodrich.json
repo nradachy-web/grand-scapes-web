@@ -1,0 +1,47 @@
+{
+  "service": "fall-cleanup",
+  "city": "goodrich",
+  "meta": {
+    "title": "Leaf Removal in Goodrich, MI | Grand Scapes",
+    "description": "Fall cleanup and leaf removal in Goodrich, MI: Grand Scapes vacuums leaves off big wooded lots into our trailer and hauls them away, no subscription needed."
+  },
+  "hero": {
+    "kicker": "Fall cleanup and leaf removal in Goodrich, MI",
+    "title": "Wooded lots, **leaves hauled away.**",
+    "lede": "Grand Scapes clears Goodrich yards in the fall: leaves blown back from the tree line, out of the beds and off the lawn, vacuumed into our dump trailer and hauled off. Beds get cut back and the lawn goes into winter clean.",
+    "chips": ["Big lots", "Leaf vacuum trailer", "Beds cut back", "Hauled off"],
+    "photo": "leaf-crew"
+  },
+  "local": {
+    "eyebrow": "Leaves in Goodrich",
+    "title": "Out in the township, leaves have **nowhere to go.**",
+    "intro": "Around Goodrich, the leaf problem is volume. Woods cover about 22 percent of Atlas Township, big lots back up to tree lines, and the village has mature trees along its older streets. Out in the township, curbside yard waste pickup only comes if you subscribed, so a fall of leaves needs a plan.",
+    "points": [
+      { "title": "Subscription only in Atlas", "body": "Atlas Township's page says Emterra picks up compost weekly from April to November by subscription only, with sign up opening March 1 for a limited time. Miss that window and bagged leaves have nowhere to go." },
+      { "title": "Village pickup ends in November", "body": "The Village of Goodrich gets yard waste pickup on Tuesdays in season through Republic Services. Its 2026 calendar marks November 24 as the last yard waste day, and it shows none in December." },
+      { "title": "Burning has rules", "body": "The Atlas Township Fire Department's permit allows dry leaves in daylight, with piles no bigger than 6 feet across, wind no more than 10 mph and nothing within 50 feet of a building or along a road. Vacuuming and hauling them off skips the smoke and the permit." },
+      { "title": "Do not let them sit", "body": "MSU Extension warns that a mat of leaves left on a lawn over winter can smother the grass, slow spring green-up and invite snow mold. On a big wooded lot, that is a lot of lawn to lose." }
+    ]
+  },
+  "logistics": {
+    "title": "Big lots get a plan, not just a pass.",
+    "body": [
+      "Rob walks the lot with you and looks at the trees, the size of the lawn and how far the leaves have to travel to the trailer. Some Goodrich yards need one cleanup after the trees are bare; heavily wooded ones may need a second visit later in November.",
+      "On the day, we blow leaves out of the beds, off the lawn and back from the tree line, then run the truck mounted vacuum into our dump trailer. Spent perennials get cut back, the last mowing can go with it, and every leaf leaves with us."
+    ],
+    "facts": [
+      { "label": "Township leaf pickup", "value": "Subscription only" },
+      { "label": "Village yard waste", "value": "Tuesdays, ends late November" },
+      { "label": "Our way", "value": "Vacuumed and hauled away" },
+      { "label": "Estimate", "value": "Free, after Rob sees the trees" }
+    ]
+  },
+  "photo": "leaf-trailer",
+  "faq": [
+    { "q": "Do you do leaf removal in Goodrich, MI?", "a": "Yes. Grand Scapes does fall cleanups and leaf removal in the Village of Goodrich and across Atlas Township. We blow leaves off lawns and out of beds, vacuum them into our trailer and haul them away, so you do not need a subscription or a burn pile." },
+    { "q": "Is there leaf pickup in Atlas Township?", "a": "Only for subscribers. The township's hauler, Emterra, runs compost and yard waste pickup weekly from April to November, but residents have to sign up, and registration opens March 1. Without it, leaves have to be hauled, burned on a permit or picked up by a company like ours." },
+    { "q": "When is the last yard waste pickup in the Village of Goodrich?", "a": "For 2026, the village calendar from Republic Services marks Tuesday, November 24 as the last yard waste day, with trash still picked up weekly on Tuesdays. Check the village's waste collection page each year, since the dates shift." },
+    { "q": "How many fall cleanups does a wooded lot need?", "a": "It depends on the trees. A lot with a few maples may only need one visit after they are bare. A lot backed up to woods often does better with an early pass, so leaves do not mat on the lawn, and a final one. Rob will suggest a plan after he looks." }
+  ],
+  "reviews": ["rick-b", "stacy"]
+}

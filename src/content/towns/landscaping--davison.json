@@ -1,0 +1,48 @@
+{
+  "service": "landscaping",
+  "city": "davison",
+  "meta": {
+    "title": "Landscaping in Davison, MI | Grand Scapes",
+    "description": "Landscaping in Davison, MI by Grand Scapes: tired beds torn out and rebuilt with block borders, new plants and fresh mulch, plus bush and small tree removal."
+  },
+  "hero": {
+    "kicker": "Landscaping in Davison, MI",
+    "title": "Old beds out, **new lines in.**",
+    "lede": "Grand Scapes rebuilds Davison front yards: overgrown bushes dug out, old brick borders swapped for gray block or a cut natural edge, new plants set and the beds finished in fresh mulch. Rob comes out, suggests what the yard needs and quotes a price.",
+    "chips": ["Bed rebuilds", "Block walls and edges", "Bush removal", "Track loader work"],
+    "photo": "block-bed-wide"
+  },
+  "local": {
+    "eyebrow": "Landscaping in Davison",
+    "title": "Slow soil, close neighbors and **room outside town.**",
+    "intro": "Landscaping in Davison starts with what is under the yard. Much of the area is mapped on loam that drains slowly, so beds and new plants have to be set for water that lingers in spring. On top of that, a compact city lot and a township acreage call for very different plans.",
+    "points": [
+      { "title": "Build for slow drainage", "body": "The USDA soil survey puts the city center on Conover loam, somewhat poorly drained, and some township ground on Brookston loam, which is poorly drained. We shape beds so water runs away from the foundation and pick plants that can take a wet April." },
+      { "title": "Small lots show every line", "body": "On a city lot, the foundation bed and the tree bed by the walk are most of what anyone sees from the street. A clean block border and a straight edge along the sidewalk do the most for the space." },
+      { "title": "Bigger canvases in the township", "body": "Township zoning runs from estate lots of an acre and a half to 10 acre parcels, so a front bed can sit a long way back from the road. Those yards suit longer bed lines, a boulder wall on a slope and plantings sized for the distance." },
+      { "title": "Keep the road edge clear", "body": "The Genesee County Road Commission names solid timber garden borders, heavy mailbox posts and similar items in the right of way as traffic hazards. New bed work stays on your side of that line." }
+    ]
+  },
+  "logistics": {
+    "title": "How a Davison landscape job goes.",
+    "body": [
+      "Rob walks the yard with you, listens to what bothers you about it and suggests what to do. You get a price for the whole job before anything is dug. When the work starts, a compact track loader pulls out old shrubs and small trees, roots and all, so nobody is fighting stumps with a shovel.",
+      "Then the new shape gets cut, the border goes in, landscape fabric goes down and the mulch goes on in black, brown or red. Whatever comes out leaves in our trailer, so nothing sits at the curb waiting on the city or the township yard waste truck."
+    ],
+    "facts": [
+      { "label": "Typical work", "value": "Beds, borders, bush removal, grading" },
+      { "label": "Not offered", "value": "Patios, pavers and big tree work" },
+      { "label": "Debris", "value": "Hauled off in our trailer" },
+      { "label": "Estimate", "value": "Free, with Rob on site" }
+    ]
+  },
+  "photo": "kubota-trailer",
+  "faq": [
+    { "q": "Do you do landscaping in Davison, MI?", "a": "Yes. Grand Scapes does landscaping in the City of Davison and Davison Township: bed makeovers, block walls and natural edges, bush and small tree removal, new plants and mulch. Rob comes out for a free estimate and quotes the whole job." },
+    { "q": "Can you take out old bushes and a small tree?", "a": "Yes. Overgrown bushes and small trees come out roots and all, usually with a compact track loader, so the bed can start fresh. Taking down big trees is not something we do, and Rob will say so if your yard needs it." },
+    { "q": "Can you replace an old brick border?", "a": "Yes. Old brick edging comes out, and a gray block wall or a cut natural edge goes in. One of our Google reviews describes exactly that: the brick came out and a natural edge went in that still keeps the mulch from spilling into the lawn." },
+    { "q": "Does the soil around Davison matter for a new bed?", "a": "It does. The USDA soil survey maps much of the city on Conover loam and parts of Davison Township on Brookston loam, and both are slow to drain. We grade beds to shed water away from the house and keep mulch at the 2 to 3 inches MSU Extension calls enough." },
+    { "q": "What else goes with a landscape update?", "a": "Usually [mulch and bed upkeep](/mulch-installation-davison-mi/) and [shrub trimming](/shrub-trimming-davison-mi/) to keep the new beds sharp. If the lawn around them needs work, [weekly mowing in Davison](/lawn-mowing-davison-mi/) keeps the edges matching the beds." }
+  ],
+  "reviews": ["bob-s", "james-a"]
+}

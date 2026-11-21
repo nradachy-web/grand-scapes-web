@@ -1,0 +1,51 @@
+{
+  "city": "goodrich",
+  "meta": {
+    "title": "Lawn Care and Snow Removal in Goodrich, MI | Grand Scapes",
+    "description": "Grand Scapes mows, clears leaves, rebuilds beds and plows long drives in Goodrich, MI, from village lots near the Mill Pond to big lots in Atlas Township."
+  },
+  "hero": {
+    "kicker": "Lawn care, landscaping and snow removal in Goodrich, MI",
+    "title": "A small village, **big yards around it.**",
+    "lede": "Grand Scapes takes care of Goodrich yards: weekly mowing, spring and fall cleanups, bed makeovers and snow plowing. Village lots near downtown and big lots on gravel roads out in Atlas Township both get a walk through with Rob and a free estimate.",
+    "chips": ["Weekly mowing", "Leaves vacuumed and hauled", "Long drives plowed", "Free estimates"],
+    "photo": "tree-line-stripes"
+  },
+  "about": {
+    "eyebrow": "Yards in Goodrich",
+    "title": "The Mill Pond, rolling ground and **a lot of trees.**",
+    "body": [
+      "Goodrich is a village of about 2,000 people inside Atlas Township, a little over two square miles around a small downtown, with M-15 running through and the Mill Pond on Kearsley Creek. The village's own master plan names the pond, the creek, rolling hillsides, wetlands and mature trees as what gives the place its character.",
+      "Most of the houses are younger than the village. Census figures in that plan count about two of every three homes as built after 1980, much of it on former farmland, and residential land grew from 127 acres in 1990 to about 510 by 2020. The outlying lots are larger; the streets near downtown are older and tighter.",
+      "Past the village line, Atlas Township is mostly big lots, farms and woods. Its master plan counts 44.4 miles of gravel road and woodland on about 22 percent of the township, and a home without sewer needs at least two acres. That adds up to long drives, tree lines and plenty of leaves."
+    ],
+    "points": [
+      { "title": "Low ground near the water", "body": "Wetlands sit in the low areas around the Mill Pond and along the creeks, and the USDA maps muck soil in some low spots nearby. Lawns and beds there stay wet longer in spring, so heavy equipment waits for firm ground." },
+      { "title": "Rolling lots", "body": "Both the village and the township describe their land as rolling, with some steep spots. A slope changes how a lawn gets mowed, where the water runs off a bed and where a boulder wall makes sense." },
+      { "title": "Leaves, village or township", "body": "The village has curbside yard waste pickup on Tuesdays in season. In Atlas Township, leaf and yard waste pickup comes by subscription only, so a household that did not sign up needs another way to get rid of them." },
+      { "title": "Gravel roads and long drives", "body": "Township roads belong to the Genesee County Road Commission, which plows unpaved local roads near the bottom of its list. A cleared drive matters more when the road beyond it is slow to open." }
+    ],
+    "photo": "mower-stripes"
+  },
+  "logistics": {
+    "title": "How a Goodrich job runs.",
+    "body": [
+      "Call or text Rob at [(810) 990-3040](tel:+18109903040). He drives out, walks the property with you and quotes a price for what it needs. The village is about 20 minutes east of our shop on Embury Road in Grand Blanc.",
+      "Village yards are usually quick to get into. For a township lot, tell us about the gate, the dogs, the culvert at the road and any soft ground near a pond or creek. Clippings and debris go in our trailer and leave with us."
+    ],
+    "facts": [
+      { "label": "Village yard waste", "value": "Tuesdays, April to late November" },
+      { "label": "Township leaf pickup", "value": "Subscription only, April to November" },
+      { "label": "Burn permits", "value": "Atlas Township Fire Department" },
+      { "label": "Estimate", "value": "Free, Rob walks it with you" }
+    ]
+  },
+  "faq": [
+    { "q": "Do you do lawn care and snow removal in Goodrich, MI?", "a": "Yes. Grand Scapes works in the Village of Goodrich and around it in Atlas Township: [weekly mowing](/lawn-mowing-goodrich-mi/), [landscaping](/landscaping-goodrich-mi/), [mulch and beds](/mulch-installation-goodrich-mi/), [spring](/spring-cleanup-goodrich-mi/) and [fall cleanups](/leaf-removal-goodrich-mi/), and [snow removal](/snow-removal-goodrich-mi/). We are licensed and insured, and estimates are free." },
+    { "q": "Does Atlas Township pick up leaves?", "a": "Only by subscription. The township's page says Emterra picks up compost and yard waste weekly from April to November for residents who subscribe, with registration opening March 1 for a limited time. The village runs its own Tuesday yard waste pickup in season." },
+    { "q": "Can I burn leaves in Goodrich?", "a": "With a permit, and within its rules. The Atlas Township Fire Department's 2026 permit allows dry leaves and brush in daylight, piles no bigger than 6 feet across, wind no more than 10 mph and nothing within 50 feet of a building. Check the department's burning conditions before any fire, or have the leaves [hauled away](/leaf-removal-goodrich-mi/)." },
+    { "q": "Do you plow driveways on gravel roads near Goodrich?", "a": "Yes, with our own trucks. Rob walks the drive in the fall to find the edges, the culvert and the mailbox, then explains the residential snow removal and salting packages. Walks and steps can be shoveled and salted too." }
+  ],
+  "reviews": ["stacy", "james-a", "rick-b"],
+  "neighbors": ["grand-blanc", "ortonville", "davison", "clarkston"]
+}

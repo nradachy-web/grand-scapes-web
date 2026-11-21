@@ -1,0 +1,48 @@
+{
+  "service": "lawn-mowing",
+  "city": "holly",
+  "meta": {
+    "title": "Lawn Mowing in Holly, MI | Grand Scapes",
+    "description": "Weekly lawn mowing in Holly, MI by Grand Scapes: mowed, trimmed, edged and blown off, on sandy hills, lake lots and tight village yards alike."
+  },
+  "hero": {
+    "kicker": "Lawn mowing in Holly, MI",
+    "title": "Sandy ground likes it **tall.**",
+    "lede": "Grand Scapes mows Holly lawns every week: mowed, trimmed, edged along the walks and drive, and blown off, finished in clean stripes. On the sandy hills and lake lots around Holly, Rob talks mowing height with you before the first cut.",
+    "chips": ["Weekly visits", "Trimmed and edged", "Walks blown clean", "Village and township"],
+    "photo": "side-yard-stripes"
+  },
+  "local": {
+    "eyebrow": "Mowing in Holly",
+    "title": "Glacial ground mows **three different ways.**",
+    "intro": "Holly sits on glacial leftovers: sand and gravel under much of the township, loamy soil under the village, and wet muck at the lake and wetland edges. Each one mows differently. Sandy lawns brown out first in a dry stretch, low spots stay soft after rain, and the hills make a zero turn work for its stripes.",
+    "points": [
+      { "title": "Height that holds in a dry spell", "body": "MSU Extension recommends mowing Michigan lawns at 3.5 inches, which builds a bigger root system and helps grass ride out drought. On sand, which MSU notes holds less water than loam, that extra height can be the difference between green and straw by August." },
+      { "title": "Soft ground near the water", "body": "Lawns that run down to a lake or a wetland edge stay soft after a heavy rain. A wet strip gets lightened up or left for the next visit instead of rutted, because tire tracks in soft turf last longer than the rain did." },
+      { "title": "Hills and wooded edges", "body": "The township's plan puts Holly in southeast Michigan's hilly zone, and plenty of lots back up to woods or state land. Slopes get mowed where a mower can work safely, the tree line gets trimmed by hand, and sticks come off the lawn before the blade finds them." },
+      { "title": "Close quarters in the village", "body": "Village lots are tighter, with walks, curbs and alleys on more than one side. That is trimmer and edger work, and the clippings get blown back onto the grass instead of into the street or the neighbor's drive." }
+    ]
+  },
+  "logistics": {
+    "title": "A mowing week in Holly, start to finish.",
+    "body": [
+      "Mowing runs weekly through the growing season. Each visit the grass is cut, the edges along the drive, walks and curbs are trimmed and edged, and every hard surface is blown clean. The goal is plain: show up when expected, finish the edges, leave it tidy.",
+      "Lake lots, gated drives and dogs in the yard go on the notes at the first visit, so the crew knows how to get in and what to close behind them. If you spend part of the summer away, the lawn keeps getting cut without you there.",
+      "In fall the mowing keeps going until the grass quits growing, and the late cuts pick up leaves as they go. When the leaves come down faster than a mower can handle, a [fall cleanup](/leaf-removal-holly-mi/) takes over."
+    ],
+    "facts": [
+      { "label": "How often", "value": "Weekly, through the season" },
+      { "label": "Each visit", "value": "Mowed, trimmed, edged, blown off" },
+      { "label": "Height", "value": "Set with you at the first visit" },
+      { "label": "Estimate", "value": "Free, Rob looks at the lawn first" }
+    ]
+  },
+  "photo": "fall-mowing",
+  "faq": [
+    { "q": "Do you mow lawns in Holly, MI?", "a": "Yes. Grand Scapes mows lawns every week in the Village of Holly and out in Holly Township. Each visit includes mowing, trimming, edging along the hard edges and blowing off the drive and walks. Rob comes out first, looks at the lawn and gives you a price." },
+    { "q": "How high should I mow a lawn on sandy soil?", "a": "MSU Extension recommends 3.5 inches for Michigan lawns, and sandy ground is where that height pays off most. Sand holds less water than loam, so short grass on it browns quickly in July and August. Taller grass grows deeper roots and crowds out weeds." },
+    { "q": "When is the last mow of the year in Michigan?", "a": "There is no fixed date. Keep mowing until the grass stops growing, which shifts with the weather every fall. MSU turf specialists also say to mulch or remove the leaves before winter, because a leaf mat left on the lawn can smother it and invite snow mold." },
+    { "q": "Do you mow lake lots that slope down to the water?", "a": "Yes, with care. Steep pitches near a shoreline get mowed where a mower can work safely and trimmed by hand where it cannot. If the bottom of the lawn is still soft from rain, it waits for the next visit rather than getting torn up." }
+  ],
+  "reviews": ["stacy", "rick-b"]
+}

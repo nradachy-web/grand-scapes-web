@@ -1,0 +1,47 @@
+{
+  "service": "lawn-mowing",
+  "city": "goodrich",
+  "meta": {
+    "title": "Lawn Mowing in Goodrich, MI | Grand Scapes",
+    "description": "Weekly lawn mowing in Goodrich, MI from Grand Scapes: big township lots and village yards mowed, trimmed, edged and blown off, finished in clean stripes."
+  },
+  "hero": {
+    "kicker": "Lawn mowing in Goodrich, MI",
+    "title": "Big lawns, **long straight lines.**",
+    "lede": "Grand Scapes mows Goodrich lawns every week, from village yards near the Mill Pond to lots of two acres and more on Atlas Township roads. Mowed, trimmed, edged and blown off, with stripes you can see from the road.",
+    "chips": ["Weekly mowing", "Large lots", "Trim and edge", "Striped finish"],
+    "photo": "crosscut-lawn"
+  },
+  "local": {
+    "eyebrow": "Mowing in Goodrich",
+    "title": "Acres, slopes and **wet low spots.**",
+    "intro": "A Goodrich lawn is often bigger than it looks from the road. Atlas Township requires at least two acres for a home without sewer, and plenty of lots run back to a tree line or a pond. The ground rolls, and the low corners near the creeks stay soft after a rain.",
+    "points": [
+      { "title": "Big lawns, the right mower", "body": "On a two acre lot, a zero turn with a wide deck keeps the visit reasonable and the stripes straight. We pick a pattern that suits the shape of the yard and keep it running true from one week to the next." },
+      { "title": "Along the tree line", "body": "Atlas Township's master plan describes the land as gently rolling to hilly, with woods on about 22 percent of it. We trim along the tree line and around trunks and fence posts, so the edge of the woods looks finished too." },
+      { "title": "Wet spots by the water", "body": "The village plan places wetlands around the Mill Pond and along the creeks, and the USDA maps muck in some low ground nearby. We stay off the spots that would rut after rain and catch them on a drier pass." },
+      { "title": "Mow high, cut a third", "body": "MSU Extension's rule is to take no more than a third of the blade at once, with 2.5 to 3.5 inches right for most lawns. It matters most in May, when a big lawn can get away from you in a week." }
+    ]
+  },
+  "logistics": {
+    "title": "Weekly, on a set day, gate closed behind us.",
+    "body": [
+      "Goodrich lawns go on a weekly route with a set day. The trailer parks in the drive or along the road, and the mower goes to work while the trimmer and edger handle the walks, the beds and the mailbox post. Clippings get blown off the drive and the porch before we go.",
+      "Tell us about dogs, gates and kids' toys. One of our reviews mentions how careful the crew is not to let the dogs get out, and that is how every property gets treated. If a wet week moves the schedule, Rob sends a text."
+    ],
+    "facts": [
+      { "label": "Every visit", "value": "Mowed, trimmed, edged, blown off" },
+      { "label": "Township lots", "value": "Two acres and up without sewer" },
+      { "label": "Patterns", "value": "Straight, curved or crosshatch" },
+      { "label": "Estimate", "value": "Free, Rob sees the lawn first" }
+    ]
+  },
+  "photo": "truck-trailer",
+  "faq": [
+    { "q": "Do you mow lawns in Goodrich, MI?", "a": "Yes. Grand Scapes mows lawns weekly in the Village of Goodrich and in Atlas Township around it. Every visit is mowed, trimmed, edged and blown off. Rob comes out and gives you a free estimate for your lawn." },
+    { "q": "Can you mow a large lot in Atlas Township?", "a": "Yes. Big lawns are normal out here, since township lots without sewer start at two acres. One of our Google reviews is from a customer whose 7 1/2 acre lawn we have kept all year. We run zero turn mowers sized for big ground." },
+    { "q": "What height should I mow my lawn in Michigan?", "a": "MSU Extension recommends 2.5 to 3.5 inches for most lawns and taking no more than a third of the blade in one cut. We keep the deck in that range on Goodrich lawns and raise it when growth is fast." },
+    { "q": "Do you mow around ponds and wet areas?", "a": "Yes, carefully. Wetlands sit around the Mill Pond and along the creeks, and low ground near water stays soft after rain. We trim those edges by hand where a mower would rut and leave the wettest spots for a drier day." }
+  ],
+  "reviews": ["rick-b", "stacy"]
+}
